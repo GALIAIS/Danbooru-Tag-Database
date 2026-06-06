@@ -1,14 +1,18 @@
 project: GALIAIS Danbooru Tag Database
 repository: https://github.com/GALIAIS/Danbooru-Tag-Database.git
 components:
-  - name: Tags
-    slug: tags
-    file_format: po
-    filemask: po/tags/*/*.po
-    translation_base: po/tags/
-    note: One PO file per shard and locale. Context keys are tag:<tag>:primary and tag:<tag>:alias:<n>.
   - name: Taxonomy
     slug: taxonomy
     file_format: po
     filemask: po/taxonomy/*.po
     note: Context keys are taxonomy:<taxonomy_id>:label and taxonomy:<taxonomy_id>:description.
+  - name: Tags _symbols
+    slug: tags-symbols
+    file_format: po
+    filemask: po/tags/_symbols/*.po
+    note: Context keys are tag:<tag>:primary, tag:<tag>:primary:<n>, and tag:<tag>:alias:<n>.
+  - name: Tags a
+    slug: tags-a
+    file_format: po
+    filemask: po/tags/a/*.po
+    note: Repeat for 0-9 and a-z. Use tools/weblate_setup.py to create all tag components.

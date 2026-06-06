@@ -7,7 +7,7 @@ plain text files:
 
 - `data/tags/*.jsonl`: tag metadata, taxonomy assignment, safety flags, counts.
 - `data/taxonomy/taxonomy.jsonl`: taxonomy nodes and prompt selection metadata.
-- `po/tags/<locale>/*.po`: Weblate-managed tag translations.
+- `po/tags/<group>/<locale>.po`: Weblate-managed tag translations.
 - `po/taxonomy/<locale>.po`: Weblate-managed taxonomy labels and descriptions.
 
 Use `tools/danbooru_textdb.py` to export from SQLite, validate the text tree,

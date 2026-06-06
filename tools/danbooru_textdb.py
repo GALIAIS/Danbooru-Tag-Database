@@ -18,6 +18,7 @@ from typing import Iterable
 NOW = lambda: datetime.now(timezone.utc).isoformat(timespec="seconds")
 HEADER_RE = re.compile(r'^(msgctxt|msgid|msgstr)\s+"(.*)"$')
 SAFE_SHARD_RE = re.compile(r"[^a-z0-9_]+")
+TAG_PO_GROUPS = ["_symbols", *list("0123456789"), *list("abcdefghijklmnopqrstuvwxyz")]
 
 
 def normalize_label(value: str) -> str:
@@ -81,6 +82,14 @@ def shard_key(name: str, shard_len: int = 2) -> str:
     return safe[:shard_len].ljust(shard_len, "_") if safe else "_symbols"
 
 
+def tag_po_group_key(name: str) -> str:
+    normalized = normalize_name(name).replace(" ", "_")
+    if not normalized:
+        return "_symbols"
+    first = normalized[0]
+    return first if re.match(r"^[a-z0-9]$", first) else "_symbols"
+
+
 def clear_dir(path: Path) -> None:
     if path.exists():
         shutil.rmtree(path)
@@ -94,6 +103,17 @@ def remove_file(path: Path) -> None:
 
 def ensure_dir(path: Path) -> None:
     path.mkdir(parents=True, exist_ok=True)
+
+
+def remove_tag_po_locale(repo: Path, locale: str) -> None:
+    tags_dir = repo / "po" / "tags"
+    old_locale_dir = tags_dir / locale
+    if old_locale_dir.exists() and old_locale_dir.is_dir():
+        shutil.rmtree(old_locale_dir)
+    if not tags_dir.exists():
+        return
+    for path in tags_dir.glob(f"*/{locale}.po"):
+        remove_file(path)
 
 
 def connect_ro(path: Path) -> sqlite3.Connection:
@@ -283,7 +303,7 @@ def write_po_entry(handle, *, context: str, msgid: str, msgstr: str, comments: l
 
 
 def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, limit: int = 0) -> int:
-    clear_dir(repo / "po" / "tags" / locale)
+    remove_tag_po_locale(repo, locale)
     locs = localization_map(conn, locale, limit=limit)
     tag_sql = """
         select name, normalized_name, category, post_count, taxonomy_id, is_nsfw, safety_scope
@@ -299,16 +319,16 @@ def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, limit: int 
     count = 0
     try:
         for tag in rows(conn, tag_sql, params):
-            key = shard_key(tag["name"])
-            path = repo / "po" / "tags" / locale / f"{key}.po"
+            key = tag_po_group_key(tag["name"])
+            path = repo / "po" / "tags" / key / f"{locale}.po"
             if key not in handles:
                 ensure_dir(path.parent)
                 handle = path.open("w", encoding="utf-8", newline="\n")
-                write_po_header(handle, project="GALIAIS Danbooru tags", language=locale)
+                write_po_header(handle, project=f"GALIAIS Danbooru tags {key}", language=locale)
                 handles[key] = handle
             handle = handles[key]
             tag_locs = locs.get(tag["name"], [])
-            primary = next((loc for loc in tag_locs if loc.get("kind") == "primary"), None)
+            primaries = [loc for loc in tag_locs if loc.get("kind") == "primary"]
             aliases = [loc for loc in tag_locs if loc.get("kind") == "alias"]
             comments = [
                 f"danbooru-category: {tag.get('category')}",
@@ -322,10 +342,19 @@ def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, limit: int 
                 handle,
                 context=f"tag:{tag['name']}:primary",
                 msgid=tag["name"],
-                msgstr=primary.get("label", "") if primary else "",
+                msgstr=primaries[0].get("label", "") if primaries else "",
                 comments=comments,
             )
             count += 1
+            for index, primary in enumerate(primaries[1:], 2):
+                write_po_entry(
+                    handle,
+                    context=f"tag:{tag['name']}:primary:{index}",
+                    msgid=tag["name"],
+                    msgstr=primary.get("label", ""),
+                    comments=[f"extra-primary-of: {tag['name']}", f"source: {primary.get('source', '')}"],
+                )
+                count += 1
             for index, alias in enumerate(aliases, 1):
                 write_po_entry(
                     handle,
@@ -416,21 +445,53 @@ def parse_po(path: Path) -> list[PoEntry]:
 
 def collect_tag_translations(repo: Path) -> dict[tuple[str, str], list[tuple[str, str]]]:
     result: dict[tuple[str, str], list[tuple[str, str]]] = {}
-    for locale_dir in sorted((repo / "po" / "tags").glob("*")):
-        if not locale_dir.is_dir():
+    tags_dir = repo / "po" / "tags"
+    if not tags_dir.exists():
+        return result
+
+    # Current layout: po/tags/<group>/<locale>.po for Weblate components.
+    for group_dir in sorted(tags_dir.glob("*")):
+        if not group_dir.is_dir():
             continue
-        locale = locale_dir.name
+        for path in sorted(group_dir.glob("*.po")):
+            if path.stem in TAG_PO_GROUPS:
+                continue
+            collect_tag_po_file(result, path, path.stem)
+
+    # Legacy layout: po/tags/<locale>/<shard>.po, kept readable for old exports.
+    for locale_dir in sorted(tags_dir.glob("*")):
+        if not locale_dir.is_dir() or locale_dir.name in TAG_PO_GROUPS:
+            continue
         for path in sorted(locale_dir.glob("*.po")):
-            for entry in parse_po(path):
-                parts = entry.context.split(":")
-                if len(parts) < 3 or parts[0] != "tag":
-                    continue
-                tag_name = parts[1]
-                kind = parts[2]
-                if not entry.msgstr.strip():
-                    continue
-                result.setdefault((tag_name, locale), []).append((kind, entry.msgstr.strip()))
+            collect_tag_po_file(result, path, locale_dir.name)
     return result
+
+
+def collect_tag_po_file(result: dict[tuple[str, str], list[tuple[str, str]]], path: Path, locale: str) -> None:
+    for entry in parse_po(path):
+        parsed = parse_tag_context(entry.context)
+        if not parsed:
+            continue
+        tag_name, kind = parsed
+        if not entry.msgstr.strip():
+            continue
+        result.setdefault((tag_name, locale), []).append((kind, entry.msgstr.strip()))
+
+
+def parse_tag_context(context: str) -> tuple[str, str] | None:
+    if not context.startswith("tag:"):
+        return None
+    body = context[4:]
+    if body.endswith(":primary"):
+        tag_name = body[: -len(":primary")]
+        return (tag_name, "primary") if tag_name else None
+    primary_match = re.match(r"^(.*):primary:\d+$", body)
+    if primary_match and primary_match.group(1):
+        return primary_match.group(1), "primary"
+    alias_match = re.match(r"^(.*):alias:\d+$", body)
+    if alias_match and alias_match.group(1):
+        return alias_match.group(1), "alias"
+    return None
 
 
 def collect_taxonomy_translations(repo: Path) -> dict[tuple[str, str], dict[str, str]]:
