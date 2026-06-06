@@ -116,10 +116,12 @@ def remove_tag_po_locale(repo: Path, locale: str) -> None:
         remove_file(path)
 
 
-def remove_tag_po_templates(repo: Path) -> None:
+def remove_tag_po_source(repo: Path, locale: str) -> None:
     tags_dir = repo / "po" / "tags"
     if not tags_dir.exists():
         return
+    for path in tags_dir.glob(f"*/{locale}.po"):
+        remove_file(path)
     for path in tags_dir.glob("*/*.pot"):
         remove_file(path)
 
@@ -279,7 +281,7 @@ def localization_map(conn: sqlite3.Connection, locale: str, limit: int = 0) -> d
     return output
 
 
-def write_po_header(handle, *, project: str, language: str = "") -> None:
+def write_po_header(handle, *, project: str, language: str) -> None:
     now = NOW()
     header_lines = [
         'msgid ""',
@@ -357,9 +359,9 @@ def write_tag_po_record(
     return count
 
 
-def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, limit: int = 0) -> int:
+def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, source_locale: str = "en", limit: int = 0) -> int:
     remove_tag_po_locale(repo, locale)
-    remove_tag_po_templates(repo)
+    remove_tag_po_source(repo, source_locale)
     locs = localization_map(conn, locale, limit=limit)
     tag_sql = """
         select name, normalized_name, category, post_count, taxonomy_id, is_nsfw, safety_scope
@@ -372,32 +374,32 @@ def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, limit: int 
         params = (limit,)
 
     handles = {}
-    template_handles = {}
+    source_handles = {}
     count = 0
     try:
         for tag in rows(conn, tag_sql, params):
             key = tag_po_group_key(tag["name"])
             path = repo / "po" / "tags" / key / f"{locale}.po"
-            template_path = repo / "po" / "tags" / key / f"{key}.pot"
+            source_path = repo / "po" / "tags" / key / f"{source_locale}.po"
             if key not in handles:
                 ensure_dir(path.parent)
                 handle = path.open("w", encoding="utf-8", newline="\n")
                 write_po_header(handle, project=f"GALIAIS Danbooru tags {key}", language=locale)
                 handles[key] = handle
-                template_handle = template_path.open("w", encoding="utf-8", newline="\n")
-                write_po_header(template_handle, project=f"GALIAIS Danbooru tags {key}")
-                template_handles[key] = template_handle
+                source_handle = source_path.open("w", encoding="utf-8", newline="\n")
+                write_po_header(source_handle, project=f"GALIAIS Danbooru tags {key}", language=source_locale)
+                source_handles[key] = source_handle
             handle = handles[key]
-            template_handle = template_handles[key]
+            source_handle = source_handles[key]
             tag_locs = locs.get(tag["name"], [])
             primaries = [loc for loc in tag_locs if loc.get("kind") == "primary"]
             aliases = [loc for loc in tag_locs if loc.get("kind") == "alias"]
             count += write_tag_po_record(handle, tag=tag, primaries=primaries, aliases=aliases, translated=True)
-            write_tag_po_record(template_handle, tag=tag, primaries=primaries, aliases=aliases, translated=False)
+            write_tag_po_record(source_handle, tag=tag, primaries=primaries, aliases=aliases, translated=False)
     finally:
         for handle in handles.values():
             handle.close()
-        for handle in template_handles.values():
+        for handle in source_handles.values():
             handle.close()
     return count
 
@@ -427,19 +429,20 @@ def write_taxonomy_po_record(handle, *, row: dict, locale: str, translated: bool
     return count
 
 
-def export_taxonomy_po(conn: sqlite3.Connection, repo: Path, locale: str) -> int:
+def export_taxonomy_po(conn: sqlite3.Connection, repo: Path, locale: str, source_locale: str = "en") -> int:
     path = repo / "po" / "taxonomy" / f"{locale}.po"
-    template_path = repo / "po" / "taxonomy" / "taxonomy.pot"
+    source_path = repo / "po" / "taxonomy" / f"{source_locale}.po"
     remove_file(path)
-    remove_file(template_path)
+    remove_file(source_path)
+    remove_file(repo / "po" / "taxonomy" / "taxonomy.pot")
     ensure_dir(path.parent)
     count = 0
-    with path.open("w", encoding="utf-8", newline="\n") as handle, template_path.open("w", encoding="utf-8", newline="\n") as template_handle:
+    with path.open("w", encoding="utf-8", newline="\n") as handle, source_path.open("w", encoding="utf-8", newline="\n") as source_handle:
         write_po_header(handle, project="GALIAIS Danbooru taxonomy", language=locale)
-        write_po_header(template_handle, project="GALIAIS Danbooru taxonomy")
+        write_po_header(source_handle, project="GALIAIS Danbooru taxonomy", language=source_locale)
         for row in rows(conn, "select * from tag_taxonomy order by sort_order, id"):
             count += write_taxonomy_po_record(handle, row=row, locale=locale, translated=True)
-            write_taxonomy_po_record(template_handle, row=row, locale=locale, translated=False)
+            write_taxonomy_po_record(source_handle, row=row, locale=source_locale, translated=False)
     return count
 
 
@@ -495,7 +498,7 @@ def collect_tag_translations(repo: Path) -> dict[tuple[str, str], list[tuple[str
         if not group_dir.is_dir():
             continue
         for path in sorted(group_dir.glob("*.po")):
-            if path.stem in TAG_PO_GROUPS or path.suffix == ".pot":
+            if path.stem in TAG_PO_GROUPS or path.stem == "en":
                 continue
             collect_tag_po_file(result, path, path.stem)
 
@@ -541,7 +544,7 @@ def collect_taxonomy_translations(repo: Path) -> dict[tuple[str, str], dict[str,
     if not taxonomy_dir.exists():
         return result
     for path in sorted(taxonomy_dir.glob("*.po")):
-        if path.suffix == ".pot":
+        if path.stem == "en":
             continue
         locale = path.stem
         for entry in parse_po(path):

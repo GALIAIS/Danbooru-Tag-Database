@@ -104,14 +104,13 @@ def ensure_project(base_url: str, token: str, *, project_slug: str, project_name
             raise exc
 
 
-def component_payload(name: str, slug: str, filemask: str, *, repo: str, priority: int, template: str) -> dict[str, Any]:
+def component_payload(name: str, slug: str, filemask: str, *, repo: str, priority: int) -> dict[str, Any]:
     payload: dict[str, Any] = {
         "name": name,
         "slug": slug,
         "vcs": "git",
         "repo": repo,
         "filemask": filemask,
-        "template": template,
         "file_format": "po",
         "new_lang": "none",
         "language_code_style": "bcp",
@@ -166,7 +165,6 @@ def build_components(project_slug: str) -> list[dict[str, Any]]:
             "po/taxonomy/*.po",
             repo=REPOSITORY_URL,
             priority=60,
-            template="po/taxonomy/taxonomy.pot",
         ),
     ]
     linked_repo = f"weblate://{project_slug}/taxonomy"
@@ -179,7 +177,6 @@ def build_components(project_slug: str) -> list[dict[str, Any]]:
                 f"po/tags/{group}/*.po",
                 repo=linked_repo,
                 priority=100,
-                template=f"po/tags/{group}/{group}.pot",
             )
         )
     return components
@@ -210,7 +207,6 @@ def main(argv: list[str] | None = None) -> int:
                 "slug": component["slug"],
                 "name": component["name"],
                 "filemask": component["filemask"],
-                "template": component.get("template"),
             }
         )
         print(json.dumps(created[-1], ensure_ascii=False), flush=True)

@@ -14,7 +14,6 @@ Component 1: taxonomy translations
 - Repository URL: `https://github.com/GALIAIS/Danbooru-Tag-Database.git`
 - File format: Gettext PO file
 - File mask: `po/taxonomy/*.po`
-- Template for new translations: `po/taxonomy/taxonomy.pot`
 - Adding new translation: disabled unless template files are added later.
 
 Components 2-38: tag translations
@@ -26,10 +25,6 @@ Components 2-38: tag translations
   - `po/tags/_symbols/*.po`
   - `po/tags/0/*.po` through `po/tags/9/*.po`
   - `po/tags/a/*.po` through `po/tags/z/*.po`
-- Templates:
-  - `po/tags/_symbols/_symbols.pot`
-  - `po/tags/0/0.pot` through `po/tags/9/9.pot`
-  - `po/tags/a/a.pot` through `po/tags/z/z.pot`
 - Adding new translation: disabled unless template files are added later.
 
 Do not use one `po/tags/*/*.po` component. Weblate treats `*` as the language
@@ -54,6 +49,10 @@ needed to distinguish tags, aliases, taxonomy labels, and descriptions.
 Tag contexts can contain `:` inside the tag name. Tools parse contexts from the
 right side, so `tag:<tag>:primary`, `tag:<tag>:primary:<n>`, and
 `tag:<tag>:alias:<n>` are all safe for Danbooru tag names.
+
+For Weblate bilingual Gettext PO components, this repository stores `en.po` as
+the source-language file and `zh-CN.po` as the Chinese translation file. Do not
+configure a `.pot` template for these components.
 
 Do not edit SQLite databases in Weblate. Rebuild SQLite from this repository
 after translations or taxonomy files are changed.

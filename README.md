@@ -7,7 +7,7 @@ plain text files:
 
 - `data/tags/*.jsonl`: tag metadata, taxonomy assignment, safety flags, counts.
 - `data/taxonomy/taxonomy.jsonl`: taxonomy nodes and prompt selection metadata.
-- `po/**/*.pot`: Weblate source templates.
+- `po/**/en.po`: Weblate source-language PO files.
 - `po/tags/<group>/<locale>.po`: Weblate-managed tag translations.
 - `po/taxonomy/<locale>.po`: Weblate-managed taxonomy labels and descriptions.
 
