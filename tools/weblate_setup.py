@@ -16,8 +16,8 @@ from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 
-PROJECT_SLUG = "danbooru-tag-database"
-PROJECT_NAME = "GALIAIS Danbooru Tag Database"
+DEFAULT_PROJECT_SLUG = "danbooru-tag-database"
+DEFAULT_PROJECT_NAME = "GALIAIS Danbooru Tag Database"
 REPOSITORY_URL = "https://github.com/GALIAIS/Danbooru-Tag-Database.git"
 REPOSITORY_WEB = "https://github.com/GALIAIS/Danbooru-Tag-Database"
 REPOWEB = "https://github.com/GALIAIS/Danbooru-Tag-Database/blob/{{branch}}/{{filename}}#L{{line}}"
@@ -79,10 +79,10 @@ def api_request(
             time.sleep(2**attempt)
 
 
-def ensure_project(base_url: str, token: str) -> dict[str, Any]:
+def ensure_project(base_url: str, token: str, *, project_slug: str, project_name: str) -> dict[str, Any]:
     payload = {
-        "name": PROJECT_NAME,
-        "slug": PROJECT_SLUG,
+        "name": project_name,
+        "slug": project_slug,
         "web": REPOSITORY_WEB,
         "instructions": (
             "Danbooru tag and taxonomy translation database. Translate PO files in Weblate; "
@@ -99,7 +99,7 @@ def ensure_project(base_url: str, token: str) -> dict[str, Any]:
         if exc.status != 400:
             raise
         try:
-            return api_request(base_url, token, "GET", f"/api/projects/{PROJECT_SLUG}/")
+            return api_request(base_url, token, "GET", f"/api/projects/{project_slug}/")
         except ApiError:
             raise exc
 
@@ -133,32 +133,32 @@ def component_payload(name: str, slug: str, filemask: str, *, repo: str, priorit
     return payload
 
 
-def ensure_component(base_url: str, token: str, payload: dict[str, Any]) -> dict[str, Any]:
+def ensure_component(base_url: str, token: str, project_slug: str, payload: dict[str, Any]) -> dict[str, Any]:
     slug = payload["slug"]
     try:
-        return api_request(base_url, token, "POST", f"/api/projects/{PROJECT_SLUG}/components/", payload)
+        return api_request(base_url, token, "POST", f"/api/projects/{project_slug}/components/", payload)
     except ApiError as exc:
         if exc.status != 400:
             raise
         try:
-            existing = api_request(base_url, token, "GET", f"/api/components/{PROJECT_SLUG}/{slug}/")
+            existing = api_request(base_url, token, "GET", f"/api/components/{project_slug}/{slug}/")
         except ApiError:
             raise exc
         patch_payload = {key: value for key, value in payload.items() if key not in {"vcs", "repo", "branch"}}
-        return api_request(base_url, token, "PATCH", f"/api/components/{PROJECT_SLUG}/{slug}/", patch_payload) or existing
+        return api_request(base_url, token, "PATCH", f"/api/components/{project_slug}/{slug}/", patch_payload) or existing
 
 
-def repository_operation(base_url: str, token: str, component_slug: str, operation: str) -> Any:
+def repository_operation(base_url: str, token: str, project_slug: str, component_slug: str, operation: str) -> Any:
     return api_request(
         base_url,
         token,
         "POST",
-        f"/api/components/{PROJECT_SLUG}/{component_slug}/repository/",
+        f"/api/components/{project_slug}/{component_slug}/repository/",
         {"operation": operation},
     )
 
 
-def build_components() -> list[dict[str, Any]]:
+def build_components(project_slug: str) -> list[dict[str, Any]]:
     components = [
         component_payload(
             "Taxonomy",
@@ -169,7 +169,7 @@ def build_components() -> list[dict[str, Any]]:
             template="po/taxonomy/taxonomy.pot",
         ),
     ]
-    linked_repo = f"weblate://{PROJECT_SLUG}/taxonomy"
+    linked_repo = f"weblate://{project_slug}/taxonomy"
     for group in TAG_GROUPS:
         suffix = "symbols" if group == "_symbols" else group
         components.append(
@@ -190,19 +190,21 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--url", required=True, help="Weblate base URL, for example https://l10n.galiais.org")
     parser.add_argument("--token-file", help="Path to a Weblate API token file")
     parser.add_argument("--token", help="Weblate API token")
+    parser.add_argument("--project-slug", default=DEFAULT_PROJECT_SLUG, help="Weblate project slug")
+    parser.add_argument("--project-name", default=DEFAULT_PROJECT_NAME, help="Weblate project display name")
     parser.add_argument("--pull", action="store_true", help="Pull latest Git changes into the shared Weblate repository")
     parser.add_argument("--scan", action="store_true", help="Trigger Weblate file scan after component setup")
     args = parser.parse_args(argv)
 
     token = read_token(args)
-    project = ensure_project(args.url, token)
+    project = ensure_project(args.url, token, project_slug=args.project_slug, project_name=args.project_name)
     if args.pull:
-        repository_operation(args.url, token, "taxonomy", "pull")
+        repository_operation(args.url, token, args.project_slug, "taxonomy", "pull")
     created = []
-    for payload in build_components():
-        component = ensure_component(args.url, token, payload)
+    for payload in build_components(args.project_slug):
+        component = ensure_component(args.url, token, args.project_slug, payload)
         if args.scan:
-            repository_operation(args.url, token, component["slug"], "file-scan")
+            repository_operation(args.url, token, args.project_slug, component["slug"], "file-scan")
         created.append(
             {
                 "slug": component["slug"],
