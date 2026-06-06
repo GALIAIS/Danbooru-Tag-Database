@@ -45,7 +45,11 @@ def read_token(args: argparse.Namespace) -> str:
 def api_request(base_url: str, token: str, method: str, path: str, payload: dict[str, Any] | None = None) -> Any:
     url = base_url.rstrip("/") + path
     data = None if payload is None else json.dumps(payload).encode("utf-8")
-    headers = {"Accept": "application/json", "Authorization": f"Token {token}"}
+    headers = {
+        "Accept": "application/json",
+        "Authorization": f"Token {token}",
+        "User-Agent": "GALIAIS-Danbooru-Weblate-Setup/1.0",
+    }
     if data is not None:
         headers["Content-Type"] = "application/json"
     request = Request(url, data=data, headers=headers, method=method)
