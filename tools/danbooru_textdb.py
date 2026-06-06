@@ -116,6 +116,14 @@ def remove_tag_po_locale(repo: Path, locale: str) -> None:
         remove_file(path)
 
 
+def remove_tag_po_templates(repo: Path) -> None:
+    tags_dir = repo / "po" / "tags"
+    if not tags_dir.exists():
+        return
+    for path in tags_dir.glob("*/*.pot"):
+        remove_file(path)
+
+
 def connect_ro(path: Path) -> sqlite3.Connection:
     conn = sqlite3.connect(f"file:{path}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
@@ -271,7 +279,7 @@ def localization_map(conn: sqlite3.Connection, locale: str, limit: int = 0) -> d
     return output
 
 
-def write_po_header(handle, *, project: str, language: str) -> None:
+def write_po_header(handle, *, project: str, language: str = "") -> None:
     now = NOW()
     header_lines = [
         'msgid ""',
@@ -302,8 +310,56 @@ def write_po_entry(handle, *, context: str, msgid: str, msgstr: str, comments: l
     handle.write(f"msgstr {po_quote(msgstr)}\n")
 
 
+def write_tag_po_record(
+    handle,
+    *,
+    tag: dict,
+    primaries: list[dict] | None = None,
+    aliases: list[dict] | None = None,
+    translated: bool,
+) -> int:
+    primaries = primaries or []
+    aliases = aliases or []
+    comments = [
+        f"danbooru-category: {tag.get('category')}",
+        f"taxonomy-id: {tag.get('taxonomy_id') or ''}",
+        f"safety: {'nsfw' if tag.get('is_nsfw') else tag.get('safety_scope') or 'sfw'}",
+        f"post-count: {tag.get('post_count')}",
+    ]
+    if aliases:
+        comments.append("aliases: " + ", ".join(alias.get("label", "") for alias in aliases if alias.get("label")))
+    write_po_entry(
+        handle,
+        context=f"tag:{tag['name']}:primary",
+        msgid=tag["name"],
+        msgstr=primaries[0].get("label", "") if translated and primaries else "",
+        comments=comments,
+    )
+    count = 1
+    for index, primary in enumerate(primaries[1:], 2):
+        write_po_entry(
+            handle,
+            context=f"tag:{tag['name']}:primary:{index}",
+            msgid=tag["name"],
+            msgstr=primary.get("label", "") if translated else "",
+            comments=[f"extra-primary-of: {tag['name']}", f"source: {primary.get('source', '')}"],
+        )
+        count += 1
+    for index, alias in enumerate(aliases, 1):
+        write_po_entry(
+            handle,
+            context=f"tag:{tag['name']}:alias:{index}",
+            msgid=tag["name"],
+            msgstr=alias.get("label", "") if translated else "",
+            comments=[f"alias-of: {tag['name']}", f"source: {alias.get('source', '')}"],
+        )
+        count += 1
+    return count
+
+
 def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, limit: int = 0) -> int:
     remove_tag_po_locale(repo, locale)
+    remove_tag_po_templates(repo)
     locs = localization_map(conn, locale, limit=limit)
     tag_sql = """
         select name, normalized_name, category, post_count, taxonomy_id, is_nsfw, safety_scope
@@ -316,89 +372,74 @@ def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, limit: int 
         params = (limit,)
 
     handles = {}
+    template_handles = {}
     count = 0
     try:
         for tag in rows(conn, tag_sql, params):
             key = tag_po_group_key(tag["name"])
             path = repo / "po" / "tags" / key / f"{locale}.po"
+            template_path = repo / "po" / "tags" / key / f"{key}.pot"
             if key not in handles:
                 ensure_dir(path.parent)
                 handle = path.open("w", encoding="utf-8", newline="\n")
                 write_po_header(handle, project=f"GALIAIS Danbooru tags {key}", language=locale)
                 handles[key] = handle
+                template_handle = template_path.open("w", encoding="utf-8", newline="\n")
+                write_po_header(template_handle, project=f"GALIAIS Danbooru tags {key}")
+                template_handles[key] = template_handle
             handle = handles[key]
+            template_handle = template_handles[key]
             tag_locs = locs.get(tag["name"], [])
             primaries = [loc for loc in tag_locs if loc.get("kind") == "primary"]
             aliases = [loc for loc in tag_locs if loc.get("kind") == "alias"]
-            comments = [
-                f"danbooru-category: {tag.get('category')}",
-                f"taxonomy-id: {tag.get('taxonomy_id') or ''}",
-                f"safety: {'nsfw' if tag.get('is_nsfw') else tag.get('safety_scope') or 'sfw'}",
-                f"post-count: {tag.get('post_count')}",
-            ]
-            if aliases:
-                comments.append("aliases: " + ", ".join(alias.get("label", "") for alias in aliases if alias.get("label")))
-            write_po_entry(
-                handle,
-                context=f"tag:{tag['name']}:primary",
-                msgid=tag["name"],
-                msgstr=primaries[0].get("label", "") if primaries else "",
-                comments=comments,
-            )
-            count += 1
-            for index, primary in enumerate(primaries[1:], 2):
-                write_po_entry(
-                    handle,
-                    context=f"tag:{tag['name']}:primary:{index}",
-                    msgid=tag["name"],
-                    msgstr=primary.get("label", ""),
-                    comments=[f"extra-primary-of: {tag['name']}", f"source: {primary.get('source', '')}"],
-                )
-                count += 1
-            for index, alias in enumerate(aliases, 1):
-                write_po_entry(
-                    handle,
-                    context=f"tag:{tag['name']}:alias:{index}",
-                    msgid=tag["name"],
-                    msgstr=alias.get("label", ""),
-                    comments=[f"alias-of: {tag['name']}", f"source: {alias.get('source', '')}"],
-                )
-                count += 1
+            count += write_tag_po_record(handle, tag=tag, primaries=primaries, aliases=aliases, translated=True)
+            write_tag_po_record(template_handle, tag=tag, primaries=primaries, aliases=aliases, translated=False)
     finally:
         for handle in handles.values():
             handle.close()
+        for handle in template_handles.values():
+            handle.close()
+    return count
+
+
+def write_taxonomy_po_record(handle, *, row: dict, locale: str, translated: bool) -> int:
+    write_po_entry(
+        handle,
+        context=f"taxonomy:{row['id']}:label",
+        msgid=row.get("label_en") or row["id"],
+        msgstr=row.get("label_zh", "") if translated and locale.lower().startswith("zh") else "",
+        comments=[
+            f"id: {row['id']}",
+            f"path: {row['domain']}.{row['facet']}.{row['group_key']}.{row['leaf_key']}",
+            f"safety: {row['safety_scope']}",
+        ],
+    )
+    count = 1
+    if row.get("description"):
+        write_po_entry(
+            handle,
+            context=f"taxonomy:{row['id']}:description",
+            msgid=row["description"],
+            msgstr="",
+            comments=[f"id: {row['id']}"],
+        )
+        count += 1
     return count
 
 
 def export_taxonomy_po(conn: sqlite3.Connection, repo: Path, locale: str) -> int:
     path = repo / "po" / "taxonomy" / f"{locale}.po"
+    template_path = repo / "po" / "taxonomy" / "taxonomy.pot"
     remove_file(path)
+    remove_file(template_path)
     ensure_dir(path.parent)
     count = 0
-    with path.open("w", encoding="utf-8", newline="\n") as handle:
+    with path.open("w", encoding="utf-8", newline="\n") as handle, template_path.open("w", encoding="utf-8", newline="\n") as template_handle:
         write_po_header(handle, project="GALIAIS Danbooru taxonomy", language=locale)
+        write_po_header(template_handle, project="GALIAIS Danbooru taxonomy")
         for row in rows(conn, "select * from tag_taxonomy order by sort_order, id"):
-            write_po_entry(
-                handle,
-                context=f"taxonomy:{row['id']}:label",
-                msgid=row.get("label_en") or row["id"],
-                msgstr=row.get("label_zh", "") if locale.lower().startswith("zh") else "",
-                comments=[
-                    f"id: {row['id']}",
-                    f"path: {row['domain']}.{row['facet']}.{row['group_key']}.{row['leaf_key']}",
-                    f"safety: {row['safety_scope']}",
-                ],
-            )
-            count += 1
-            if row.get("description"):
-                write_po_entry(
-                    handle,
-                    context=f"taxonomy:{row['id']}:description",
-                    msgid=row["description"],
-                    msgstr="",
-                    comments=[f"id: {row['id']}"],
-                )
-                count += 1
+            count += write_taxonomy_po_record(handle, row=row, locale=locale, translated=True)
+            write_taxonomy_po_record(template_handle, row=row, locale=locale, translated=False)
     return count
 
 
@@ -454,7 +495,7 @@ def collect_tag_translations(repo: Path) -> dict[tuple[str, str], list[tuple[str
         if not group_dir.is_dir():
             continue
         for path in sorted(group_dir.glob("*.po")):
-            if path.stem in TAG_PO_GROUPS:
+            if path.stem in TAG_PO_GROUPS or path.suffix == ".pot":
                 continue
             collect_tag_po_file(result, path, path.stem)
 
@@ -500,6 +541,8 @@ def collect_taxonomy_translations(repo: Path) -> dict[tuple[str, str], dict[str,
     if not taxonomy_dir.exists():
         return result
     for path in sorted(taxonomy_dir.glob("*.po")):
+        if path.suffix == ".pot":
+            continue
         locale = path.stem
         for entry in parse_po(path):
             parts = entry.context.split(":")

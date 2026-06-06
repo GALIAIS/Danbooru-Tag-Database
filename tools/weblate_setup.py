@@ -87,13 +87,14 @@ def ensure_project(base_url: str, token: str) -> dict[str, Any]:
             raise exc
 
 
-def component_payload(name: str, slug: str, filemask: str, *, repo: str, priority: int) -> dict[str, Any]:
+def component_payload(name: str, slug: str, filemask: str, *, repo: str, priority: int, template: str) -> dict[str, Any]:
     payload: dict[str, Any] = {
         "name": name,
         "slug": slug,
         "vcs": "git",
         "repo": repo,
         "filemask": filemask,
+        "template": template,
         "file_format": "po",
         "new_lang": "none",
         "language_code_style": "bcp",
@@ -132,7 +133,14 @@ def ensure_component(base_url: str, token: str, payload: dict[str, Any]) -> dict
 
 def build_components() -> list[dict[str, Any]]:
     components = [
-        component_payload("Taxonomy", "taxonomy", "po/taxonomy/*.po", repo=REPOSITORY_URL, priority=60),
+        component_payload(
+            "Taxonomy",
+            "taxonomy",
+            "po/taxonomy/*.po",
+            repo=REPOSITORY_URL,
+            priority=60,
+            template="po/taxonomy/taxonomy.pot",
+        ),
     ]
     linked_repo = f"weblate://{PROJECT_SLUG}/taxonomy"
     for group in TAG_GROUPS:
@@ -144,6 +152,7 @@ def build_components() -> list[dict[str, Any]]:
                 f"po/tags/{group}/*.po",
                 repo=linked_repo,
                 priority=100,
+                template=f"po/tags/{group}/{group}.pot",
             )
         )
     return components

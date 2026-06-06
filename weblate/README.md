@@ -3,14 +3,23 @@
 Use these masks when creating Weblate components:
 
 ```text
-po/taxonomy/*.po
-po/tags/_symbols/*.po
-po/tags/0/*.po
+filemask: po/taxonomy/*.po
+template: po/taxonomy/taxonomy.pot
+
+filemask: po/tags/_symbols/*.po
+template: po/tags/_symbols/_symbols.pot
+
+filemask: po/tags/0/*.po
+template: po/tags/0/0.pot
 ...
-po/tags/9/*.po
-po/tags/a/*.po
+filemask: po/tags/9/*.po
+template: po/tags/9/9.pot
+
+filemask: po/tags/a/*.po
+template: po/tags/a/a.pot
 ...
-po/tags/z/*.po
+filemask: po/tags/z/*.po
+template: po/tags/z/z.pot
 ```
 
 Use `tools/weblate_setup.py` to create the project and all 38 components.

@@ -28,7 +28,7 @@ Required fields:
 
 Optional fields preserve classifier provenance and sync metadata.
 
-## `po/tags/<group>/<locale>.po`
+## `po/tags/<group>/<group>.pot` and `po/tags/<group>/<locale>.po`
 
 Tag PO files are grouped by the first normalized tag character:
 
@@ -38,7 +38,10 @@ Tag PO files are grouped by the first normalized tag character:
 
 This keeps Weblate to 37 tag components instead of one component per JSONL
 shard. A Weblate component file mask should look like `po/tags/a/*.po`; the
-`*` is the locale code.
+template should be `po/tags/a/a.pot`; the `*` is the locale code.
+
+The `.pot` file is the English source template. Locale `.po` files such as
+`zh-CN.po` hold translations.
 
 Each PO entry uses:
 
@@ -55,7 +58,7 @@ Aliases use `msgctxt` `tag:<tag_name>:alias:<index>`.
 Each line is one taxonomy node. The `id` field is the stable key referenced by
 tag records.
 
-## `po/taxonomy/<locale>.po`
+## `po/taxonomy/taxonomy.pot` and `po/taxonomy/<locale>.po`
 
 Taxonomy translations use context keys:
 
@@ -69,8 +72,8 @@ Taxonomy translations use context keys:
 Recommended components:
 
 - `tags-a` through `tags-z`, `tags-0` through `tags-9`, and `tags-symbols`:
-  file masks `po/tags/<group>/*.po`
-- `taxonomy`: file mask `po/taxonomy/*.po`
+  file masks `po/tags/<group>/*.po`, templates `po/tags/<group>/<group>.pot`
+- `taxonomy`: file mask `po/taxonomy/*.po`, template `po/taxonomy/taxonomy.pot`
 
 The source language is English-like tag text from Danbooru. For the initial
 repository, `zh-CN` can be imported as the first translated locale.

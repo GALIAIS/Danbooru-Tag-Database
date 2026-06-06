@@ -5,14 +5,17 @@ components:
     slug: taxonomy
     file_format: po
     filemask: po/taxonomy/*.po
+    template: po/taxonomy/taxonomy.pot
     note: Context keys are taxonomy:<taxonomy_id>:label and taxonomy:<taxonomy_id>:description.
   - name: Tags _symbols
     slug: tags-symbols
     file_format: po
     filemask: po/tags/_symbols/*.po
+    template: po/tags/_symbols/_symbols.pot
     note: Context keys are tag:<tag>:primary, tag:<tag>:primary:<n>, and tag:<tag>:alias:<n>.
   - name: Tags a
     slug: tags-a
     file_format: po
     filemask: po/tags/a/*.po
+    template: po/tags/a/a.pot
     note: Repeat for 0-9 and a-z. Use tools/weblate_setup.py to create all tag components.

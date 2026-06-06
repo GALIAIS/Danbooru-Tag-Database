@@ -14,6 +14,7 @@ Component 1: taxonomy translations
 - Repository URL: `https://github.com/GALIAIS/Danbooru-Tag-Database.git`
 - File format: Gettext PO file
 - File mask: `po/taxonomy/*.po`
+- Template for new translations: `po/taxonomy/taxonomy.pot`
 - Adding new translation: disabled unless template files are added later.
 
 Components 2-38: tag translations
@@ -25,6 +26,10 @@ Components 2-38: tag translations
   - `po/tags/_symbols/*.po`
   - `po/tags/0/*.po` through `po/tags/9/*.po`
   - `po/tags/a/*.po` through `po/tags/z/*.po`
+- Templates:
+  - `po/tags/_symbols/_symbols.pot`
+  - `po/tags/0/0.pot` through `po/tags/9/9.pot`
+  - `po/tags/a/a.pot` through `po/tags/z/z.pot`
 - Adding new translation: disabled unless template files are added later.
 
 Do not use one `po/tags/*/*.po` component. Weblate treats `*` as the language
