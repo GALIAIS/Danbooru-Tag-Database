@@ -4,9 +4,11 @@
 from __future__ import annotations
 
 import argparse
+import http.client
 import json
 import os
 import sys
+import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -42,7 +44,15 @@ def read_token(args: argparse.Namespace) -> str:
     raise SystemExit("missing token: pass --token-file, --token, or WEBLATE_TOKEN")
 
 
-def api_request(base_url: str, token: str, method: str, path: str, payload: dict[str, Any] | None = None) -> Any:
+def api_request(
+    base_url: str,
+    token: str,
+    method: str,
+    path: str,
+    payload: dict[str, Any] | None = None,
+    *,
+    retries: int = 4,
+) -> Any:
     url = base_url.rstrip("/") + path
     data = None if payload is None else json.dumps(payload).encode("utf-8")
     headers = {
@@ -52,14 +62,21 @@ def api_request(base_url: str, token: str, method: str, path: str, payload: dict
     }
     if data is not None:
         headers["Content-Type"] = "application/json"
-    request = Request(url, data=data, headers=headers, method=method)
-    try:
-        with urlopen(request, timeout=120) as response:
-            body = response.read().decode("utf-8")
-            return json.loads(body) if body else None
-    except HTTPError as exc:
-        body = exc.read().decode("utf-8", "replace")
-        raise ApiError(exc.code, body) from exc
+    for attempt in range(retries + 1):
+        request = Request(url, data=data, headers=headers, method=method)
+        try:
+            with urlopen(request, timeout=180) as response:
+                body = response.read().decode("utf-8")
+                return json.loads(body) if body else None
+        except HTTPError as exc:
+            body = exc.read().decode("utf-8", "replace")
+            if exc.code not in {429, 500, 502, 503, 504} or attempt >= retries:
+                raise ApiError(exc.code, body) from exc
+            time.sleep(2**attempt)
+        except (TimeoutError, ConnectionError, http.client.RemoteDisconnected, http.client.IncompleteRead) as exc:
+            if attempt >= retries:
+                raise RuntimeError(f"{method} {path} failed after retries: {exc}") from exc
+            time.sleep(2**attempt)
 
 
 def ensure_project(base_url: str, token: str) -> dict[str, Any]:
@@ -131,6 +148,16 @@ def ensure_component(base_url: str, token: str, payload: dict[str, Any]) -> dict
         return api_request(base_url, token, "PATCH", f"/api/components/{PROJECT_SLUG}/{slug}/", patch_payload) or existing
 
 
+def repository_operation(base_url: str, token: str, component_slug: str, operation: str) -> Any:
+    return api_request(
+        base_url,
+        token,
+        "POST",
+        f"/api/components/{PROJECT_SLUG}/{component_slug}/repository/",
+        {"operation": operation},
+    )
+
+
 def build_components() -> list[dict[str, Any]]:
     components = [
         component_payload(
@@ -163,14 +190,27 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--url", required=True, help="Weblate base URL, for example https://l10n.galiais.org")
     parser.add_argument("--token-file", help="Path to a Weblate API token file")
     parser.add_argument("--token", help="Weblate API token")
+    parser.add_argument("--pull", action="store_true", help="Pull latest Git changes into the shared Weblate repository")
+    parser.add_argument("--scan", action="store_true", help="Trigger Weblate file scan after component setup")
     args = parser.parse_args(argv)
 
     token = read_token(args)
     project = ensure_project(args.url, token)
+    if args.pull:
+        repository_operation(args.url, token, "taxonomy", "pull")
     created = []
     for payload in build_components():
         component = ensure_component(args.url, token, payload)
-        created.append({"slug": component["slug"], "name": component["name"], "filemask": component["filemask"]})
+        if args.scan:
+            repository_operation(args.url, token, component["slug"], "file-scan")
+        created.append(
+            {
+                "slug": component["slug"],
+                "name": component["name"],
+                "filemask": component["filemask"],
+                "template": component.get("template"),
+            }
+        )
         print(json.dumps(created[-1], ensure_ascii=False), flush=True)
 
     print(json.dumps({"project": project["slug"], "components": len(created)}, ensure_ascii=False, indent=2))
