@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:6o:primary"
+msgid "6o"
+msgstr "6o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+#. aliases: rokumaruni
+msgctxt "tag:6o2_(rokumaruni):primary"
+msgid "6o2_(rokumaruni)"
+msgstr "6o2"
+
+#. alias-of: 6o2_(rokumaruni)
+#. source: ai
+msgctxt "tag:6o2_(rokumaruni):alias:1"
+msgid "6o2_(rokumaruni)"
+msgstr "rokumaruni"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:6o6chitpos:primary"
+msgid "6o6chitpos"
+msgstr "6o6chitpos"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:6ori:primary"
+msgid "6ori"
+msgstr "6ori"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:6ougdmizkw30143:primary"
+msgid "6ougdmizkw30143"
+msgstr "6ougdmizkw30143"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:6owall:primary"
+msgid "6owall"
+msgstr "6owall"

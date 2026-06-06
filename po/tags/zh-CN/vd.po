@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:48+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:48+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vd.c/v_dimension.creator:primary"
+msgid "vd.c/v_dimension.creator"
+msgstr "VD.C/V Dimension Creator"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vd3dr:primary"
+msgid "vd3dr"
+msgstr "VD3DR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vd_llism:primary"
+msgid "vd_llism"
+msgstr "VDllism"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vde_m_(nobodysbabynow1):primary"
+msgid "vde_m_(nobodysbabynow1)"
+msgstr "VDE_M"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vdia_anon:primary"
+msgid "vdia_anon"
+msgstr "VDIA匿名用户"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vdk600:primary"
+msgid "vdk600"
+msgstr "vdk600"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vdkingdom:primary"
+msgid "vdkingdom"
+msgstr "VD Kingdom"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vdkslavrs:primary"
+msgid "vdkslavrs"
+msgstr "VDKSlavRS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:vdmaler:primary"
+msgid "vdmaler"
+msgstr "VDMaler"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vdoder:primary"
+msgid "vdoder"
+msgstr "vdoder"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vdohnoveter:primary"
+msgid "vdohnoveter"
+msgstr "vdohnoveter"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vtuber_agency
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vdol_archive!:primary"
+msgid "vdol_archive!"
+msgstr "VDOL Archive!"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 169
+#. aliases: 盖饭
+msgctxt "tag:vdonburi:primary"
+msgid "vdonburi"
+msgstr "VDonburi"
+
+#. alias-of: vdonburi
+#. source: ai
+msgctxt "tag:vdonburi:alias:1"
+msgid "vdonburi"
+msgstr "盖饭"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vdpuzf3wpdupfgr:primary"
+msgid "vdpuzf3wpdupfgr"
+msgstr "vdpuzf3wpdupfgr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vdrawstuff:primary"
+msgid "vdrawstuff"
+msgstr "VDrawStuff"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vdreams:primary"
+msgid "vdreams"
+msgstr "vdreams"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vdt:primary"
+msgid "vdt"
+msgstr "VDT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vduck:primary"
+msgid "vduck"
+msgstr "VDuck"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vduck_jiyo:primary"
+msgid "vduck_jiyo"
+msgstr "Vduck Jiyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vduelist1:primary"
+msgid "vduelist1"
+msgstr "vduelist1"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 83
+msgctxt "tag:vdv:primary"
+msgid "vdv"
+msgstr "VDV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vdvega:primary"
+msgid "vdvega"
+msgstr "vdvega"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vdyuknb:primary"
+msgid "vdyuknb"
+msgstr "vdyuknb"

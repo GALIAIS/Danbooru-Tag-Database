@@ -1,0 +1,606 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:50+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:50+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:yr:primary"
+msgid "yr"
+msgstr "YR"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yr-302_fregata:primary"
+msgid "yr-302_fregata"
+msgstr "YR-302 护卫舰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yr-731:primary"
+msgid "yr-731"
+msgstr "yr-731"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 4
+msgctxt "tag:yr-99_forneus:primary"
+msgid "yr-99_forneus"
+msgstr "YR-99 Forneus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:yr001sb:primary"
+msgid "yr001sb"
+msgstr "yr001sb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yr07s5d:primary"
+msgid "yr07s5d"
+msgstr "yr07s5d"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:yr0_gg:primary"
+msgid "yr0_gg"
+msgstr "yr0_gg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yr460:primary"
+msgid "yr460"
+msgstr "yr460"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yr76:primary"
+msgid "yr76"
+msgstr "yr76"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:yr_(jwuly):primary"
+msgid "yr_(jwuly)"
+msgstr "YR（jwuly）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yr_(pukiyuri):primary"
+msgid "yr_(pukiyuri)"
+msgstr "yr(pukeyuri)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yr_(zzooly):primary"
+msgid "yr_(zzooly)"
+msgstr "yr (zzooly)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yr_ps:primary"
+msgid "yr_ps"
+msgstr "YR_PS"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:yr_santoria_(vikpie):primary"
+msgid "yr_santoria_(vikpie)"
+msgstr "YR Santoria（Vikpie）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yr_simin:primary"
+msgid "yr_simin"
+msgstr "YR西敏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:yr_uroy:primary"
+msgid "yr_uroy"
+msgstr "yr_uroy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:yra:primary"
+msgid "yra"
+msgstr "YRA"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yra_(inoaart):primary"
+msgid "yra_(inoaart)"
+msgstr "Yra (inoaart)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:yrac:primary"
+msgid "yrac"
+msgstr "yrac"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yrainy:primary"
+msgid "yrainy"
+msgstr "Yrainy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yralan_lithewynn:primary"
+msgid "yralan_lithewynn"
+msgstr "yralan_lithewynn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrantrian:primary"
+msgid "yrantrian"
+msgstr "Yrantrian"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrapkn:primary"
+msgid "yrapkn"
+msgstr "Yrapkn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yraylyer:primary"
+msgid "yraylyer"
+msgstr "yraylyer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:yrdd:primary"
+msgid "yrdd"
+msgstr "yrdd"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:yrel:primary"
+msgid "yrel"
+msgstr "尤雷尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:yren_(untitledexpression):primary"
+msgid "yren_(untitledexpression)"
+msgstr "Yren（无名表情）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:yrfemme:primary"
+msgid "yrfemme"
+msgstr "YRFemme"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrg:primary"
+msgid "yrg"
+msgstr "YRG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrgfb69:primary"
+msgid "yrgfb69"
+msgstr "yrgfb69"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrgm_wo:primary"
+msgid "yrgm_wo"
+msgstr "YRGM Wo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yri_ll:primary"
+msgid "yri_ll"
+msgstr "Yri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrimirue:primary"
+msgid "yrimirue"
+msgstr "Yrimirue"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrk:primary"
+msgid "yrk"
+msgstr "yrk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:yrk_ev:primary"
+msgid "yrk_ev"
+msgstr "YRK EV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yrkhn:primary"
+msgid "yrkhn"
+msgstr "yrkhn"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yrliet_lanaevyss:primary"
+msgid "yrliet_lanaevyss"
+msgstr "Yrliet Lanaevyss"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrloge:primary"
+msgid "yrloge"
+msgstr "Yrloge"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yrm_zzz:primary"
+msgid "yrm_zzz"
+msgstr "yrm_zzz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:yrn_c2o:primary"
+msgid "yrn_c2o"
+msgstr "yrn_c2o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:yrnkenn:primary"
+msgid "yrnkenn"
+msgstr "Yrnkenn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yrnx1q:primary"
+msgid "yrnx1q"
+msgstr "yrnx1q"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yro09il:primary"
+msgid "yro09il"
+msgstr "yro09il"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yro1ir:primary"
+msgid "yro1ir"
+msgstr "Yro1ir"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:yro_(ayanoyro):primary"
+msgid "yro_(ayanoyro)"
+msgstr "YRO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yrolustre:primary"
+msgid "yrolustre"
+msgstr "yrolustre"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yron_nsfw:primary"
+msgid "yron_nsfw"
+msgstr "Yron NSFW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:yrouumkinnoaw:primary"
+msgid "yrouumkinnoaw"
+msgstr "未知标签"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrp_igh:primary"
+msgid "yrp_igh"
+msgstr "伊格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrr:primary"
+msgid "yrr"
+msgstr "YRR"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrsa:primary"
+msgid "yrsa"
+msgstr "Yrsa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrsa_(wizardry):primary"
+msgid "yrsa_(wizardry)"
+msgstr "尤尔萨"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:yrsinrbkrikd:primary"
+msgid "yrsinrbkrikd"
+msgstr "yrsinrbkrikd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:yrsk:primary"
+msgid "yrsk"
+msgstr "YRSK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:yrsknish:primary"
+msgid "yrsknish"
+msgstr "yrsknish"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrsni44444:primary"
+msgid "yrsni44444"
+msgstr "Yrsni44444"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrsuth:primary"
+msgid "yrsuth"
+msgstr "Yrsuth"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrtm_34221:primary"
+msgid "yrtm_34221"
+msgstr "yrtm_34221"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.footwear
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yru_strawberry_boots:primary"
+msgid "yru_strawberry_boots"
+msgstr "草莓靴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrul:primary"
+msgid "yrul"
+msgstr "yrul"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:yrur_sindoi:primary"
+msgid "yrur_sindoi"
+msgstr "Yrur Sindoi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yruslex:primary"
+msgid "yruslex"
+msgstr "Yruslex"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrwk_3150:primary"
+msgid "yrwk_3150"
+msgstr "yrwk_3150"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 98
+msgctxt "tag:yrxy_settingsun:primary"
+msgid "yrxy_settingsun"
+msgstr "yrxy_settingsun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrym15oroti:primary"
+msgid "yrym15oroti"
+msgstr "Yrym15oroti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:yryr8h:primary"
+msgid "yryr8h"
+msgstr "yryr8h"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yryr_4u:primary"
+msgid "yryr_4u"
+msgstr "yryr_4u"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:yryraka:primary"
+msgid "yryraka"
+msgstr "yryraka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:yryrblog:primary"
+msgid "yryrblog"
+msgstr "yryrblog"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yryuri0808:primary"
+msgid "yryuri0808"
+msgstr "yryuri0808"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:yrz_oou:primary"
+msgid "yrz_oou"
+msgstr "月光蝶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrzd_s:primary"
+msgid "yrzd_s"
+msgstr "yrzd_s"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yrzizk:primary"
+msgid "yrzizk"
+msgstr "yrzizk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yrzk_08k:primary"
+msgid "yrzk_08k"
+msgstr "yrzk_08k"

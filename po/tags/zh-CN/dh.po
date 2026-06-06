@@ -1,0 +1,1462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:23+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:23+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 211
+#. aliases: DH区
+msgctxt "tag:dh-zone:primary"
+msgid "dh-zone"
+msgstr "DH区域"
+
+#. alias-of: dh-zone
+#. source: ai
+msgctxt "tag:dh-zone:alias:1"
+msgid "dh-zone"
+msgstr "DH区"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dh.jiang:primary"
+msgid "dh.jiang"
+msgstr "dh江"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dh01e_ak:primary"
+msgid "dh01e_ak"
+msgstr "DH01E AK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dh53:primary"
+msgid "dh53"
+msgstr "dh53"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dh5q47kcxh:primary"
+msgid "dh5q47kcxh"
+msgstr "dh5q47kcxh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dh8934846363699:primary"
+msgid "dh8934846363699"
+msgstr "DH8934846363699"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dh_(14537547):primary"
+msgid "dh_(14537547)"
+msgstr "dh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dh_(booom38):primary"
+msgid "dh_(booom38)"
+msgstr "dh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 62
+msgctxt "tag:dh_(brink_of_memories):primary"
+msgid "dh_(brink_of_memories)"
+msgstr "DH"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dh_(xuxiaoxxd):primary"
+msgid "dh_(xuxiaoxxd)"
+msgstr "DH (xuxiaoxxd)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dh_1000:primary"
+msgid "dh_1000"
+msgstr "DH-1000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dh_2604:primary"
+msgid "dh_2604"
+msgstr "dh_2604"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dh_666:primary"
+msgid "dh_666"
+msgstr "dh_666"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dh_772658:primary"
+msgid "dh_772658"
+msgstr "DH_772658"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dh_88_comet:primary"
+msgid "dh_88_comet"
+msgstr "DH-88彗星号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dh_ahn:primary"
+msgid "dh_ahn"
+msgstr "dh_ahn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:dh_ead:primary"
+msgid "dh_ead"
+msgstr "DH EAD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:dh_jiangjiang:primary"
+msgid "dh_jiangjiang"
+msgstr "dh_jiangjiang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:dh_t23:primary"
+msgid "dh_t23"
+msgstr "DH-T23"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:dh_vxt:primary"
+msgid "dh_vxt"
+msgstr "dh_vxt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 249
+msgctxt "tag:dha:primary"
+msgid "dha"
+msgstr "达"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:dha315:primary"
+msgid "dha315"
+msgstr "DHA315"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhaa8832:primary"
+msgid "dhaa8832"
+msgstr "dhaa8832"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhaafhsi:primary"
+msgid "dhaafhsi"
+msgstr "dhaafhsi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhabih_eng:primary"
+msgid "dhabih_eng"
+msgstr "Dhabih Eng"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.rendering.render_style
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhabih_eng_(style):primary"
+msgid "dhabih_eng_(style)"
+msgstr "达比希风格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhaeur:primary"
+msgid "dhaeur"
+msgstr "达赫尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:dhahfdlq_rhkxkz:primary"
+msgid "dhahfdlq_rhkxkz"
+msgstr "dhahfdlq_rhkxkz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhaia:primary"
+msgid "dhaia"
+msgstr "dhaia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhaitoryo:primary"
+msgid "dhaitoryo"
+msgstr "大统领"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:dhalifa_(wuthering_waves):primary"
+msgid "dhalifa_(wuthering_waves)"
+msgstr "Dhalifa（鸣潮）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 266
+#. aliases: Dhalsim
+msgctxt "tag:dhalsim:primary"
+msgid "dhalsim"
+msgstr "达尔西姆"
+
+#. alias-of: dhalsim
+#. source: ai
+msgctxt "tag:dhalsim:alias:1"
+msgid "dhalsim"
+msgstr "Dhalsim"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:dhalsim_(cosplay):primary"
+msgid "dhalsim_(cosplay)"
+msgstr "达尔西姆（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:dhalsk:primary"
+msgid "dhalsk"
+msgstr "Dhalsk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:dhamca:primary"
+msgid "dhamca"
+msgstr "Dhamca"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhampir_(lord_of_vermilion):primary"
+msgid "dhampir_(lord_of_vermilion)"
+msgstr "半吸血鬼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 半血族
+msgctxt "tag:dhampir_(moe_moe_vampire_jiten):primary"
+msgid "dhampir_(moe_moe_vampire_jiten)"
+msgstr "半吸血鬼"
+
+#. alias-of: dhampir_(moe_moe_vampire_jiten)
+#. source: ai
+msgctxt "tag:dhampir_(moe_moe_vampire_jiten):alias:1"
+msgid "dhampir_(moe_moe_vampire_jiten)"
+msgstr "半血族"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:dhampir_(monster_girl_encyclopedia):primary"
+msgid "dhampir_(monster_girl_encyclopedia)"
+msgstr "半吸血鬼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Sheridan
+msgctxt "tag:dhampir_vampire_sheridan:primary"
+msgid "dhampir_vampire_sheridan"
+msgstr "半吸血鬼Sheridan"
+
+#. alias-of: dhampir_vampire_sheridan
+#. source: ai
+msgctxt "tag:dhampir_vampire_sheridan:alias:1"
+msgid "dhampir_vampire_sheridan"
+msgstr "Sheridan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhamram:primary"
+msgid "dhamram"
+msgstr "DHAMRAM"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:dhana_opini:primary"
+msgid "dhana_opini"
+msgstr "Dhana Opini"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhanfayodaru:primary"
+msgid "dhanfayodaru"
+msgstr "dhanfayodaru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhani_kun:primary"
+msgid "dhani_kun"
+msgstr "Dhani Kun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:dhanisani:primary"
+msgid "dhanisani"
+msgstr "dhanisani"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:dhaniya:primary"
+msgid "dhaniya"
+msgstr "Dhaniya"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:dhaos_(tales):primary"
+msgid "dhaos_(tales)"
+msgstr "达奥斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhaos_(tales)_(cosplay):primary"
+msgid "dhaos_(tales)_(cosplay)"
+msgstr "达奥斯（传说系列）（角色扮演）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dhar_(indivisible):primary"
+msgid "dhar_(indivisible)"
+msgstr "Dhar（Indivisible）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhara_(dasurio):primary"
+msgid "dhara_(dasurio)"
+msgstr "德拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:dharc_(yu-gi-oh!):primary"
+msgid "dharc_(yu-gi-oh!)"
+msgstr "暗黑魔术师"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:dharc_the_dark_charmer:primary"
+msgid "dharc_the_dark_charmer"
+msgstr "暗夜魅影"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 暗属性怪兽
+msgctxt "tag:dharc_the_dark_charmer_gloomy:primary"
+msgid "dharc_the_dark_charmer_gloomy"
+msgstr "暗冥术师"
+
+#. alias-of: dharc_the_dark_charmer_gloomy
+#. source: ai
+msgctxt "tag:dharc_the_dark_charmer_gloomy:alias:1"
+msgid "dharc_the_dark_charmer_gloomy"
+msgstr "暗属性怪兽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dharilya:primary"
+msgid "dharilya"
+msgstr "dharilya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dharkend:primary"
+msgid "dharkend"
+msgstr "dharkend"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:dharkon:primary"
+msgid "dharkon"
+msgstr "达卡恩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dharla_(smuggoat):primary"
+msgid "dharla_(smuggoat)"
+msgstr "Dharla"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dharlith:primary"
+msgid "dharlith"
+msgstr "dharlith"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 法眼法师
+msgctxt "tag:dharma-eye_magician:primary"
+msgid "dharma-eye_magician"
+msgstr "法眼魔法师"
+
+#. alias-of: dharma-eye_magician
+#. source: ai
+msgctxt "tag:dharma-eye_magician:alias:1"
+msgid "dharma-eye_magician"
+msgstr "法眼法师"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dharma_(pixiv_fantasia_age_of_starlight):primary"
+msgid "dharma_(pixiv_fantasia_age_of_starlight)"
+msgstr "达摩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dharma_cannon:primary"
+msgid "dharma_cannon"
+msgstr "达摩炮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dharma_egg:primary"
+msgid "dharma_egg"
+msgstr "达摩蛋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dharma_initiative_(israel-6001):primary"
+msgid "dharma_initiative_(israel-6001)"
+msgstr "达摩计划"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dharma_priest_(dq9):primary"
+msgid "dharma_priest_(dq9)"
+msgstr "达摩僧"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dharo_(animeflux):primary"
+msgid "dharo_(animeflux)"
+msgstr "Dharo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dharu0314:primary"
+msgid "dharu0314"
+msgstr "Dharu0314"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:dharu_riser:primary"
+msgid "dharu_riser"
+msgstr "Dharu Riser"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dharu_riser_(character):primary"
+msgid "dharu_riser_(character)"
+msgstr "达鲁·雷瑟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:dhashinn:primary"
+msgid "dhashinn"
+msgstr "大日如来"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhatzacr:primary"
+msgid "dhatzacr"
+msgstr "Dhatzacr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhawyt:primary"
+msgid "dhawyt"
+msgstr "Dhawyt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhbdybsgwn:primary"
+msgid "dhbdybsgwn"
+msgstr "dhbdybsgwn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 184
+msgctxt "tag:dhbwinner:primary"
+msgid "dhbwinner"
+msgstr "获胜者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhdarkheretic:primary"
+msgid "dhdarkheretic"
+msgstr "Dark Heretic"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhdnthdn10:primary"
+msgid "dhdnthdn10"
+msgstr "DHDNTHDN10"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhedei:primary"
+msgid "dhedei"
+msgstr "dhedei"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhee_(renlunae):primary"
+msgid "dhee_(renlunae)"
+msgstr "迪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dheejay91:primary"
+msgid "dheejay91"
+msgstr "dheejay91"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dheif89:primary"
+msgid "dheif89"
+msgstr "dheif89"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 175
+msgctxt "tag:dhelmise:primary"
+msgid "dhelmise"
+msgstr "破破舵轮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhelmise_(cosplay):primary"
+msgid "dhelmise_(cosplay)"
+msgstr "破破舵轮角色扮演"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 破破舵轮
+msgctxt "tag:dhelmise_(marine):primary"
+msgid "dhelmise_(marine)"
+msgstr "破破舵轮"
+
+#. alias-of: dhelmise_(marine)
+#. source: ai
+msgctxt "tag:dhelmise_(marine):alias:1"
+msgid "dhelmise_(marine)"
+msgstr "破破舵轮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dheraq:primary"
+msgid "dheraq"
+msgstr "dheraq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:dherekim:primary"
+msgid "dherekim"
+msgstr "Dherekim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhesomix:primary"
+msgid "dhesomix"
+msgstr "Dhesomix"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhfan:primary"
+msgid "dhfan"
+msgstr "dhfan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 125
+msgctxt "tag:dhfz181:primary"
+msgid "dhfz181"
+msgstr "dhfz181"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhgmf_529:primary"
+msgid "dhgmf_529"
+msgstr "dhgmf_529"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhgurvkdnj:primary"
+msgid "dhgurvkdnj"
+msgstr "dhgurvkdnj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhhan:primary"
+msgid "dhhan"
+msgstr "Dhhan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhiabeibi:primary"
+msgid "dhiabeibi"
+msgstr "Dhiabeibi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhiaru:primary"
+msgid "dhiaru"
+msgstr "Dhiaru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 139
+msgctxt "tag:dhiea:primary"
+msgid "dhiea"
+msgstr "Dhiea"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:dhiea_seville_(pause):primary"
+msgid "dhiea_seville_(pause)"
+msgstr "Dhiea Seville"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhik_art:primary"
+msgid "dhik_art"
+msgstr "Dhik Art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhilipsomesh:primary"
+msgid "dhilipsomesh"
+msgstr "dhilipsomesh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dhim:primary"
+msgid "dhim"
+msgstr "dhim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhimas_agung_samudro_prakoso:primary"
+msgid "dhimas_agung_samudro_prakoso"
+msgstr "迪马斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhimasat:primary"
+msgid "dhimasat"
+msgstr "dhimasat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhimetoro:primary"
+msgid "dhimetoro"
+msgstr "dhimetoro"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhino:primary"
+msgid "dhino"
+msgstr "dhino"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhinyan:primary"
+msgid "dhinyan"
+msgstr "迪尼扬"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:dhiparizky:primary"
+msgid "dhiparizky"
+msgstr "Dhiparizky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhiran:primary"
+msgid "dhiran"
+msgstr "迪兰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:dhirufix:primary"
+msgid "dhirufix"
+msgstr "DhiruFix"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhiruk:primary"
+msgid "dhiruk"
+msgstr "Dhiruk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:dhisuki:primary"
+msgid "dhisuki"
+msgstr "大好き"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhjdsjjsfhhdhshdhsh:primary"
+msgid "dhjdsjjsfhhdhshdhsh"
+msgstr "dhjdsjjsfhhdhshdhsh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhjfs999:primary"
+msgid "dhjfs999"
+msgstr "dhjfs999"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:dhjs_0010:primary"
+msgid "dhjs_0010"
+msgstr "DHJS_0010"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:dhk117:primary"
+msgid "dhk117"
+msgstr "dhk117"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:dhkdldpa:primary"
+msgid "dhkdldpa"
+msgstr "dhkdldpa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dhkqpt:primary"
+msgid "dhkqpt"
+msgstr "dhkqpt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhktkql23:primary"
+msgid "dhktkql23"
+msgstr "dhktkql23"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:dhktlq:primary"
+msgid "dhktlq"
+msgstr "dhktlq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:dhkzm:primary"
+msgid "dhkzm"
+msgstr "Dhkzm"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:dhl:primary"
+msgid "dhl"
+msgstr "DHL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhl0679:primary"
+msgid "dhl0679"
+msgstr "dhl0679"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:dhlrhkrwnals:primary"
+msgid "dhlrhkrwnals"
+msgstr "dhlrhkrwnals"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhlrwutokki:primary"
+msgid "dhlrwutokki"
+msgstr "dhlrwutokki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhm25_rolls:primary"
+msgid "dhm25_rolls"
+msgstr "DHM25 Rolls"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhm_14105:primary"
+msgid "dhm_14105"
+msgstr "DHM 14105"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhmee:primary"
+msgid "dhmee"
+msgstr "dhmee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhmo_is_h2o:primary"
+msgid "dhmo_is_h2o"
+msgstr "二氢一氧"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhmoldon:primary"
+msgid "dhmoldon"
+msgstr "dhmoldon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dhnk7852:primary"
+msgid "dhnk7852"
+msgstr "dhnk7852"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhnsfw:primary"
+msgid "dhnsfw"
+msgstr "DHNSFW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 135
+msgctxt "tag:dhokidoki:primary"
+msgid "dhokidoki"
+msgstr "dhokidoki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dholaki_(psyren):primary"
+msgid "dholaki_(psyren)"
+msgstr "多拉基（PSYREN）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 30
+#. aliases: 亚洲豺犬
+msgctxt "tag:dhole:primary"
+msgid "dhole"
+msgstr "豺"
+
+#. alias-of: dhole
+#. source: ai
+msgctxt "tag:dhole:alias:1"
+msgid "dhole"
+msgstr "亚洲豺犬"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1407
+msgctxt "tag:dhole_(kemono_friends):primary"
+msgid "dhole_(kemono_friends)"
+msgstr "豺"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dhole_(kemono_friends)_(cosplay):primary"
+msgid "dhole_(kemono_friends)_(cosplay)"
+msgstr "豺（动物朋友）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:dhole_(old_design)_(kemono_friends):primary"
+msgid "dhole_(old_design)_(kemono_friends)"
+msgstr "豺（旧设定）（动物朋友）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dhole_(toranoana):primary"
+msgid "dhole_(toranoana)"
+msgstr "Dhole（Toranoana）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dholewolf:primary"
+msgid "dholewolf"
+msgstr "豺狼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:dhominic25:primary"
+msgid "dhominic25"
+msgstr "dhominic25"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:dhomochevsky:primary"
+msgid "dhomochevsky"
+msgstr "德姆切夫斯基"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhon_cholecha:primary"
+msgid "dhon_cholecha"
+msgstr "Dhon Cholecha"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhon_cholecha_(folk_tale):primary"
+msgid "dhon_cholecha_(folk_tale)"
+msgstr "Dhon Cholecha（民间传说）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.traditional_wear
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhoti:primary"
+msgid "dhoti"
+msgstr "达蒂"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dhoulmagus:primary"
+msgid "dhoulmagus"
+msgstr "达豪马古斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhow028:primary"
+msgid "dhow028"
+msgstr "dhow028"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhqla66:primary"
+msgid "dhqla66"
+msgstr "dhqla66"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhrh123456:primary"
+msgid "dhrh123456"
+msgstr "dhrh123456"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:dhrmawk159:primary"
+msgid "dhrmawk159"
+msgstr "dhrmawk159"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhrmwn20:primary"
+msgid "dhrmwn20"
+msgstr "DHRMWN20"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhrtarastra:primary"
+msgid "dhrtarastra"
+msgstr "持国天"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dhrtarastra_(ark_order):primary"
+msgid "dhrtarastra_(ark_order)"
+msgstr "持国天（方舟神令）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dhrudghks98:primary"
+msgid "dhrudghks98"
+msgstr "dhrudghks98"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:dhruv_lakdawalla:primary"
+msgid "dhruv_lakdawalla"
+msgstr "Dhruv Lakdawalla"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhs:primary"
+msgid "dhs"
+msgstr "DHS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhs_de_tongren_shouxinji:primary"
+msgid "dhs_de_tongren_shouxinji"
+msgstr "DHS的同人手记"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:dhsauce:primary"
+msgid "dhsauce"
+msgstr "Dh Sauce"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:dhsl:primary"
+msgid "dhsl"
+msgstr "DHSL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhtamtam:primary"
+msgid "dhtamtam"
+msgstr "dhtamtam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhu-rain:primary"
+msgid "dhu-rain"
+msgstr "dhu-rain"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhuhu21:primary"
+msgid "dhuhu21"
+msgstr "dhuhu21"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dhujsi:primary"
+msgid "dhujsi"
+msgstr "Dhujsi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dhumi:primary"
+msgid "dhumi"
+msgstr "dhumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:dhuno_g:primary"
+msgid "dhuno_g"
+msgstr "DHuNo G"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhurahan_atirkan:primary"
+msgid "dhurahan_atirkan"
+msgstr "图拉罕·阿提尔坎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhurain:primary"
+msgid "dhurain"
+msgstr "Dhurain"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhuran:primary"
+msgid "dhuran"
+msgstr "杜兰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dhuran_(dq6):primary"
+msgid "dhuran_(dq6)"
+msgstr "杜兰（DQ6）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:dhurke_sahdmadhi:primary"
+msgid "dhurke_sahdmadhi"
+msgstr "德克·萨赫玛迪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhurke_sahdmadhi_(cosplay):primary"
+msgid "dhurke_sahdmadhi_(cosplay)"
+msgstr "德克·萨德玛迪（角色扮演）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhutchison:primary"
+msgid "dhutchison"
+msgstr "dhutchison"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:dhuten:primary"
+msgid "dhuten"
+msgstr "dhuten"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dhuwjdjfo:primary"
+msgid "dhuwjdjfo"
+msgstr "dhuwjdjfo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhvaja:primary"
+msgid "dhvaja"
+msgstr "法幢"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhwallamm147:primary"
+msgid "dhwallamm147"
+msgstr "德瓦拉姆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dhxxhl:primary"
+msgid "dhxxhl"
+msgstr "dhxxhl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:dhy-232:primary"
+msgid "dhy-232"
+msgstr "dhy-232"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.hand_gesture
+#. safety: sfw
+#. post-count: 69
+msgctxt "tag:dhyana_mudra:primary"
+msgid "dhyana_mudra"
+msgstr "禅定印"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dhzltmvv:primary"
+msgid "dhzltmvv"
+msgstr "dhzltmvv"

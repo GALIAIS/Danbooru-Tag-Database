@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:35-77:primary"
+msgid "35-77"
+msgstr "35-77"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:35-miya-7375:primary"
+msgid "35-miya-7375"
+msgstr "35-Miya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 35-shi
+msgctxt "tag:35-shi_(2chan):primary"
+msgid "35-shi_(2chan)"
+msgstr "35-shi (2chan)"
+
+#. alias-of: 35-shi_(2chan)
+#. source: ai
+msgctxt "tag:35-shi_(2chan):alias:1"
+msgid "35-shi_(2chan)"
+msgstr "35-shi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:35.6cm_twin_gun_mount_(dazzle_camouflage):primary"
+msgid "35.6cm_twin_gun_mount_(dazzle_camouflage)"
+msgstr "35.6厘米双联装炮座（迷彩）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:35.6cm_twin_gun_mount_fairy:primary"
+msgid "35.6cm_twin_gun_mount_fairy"
+msgstr "35.6厘米连装炮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:35000permonth:primary"
+msgid "35000permonth"
+msgstr "每月三万五千"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3510index:primary"
+msgid "3510index"
+msgstr "3510index"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:3510mico:primary"
+msgid "3510mico"
+msgstr "3510mico"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:352:primary"
+msgid "352"
+msgstr "352"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:3520a076:primary"
+msgid "3520a076"
+msgstr "3520a076"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3521122:primary"
+msgid "3521122"
+msgstr "3521122"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:352127232:primary"
+msgid "352127232"
+msgstr "352127232"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:352623:primary"
+msgid "352623"
+msgstr "352623"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:35358901mrs:primary"
+msgid "35358901mrs"
+msgstr "35358901mrs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:3535mb:primary"
+msgid "3535mb"
+msgstr "3535mb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:3543045829:primary"
+msgid "3543045829"
+msgstr "3543045829"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:3545666979:primary"
+msgid "3545666979"
+msgstr "Pixiv ID 3545666979"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:35503550:primary"
+msgid "35503550"
+msgstr "35503550"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3562puhctek:primary"
+msgid "3562puhctek"
+msgstr "3562puhctek"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:3567days:primary"
+msgid "3567days"
+msgstr "3567天"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:35684187031:primary"
+msgid "35684187031"
+msgstr "35684187031"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:356migoro:primary"
+msgid "356migoro"
+msgstr "356migoro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:3577m:primary"
+msgid "3577m"
+msgstr "3577m"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:3582y:primary"
+msgid "3582y"
+msgstr "3582y"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:3583367063_xd:primary"
+msgid "3583367063_xd"
+msgstr "3583367063_xd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:3584109288:primary"
+msgid "3584109288"
+msgstr "3584109288"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:3584mha:primary"
+msgid "3584mha"
+msgstr "3584mha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:358_dymitre:primary"
+msgid "358_dymitre"
+msgstr "Dymitre"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:358_emblem:primary"
+msgid "358_emblem"
+msgstr "358徽章"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:359-1059:primary"
+msgid "359-1059"
+msgstr "359-1059"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3594hekisui:primary"
+msgid "3594hekisui"
+msgstr "3594hekisui"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3594koumeinowana:primary"
+msgid "3594koumeinowana"
+msgstr "3594koumeinowana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:359_oekaki:primary"
+msgid "359_oekaki"
+msgstr "359涂鸦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:359yuyu:primary"
+msgid "359yuyu"
+msgstr "359yuyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:35_(sansansanko):primary"
+msgid "35_(sansansanko)"
+msgstr "35（三三三子）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:35_7_9:primary"
+msgid "35_7_9"
+msgstr "35/7/9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:35_neul:primary"
+msgid "35_neul"
+msgstr "35 Neul"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:35_samo:primary"
+msgid "35_samo"
+msgstr "35Samo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:35jkk:primary"
+msgid "35jkk"
+msgstr "35jkk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:35kawaiiprpr:primary"
+msgid "35kawaiiprpr"
+msgstr "35kawaiiprpr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:35kokkou:primary"
+msgid "35kokkou"
+msgstr "35kokkou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:35mg_(gabelkreuz):primary"
+msgid "35mg_(gabelkreuz)"
+msgstr "35mg (gabelkreuz)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:35mmaf:primary"
+msgid "35mmaf"
+msgstr "35mmaf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:35nisiki_hebi94:primary"
+msgid "35nisiki_hebi94"
+msgstr "35nisiki_hebi94"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:35ohama_yu:primary"
+msgid "35ohama_yu"
+msgstr "35ohama_yu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:35oku_vs:primary"
+msgid "35oku_vs"
+msgstr "35亿VS"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1279
+#. aliases: 樱花美子
+msgctxt "tag:35p_(sakura_miko):primary"
+msgid "35p_(sakura_miko)"
+msgstr "樱花美子35页"
+
+#. alias-of: 35p_(sakura_miko)
+#. source: ai
+msgctxt "tag:35p_(sakura_miko):alias:1"
+msgid "35p_(sakura_miko)"
+msgstr "樱花美子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:35p_(sakura_miko)_(cosplay):primary"
+msgid "35p_(sakura_miko)_(cosplay)"
+msgstr "35P（樱巫女）Cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:35p_com:primary"
+msgid "35p_com"
+msgstr "35p.com"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.relationship
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:35th_marine_brigade:primary"
+msgid "35th_marine_brigade"
+msgstr "第35海军陆战旅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:35yado:primary"
+msgid "35yado"
+msgstr "三十五夜堂"

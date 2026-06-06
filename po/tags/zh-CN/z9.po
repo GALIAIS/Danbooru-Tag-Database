@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:50+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:50+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:z90i20l54lu02st:primary"
+msgid "z90i20l54lu02st"
+msgstr "Z90I20L54LU02ST"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:z9220nk8:primary"
+msgid "z9220nk8"
+msgstr "Z9220NK8"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:z965429663:primary"
+msgid "z965429663"
+msgstr "z965429663"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 44
+#. aliases: 碧蓝航线Z9
+msgctxt "tag:z9_(azur_lane):primary"
+msgid "z9_(azur_lane)"
+msgstr "z9"
+
+#. alias-of: z9_(azur_lane)
+#. source: ai
+msgctxt "tag:z9_(azur_lane):alias:1"
+msgid "z9_(azur_lane)"
+msgstr "碧蓝航线Z9"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z9_(azur_lane)_(cosplay):primary"
+msgid "z9_(azur_lane)_(cosplay)"
+msgstr "Z9（碧蓝航线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:z9_(teary_cocktail)_(azur_lane):primary"
+msgid "z9_(teary_cocktail)_(azur_lane)"
+msgstr "Z9（Teary Cocktail）（碧蓝航线）"

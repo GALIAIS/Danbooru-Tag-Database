@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:39+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:39+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 28
+msgctxt "tag:qb:primary"
+msgid "qb"
+msgstr "QB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qb0bp:primary"
+msgid "qb0bp"
+msgstr "qb0bp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:qb13_mono:primary"
+msgid "qb13_mono"
+msgstr "qb13_mono"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qb5thn:primary"
+msgid "qb5thn"
+msgstr "qb5thn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:qb_(drawingsomething2015):primary"
+msgid "qb_(drawingsomething2015)"
+msgstr "QB (Drawingsomething2015)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:qb_(qb46311027):primary"
+msgid "qb_(qb46311027)"
+msgstr "QB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qb_00o:primary"
+msgid "qb_00o"
+msgstr "qb_00o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:qb_0211:primary"
+msgid "qb_0211"
+msgstr "QB_0211"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:qb_516:primary"
+msgid "qb_516"
+msgstr "QB_516"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qb_96:primary"
+msgid "qb_96"
+msgstr "QB 96"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: QB
+msgctxt "tag:qb_mofufu:primary"
+msgid "qb_mofufu"
+msgstr "QB毛绒绒"
+
+#. alias-of: qb_mofufu
+#. source: ai
+msgctxt "tag:qb_mofufu:alias:1"
+msgid "qb_mofufu"
+msgstr "QB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qb_smith:primary"
+msgid "qb_smith"
+msgstr "qb_smith"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qba-221:primary"
+msgid "qba-221"
+msgstr "qba-221"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qbaby:primary"
+msgid "qbaby"
+msgstr "QBaby"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qbam:primary"
+msgid "qbam"
+msgstr "qbam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qbanmissile:primary"
+msgid "qbanmissile"
+msgstr "qbanmissile"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:qbara_qbara:primary"
+msgid "qbara_qbara"
+msgstr "Qbara Qbara"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: Qbara
+msgctxt "tag:qbara_qbara_(cosplay):primary"
+msgid "qbara_qbara_(cosplay)"
+msgstr "Qbara Qbara Cosplay"
+
+#. alias-of: qbara_qbara_(cosplay)
+#. source: ai
+msgctxt "tag:qbara_qbara_(cosplay):alias:1"
+msgid "qbara_qbara_(cosplay)"
+msgstr "Qbara"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:qbase:primary"
+msgid "qbase"
+msgstr "Q版"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qbaysan:primary"
+msgid "qbaysan"
+msgstr "Qbaysan"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qbb_95_lsw:primary"
+msgid "qbb_95_lsw"
+msgstr "QBB-95轻机枪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:qbby:primary"
+msgid "qbby"
+msgstr "QBby"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qbcubed:primary"
+msgid "qbcubed"
+msgstr "qbcubed"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qbei_c:primary"
+msgid "qbei_c"
+msgstr "qbei_c"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:qbird449:primary"
+msgid "qbird449"
+msgstr "qbird449"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:qbittorrent:primary"
+msgid "qbittorrent"
+msgstr "qBittorrent"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qbjo_rock:primary"
+msgid "qbjo_rock"
+msgstr "qbjo_rock"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 271
+#. aliases: Q刀片
+msgctxt "tag:qblade:primary"
+msgid "qblade"
+msgstr "Q刃"
+
+#. alias-of: qblade
+#. source: ai
+msgctxt "tag:qblade:alias:1"
+msgid "qblade"
+msgstr "Q刀片"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qbnian:primary"
+msgid "qbnian"
+msgstr "qbnian"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qbox:primary"
+msgid "qbox"
+msgstr "qbox"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qbpfvb:primary"
+msgid "qbpfvb"
+msgstr "qbpfvb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 85
+msgctxt "tag:qbspdl:primary"
+msgid "qbspdl"
+msgstr "Qbspdl"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qbu-10:primary"
+msgid "qbu-10"
+msgstr "QBU-10"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:qbu-191:primary"
+msgid "qbu-191"
+msgstr "QBU-191"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:qbu-191_(a_song_composed_for_you)_(girls'_frontline):primary"
+msgid "qbu-191_(a_song_composed_for_you)_(girls'_frontline)"
+msgstr "QBU-191"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:qbu-191_(girls'_frontline):primary"
+msgid "qbu-191_(girls'_frontline)"
+msgstr "QBU-191"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qbu-202:primary"
+msgid "qbu-202"
+msgstr "QBU-202"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 71
+msgctxt "tag:qbu-88:primary"
+msgid "qbu-88"
+msgstr "QB-88"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:qbu-88_(candy_mugger!)_(girls'_frontline):primary"
+msgid "qbu-88_(candy_mugger!)_(girls'_frontline)"
+msgstr "QBU-88"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qbu-88_(dance_of_the_trumpet_vine)_(girls'_frontline):primary"
+msgid "qbu-88_(dance_of_the_trumpet_vine)_(girls'_frontline)"
+msgstr "QBU-88（喇叭花之舞）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qbu-88_(explorer_of_the_wild)_(girls'_frontline):primary"
+msgid "qbu-88_(explorer_of_the_wild)_(girls'_frontline)"
+msgstr "QBU-88（荒野探险）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 105
+msgctxt "tag:qbu-88_(girls'_frontline):primary"
+msgid "qbu-88_(girls'_frontline)"
+msgstr "QBU-88"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:qbu-88_(morning_au_lait)_(girls'_frontline):primary"
+msgid "qbu-88_(morning_au_lait)_(girls'_frontline)"
+msgstr "QBU-88 (少女前线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:qbu-88_(panda's_miraculous_voyage)_(girls'_frontline):primary"
+msgid "qbu-88_(panda's_miraculous_voyage)_(girls'_frontline)"
+msgstr "QBU-88（熊猫之奇妙航旅）（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:qbyyad:primary"
+msgid "qbyyad"
+msgstr "Qbyyad"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:qbz-03:primary"
+msgid "qbz-03"
+msgstr "QBZ-03"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 89
+msgctxt "tag:qbz-191:primary"
+msgid "qbz-191"
+msgstr "QBZ-191"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 138
+#. aliases: 191
+msgctxt "tag:qbz-191_(girls'_frontline):primary"
+msgid "qbz-191_(girls'_frontline)"
+msgstr "QBZ-191"
+
+#. alias-of: qbz-191_(girls'_frontline)
+#. source: ai
+msgctxt "tag:qbz-191_(girls'_frontline):alias:1"
+msgid "qbz-191_(girls'_frontline)"
+msgstr "191"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:qbz-191_(haze_in_the_mountains)_(girls'_frontline):primary"
+msgid "qbz-191_(haze_in_the_mountains)_(girls'_frontline)"
+msgstr "QBZ-191(山间薄雾)(少女前线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:qbz-191_(lone_pine_walker)_(girls'_frontline):primary"
+msgid "qbz-191_(lone_pine_walker)_(girls'_frontline)"
+msgstr "QBZ-191(孤松行者)(少女前线)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:qbz-192:primary"
+msgid "qbz-192"
+msgstr "QBZ-192步枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 262
+#. aliases: 95式, QBZ-95
+msgctxt "tag:qbz-95:primary"
+msgid "qbz-95"
+msgstr "95式步枪"
+
+#. alias-of: qbz-95
+#. source: ai
+msgctxt "tag:qbz-95:alias:1"
+msgid "qbz-95"
+msgstr "95式"
+
+#. alias-of: qbz-95
+#. source: ai
+msgctxt "tag:qbz-95:alias:2"
+msgid "qbz-95"
+msgstr "QBZ-95"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:qbz-95_(jarv):primary"
+msgid "qbz-95_(jarv)"
+msgstr "QBZ-95"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 95式
+msgctxt "tag:qbz-95_(upotte!!):primary"
+msgid "qbz-95_(upotte!!)"
+msgstr "QBZ-95"
+
+#. alias-of: qbz-95_(upotte!!)
+#. source: ai
+msgctxt "tag:qbz-95_(upotte!!):alias:1"
+msgid "qbz-95_(upotte!!)"
+msgstr "95式"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:qbz-95b:primary"
+msgid "qbz-95b"
+msgstr "QBZ-95B步枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 94
+#. aliases: 97式步枪
+msgctxt "tag:qbz-97:primary"
+msgid "qbz-97"
+msgstr "97式自动步枪"
+
+#. alias-of: qbz-97
+#. source: ai
+msgctxt "tag:qbz-97:alias:1"
+msgid "qbz-97"
+msgstr "97式步枪"

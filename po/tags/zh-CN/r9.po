@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:39+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:39+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:r92_ibiza:primary"
+msgid "r92_ibiza"
+msgstr "r92_ibiza"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 86
+msgctxt "tag:r93_(girls'_frontline):primary"
+msgid "r93_(girls'_frontline)"
+msgstr "R93"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:r93_(holiday_lucky_star)_(girls'_frontline):primary"
+msgid "r93_(holiday_lucky_star)_(girls'_frontline)"
+msgstr "R93（假日幸运星）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:r93_(wisteria_minstrel)_(girls'_frontline):primary"
+msgid "r93_(wisteria_minstrel)_(girls'_frontline)"
+msgstr "R93（紫藤吟游）（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+#. aliases: aikwryosuke
+msgctxt "tag:r94_(aikwryosuke):primary"
+msgid "r94_(aikwryosuke)"
+msgstr "r94"
+
+#. alias-of: r94_(aikwryosuke)
+#. source: ai
+msgctxt "tag:r94_(aikwryosuke):alias:1"
+msgid "r94_(aikwryosuke)"
+msgstr "aikwryosuke"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:r96black:primary"
+msgid "r96black"
+msgstr "R96 Black"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:r9_arms_(gun):primary"
+msgid "r9_arms_(gun)"
+msgstr "R9武装枪械臂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:r9_p5p:primary"
+msgid "r9_p5p"
+msgstr "r9_p5p"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:r9b25527:primary"
+msgid "r9b25527"
+msgstr "R9B25527"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:r9ckst6r:primary"
+msgid "r9ckst6r"
+msgstr "R9ckst6r"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:r9exx:primary"
+msgid "r9exx"
+msgstr "R9exx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:r9k1:primary"
+msgid "r9k1"
+msgstr "R9K1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:r9leo2:primary"
+msgid "r9leo2"
+msgstr "r9leo2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:r9nr9:primary"
+msgid "r9nr9"
+msgstr "r9nr9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:r9rpd:primary"
+msgid "r9rpd"
+msgstr "R9RPD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:r9z:primary"
+msgid "r9z"
+msgstr "r9z"

@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:5p00kybunny:primary"
+msgid "5p00kybunny"
+msgstr "5p00kybunny"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:5p_(opi_32):primary"
+msgid "5p_(opi_32)"
+msgstr "5p (opi_32)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:5p_(xkzhfnzk):primary"
+msgid "5p_(xkzhfnzk)"
+msgstr "5p_(xkzhfnzk)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:5p_final:primary"
+msgid "5p_final"
+msgstr "5P最终形态"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 73
+msgctxt "tag:5pb.:primary"
+msgid "5pb."
+msgstr "5pb."
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:5pb_(neptunia):primary"
+msgid "5pb_(neptunia)"
+msgstr "5pb"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:5pb_(neptunia)_(cosplay):primary"
+msgid "5pb_(neptunia)_(cosplay)"
+msgstr "5pb.（海王星）角色扮演"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:5petyopetyo:primary"
+msgid "5petyopetyo"
+msgstr "5petyopetyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: 5pieces格斗
+msgctxt "tag:5pieces_fighting:primary"
+msgid "5pieces_fighting"
+msgstr "5pieces_fighting"
+
+#. alias-of: 5pieces_fighting
+#. source: ai
+msgctxt "tag:5pieces_fighting:alias:1"
+msgid "5pieces_fighting"
+msgstr "5pieces格斗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:5plus:primary"
+msgid "5plus"
+msgstr "5plus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:5plus5:primary"
+msgid "5plus5"
+msgstr "5plus5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:5pupn:primary"
+msgid "5pupn"
+msgstr "5pupn"

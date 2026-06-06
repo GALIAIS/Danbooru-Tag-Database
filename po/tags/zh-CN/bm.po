@@ -1,0 +1,1216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:20+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:20+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:bm-13_katyusha:primary"
+msgid "bm-13_katyusha"
+msgstr "BM-13喀秋莎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bm-13_katyusha_(ash_arms):primary"
+msgid "bm-13_katyusha_(ash_arms)"
+msgstr "BM-13喀秋莎火箭炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:bm-21:primary"
+msgid "bm-21"
+msgstr "BM-21火箭炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bm-27_uragan:primary"
+msgid "bm-27_uragan"
+msgstr "BM-27飓风火箭炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bm-335:primary"
+msgid "bm-335"
+msgstr "BM-335"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:bm03:primary"
+msgid "bm03"
+msgstr "BM-03"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bm5133317:primary"
+msgid "bm5133317"
+msgstr "bm5133317"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:bm59_(girls'_frontline):primary"
+msgid "bm59_(girls'_frontline)"
+msgstr "BM59"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bm7kika:primary"
+msgid "bm7kika"
+msgstr "bm7kika"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:bm88501:primary"
+msgid "bm88501"
+msgstr "BM88501"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 136
+msgctxt "tag:bm94199:primary"
+msgid "bm94199"
+msgstr "bm94199"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 119
+msgctxt "tag:bm_(bm364364):primary"
+msgid "bm_(bm364364)"
+msgstr "bm(bm364364)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bm_(kard):primary"
+msgid "bm_(kard)"
+msgstr "BM（KARD）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bm_(natakus):primary"
+msgid "bm_(natakus)"
+msgstr "bm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bm_012486:primary"
+msgid "bm_012486"
+msgstr "bm_012486"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bm_0703:primary"
+msgid "bm_0703"
+msgstr "bm_0703"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bm_animation:primary"
+msgid "bm_animation"
+msgstr "BM Animation"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bm_bfj:primary"
+msgid "bm_bfj"
+msgstr "bm_bfj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bm_sebastian:primary"
+msgid "bm_sebastian"
+msgstr "BM Sebastian"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 316
+msgctxt "tag:bm_tol:primary"
+msgid "bm_tol"
+msgstr "bm_tol"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:bmayyneart:primary"
+msgid "bmayyneart"
+msgstr "bmayyneart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmbozone:primary"
+msgid "bmbozone"
+msgstr "Bmbozone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmbt:primary"
+msgid "bmbt"
+msgstr "BMBT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmc:primary"
+msgid "bmc"
+msgstr "BMC"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmc_ado16:primary"
+msgid "bmc_ado16"
+msgstr "BMC ADO16"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmcwiggles:primary"
+msgid "bmcwiggles"
+msgstr "BMCWiggles"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmd-1:primary"
+msgid "bmd-1"
+msgstr "BMD-1"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmd-2:primary"
+msgid "bmd-2"
+msgstr "BMD-2"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmd-3:primary"
+msgid "bmd-3"
+msgstr "BMD-3"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmd-4:primary"
+msgid "bmd-4"
+msgstr "BMD-4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bmd_(crvj2843):primary"
+msgid "bmd_(crvj2843)"
+msgstr "bmd (crvj2843)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bmeat010101:primary"
+msgid "bmeat010101"
+msgstr "bmeat010101"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:bment423:primary"
+msgid "bment423"
+msgstr "bment423"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmeowsberg:primary"
+msgid "bmeowsberg"
+msgstr "BMeowsberg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:bmg:primary"
+msgid "bmg"
+msgstr "BMG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmg2264:primary"
+msgid "bmg2264"
+msgstr "bmg2264"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmg_(shin_suberaa_bot):primary"
+msgid "bmg_(shin_suberaa_bot)"
+msgstr "B.M.G."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmgd:primary"
+msgid "bmgd"
+msgstr "BMGD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:bmh:primary"
+msgid "bmh"
+msgstr "bmh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:bmh_1009:primary"
+msgid "bmh_1009"
+msgstr "bmh_1009"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmhdk:primary"
+msgid "bmhdk"
+msgstr "bmhdk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bmjjjs:primary"
+msgid "bmjjjs"
+msgstr "bmjjjs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:bmkofsfbf587292:primary"
+msgid "bmkofsfbf587292"
+msgstr "bmkofsfbf587292"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 187
+msgctxt "tag:bmkro:primary"
+msgid "bmkro"
+msgstr "bmkro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmlx2356:primary"
+msgid "bmlx2356"
+msgstr "bmlx2356"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmm4qs:primary"
+msgid "bmm4qs"
+msgstr "bmm4qs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmm_yj2:primary"
+msgid "bmm_yj2"
+msgstr "bmm_yj2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 162
+#. aliases: 哔莫
+msgctxt "tag:bmo:primary"
+msgid "bmo"
+msgstr "BMO"
+
+#. alias-of: bmo
+#. source: ai
+msgctxt "tag:bmo:alias:1"
+msgid "bmo"
+msgstr "哔莫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:bmo_(zero1017):primary"
+msgid "bmo_(zero1017)"
+msgstr "BMO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:bmo_art:primary"
+msgid "bmo_art"
+msgstr "BMO Art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:bmob_mota:primary"
+msgid "bmob_mota"
+msgstr "bmob_mota"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmonth:primary"
+msgid "bmonth"
+msgstr "bmonth"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bmoo00o:primary"
+msgid "bmoo00o"
+msgstr "bmoo00o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:bmori:primary"
+msgid "bmori"
+msgstr "bmori"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:bmp-1:primary"
+msgid "bmp-1"
+msgstr "BMP-1"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:bmp-2:primary"
+msgid "bmp-2"
+msgstr "BMP-2步兵战车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:bmp-3:primary"
+msgid "bmp-3"
+msgstr "BMP-3"
+
+#. danbooru-category: 5
+#. taxonomy-id: 5.meta.process.generation_or_editing
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:bmp-to-jpg_conversion:primary"
+msgid "bmp-to-jpg_conversion"
+msgstr "BMP转JPG转换"
+
+#. danbooru-category: 5
+#. taxonomy-id: 5.meta.process.generation_or_editing
+#. safety: sfw
+#. post-count: 605
+#. aliases: 图片格式转换
+msgctxt "tag:bmp-to-png_conversion:primary"
+msgid "bmp-to-png_conversion"
+msgstr "BMP转PNG"
+
+#. alias-of: bmp-to-png_conversion
+#. source: ai
+msgctxt "tag:bmp-to-png_conversion:alias:1"
+msgid "bmp-to-png_conversion"
+msgstr "图片格式转换"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmp_(smjs4288):primary"
+msgid "bmp_(smjs4288)"
+msgstr "BMP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bmpc_unta_kilat:primary"
+msgid "bmpc_unta_kilat"
+msgstr "bmpcUntaKilat"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:bmpt_terminator:primary"
+msgid "bmpt_terminator"
+msgstr "终结者"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:bms:primary"
+msgid "bms"
+msgstr "BMS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bms97873330:primary"
+msgid "bms97873330"
+msgstr "BMS97873330"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:bms_of_fighters:primary"
+msgid "bms_of_fighters"
+msgstr "格斗之拳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bmurphy:primary"
+msgid "bmurphy"
+msgstr "Bmurphy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmuukt22:primary"
+msgid "bmuukt22"
+msgstr "Bmuukt22"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 534
+msgctxt "tag:bmw:primary"
+msgid "bmw"
+msgstr "宝马"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+#. aliases: man24
+msgctxt "tag:bmw_(man24):primary"
+msgid "bmw_(man24)"
+msgstr "bmw"
+
+#. alias-of: bmw_(man24)
+#. source: ai
+msgctxt "tag:bmw_(man24):alias:1"
+msgid "bmw_(man24)"
+msgstr "man24"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bmw_1_series:primary"
+msgid "bmw_1_series"
+msgstr "宝马1系"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bmw_2002:primary"
+msgid "bmw_2002"
+msgstr "BMW 2002"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bmw_2002_turbo:primary"
+msgid "bmw_2002_turbo"
+msgstr "宝马2002 Turbo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_326:primary"
+msgid "bmw_326"
+msgstr "宝马326"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 117
+msgctxt "tag:bmw_3_series:primary"
+msgid "bmw_3_series"
+msgstr "宝马3系"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:bmw_4_series:primary"
+msgid "bmw_4_series"
+msgstr "宝马4系"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 8
+#. aliases: BMW 5 Series
+msgctxt "tag:bmw_5_series:primary"
+msgid "bmw_5_series"
+msgstr "宝马5系"
+
+#. alias-of: bmw_5_series
+#. source: ai
+msgctxt "tag:bmw_5_series:alias:1"
+msgid "bmw_5_series"
+msgstr "BMW 5 Series"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:bmw_6_series:primary"
+msgid "bmw_6_series"
+msgstr "宝马6系"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+#. aliases: 宝马6系
+msgctxt "tag:bmw_6_series_e63:primary"
+msgid "bmw_6_series_e63"
+msgstr "宝马6系E63"
+
+#. alias-of: bmw_6_series_e63
+#. source: ai
+msgctxt "tag:bmw_6_series_e63:alias:1"
+msgid "bmw_6_series_e63"
+msgstr "宝马6系"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmw_7_series:primary"
+msgid "bmw_7_series"
+msgstr "宝马7系"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bmw_850i:primary"
+msgid "bmw_850i"
+msgstr "宝马850i"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_avt:primary"
+msgid "bmw_avt"
+msgstr "宝马AVT"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bmw_e21:primary"
+msgid "bmw_e21"
+msgstr "宝马E21"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmw_e24:primary"
+msgid "bmw_e24"
+msgstr "宝马 E24"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:bmw_e30:primary"
+msgid "bmw_e30"
+msgstr "宝马E30"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmw_e34:primary"
+msgid "bmw_e34"
+msgstr "宝马E34"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:bmw_e36:primary"
+msgid "bmw_e36"
+msgstr "宝马E36"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_e36_alpina_b3:primary"
+msgid "bmw_e36_alpina_b3"
+msgstr "宝马E36 Alpina B3"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:bmw_e46:primary"
+msgid "bmw_e46"
+msgstr "宝马E46"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_e60:primary"
+msgid "bmw_e60"
+msgstr "宝马E60"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:bmw_e90:primary"
+msgid "bmw_e90"
+msgstr "宝马E90"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmw_f30:primary"
+msgid "bmw_f30"
+msgstr "宝马F30"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_f32:primary"
+msgid "bmw_f32"
+msgstr "宝马F32"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bmw_g20:primary"
+msgid "bmw_g20"
+msgstr "宝马G20"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_g310:primary"
+msgid "bmw_g310"
+msgstr "宝马G310"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_g650gs:primary"
+msgid "bmw_g650gs"
+msgstr "宝马G650GS"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_g80:primary"
+msgid "bmw_g80"
+msgstr "宝马G80"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_g82:primary"
+msgid "bmw_g82"
+msgstr "宝马G82"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+#. aliases: HP4
+msgctxt "tag:bmw_hp4:primary"
+msgid "bmw_hp4"
+msgstr "宝马HP4"
+
+#. alias-of: bmw_hp4
+#. source: ai
+msgctxt "tag:bmw_hp4:alias:1"
+msgid "bmw_hp4"
+msgstr "HP4"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmw_i3:primary"
+msgid "bmw_i3"
+msgstr "宝马i3"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmw_i4:primary"
+msgid "bmw_i4"
+msgstr "宝马i4"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:bmw_i8:primary"
+msgid "bmw_i8"
+msgstr "宝马i8"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:bmw_isetta:primary"
+msgid "bmw_isetta"
+msgstr "宝马Isetta"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_ix:primary"
+msgid "bmw_ix"
+msgstr "宝马iX"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:bmw_m1:primary"
+msgid "bmw_m1"
+msgstr "宝马M1"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_m1000rr:primary"
+msgid "bmw_m1000rr"
+msgstr "宝马M1000RR"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:bmw_m2:primary"
+msgid "bmw_m2"
+msgstr "宝马M2"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 90
+#. aliases: M3
+msgctxt "tag:bmw_m3:primary"
+msgid "bmw_m3"
+msgstr "宝马M3"
+
+#. alias-of: bmw_m3
+#. source: ai
+msgctxt "tag:bmw_m3:alias:1"
+msgid "bmw_m3"
+msgstr "M3"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bmw_m340i:primary"
+msgid "bmw_m340i"
+msgstr "宝马M340i"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:bmw_m4:primary"
+msgid "bmw_m4"
+msgstr "宝马M4"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 17
+#. aliases: BMW M5
+msgctxt "tag:bmw_m5:primary"
+msgid "bmw_m5"
+msgstr "宝马M5"
+
+#. alias-of: bmw_m5
+#. source: ai
+msgctxt "tag:bmw_m5:alias:1"
+msgid "bmw_m5"
+msgstr "BMW M5"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmw_m5_f90:primary"
+msgid "bmw_m5_f90"
+msgstr "宝马M5 F90"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:bmw_m6:primary"
+msgid "bmw_m6"
+msgstr "宝马M6"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bmw_m8:primary"
+msgid "bmw_m8"
+msgstr "宝马M8"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_m8_gte:primary"
+msgid "bmw_m8_gte"
+msgstr "宝马M8 GTE"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+#. aliases: 宝马混动V8
+msgctxt "tag:bmw_m_hybrid_v8:primary"
+msgid "bmw_m_hybrid_v8"
+msgstr "宝马M Hybrid V8"
+
+#. alias-of: bmw_m_hybrid_v8
+#. source: ai
+msgctxt "tag:bmw_m_hybrid_v8:alias:1"
+msgid "bmw_m_hybrid_v8"
+msgstr "宝马混动V8"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_r100:primary"
+msgid "bmw_r100"
+msgstr "宝马R100摩托车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+#. aliases: 宝马摩托车
+msgctxt "tag:bmw_r1100s:primary"
+msgid "bmw_r1100s"
+msgstr "宝马R1100S"
+
+#. alias-of: bmw_r1100s
+#. source: ai
+msgctxt "tag:bmw_r1100s:alias:1"
+msgid "bmw_r1100s"
+msgstr "宝马摩托车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+#. aliases: 宝马摩托
+msgctxt "tag:bmw_r1200gs:primary"
+msgid "bmw_r1200gs"
+msgstr "宝马R1200GS摩托车"
+
+#. alias-of: bmw_r1200gs
+#. source: ai
+msgctxt "tag:bmw_r1200gs:alias:1"
+msgid "bmw_r1200gs"
+msgstr "宝马摩托"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_r1200rt:primary"
+msgid "bmw_r1200rt"
+msgstr "宝马R1200RT"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+#. aliases: 宝马摩托
+msgctxt "tag:bmw_r1250rs:primary"
+msgid "bmw_r1250rs"
+msgstr "宝马R1250RS"
+
+#. alias-of: bmw_r1250rs
+#. source: ai
+msgctxt "tag:bmw_r1250rs:alias:1"
+msgid "bmw_r1250rs"
+msgstr "宝马摩托"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_r1250rt:primary"
+msgid "bmw_r1250rt"
+msgstr "宝马R1250RT"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:bmw_r75:primary"
+msgid "bmw_r75"
+msgstr "宝马R75"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_r80g/s:primary"
+msgid "bmw_r80g/s"
+msgstr "宝马R80G/S"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 3
+#. aliases: 宝马R9T
+msgctxt "tag:bmw_r_ninet:primary"
+msgid "bmw_r_ninet"
+msgstr "BMW R nineT"
+
+#. alias-of: bmw_r_ninet
+#. source: ai
+msgctxt "tag:bmw_r_ninet:alias:1"
+msgid "bmw_r_ninet"
+msgstr "宝马R9T"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:bmw_s1000rr:primary"
+msgid "bmw_s1000rr"
+msgstr "宝马S1000RR"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bmw_team_studie:primary"
+msgid "bmw_team_studie"
+msgstr "BMW Team Studie"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bmw_v12_lmr:primary"
+msgid "bmw_v12_lmr"
+msgstr "宝马V12 LMR"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_vision_neue_klasse:primary"
+msgid "bmw_vision_neue_klasse"
+msgstr "宝马Vision Neue Klasse"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:bmw_x5:primary"
+msgid "bmw_x5"
+msgstr "宝马X5"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmw_x6:primary"
+msgid "bmw_x6"
+msgstr "BMW X6"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+#. aliases: BMW Z3
+msgctxt "tag:bmw_z3:primary"
+msgid "bmw_z3"
+msgstr "宝马Z3"
+
+#. alias-of: bmw_z3
+#. source: ai
+msgctxt "tag:bmw_z3:alias:1"
+msgid "bmw_z3"
+msgstr "BMW Z3"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:bmw_z4:primary"
+msgid "bmw_z4"
+msgstr "宝马Z4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:bmwh1tts:primary"
+msgid "bmwh1tts"
+msgstr "bmwh1tts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bmwr27:primary"
+msgid "bmwr27"
+msgstr "BMWR27"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:bmwsb0:primary"
+msgid "bmwsb0"
+msgstr "BMWSB0"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:bmx:primary"
+msgid "bmx"
+msgstr "BMX自行车"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bmy:primary"
+msgid "bmy"
+msgstr "bmy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:bmyoshikun123:primary"
+msgid "bmyoshikun123"
+msgstr "Bmyoshikun123"

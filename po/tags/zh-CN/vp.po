@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:48+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:48+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:vp1915_(girls'_frontline):primary"
+msgid "vp1915_(girls'_frontline)"
+msgstr "VP1915"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vp1915_(ink-scaled_thrust)_(girls'_frontline):primary"
+msgid "vp1915_(ink-scaled_thrust)_(girls'_frontline)"
+msgstr "VP1915（墨染突刺）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vp1915_(sitting_next_to_perosa)_(girls'_frontline):primary"
+msgid "vp1915_(sitting_next_to_perosa)_(girls'_frontline)"
+msgstr "VP1915（坐在Perosa旁）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vp1915_(song_from_the_high_tower)_(girls'_frontline):primary"
+msgid "vp1915_(song_from_the_high_tower)_(girls'_frontline)"
+msgstr "VP1915（高塔之歌）（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vp2xox_(haru):primary"
+msgid "vp2xox_(haru)"
+msgstr "vp2xox (haru)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vp70_(girls'_frontline):primary"
+msgid "vp70_(girls'_frontline)"
+msgstr "VP70"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vp9_(girls'_frontline):primary"
+msgid "vp9_(girls'_frontline)"
+msgstr "VP9"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:vp_m1915:primary"
+msgid "vp_m1915"
+msgstr "VP M1915"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vpa8c:primary"
+msgid "vpa8c"
+msgstr "vpa8c"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vpfdva0unt90109:primary"
+msgid "vpfdva0unt90109"
+msgstr "无意义字符"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:vpfjfevol:primary"
+msgid "vpfjfevol"
+msgstr "vpfjfevol"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:vpfu8725:primary"
+msgid "vpfu8725"
+msgstr "vpfu8725"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vpkirbo:primary"
+msgid "vpkirbo"
+msgstr "vpkirbo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vpmgjdp:primary"
+msgid "vpmgjdp"
+msgstr "vpmgjdp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vpofhentai:primary"
+msgid "vpofhentai"
+msgstr "VPOFHentai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vprevalus:primary"
+msgid "vprevalus"
+msgstr "vprevalus"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vpro:primary"
+msgid "vpro"
+msgstr "vpro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vpstrange:primary"
+msgid "vpstrange"
+msgstr "VPStrange"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vptku:primary"
+msgid "vptku"
+msgstr "Vptku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:vpvrtment:primary"
+msgid "vpvrtment"
+msgstr "vpvrtment"

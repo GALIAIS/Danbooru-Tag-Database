@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:21+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:21+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 1935
+#. aliases: CD
+msgctxt "tag:cd:primary"
+msgid "cd"
+msgstr "光盘"
+
+#. alias-of: cd
+#. source: ai
+msgctxt "tag:cd:alias:1"
+msgid "cd"
+msgstr "CD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cd-illustration:primary"
+msgid "cd-illustration"
+msgstr "CD插图"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cd007:primary"
+msgid "cd007"
+msgstr "cd007"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:cd2fm:primary"
+msgid "cd2fm"
+msgstr "CD2FM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cd_(cddc):primary"
+msgid "cd_(cddc)"
+msgstr "CD"
+
+#. danbooru-category: 5
+#. taxonomy-id: 5.meta.source.release_or_cover
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:cd_(source):primary"
+msgid "cd_(source)"
+msgstr "CD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:cd_(yuyumrx):primary"
+msgid "cd_(yuyumrx)"
+msgstr "cd"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.holding_object
+#. safety: nsfw
+#. post-count: 13
+msgctxt "tag:cd_between_breasts:primary"
+msgid "cd_between_breasts"
+msgstr "胸间光盘"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cd_bracelet:primary"
+msgid "cd_bracelet"
+msgstr "CD手链"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.object_manipulation
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cd_burning:primary"
+msgid "cd_burning"
+msgstr "刻录CD"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.container
+#. safety: sfw
+#. post-count: 818
+#. aliases: 光盘盒
+msgctxt "tag:cd_case:primary"
+msgid "cd_case"
+msgstr "CD盒"
+
+#. alias-of: cd_case
+#. source: ai
+msgctxt "tag:cd_case:alias:1"
+msgid "cd_case"
+msgstr "光盘盒"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:cd_hair_ornament:primary"
+msgid "cd_hair_ornament"
+msgstr "CD发饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.postprocess.image_effect
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:cd_halo:primary"
+msgid "cd_halo"
+msgstr "光圈"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cd_necklace:primary"
+msgid "cd_necklace"
+msgstr "CD项链"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 351
+#. aliases: CD机
+msgctxt "tag:cd_player:primary"
+msgid "cd_player"
+msgstr "CD播放器"
+
+#. alias-of: cd_player
+#. source: ai
+msgctxt "tag:cd_player:alias:1"
+msgid "cd_player"
+msgstr "CD机"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:cd_projekt_red:primary"
+msgid "cd_projekt_red"
+msgstr "CD Projekt Red"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:cd_spindle:primary"
+msgid "cd_spindle"
+msgstr "CD转轴"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:cd_usr:primary"
+msgid "cd_usr"
+msgstr "cd_usr"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 164
+msgctxt "tag:cd_walkman:primary"
+msgid "cd_walkman"
+msgstr "CD随身听"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: cda
+msgctxt "tag:cda:primary"
+msgid "cda"
+msgstr "CDA"
+
+#. alias-of: cda
+#. source: ai
+msgctxt "tag:cda:alias:1"
+msgid "cda"
+msgstr "cda"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:cdawgva:primary"
+msgid "cdawgva"
+msgstr "CDAWGVA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cdb_(10footah):primary"
+msgid "cdb_(10footah)"
+msgstr "CDB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdb_(cinema2d):primary"
+msgid "cdb_(cinema2d)"
+msgstr "cdb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdbreakerlover:primary"
+msgid "cdbreakerlover"
+msgstr "Cdbreakerlover"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdc:primary"
+msgid "cdc"
+msgstr "CDC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdcarswell:primary"
+msgid "cdcarswell"
+msgstr "cdcarswell"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cdchewy:primary"
+msgid "cdchewy"
+msgstr "cdchewy"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.act.penetrative_sex
+#. safety: nsfw
+#. post-count: 1
+msgctxt "tag:cdd_threesome:primary"
+msgid "cdd_threesome"
+msgstr "CDD三人行"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cddramadigi:primary"
+msgid "cddramadigi"
+msgstr "cddramadigi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:cdefsorab:primary"
+msgid "cdefsorab"
+msgstr "cdefsorab"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdesu:primary"
+msgid "cdesu"
+msgstr "Cdesu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:cdgm000:primary"
+msgid "cdgm000"
+msgstr "cdgm000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cdh9633:primary"
+msgid "cdh9633"
+msgstr "cdh9633"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:cdim:primary"
+msgid "cdim"
+msgstr "CDim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:cdlo:primary"
+msgid "cdlo"
+msgstr "cdlo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:cdlum:primary"
+msgid "cdlum"
+msgstr "cdlum"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cdm:primary"
+msgid "cdm"
+msgstr "cdm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cdmurudo:primary"
+msgid "cdmurudo"
+msgstr "cdmurudo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cdmyum0:primary"
+msgid "cdmyum0"
+msgstr "cdmyum0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdnagi:primary"
+msgid "cdnagi"
+msgstr "cdnagi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:cdof1300:primary"
+msgid "cdof1300"
+msgstr "cdof1300"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cdokuroyu:primary"
+msgid "cdokuroyu"
+msgstr "Cdokuroyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdollychan:primary"
+msgid "cdollychan"
+msgstr "Cdollychan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cdone:primary"
+msgid "cdone"
+msgstr "cdone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:cdose112:primary"
+msgid "cdose112"
+msgstr "C-Dose112"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:cdov34:primary"
+msgid "cdov34"
+msgstr "cdov34"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdqx:primary"
+msgid "cdqx"
+msgstr "次元奇想"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdr_(musician):primary"
+msgid "cdr_(musician)"
+msgstr "CDR（音乐人）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:cdromarts:primary"
+msgid "cdromarts"
+msgstr "CDROMARTS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:cdrp0k:primary"
+msgid "cdrp0k"
+msgstr "cdrp0k"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdrw_(cub612ez):primary"
+msgid "cdrw_(cub612ez)"
+msgstr "cdrw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cds:primary"
+msgid "cds"
+msgstr "cds"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:cds06:primary"
+msgid "cds06"
+msgstr "cds06"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:cdsola:primary"
+msgid "cdsola"
+msgstr "CDSola"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:cdtxufre:primary"
+msgid "cdtxufre"
+msgstr "cdtxufre"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdu_unicorn:primary"
+msgid "cdu_unicorn"
+msgstr "CDU独角兽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:cdubbart:primary"
+msgid "cdubbart"
+msgstr "cdubbart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cdumc3:primary"
+msgid "cdumc3"
+msgstr "cdumc3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdxdhd:primary"
+msgid "cdxdhd"
+msgstr "CDXDHD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdypainting:primary"
+msgid "cdypainting"
+msgstr "cdypainting"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cdzdbzgoku:primary"
+msgid "cdzdbzgoku"
+msgstr "cdzdbzgoku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:cdzrc:primary"
+msgid "cdzrc"
+msgstr "CDZRC"

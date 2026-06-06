@@ -1,0 +1,3434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:49+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:49+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wr-01:primary"
+msgid "wr-01"
+msgstr "WR-01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:wr-winter:primary"
+msgid "wr-winter"
+msgstr "WR-冬季"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:wr0wn:primary"
+msgid "wr0wn"
+msgstr "WR0WN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wr2051:primary"
+msgid "wr2051"
+msgstr "wr2051"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:wr_(929481795):primary"
+msgid "wr_(929481795)"
+msgstr "WR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 113
+#. aliases: 唐草煎饼
+msgctxt "tag:wr_(karakusa_senbei):primary"
+msgid "wr_(karakusa_senbei)"
+msgstr "WR（唐草煎饼）"
+
+#. alias-of: wr_(karakusa_senbei)
+#. source: ai
+msgctxt "tag:wr_(karakusa_senbei):alias:1"
+msgid "wr_(karakusa_senbei)"
+msgstr "唐草煎饼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wr_pg3303:primary"
+msgid "wr_pg3303"
+msgstr "wr_pg3303"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:wr_ytd:primary"
+msgid "wr_ytd"
+msgstr "wr_ytd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wraaa03:primary"
+msgid "wraaa03"
+msgstr "Wraaa03"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wracktail:primary"
+msgid "wracktail"
+msgstr "破坏者之尾"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wracky:primary"
+msgid "wracky"
+msgstr "Wracky"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:wraicoon_(snuffy_(vtuber)):primary"
+msgid "wraicoon_(snuffy_(vtuber))"
+msgstr "Wraicoon（Snuffy VTuber）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 118
+msgctxt "tag:wrainbow13:primary"
+msgid "wrainbow13"
+msgstr "wrainbow13"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:wrainman:primary"
+msgid "wrainman"
+msgstr "W Rainman"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 96
+#. aliases: Wraith615
+msgctxt "tag:wraith615:primary"
+msgid "wraith615"
+msgstr "幽灵615"
+
+#. alias-of: wraith615
+#. source: ai
+msgctxt "tag:wraith615:alias:1"
+msgid "wraith615"
+msgstr "Wraith615"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1673
+msgctxt "tag:wraith_(apex_legends):primary"
+msgid "wraith_(apex_legends)"
+msgstr "恶灵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 86
+msgctxt "tag:wraith_(apex_legends)_(cosplay):primary"
+msgid "wraith_(apex_legends)_(cosplay)"
+msgstr "恶灵（Apex英雄）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:wraith_(arknights):primary"
+msgid "wraith_(arknights)"
+msgstr "幽灵（明日方舟）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wraith_(battletech):primary"
+msgid "wraith_(battletech)"
+msgstr "幽灵机（BattleTech）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wraith_(cat_busters):primary"
+msgid "wraith_(cat_busters)"
+msgstr "Wraith（Cat Busters）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: deadlock cosplay
+msgctxt "tag:wraith_(deadlock):primary"
+msgid "wraith_(deadlock)"
+msgstr "Wraith（Deadlock）"
+
+#. alias-of: wraith_(deadlock)
+#. source: ai
+msgctxt "tag:wraith_(deadlock):alias:1"
+msgid "wraith_(deadlock)"
+msgstr "deadlock cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wraith_(eroica):primary"
+msgid "wraith_(eroica)"
+msgstr "Wraith（Eroica）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wraith_(evolve):primary"
+msgid "wraith_(evolve)"
+msgstr "Wraith（Evolve）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wraith_(full_metal_panic!):primary"
+msgid "wraith_(full_metal_panic!)"
+msgstr "Wraith（全金属狂潮！）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 8
+msgctxt "tag:wraith_(halo):primary"
+msgid "wraith_(halo)"
+msgstr "《光环》幽灵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:wraith_(heart_gear):primary"
+msgid "wraith_(heart_gear)"
+msgstr "幽魂（心之齿轮）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wraith_(hollow_knight):primary"
+msgid "wraith_(hollow_knight)"
+msgstr "幽灵（空洞骑士）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:wraith_(last_origin):primary"
+msgid "wraith_(last_origin)"
+msgstr "Wraith（LAST ORIGIN）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 119
+#. aliases: 灵魄
+msgctxt "tag:wraith_(madoka_magica):primary"
+msgid "wraith_(madoka_magica)"
+msgstr "魔兽"
+
+#. alias-of: wraith_(madoka_magica)
+#. source: ai
+msgctxt "tag:wraith_(madoka_magica):alias:1"
+msgid "wraith_(madoka_magica)"
+msgstr "灵魄"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Wraith
+msgctxt "tag:wraith_(marvel):primary"
+msgid "wraith_(marvel)"
+msgstr "Wraith（漫威）"
+
+#. alias-of: wraith_(marvel)
+#. source: ai
+msgctxt "tag:wraith_(marvel):alias:1"
+msgid "wraith_(marvel)"
+msgstr "Wraith"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:wraith_(ragnarok_online):primary"
+msgid "wraith_(ragnarok_online)"
+msgstr "幽灵（仙境传说）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 5
+msgctxt "tag:wraith_(starcraft):primary"
+msgid "wraith_(starcraft)"
+msgstr "《星际争霸》幽魂"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:wraith_(stella_sora):primary"
+msgid "wraith_(stella_sora)"
+msgstr "幽灵(星魂)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wraith_(sword_of_the_sea):primary"
+msgid "wraith_(sword_of_the_sea)"
+msgstr "Wraith（Sword of the Sea）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wraith_(terraria):primary"
+msgid "wraith_(terraria)"
+msgstr "怨灵（泰拉瑞亚）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wraith_king_(dota):primary"
+msgid "wraith_king_(dota)"
+msgstr "冥魂大帝"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:wraith_leader_(arknights):primary"
+msgid "wraith_leader_(arknights)"
+msgstr "Wraith Leader（明日方舟）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:wraith_madoka:primary"
+msgid "wraith_madoka"
+msgstr "悲叹魔女杏子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wraith_martini_vermouthspray:primary"
+msgid "wraith_martini_vermouthspray"
+msgstr "Wraith Martini Vermouthspray"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+#. aliases: Wraith
+msgctxt "tag:wraith_the_etoile:primary"
+msgid "wraith_the_etoile"
+msgstr "wraith_the_etoile"
+
+#. alias-of: wraith_the_etoile
+#. source: ai
+msgctxt "tag:wraith_the_etoile:alias:1"
+msgid "wraith_the_etoile"
+msgstr "Wraith"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wraith_warden_(honkai:_star_rail):primary"
+msgid "wraith_warden_(honkai:_star_rail)"
+msgstr "Wraith Warden（崩坏：星穹铁道）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wraith_witch_sorel:primary"
+msgid "wraith_witch_sorel"
+msgstr "Wraith Witch Sorel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:wraithakari:primary"
+msgid "wraithakari"
+msgstr "wraithakari"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wraithguard:primary"
+msgid "wraithguard"
+msgstr "幽魂守卫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wraithknight:primary"
+msgid "wraithknight"
+msgstr "幽灵骑士"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wraithlord:primary"
+msgid "wraithlord"
+msgstr "幽灵领主"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:wraithverge_(hexen):primary"
+msgid "wraithverge_(hexen)"
+msgstr "《Hexen》Wraithverge"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wraithwen:primary"
+msgid "wraithwen"
+msgstr "Wraithwen"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:wraithy_(last_origin):primary"
+msgid "wraithy_(last_origin)"
+msgstr "幽影(最后起源)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:wrandomwriot:primary"
+msgid "wrandomwriot"
+msgstr "wrandomwriot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrandonbu:primary"
+msgid "wrandonbu"
+msgstr "乱炖步"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:wrangelina:primary"
+msgid "wrangelina"
+msgstr "Wrangelina"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.pants_shorts
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrangler_jeans:primary"
+msgid "wrangler_jeans"
+msgstr "Wrangler牛仔裤"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wranski:primary"
+msgid "wranski"
+msgstr "Wranski"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wranwa:primary"
+msgid "wranwa"
+msgstr "Wranwa"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.eyewear
+#. safety: sfw
+#. post-count: 32
+#. aliases: 环绕眼镜
+msgctxt "tag:wrap-around_shades:primary"
+msgid "wrap-around_shades"
+msgstr "环身镜"
+
+#. alias-of: wrap-around_shades
+#. source: ai
+msgctxt "tag:wrap-around_shades:alias:1"
+msgid "wrap-around_shades"
+msgstr "环绕眼镜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 58
+#. aliases: 卷饼, 春卷
+msgctxt "tag:wrap_(food):primary"
+msgid "wrap_(food)"
+msgstr "卷类食物"
+
+#. alias-of: wrap_(food)
+#. source: ai
+msgctxt "tag:wrap_(food):alias:1"
+msgid "wrap_(food)"
+msgstr "卷饼"
+
+#. alias-of: wrap_(food)
+#. source: ai
+msgctxt "tag:wrap_(food):alias:2"
+msgid "wrap_(food)"
+msgstr "春卷"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wrap_(pokemon):primary"
+msgid "wrap_(pokemon)"
+msgstr "《宝可梦》缠绕"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.dress
+#. safety: sfw
+#. post-count: 19
+#. aliases: 包裹裙
+msgctxt "tag:wrap_dress:primary"
+msgid "wrap_dress"
+msgstr "裹身裙"
+
+#. alias-of: wrap_dress
+#. source: ai
+msgctxt "tag:wrap_dress:alias:1"
+msgid "wrap_dress"
+msgstr "包裹裙"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.skirt_dress_bottom
+#. safety: sfw
+#. post-count: 70
+#. aliases: 裹裙
+msgctxt "tag:wrap_skirt:primary"
+msgid "wrap_skirt"
+msgstr "围裹裙"
+
+#. alias-of: wrap_skirt
+#. source: ai
+msgctxt "tag:wrap_skirt:alias:1"
+msgid "wrap_skirt"
+msgstr "裹裙"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.inner_top
+#. safety: sfw
+#. post-count: 26
+#. aliases: 裹胸上衣, 缠绕上衣
+msgctxt "tag:wrap_top:primary"
+msgid "wrap_top"
+msgstr "裹胸"
+
+#. alias-of: wrap_top
+#. source: ai
+msgctxt "tag:wrap_top:alias:1"
+msgid "wrap_top"
+msgstr "裹胸上衣"
+
+#. alias-of: wrap_top
+#. source: ai
+msgctxt "tag:wrap_top:alias:2"
+msgid "wrap_top"
+msgstr "缠绕上衣"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.lift_or_removed
+#. safety: mixed
+#. post-count: 75
+msgctxt "tag:wrap_towel:primary"
+msgid "wrap_towel"
+msgstr "裹毛巾"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 474
+#. aliases: 便当
+msgctxt "tag:wrapped_bento:primary"
+msgid "wrapped_bento"
+msgstr "包裹便当"
+
+#. alias-of: wrapped_bento
+#. source: ai
+msgctxt "tag:wrapped_bento:alias:1"
+msgid "wrapped_bento"
+msgstr "便当"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:wrapped_burger:primary"
+msgid "wrapped_burger"
+msgstr "包装汉堡"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 1888
+#. aliases: 糖果包装
+msgctxt "tag:wrapped_candy:primary"
+msgid "wrapped_candy"
+msgstr "包装糖果"
+
+#. alias-of: wrapped_candy
+#. source: ai
+msgctxt "tag:wrapped_candy:alias:1"
+msgid "wrapped_candy"
+msgstr "糖果包装"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.style.tied_hair
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:wrapped_hair:primary"
+msgid "wrapped_hair"
+msgstr "包裹发型"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.interaction.physical_interaction
+#. safety: mixed
+#. post-count: 793
+msgctxt "tag:wrapped_in_blanket:primary"
+msgid "wrapped_in_blanket"
+msgstr "裹毯子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:wrapped_lollipop:primary"
+msgid "wrapped_lollipop"
+msgstr "包装棒棒糖"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wrapped_sword:primary"
+msgid "wrapped_sword"
+msgstr "包裹的剑"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.fit_and_opening
+#. safety: mixed
+#. post-count: 380
+#. aliases: 裹着
+msgctxt "tag:wrapped_up:primary"
+msgid "wrapped_up"
+msgstr "包裹"
+
+#. alias-of: wrapped_up
+#. source: ai
+msgctxt "tag:wrapped_up:alias:1"
+msgid "wrapped_up"
+msgstr "裹着"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.object_manipulation
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wrapping_food:primary"
+msgid "wrapping_food"
+msgstr "包裹食物"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.object_manipulation
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:wrapping_gift:primary"
+msgid "wrapping_gift"
+msgstr "包装礼物"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrapping_kiss_(vocaloid):primary"
+msgid "wrapping_kiss_(vocaloid)"
+msgstr "缠绕之吻（Vocaloid）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wrapping_my_heart_(idolmaster):primary"
+msgid "wrapping_my_heart_(idolmaster)"
+msgstr "Wrapping My Heart（偶像大师）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.book_paper
+#. safety: sfw
+#. post-count: 93
+msgctxt "tag:wrapping_paper:primary"
+msgid "wrapping_paper"
+msgstr "包装纸"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:wrasse:primary"
+msgid "wrasse"
+msgstr "濑鱼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 鸟
+msgctxt "tag:wrastor_(rivals_of_aether):primary"
+msgid "wrastor_(rivals_of_aether)"
+msgstr "Wrastor（Rivals of Aether）"
+
+#. alias-of: wrastor_(rivals_of_aether)
+#. source: ai
+msgctxt "tag:wrastor_(rivals_of_aether):alias:1"
+msgid "wrastor_(rivals_of_aether)"
+msgstr "鸟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wratable:primary"
+msgid "wratable"
+msgstr "wratable"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:wrath_(alchemy_stars):primary"
+msgid "wrath_(alchemy_stars)"
+msgstr "怒火（明日方舟：终末地）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:wrath_(fma):primary"
+msgid "wrath_(fma)"
+msgstr "愤怒（钢炼）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrath_(fma)_(cosplay):primary"
+msgid "wrath_(fma)_(cosplay)"
+msgstr "愤怒（钢之炼金术师）（cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:wrath_(kumo_desu_ga_nani_ka?):primary"
+msgid "wrath_(kumo_desu_ga_nani_ka?)"
+msgstr "愤怒"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wrath_(living_in_sin):primary"
+msgid "wrath_(living_in_sin)"
+msgstr "Wrath（Living in Sin）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:wrath_nadeko:primary"
+msgid "wrath_nadeko"
+msgstr "愤怒的名取"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:wrath_of_man:primary"
+msgid "wrath_of_man"
+msgstr "人之怒"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wrath_of_the_berserker_(skill):primary"
+msgid "wrath_of_the_berserker_(skill)"
+msgstr "狂战士之怒（技能）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+#. aliases: 众神之怒
+msgctxt "tag:wrath_of_the_gods_(terraria_mod):primary"
+msgid "wrath_of_the_gods_(terraria_mod)"
+msgstr "众神之怒（泰拉瑞亚模组）"
+
+#. alias-of: wrath_of_the_gods_(terraria_mod)
+#. source: ai
+msgctxt "tag:wrath_of_the_gods_(terraria_mod):alias:1"
+msgid "wrath_of_the_gods_(terraria_mod)"
+msgstr "众神之怒"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrath_wolf:primary"
+msgid "wrath_wolf"
+msgstr "愤怒之狼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:wrathion:primary"
+msgid "wrathion"
+msgstr "拉希昂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:wrato:primary"
+msgid "wrato"
+msgstr "Wrato"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrb_moch:primary"
+msgid "wrb_moch"
+msgstr "WRB Moch"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:wrbs:primary"
+msgid "wrbs"
+msgstr "wrbs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrc555sti:primary"
+msgid "wrc555sti"
+msgstr "wrc555sti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:wrddd:primary"
+msgid "wrddd"
+msgstr "wrddd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:wrdij5w0rg31830:primary"
+msgid "wrdij5w0rg31830"
+msgstr "无意义字符"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wre_(user_fnye8377):primary"
+msgid "wre_(user_fnye8377)"
+msgstr "wre"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.plant
+#. safety: sfw
+#. post-count: 3833
+#. aliases: 花冠
+msgctxt "tag:wreath:primary"
+msgid "wreath"
+msgstr "花环"
+
+#. alias-of: wreath
+#. source: ai
+msgctxt "tag:wreath:alias:1"
+msgid "wreath"
+msgstr "花冠"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:wreath_(a1b2c3d45):primary"
+msgid "wreath_(a1b2c3d45)"
+msgstr "花环"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:wreath_(lit):primary"
+msgid "wreath_(lit)"
+msgstr "花冠"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:wreath_(world_teacher):primary"
+msgid "wreath_(world_teacher)"
+msgstr "Wreath（World Teacher）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 2
+#. aliases: 花环耳饰
+msgctxt "tag:wreath_earrings:primary"
+msgid "wreath_earrings"
+msgstr "花环耳环"
+
+#. alias-of: wreath_earrings
+#. source: ai
+msgctxt "tag:wreath_earrings:alias:1"
+msgid "wreath_earrings"
+msgstr "花环耳饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:wreath_halo:primary"
+msgid "wreath_halo"
+msgstr "花环光环"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wreath_mekko0:primary"
+msgid "wreath_mekko0"
+msgstr "wreath_mekko0"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.body.explicit_genitalia
+#. safety: nsfw
+#. post-count: 1
+msgctxt "tag:wreath_on_penis:primary"
+msgid "wreath_on_penis"
+msgstr "阴茎上的花环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 1
+#. aliases: 花环遮眼
+msgctxt "tag:wreath_over_eyes:primary"
+msgid "wreath_over_eyes"
+msgstr "眼上花环"
+
+#. alias-of: wreath_over_eyes
+#. source: ai
+msgctxt "tag:wreath_over_eyes:alias:1"
+msgid "wreath_over_eyes"
+msgstr "花环遮眼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 39
+#. aliases: 诺埃尔
+msgctxt "tag:wreathlit_noel:primary"
+msgid "wreathlit_noel"
+msgstr "蕾特·诺埃尔"
+
+#. alias-of: wreathlit_noel
+#. source: ai
+msgctxt "tag:wreathlit_noel:alias:1"
+msgid "wreathlit_noel"
+msgstr "诺埃尔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wreathlit_noel_(cosplay):primary"
+msgid "wreathlit_noel_(cosplay)"
+msgstr "Wreathlit Noel（cosplay）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wreaths_at_the_foot_of_the_mountain:primary"
+msgid "wreaths_at_the_foot_of_the_mountain"
+msgstr "山脚的花环"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:wreck-gar:primary"
+msgid "wreck-gar"
+msgstr "Wreck-Gar"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 197
+#. aliases: 拉尔夫
+msgctxt "tag:wreck-it_ralph:primary"
+msgid "wreck-it_ralph"
+msgstr "无敌破坏王"
+
+#. alias-of: wreck-it_ralph
+#. source: ai
+msgctxt "tag:wreck-it_ralph:alias:1"
+msgid "wreck-it_ralph"
+msgstr "拉尔夫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:wreck-it_ralph_(character):primary"
+msgid "wreck-it_ralph_(character)"
+msgstr "破坏王拉尔夫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wreck-it_ralph_(character)_(cosplay):primary"
+msgid "wreck-it_ralph_(character)_(cosplay)"
+msgstr "破坏王拉尔夫（角色）（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:wreck_(to_be_hero_x):primary"
+msgid "wreck_(to_be_hero_x)"
+msgstr "破坏者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wreck_gar:primary"
+msgid "wreck_gar"
+msgstr "Wreck Gar"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: 缠足
+msgctxt "tag:wrecka_toesing:primary"
+msgid "wrecka_toesing"
+msgstr "wrecka_toesing"
+
+#. alias-of: wrecka_toesing
+#. source: ai
+msgctxt "tag:wrecka_toesing:alias:1"
+msgid "wrecka_toesing"
+msgstr "缠足"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.effect.damage.impact_effect
+#. safety: sfw
+#. post-count: 1085
+#. aliases: 残骸
+msgctxt "tag:wreckage:primary"
+msgid "wreckage"
+msgstr "废墟"
+
+#. alias-of: wreckage
+#. source: ai
+msgctxt "tag:wreckage:alias:1"
+msgid "wreckage"
+msgstr "残骸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wreckage_53:primary"
+msgid "wreckage_53"
+msgstr "wreckage_53"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrecked_fuse:primary"
+msgid "wrecked_fuse"
+msgstr "wrecked_fuse"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:wreckedmonger:primary"
+msgid "wreckedmonger"
+msgstr "Wreckedmonger"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:wreckedpolygon:primary"
+msgid "wreckedpolygon"
+msgstr "WreckedPolygon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wrecker_(another_eidos):primary"
+msgid "wrecker_(another_eidos)"
+msgstr "破坏者（Another Eidos）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wrecker_(star_wars):primary"
+msgid "wrecker_(star_wars)"
+msgstr "破坏者（星球大战）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wreckfish:primary"
+msgid "wreckfish"
+msgstr "鲛鱼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:wrecking_ball:primary"
+msgid "wrecking_ball"
+msgstr "破坏球"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:wrecking_ball_(overwatch):primary"
+msgid "wrecking_ball_(overwatch)"
+msgstr "破坏球"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:wrecking_crew:primary"
+msgid "wrecking_crew"
+msgstr "破坏者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wrecklyfan:primary"
+msgid "wrecklyfan"
+msgstr "Wrecklyfan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrecktoom:primary"
+msgid "wrecktoom"
+msgstr "wrecktoom"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:wrecktor:primary"
+msgid "wrecktor"
+msgstr "wrecktor"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrecktor_(cosplay):primary"
+msgid "wrecktor_(cosplay)"
+msgstr "wrecktor（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wredrew:primary"
+msgid "wredrew"
+msgstr "Wredrew"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wreg_(juunipupu):primary"
+msgid "wreg_(juunipupu)"
+msgstr "Wreg（juunipupu）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wreillyart:primary"
+msgid "wreillyart"
+msgstr "Wreillyart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wreirin:primary"
+msgid "wreirin"
+msgstr "wreirin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:wrell:primary"
+msgid "wrell"
+msgstr "Wrell"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wren_(archeops):primary"
+msgid "wren_(archeops)"
+msgstr "Wren"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 2
+#. aliases: wren
+msgctxt "tag:wren_(bird):primary"
+msgid "wren_(bird)"
+msgstr "鹪鹩"
+
+#. alias-of: wren_(bird)
+#. source: ai
+msgctxt "tag:wren_(bird):alias:1"
+msgid "wren_(bird)"
+msgstr "wren"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:wren_(degrees_of_lewdity):primary"
+msgid "wren_(degrees_of_lewdity)"
+msgstr "鹪鹩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.age_or_body_variant
+#. safety: mixed
+#. post-count: 5
+msgctxt "tag:wren_(female)_(degrees_of_lewdity):primary"
+msgid "wren_(female)_(degrees_of_lewdity)"
+msgstr "蕾恩（女）（Degrees of Lewdity）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wren_(jejejunum):primary"
+msgid "wren_(jejejunum)"
+msgstr "Wren（jejejunum）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.age_or_body_variant
+#. safety: mixed
+#. post-count: 21
+msgctxt "tag:wren_(male)_(degrees_of_lewdity):primary"
+msgid "wren_(male)_(degrees_of_lewdity)"
+msgstr "Wren（男性）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:wren_(minimilleu):primary"
+msgid "wren_(minimilleu)"
+msgstr "雷恩（米尼米留）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wren_(prodigal):primary"
+msgid "wren_(prodigal)"
+msgstr "Wren（Prodigal）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wren_(spoke088805):primary"
+msgid "wren_(spoke088805)"
+msgstr "Wren"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wren_(srw):primary"
+msgid "wren_(srw)"
+msgstr "Wren（SRW）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wren_(wrthreeh):primary"
+msgid "wren_(wrthreeh)"
+msgstr "Wren"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wren_pov:primary"
+msgid "wren_pov"
+msgstr "wren_pov"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 6196
+#. aliases: 扳子
+msgctxt "tag:wrench:primary"
+msgid "wrench"
+msgstr "扳手"
+
+#. alias-of: wrench
+#. source: ai
+msgctxt "tag:wrench:alias:1"
+msgid "wrench"
+msgstr "扳子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrench29531:primary"
+msgid "wrench29531"
+msgstr "扳手"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrench_(casshern_sins):primary"
+msgid "wrench_(casshern_sins)"
+msgstr "Wrench（Casshern Sins）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrench_(earclacks):primary"
+msgid "wrench_(earclacks)"
+msgstr "Wrench（Earclacks）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrench_(pixiv):primary"
+msgid "wrench_(pixiv)"
+msgstr "扳手（Pixiv画师）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:wrench_(shantae):primary"
+msgid "wrench_(shantae)"
+msgstr "扳手（香缇）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wrench_(superwrenching):primary"
+msgid "wrench_(superwrenching)"
+msgstr "Wrench"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrench_(thissave):primary"
+msgid "wrench_(thissave)"
+msgstr "Wrench（ThisSave）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrench_(vtuber):primary"
+msgid "wrench_(vtuber)"
+msgstr "Wrench（VTuber）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:wrench_(watch_dogs):primary"
+msgid "wrench_(watch_dogs)"
+msgstr "扳手（看门狗）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrench_earring:primary"
+msgid "wrench_earring"
+msgstr "扳手耳环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:wrench_hair_ornament:primary"
+msgid "wrench_hair_ornament"
+msgstr "扳手发饰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrench_luncheon:primary"
+msgid "wrench_luncheon"
+msgstr "Wrench Luncheon"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.decor.ornament_or_decoration
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wrench_ornament:primary"
+msgid "wrench_ornament"
+msgstr "扳手装饰物"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrench_print:primary"
+msgid "wrench_print"
+msgstr "扳手印花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrenchsand:primary"
+msgid "wrenchsand"
+msgstr "wrenchsand"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrenhat:primary"
+msgid "wrenhat"
+msgstr "鹪鹩帽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wreniriis:primary"
+msgid "wreniriis"
+msgstr "Wreniriis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrenlink:primary"
+msgid "wrenlink"
+msgstr "wrenlink"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrenna_lan_laxmi:primary"
+msgid "wrenna_lan_laxmi"
+msgstr "Wrenna Lan Laxmi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrennx:primary"
+msgid "wrennx"
+msgstr "wrennx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrenrios:primary"
+msgid "wrenrios"
+msgstr "wrenrios"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:wrenzephyr:primary"
+msgid "wrenzephyr"
+msgstr "WrenZephyr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrenzers:primary"
+msgid "wrenzers"
+msgstr "Wrenzers"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:wrestle!_idol:primary"
+msgid "wrestle!_idol"
+msgstr "摔跤！偶像"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 4
+#. aliases: 地下摔跤
+msgctxt "tag:wrestle!_the_underground:primary"
+msgid "wrestle!_the_underground"
+msgstr "Wrestle! The Underground"
+
+#. alias-of: wrestle!_the_underground
+#. source: ai
+msgctxt "tag:wrestle!_the_underground:alias:1"
+msgid "wrestle!_the_underground"
+msgstr "地下摔跤"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 688
+#. aliases: 与天使摔跤
+msgctxt "tag:wrestle_angels:primary"
+msgid "wrestle_angels"
+msgstr "天使摔跤"
+
+#. alias-of: wrestle_angels
+#. source: ai
+msgctxt "tag:wrestle_angels:alias:1"
+msgid "wrestle_angels"
+msgstr "与天使摔跤"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrestle_angels_i:primary"
+msgid "wrestle_angels_i"
+msgstr "摔跤天使 I"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 429
+msgctxt "tag:wrestle_angels_survivor:primary"
+msgid "wrestle_angels_survivor"
+msgstr "摔跤天使幸存者"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 248
+msgctxt "tag:wrestle_angels_survivor_2:primary"
+msgid "wrestle_angels_survivor_2"
+msgstr "摔跤天使幸存者2"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:wrestle_fight_girls:primary"
+msgid "wrestle_fight_girls"
+msgstr "摔跤格斗女孩"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrestle_maniacs:primary"
+msgid "wrestle_maniacs"
+msgstr "Wrestle Maniacs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrestle_tiger46:primary"
+msgid "wrestle_tiger46"
+msgstr "Wrestle Tiger46"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrestleball:primary"
+msgid "wrestleball"
+msgstr "WrestleBall"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wrestlemania:primary"
+msgid "wrestlemania"
+msgstr "摔角狂热"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrestlemania_2000:primary"
+msgid "wrestlemania_2000"
+msgstr "摔角狂热2000"
+
+#. danbooru-category: 0
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 597
+msgctxt "tag:wrestler:primary"
+msgid "wrestler"
+msgstr "摔跤手"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wrestler_(disgaea):primary"
+msgid "wrestler_(disgaea)"
+msgstr "摔跤手"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:wrestler_(rhythm_tengoku):primary"
+msgid "wrestler_(rhythm_tengoku)"
+msgstr "摔跤手"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:wrestler_kirby:primary"
+msgid "wrestler_kirby"
+msgstr "摔跤手星之卡比"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrestler_kirby_(sumo_topknot):primary"
+msgid "wrestler_kirby_(sumo_topknot)"
+msgstr "摔跤手卡比（sumo_topknot）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.combat_action
+#. safety: sfw
+#. post-count: 3226
+msgctxt "tag:wrestling:primary"
+msgid "wrestling"
+msgstr "摔跤"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.footwear
+#. safety: sfw
+#. post-count: 158
+#. aliases: 格斗靴
+msgctxt "tag:wrestling_boots:primary"
+msgid "wrestling_boots"
+msgstr "摔跤靴"
+
+#. alias-of: wrestling_boots
+#. source: ai
+msgctxt "tag:wrestling_boots:alias:1"
+msgid "wrestling_boots"
+msgstr "格斗靴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrestling_g:primary"
+msgid "wrestling_g"
+msgstr "Wrestling G"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 722
+msgctxt "tag:wrestling_mask:primary"
+msgid "wrestling_mask"
+msgstr "摔跤面具"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 4026
+#. aliases: 摔跤服装
+msgctxt "tag:wrestling_outfit:primary"
+msgid "wrestling_outfit"
+msgstr "摔跤服"
+
+#. alias-of: wrestling_outfit
+#. source: ai
+msgctxt "tag:wrestling_outfit:alias:1"
+msgid "wrestling_outfit"
+msgstr "摔跤服装"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.barrier_or_surface
+#. safety: sfw
+#. post-count: 1870
+#. aliases: 摔跤场
+msgctxt "tag:wrestling_ring:primary"
+msgid "wrestling_ring"
+msgstr "擂台"
+
+#. alias-of: wrestling_ring
+#. source: ai
+msgctxt "tag:wrestling_ring:alias:1"
+msgid "wrestling_ring"
+msgstr "摔跤场"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 14
+msgctxt "tag:wrestling_singlet:primary"
+msgid "wrestling_singlet"
+msgstr "摔跤服"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.pants_shorts
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:wrestling_trunks:primary"
+msgid "wrestling_trunks"
+msgstr "摔跤短裤"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:wretch_(elden_ring):primary"
+msgid "wretch_(elden_ring)"
+msgstr "Wretch（艾尔登法环）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wretch_(endrealm):primary"
+msgid "wretch_(endrealm)"
+msgstr "Wretch（Endrealm）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wretched_egg:primary"
+msgid "wretched_egg"
+msgstr "悲惨之卵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 阁楼幽灵
+msgctxt "tag:wretched_ghost_of_the_attic:primary"
+msgid "wretched_ghost_of_the_attic"
+msgstr "阁楼怨灵"
+
+#. alias-of: wretched_ghost_of_the_attic
+#. source: ai
+msgctxt "tag:wretched_ghost_of_the_attic:alias:1"
+msgid "wretched_ghost_of_the_attic"
+msgstr "阁楼幽灵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wretched_hag_(hon):primary"
+msgid "wretched_hag_(hon)"
+msgstr "Wretched Hag（HoN）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 堕落玫瑰(第七史诗)
+msgctxt "tag:wretched_rose_(epic_seven):primary"
+msgid "wretched_rose_(epic_seven)"
+msgstr "堕落玫瑰（第七史诗）"
+
+#. alias-of: wretched_rose_(epic_seven)
+#. source: ai
+msgctxt "tag:wretched_rose_(epic_seven):alias:1"
+msgid "wretched_rose_(epic_seven)"
+msgstr "堕落玫瑰(第七史诗)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wretchedhoax:primary"
+msgid "wretchedhoax"
+msgstr "Wretched Hoax"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wretchedspawn2012:primary"
+msgid "wretchedspawn2012"
+msgstr "wretchedspawn2012"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:wrevhy:primary"
+msgid "wrevhy"
+msgstr "wrevhy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrfts:primary"
+msgid "wrfts"
+msgstr "WRFTS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrhkaeru:primary"
+msgid "wrhkaeru"
+msgstr "wrhkaeru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:wridra:primary"
+msgid "wridra"
+msgstr "wridra"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wriggi_poe:primary"
+msgid "wriggi_poe"
+msgstr "Wriggi Poe"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 99
+msgctxt "tag:wriggle_day:primary"
+msgid "wriggle_day"
+msgstr "虫妹日"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10088
+#. aliases: 莉格露
+msgctxt "tag:wriggle_nightbug:primary"
+msgid "wriggle_nightbug"
+msgstr "莉格露·夜蛾"
+
+#. alias-of: wriggle_nightbug
+#. source: ai
+msgctxt "tag:wriggle_nightbug:alias:1"
+msgid "wriggle_nightbug"
+msgstr "莉格露"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:wriggle_nightbug_(bug):primary"
+msgid "wriggle_nightbug_(bug)"
+msgstr "Wriggle Nightbug"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 44
+#. aliases: 琪露诺cos
+msgctxt "tag:wriggle_nightbug_(cosplay):primary"
+msgid "wriggle_nightbug_(cosplay)"
+msgstr "琪露诺(扮演)"
+
+#. alias-of: wriggle_nightbug_(cosplay)
+#. source: ai
+msgctxt "tag:wriggle_nightbug_(cosplay):alias:1"
+msgid "wriggle_nightbug_(cosplay)"
+msgstr "琪露诺cos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wriggle_nightbug_(kaiju_of_augmentation_and_mutation):primary"
+msgid "wriggle_nightbug_(kaiju_of_augmentation_and_mutation)"
+msgstr "Wriggle Nightbug（强化与变异的怪兽）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: 莉格露
+msgctxt "tag:wriggle_nightbug_(worm_moon_firefly):primary"
+msgid "wriggle_nightbug_(worm_moon_firefly)"
+msgstr "莉格露·奈特巴格（Worm Moon Firefly）"
+
+#. alias-of: wriggle_nightbug_(worm_moon_firefly)
+#. source: ai
+msgctxt "tag:wriggle_nightbug_(worm_moon_firefly):alias:1"
+msgid "wriggle_nightbug_(worm_moon_firefly)"
+msgstr "莉格露"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wriggler_(slay_the_spire):primary"
+msgid "wriggler_(slay_the_spire)"
+msgstr "Wriggler（杀戮尖塔）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wrigglui:primary"
+msgid "wrigglui"
+msgstr "Wrigglui"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wright_flyer:primary"
+msgid "wright_flyer"
+msgstr "莱特飞行器"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:wright_flyer_live_entertainment:primary"
+msgid "wright_flyer_live_entertainment"
+msgstr "Wright Flyer Live Entertainment"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wright_immelman:primary"
+msgid "wright_immelman"
+msgstr "Wright Immelman"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wrightbus_new_routemaster:primary"
+msgid "wrightbus_new_routemaster"
+msgstr "Wrightbus New Routemaster巴士"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:wrightia:primary"
+msgid "wrightia"
+msgstr "Wrightia"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrigley's:primary"
+msgid "wrigley's"
+msgstr "Wrigley's"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wriizzyarts:primary"
+msgid "wriizzyarts"
+msgstr "wriizzyarts"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.object_manipulation
+#. safety: sfw
+#. post-count: 9
+#. aliases: 拧干
+msgctxt "tag:wring:primary"
+msgid "wring"
+msgstr "拧"
+
+#. alias-of: wring
+#. source: ai
+msgctxt "tag:wring:alias:1"
+msgid "wring"
+msgstr "拧干"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.object_manipulation
+#. safety: sfw
+#. post-count: 128
+#. aliases: 拧水
+msgctxt "tag:wringing:primary"
+msgid "wringing"
+msgstr "拧衣服"
+
+#. alias-of: wringing
+#. source: ai
+msgctxt "tag:wringing:alias:1"
+msgid "wringing"
+msgstr "拧水"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 1452
+msgctxt "tag:wringing_clothes:primary"
+msgid "wringing_clothes"
+msgstr "拧衣服"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.damage_or_wet
+#. safety: mixed
+#. post-count: 92
+#. aliases: 湿裙
+msgctxt "tag:wringing_dress:primary"
+msgid "wringing_dress"
+msgstr "拧衣裙"
+
+#. alias-of: wringing_dress
+#. source: ai
+msgctxt "tag:wringing_dress:alias:1"
+msgid "wringing_dress"
+msgstr "湿裙"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_manipulation
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wringing_ear:primary"
+msgid "wringing_ear"
+msgstr "拧耳朵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.object_manipulation
+#. safety: sfw
+#. post-count: 1
+#. aliases: 拧绞手套
+msgctxt "tag:wringing_gloves:primary"
+msgid "wringing_gloves"
+msgstr "拧手套"
+
+#. alias-of: wringing_gloves
+#. source: ai
+msgctxt "tag:wringing_gloves:alias:1"
+msgid "wringing_gloves"
+msgstr "拧绞手套"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 83
+msgctxt "tag:wringing_hair:primary"
+msgid "wringing_hair"
+msgstr "拧头发"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.fit_and_opening
+#. safety: mixed
+#. post-count: 509
+#. aliases: 扭绞裙
+msgctxt "tag:wringing_skirt:primary"
+msgid "wringing_skirt"
+msgstr "褶皱裙"
+
+#. alias-of: wringing_skirt
+#. source: ai
+msgctxt "tag:wringing_skirt:alias:1"
+msgid "wringing_skirt"
+msgstr "扭绞裙"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_manipulation
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wringing_tail:primary"
+msgid "wringing_tail"
+msgstr "拧尾巴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrinkle_mail:primary"
+msgid "wrinkle_mail"
+msgstr "Wrinkle Mail"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrinkle_rat:primary"
+msgid "wrinkle_rat"
+msgstr "皱纹鼠"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrinkled_chin:primary"
+msgid "wrinkled_chin"
+msgstr "皱纹下巴"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrinkled_ears:primary"
+msgid "wrinkled_ears"
+msgstr "皱褶耳朵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.material.fabric_material
+#. safety: mixed
+#. post-count: 499
+#. aliases: 皱褶布料
+msgctxt "tag:wrinkled_fabric:primary"
+msgid "wrinkled_fabric"
+msgstr "褶皱布料"
+
+#. alias-of: wrinkled_fabric
+#. source: ai
+msgctxt "tag:wrinkled_fabric:alias:1"
+msgid "wrinkled_fabric"
+msgstr "皱褶布料"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:wrinkled_forehead:primary"
+msgid "wrinkled_forehead"
+msgstr "皱眉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.expression.facial_expression
+#. safety: sfw
+#. post-count: 105
+#. aliases: 褶皱皱眉
+msgctxt "tag:wrinkled_frown_(detective_pikachu):primary"
+msgid "wrinkled_frown_(detective_pikachu)"
+msgstr "皱眉"
+
+#. alias-of: wrinkled_frown_(detective_pikachu)
+#. source: ai
+msgctxt "tag:wrinkled_frown_(detective_pikachu):alias:1"
+msgid "wrinkled_frown_(detective_pikachu)"
+msgstr "褶皱皱眉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 9
+#. aliases: 褶皱嘴唇
+msgctxt "tag:wrinkled_lips:primary"
+msgid "wrinkled_lips"
+msgstr "皱唇"
+
+#. alias-of: wrinkled_lips
+#. source: ai
+msgctxt "tag:wrinkled_lips:alias:1"
+msgid "wrinkled_lips"
+msgstr "褶皱嘴唇"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrinkled_piglet_(meme):primary"
+msgid "wrinkled_piglet_(meme)"
+msgstr "皱褶小猪（梗图）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.texture.body_surface_texture
+#. safety: sfw
+#. post-count: 4322
+#. aliases: 皱皮
+msgctxt "tag:wrinkled_skin:primary"
+msgid "wrinkled_skin"
+msgstr "皱纹皮肤"
+
+#. alias-of: wrinkled_skin
+#. source: ai
+msgctxt "tag:wrinkled_skin:alias:1"
+msgid "wrinkled_skin"
+msgstr "皱皮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrinkly_forehead_(omori):primary"
+msgid "wrinkly_forehead_(omori)"
+msgstr "Wrinkly Forehead（OMORI）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrinkly_kong:primary"
+msgid "wrinkly_kong"
+msgstr "Wrinkly Kong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:wriny199443:primary"
+msgid "wriny199443"
+msgstr "Wriny199443"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wriochii:primary"
+msgid "wriochii"
+msgstr "Wriochii"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:wriothesley_(galaxy_store)_(genshin_impact):primary"
+msgid "wriothesley_(galaxy_store)_(genshin_impact)"
+msgstr "莱欧斯利"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2136
+#. aliases: wriothesley
+msgctxt "tag:wriothesley_(genshin_impact):primary"
+msgid "wriothesley_(genshin_impact)"
+msgstr "莱欧斯利"
+
+#. alias-of: wriothesley_(genshin_impact)
+#. source: ai
+msgctxt "tag:wriothesley_(genshin_impact):alias:1"
+msgid "wriothesley_(genshin_impact)"
+msgstr "wriothesley"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 17
+#. aliases: 莱欧斯利
+msgctxt "tag:wriothesley_(genshin_impact)_(cosplay):primary"
+msgid "wriothesley_(genshin_impact)_(cosplay)"
+msgstr "莱欧斯利（原神）"
+
+#. alias-of: wriothesley_(genshin_impact)_(cosplay)
+#. source: ai
+msgctxt "tag:wriothesley_(genshin_impact)_(cosplay):alias:1"
+msgid "wriothesley_(genshin_impact)_(cosplay)"
+msgstr "莱欧斯利"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+#. aliases: 莱欧斯利（原神）
+msgctxt "tag:wriothesley_(live_actually)_(genshin_impact):primary"
+msgid "wriothesley_(live_actually)_(genshin_impact)"
+msgstr "莱欧斯利"
+
+#. alias-of: wriothesley_(live_actually)_(genshin_impact)
+#. source: ai
+msgctxt "tag:wriothesley_(live_actually)_(genshin_impact):alias:1"
+msgid "wriothesley_(live_actually)_(genshin_impact)"
+msgstr "莱欧斯利（原神）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wriothesley_(nestle)_(genshin_impact):primary"
+msgid "wriothesley_(nestle)_(genshin_impact)"
+msgstr "莱欧斯利（原神）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+#. aliases: 莱欧斯利（原神）
+msgctxt "tag:wriothesley_(teyvat_turboflux)_(genshin_impact):primary"
+msgid "wriothesley_(teyvat_turboflux)_(genshin_impact)"
+msgstr "莱欧斯利"
+
+#. alias-of: wriothesley_(teyvat_turboflux)_(genshin_impact)
+#. source: ai
+msgctxt "tag:wriothesley_(teyvat_turboflux)_(genshin_impact):alias:1"
+msgid "wriothesley_(teyvat_turboflux)_(genshin_impact)"
+msgstr "莱欧斯利（原神）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wririamu:primary"
+msgid "wririamu"
+msgstr "wririamu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:wriskelis:primary"
+msgid "wriskelis"
+msgstr "Wriskelis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:wrist_(wrist0000):primary"
+msgid "wrist_(wrist0000)"
+msgstr "手腕"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:wrist_bell:primary"
+msgid "wrist_bell"
+msgstr "腕铃"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 1327
+#. aliases: 手环
+msgctxt "tag:wrist_belt:primary"
+msgid "wrist_belt"
+msgstr "腕带"
+
+#. alias-of: wrist_belt
+#. source: ai
+msgctxt "tag:wrist_belt:alias:1"
+msgid "wrist_belt"
+msgstr "手环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 255
+msgctxt "tag:wrist_blades:primary"
+msgid "wrist_blades"
+msgstr "腕刃"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 107
+#. aliases: 手腕球
+msgctxt "tag:wrist_bobbles:primary"
+msgid "wrist_bobbles"
+msgstr "腕饰球"
+
+#. alias-of: wrist_bobbles
+#. source: ai
+msgctxt "tag:wrist_bobbles:alias:1"
+msgid "wrist_bobbles"
+msgstr "手腕球"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.detail.decorative_detail
+#. safety: sfw
+#. post-count: 3273
+#. aliases: 腕结
+msgctxt "tag:wrist_bow:primary"
+msgid "wrist_bow"
+msgstr "腕蝴蝶结"
+
+#. alias-of: wrist_bow
+#. source: ai
+msgctxt "tag:wrist_bow:alias:1"
+msgid "wrist_bow"
+msgstr "腕结"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.gloves
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrist_brace:primary"
+msgid "wrist_brace"
+msgstr "护腕"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wrist_cannon:primary"
+msgid "wrist_cannon"
+msgstr "腕炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 96
+#. aliases: 手腕链
+msgctxt "tag:wrist_chain:primary"
+msgid "wrist_chain"
+msgstr "手链"
+
+#. alias-of: wrist_chain
+#. source: ai
+msgctxt "tag:wrist_chain:alias:1"
+msgid "wrist_chain"
+msgstr "手腕链"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:wrist_collar:primary"
+msgid "wrist_collar"
+msgstr "手腕项圈"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:wrist_compass:primary"
+msgid "wrist_compass"
+msgstr "腕部指南针"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 58
+#. aliases: 手腕电脑
+msgctxt "tag:wrist_computer:primary"
+msgid "wrist_computer"
+msgstr "腕式电脑"
+
+#. alias-of: wrist_computer
+#. source: ai
+msgctxt "tag:wrist_computer:alias:1"
+msgid "wrist_computer"
+msgstr "手腕电脑"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.gloves
+#. safety: sfw
+#. post-count: 200054
+#. aliases: 腕扣
+msgctxt "tag:wrist_cuffs:primary"
+msgid "wrist_cuffs"
+msgstr "腕饰"
+
+#. alias-of: wrist_cuffs
+#. source: ai
+msgctxt "tag:wrist_cuffs:alias:1"
+msgid "wrist_cuffs"
+msgstr "腕扣"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.fit_and_opening
+#. safety: mixed
+#. post-count: 16
+msgctxt "tag:wrist_cutout:primary"
+msgid "wrist_cutout"
+msgstr "腕部镂空"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.event.threat_failure_or_death
+#. safety: mixed
+#. post-count: 19
+msgctxt "tag:wrist_cutter_(e.g.o):primary"
+msgid "wrist_cutter_(e.g.o)"
+msgstr "割腕者"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.effect.damage.impact_effect
+#. safety: sfw
+#. post-count: 1454
+msgctxt "tag:wrist_cutting:primary"
+msgid "wrist_cutting"
+msgstr "割腕"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrist_display:primary"
+msgid "wrist_display"
+msgstr "腕部显示器"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.arm_position
+#. safety: sfw
+#. post-count: 169
+msgctxt "tag:wrist_extended:primary"
+msgid "wrist_extended"
+msgstr "手腕伸展"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.arm_position
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:wrist_flexed:primary"
+msgid "wrist_flexed"
+msgstr "手腕弯曲"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 1131
+msgctxt "tag:wrist_flower:primary"
+msgid "wrist_flower"
+msgstr "腕花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.gloves
+#. safety: sfw
+#. post-count: 3641
+#. aliases: 腕套
+msgctxt "tag:wrist_guards:primary"
+msgid "wrist_guards"
+msgstr "护腕"
+
+#. alias-of: wrist_guards
+#. source: ai
+msgctxt "tag:wrist_guards:alias:1"
+msgid "wrist_guards"
+msgstr "腕套"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:wrist_gun:primary"
+msgid "wrist_gun"
+msgstr "腕枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 1
+#. aliases: 手环光环
+msgctxt "tag:wrist_halo:primary"
+msgid "wrist_halo"
+msgstr "手腕光环"
+
+#. alias-of: wrist_halo
+#. source: ai
+msgctxt "tag:wrist_halo:alias:1"
+msgid "wrist_halo"
+msgstr "手环光环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.social_or_intentional_action
+#. safety: mixed
+#. post-count: 3
+msgctxt "tag:wrist_kiss:primary"
+msgid "wrist_kiss"
+msgstr "亲吻手腕"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrist_lanyard:primary"
+msgid "wrist_lanyard"
+msgstr "手腕挂绳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrist_leash:primary"
+msgid "wrist_leash"
+msgstr "手腕牵引绳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.waist_belt_sash
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:wrist_neckerchief:primary"
+msgid "wrist_neckerchief"
+msgstr "手腕颈巾"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 6
+#. aliases: 手腕穿刺
+msgctxt "tag:wrist_piercing:primary"
+msgid "wrist_piercing"
+msgstr "手腕穿孔饰品"
+
+#. alias-of: wrist_piercing
+#. source: ai
+msgctxt "tag:wrist_piercing:alias:1"
+msgid "wrist_piercing"
+msgstr "手腕穿刺"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.detail.decorative_detail
+#. safety: sfw
+#. post-count: 7424
+msgctxt "tag:wrist_ribbon:primary"
+msgid "wrist_ribbon"
+msgstr "腕带丝带"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.detail.decorative_detail
+#. safety: sfw
+#. post-count: 27
+#. aliases: 腕饰
+msgctxt "tag:wrist_ruff:primary"
+msgid "wrist_ruff"
+msgstr "腕部褶饰"
+
+#. alias-of: wrist_ruff
+#. source: ai
+msgctxt "tag:wrist_ruff:alias:1"
+msgid "wrist_ruff"
+msgstr "腕饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.waist_belt_sash
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrist_scarf:primary"
+msgid "wrist_scarf"
+msgstr "腕巾"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 27086
+#. aliases: 发圈
+msgctxt "tag:wrist_scrunchie:primary"
+msgid "wrist_scrunchie"
+msgstr "手腕发圈"
+
+#. alias-of: wrist_scrunchie
+#. source: ai
+msgctxt "tag:wrist_scrunchie:alias:1"
+msgid "wrist_scrunchie"
+msgstr "发圈"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.detail.functional_detail
+#. safety: sfw
+#. post-count: 788
+msgctxt "tag:wrist_straps:primary"
+msgid "wrist_straps"
+msgstr "腕带"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.skin.skin_marking
+#. safety: sfw
+#. post-count: 284
+#. aliases: 手腕刺青
+msgctxt "tag:wrist_tattoo:primary"
+msgid "wrist_tattoo"
+msgstr "手腕纹身"
+
+#. alias-of: wrist_tattoo
+#. source: ai
+msgctxt "tag:wrist_tattoo:alias:1"
+msgid "wrist_tattoo"
+msgstr "手腕刺青"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.shape_or_mechanical_part
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:wrist_weights:primary"
+msgid "wrist_weights"
+msgstr "腕部配重"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.nonhuman.horns_wings_scales
+#. safety: sfw
+#. post-count: 169
+#. aliases: 手腕翅膀
+msgctxt "tag:wrist_wings:primary"
+msgid "wrist_wings"
+msgstr "腕翼"
+
+#. alias-of: wrist_wings
+#. source: ai
+msgctxt "tag:wrist_wings:alias:1"
+msgid "wrist_wings"
+msgstr "手腕翅膀"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.gloves
+#. safety: sfw
+#. post-count: 2020
+msgctxt "tag:wrist_wrap:primary"
+msgid "wrist_wrap"
+msgstr "护腕"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 66416
+#. aliases: 手环
+msgctxt "tag:wristband:primary"
+msgid "wristband"
+msgstr "腕带"
+
+#. alias-of: wristband
+#. source: ai
+msgctxt "tag:wristband:alias:1"
+msgid "wristband"
+msgstr "手环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wristjob:primary"
+msgid "wristjob"
+msgstr "腕部作业"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.bag
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:wristlet_(bag):primary"
+msgid "wristlet_(bag)"
+msgstr "腕包"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_manipulation
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wristlock:primary"
+msgid "wristlock"
+msgstr "腕部锁扣"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.arm_position
+#. safety: sfw
+#. post-count: 311
+#. aliases: 手腕伸出
+msgctxt "tag:wrists_extended:primary"
+msgid "wrists_extended"
+msgstr "手腕伸展"
+
+#. alias-of: wrists_extended
+#. source: ai
+msgctxt "tag:wrists_extended:alias:1"
+msgid "wrists_extended"
+msgstr "手腕伸出"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 26820
+#. aliases: 腕表
+msgctxt "tag:wristwatch:primary"
+msgid "wristwatch"
+msgstr "手表"
+
+#. alias-of: wristwatch
+#. source: ai
+msgctxt "tag:wristwatch:alias:1"
+msgid "wristwatch"
+msgstr "腕表"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.detail.functional_detail
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:wristwatch_over_clothes:primary"
+msgid "wristwatch_over_clothes"
+msgstr "腕表戴在衣服外"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 97
+msgctxt "tag:wristwear:primary"
+msgid "wristwear"
+msgstr "腕饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.gloves
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wristwear_over_sleeves:primary"
+msgid "wristwear_over_sleeves"
+msgstr "袖外腕饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:write_that_down_write_that_down_(meme):primary"
+msgid "write_that_down_write_that_down_(meme)"
+msgstr "记下来记下来（梗）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+#. aliases: IDOLiSH7
+msgctxt "tag:write_the_next_step_with_you_(idolish7):primary"
+msgid "write_the_next_step_with_you_(idolish7)"
+msgstr "《IDOLiSH7》Write the Next Step with You"
+
+#. alias-of: write_the_next_step_with_you_(idolish7)
+#. source: ai
+msgctxt "tag:write_the_next_step_with_you_(idolish7):alias:1"
+msgid "write_the_next_step_with_you_(idolish7)"
+msgstr "IDOLiSH7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:writer_park:primary"
+msgid "writer_park"
+msgstr "writer_park"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:writerbear:primary"
+msgid "writerbear"
+msgstr "Writerbear"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:writerluobai:primary"
+msgid "writerluobai"
+msgstr "Writerluobai"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.mental.thought_or_imagination
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:writers_block:primary"
+msgid "writers_block"
+msgstr "写作瓶颈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:writhe:primary"
+msgid "writhe"
+msgstr "扭动"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 6093
+#. aliases: 写作
+msgctxt "tag:writing:primary"
+msgid "writing"
+msgstr "书写"
+
+#. alias-of: writing
+#. source: ai
+msgctxt "tag:writing:alias:1"
+msgid "writing"
+msgstr "写作"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.context.sexual_theme
+#. safety: nsfw
+#. post-count: 108
+#. aliases: 屁股写字
+msgctxt "tag:writing_on_ass:primary"
+msgid "writing_on_ass"
+msgstr "臀部写字"
+
+#. alias-of: writing_on_ass
+#. source: ai
+msgctxt "tag:writing_on_ass:alias:1"
+msgid "writing_on_ass"
+msgstr "屁股写字"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_manipulation
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:writing_on_feet:primary"
+msgid "writing_on_feet"
+msgstr "在脚上写字"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.barrier_or_surface
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:writing_on_floor:primary"
+msgid "writing_on_floor"
+msgstr "地板上的字"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.book_paper
+#. safety: sfw
+#. post-count: 74
+msgctxt "tag:writing_on_hand:primary"
+msgid "writing_on_hand"
+msgstr "手写文字"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.body.explicit_genitalia
+#. safety: nsfw
+#. post-count: 11
+msgctxt "tag:writing_on_penis:primary"
+msgid "writing_on_penis"
+msgstr "阴茎上写字"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_manipulation
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:writing_on_soles:primary"
+msgid "writing_on_soles"
+msgstr "脚底写字"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.barrier_or_surface
+#. safety: sfw
+#. post-count: 248
+msgctxt "tag:writing_on_wall:primary"
+msgid "writing_on_wall"
+msgstr "墙面文字"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:writingthewaves:primary"
+msgid "writingthewaves"
+msgstr "Writingthewaves"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:written_in_water_(honkai:_star_rail):primary"
+msgid "written_in_water_(honkai:_star_rail)"
+msgstr "《星穹铁道》中的《Written in Water》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:writtenive:primary"
+msgid "writtenive"
+msgstr "Writtenive"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrldstarjen:primary"
+msgid "wrldstarjen"
+msgstr "Wrldstarjen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrldturbine:primary"
+msgid "wrldturbine"
+msgstr "wrldturbine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrmg_hmhm:primary"
+msgid "wrmg_hmhm"
+msgstr "wrmg_hmhm"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wroggi:primary"
+msgid "wroggi"
+msgstr "沃吉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 29
+msgctxt "tag:wroggi_(armor):primary"
+msgid "wroggi_(armor)"
+msgstr "瓦洛吉(铠甲)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wronci:primary"
+msgid "wronci"
+msgstr "Wronci"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: wrongillust
+msgctxt "tag:wrong_(wrongillust):primary"
+msgid "wrong_(wrongillust)"
+msgstr "wrong（wrongillust）"
+
+#. alias-of: wrong_(wrongillust)
+#. source: ai
+msgctxt "tag:wrong_(wrongillust):alias:1"
+msgid "wrong_(wrongillust)"
+msgstr "wrongillust"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrong_(wrongorightt):primary"
+msgid "wrong_(wrongorightt)"
+msgstr "wrong_(wrongorightt)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wrong_animation_speed:primary"
+msgid "wrong_animation_speed"
+msgstr "动画速度错误"
+
+#. danbooru-category: 0
+#. taxonomy-id: 5.meta.admin.tag_status
+#. safety: sfw
+#. post-count: 1019
+msgctxt "tag:wrong_foot:primary"
+msgid "wrong_foot"
+msgstr "错脚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrong_half_(drawfee):primary"
+msgid "wrong_half_(drawfee)"
+msgstr "Wrong Half（Drawfee）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:wrong_halo:primary"
+msgid "wrong_halo"
+msgstr "错误光环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.limb.limbs_hands_feet
+#. safety: sfw
+#. post-count: 301
+msgctxt "tag:wrong_hand:primary"
+msgid "wrong_hand"
+msgstr "手错误"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrong_id:primary"
+msgid "wrong_id"
+msgstr "wrong_id"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:wrongscale:primary"
+msgid "wrongscale"
+msgstr "Wrongscale"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wronstap:primary"
+msgid "wronstap"
+msgstr "wronstap"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wrotaryspirit:primary"
+msgid "wrotaryspirit"
+msgstr "旋转之灵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:wrozzii:primary"
+msgid "wrozzii"
+msgstr "Wrozzii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:wrrmfla:primary"
+msgid "wrrmfla"
+msgstr "Wrrmfla"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrroniec:primary"
+msgid "wrroniec"
+msgstr "wrroniec"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrrry_yyy:primary"
+msgid "wrrry_yyy"
+msgstr "wrrry_yyy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrsndm123:primary"
+msgid "wrsndm123"
+msgstr "wrsndm123"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrt:primary"
+msgid "wrt"
+msgstr "wrt"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrumple:primary"
+msgid "wrumple"
+msgstr "Wrumple"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrwinter111:primary"
+msgid "wrwinter111"
+msgstr "wrwinter111"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:wrwr:primary"
+msgid "wrwr"
+msgstr "未知标签"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wrwtnb:primary"
+msgid "wrwtnb"
+msgstr "Wrwtnb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 缠绕物
+msgctxt "tag:wrxn:primary"
+msgid "wrxn"
+msgstr "缠绕"
+
+#. alias-of: wrxn
+#. source: ai
+msgctxt "tag:wrxn:alias:1"
+msgid "wrxn"
+msgstr "缠绕物"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wrxsr2hp0clzxrc:primary"
+msgid "wrxsr2hp0clzxrc"
+msgstr "wrxsr2hp0clzxrc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:wry-sunbeam:primary"
+msgid "wry-sunbeam"
+msgstr "wry-sunbeam"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wryna:primary"
+msgid "wryna"
+msgstr "Wryna"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wryneck_(fate):primary"
+msgid "wryneck_(fate)"
+msgstr "Wryneck（Fate）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:wrynegade:primary"
+msgid "wrynegade"
+msgstr "wrynegade"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 死神Wrynn
+msgctxt "tag:wrynn_(i'm_the_grim_reaper):primary"
+msgid "wrynn_(i'm_the_grim_reaper)"
+msgstr "Wrynn（《I'm the Grim Reaper》）"
+
+#. alias-of: wrynn_(i'm_the_grim_reaper)
+#. source: ai
+msgctxt "tag:wrynn_(i'm_the_grim_reaper):alias:1"
+msgid "wrynn_(i'm_the_grim_reaper)"
+msgstr "死神Wrynn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wrynnnnn:primary"
+msgid "wrynnnnn"
+msgstr "wrynnnnn"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:wrys_(fire_emblem):primary"
+msgid "wrys_(fire_emblem)"
+msgstr "威鲁斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:wryx:primary"
+msgid "wryx"
+msgstr "wryx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:wryynn189954:primary"
+msgid "wryynn189954"
+msgstr "wryynn189954"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+#. aliases: Wryyy
+msgctxt "tag:wryyyto:primary"
+msgid "wryyyto"
+msgstr "Wryyy！"
+
+#. alias-of: wryyyto
+#. source: ai
+msgctxt "tag:wryyyto:alias:1"
+msgid "wryyyto"
+msgstr "Wryyy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:wryyyy:primary"
+msgid "wryyyy"
+msgstr "wryyyy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:wryyyyy_(pixiv_88189348):primary"
+msgid "wryyyyy_(pixiv_88189348)"
+msgstr "Wryyyyy"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.reaction.comic_or_exaggerated_reaction
+#. safety: sfw
+#. post-count: 212
+#. aliases: wryyy
+msgctxt "tag:wryyyyyyyyyyyyyyyyyyyy:primary"
+msgid "wryyyyyyyyyyyyyyyyyyyy"
+msgstr "木大"
+
+#. alias-of: wryyyyyyyyyyyyyyyyyyyy
+#. source: ai
+msgctxt "tag:wryyyyyyyyyyyyyyyyyyyy:alias:1"
+msgid "wryyyyyyyyyyyyyyyyyyyy"
+msgstr "wryyy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wryz_(another_eden):primary"
+msgid "wryz_(another_eden)"
+msgstr "Wryz（Another Eden）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:wrzydyspdys:primary"
+msgid "wrzydyspdys"
+msgstr "wrzydyspdys"

@@ -1,0 +1,924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:14-bis:primary"
+msgid "14-bis"
+msgstr "14-bis飞机"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 14号
+msgctxt "tag:14-chan:primary"
+msgid "14-chan"
+msgstr "14酱"
+
+#. alias-of: 14-chan
+#. source: ai
+msgctxt "tag:14-chan:alias:1"
+msgid "14-chan"
+msgstr "14号"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:14-sai_to_illustrator:primary"
+msgid "14-sai_to_illustrator"
+msgstr "14岁与插画师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14-tsuki:primary"
+msgid "14-tsuki"
+msgstr "14月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:1400kr:primary"
+msgid "1400kr"
+msgstr "1400kr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1401433135:primary"
+msgid "1401433135"
+msgstr "1401433135"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1403352589:primary"
+msgid "1403352589"
+msgstr "1403352589"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1404433:primary"
+msgid "1404433"
+msgstr "1404433"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:1404_hana:primary"
+msgid "1404_hana"
+msgstr "1404_hana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1405_f:primary"
+msgid "1405_f"
+msgstr "1405_f"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1406jihan:primary"
+msgid "1406jihan"
+msgstr "1406jihan"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:1408_(movie):primary"
+msgid "1408_(movie)"
+msgstr "1408"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:141:primary"
+msgid "141"
+msgstr "141"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14105179:primary"
+msgid "14105179"
+msgstr "14105179"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14112_otaku:primary"
+msgid "14112_otaku"
+msgstr "14112_otaku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14120623:primary"
+msgid "14120623"
+msgstr "14120623"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1413_ringo:primary"
+msgid "1413_ringo"
+msgstr "1413_ringo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1413haruka:primary"
+msgid "1413haruka"
+msgstr "1413haruka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1415370393:primary"
+msgid "1415370393"
+msgstr "1415370393"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1415940828:primary"
+msgid "1415940828"
+msgstr "1415940828"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14181323:primary"
+msgid "14181323"
+msgstr "14181323"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:14184576:primary"
+msgid "14184576"
+msgstr "14184576"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:141sharky:primary"
+msgid "141sharky"
+msgstr "141sharky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:141yoi:primary"
+msgid "141yoi"
+msgstr "141yoi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:1428_ewe:primary"
+msgid "1428_ewe"
+msgstr "1428_ewe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:1433990970:primary"
+msgid "1433990970"
+msgstr "1433990970"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1439195105:primary"
+msgid "1439195105"
+msgstr "1439195105"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:143_(1227xxx):primary"
+msgid "143_(1227xxx)"
+msgstr "143"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:143_(hakuyagen):primary"
+msgid "143_(hakuyagen)"
+msgstr "143（白月Gen）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 375
+msgctxt "tag:143_ocean_boulevard:primary"
+msgid "143_ocean_boulevard"
+msgstr "143海滨大道"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:143noho:primary"
+msgid "143noho"
+msgstr "143noho"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:143x0x0:primary"
+msgid "143x0x0"
+msgstr "143x0x0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1441214:primary"
+msgid "1441214"
+msgstr "1441214"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1441247349:primary"
+msgid "1441247349"
+msgstr "数字ID"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1442653:primary"
+msgid "1442653"
+msgstr "1442653"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1443605234:primary"
+msgid "1443605234"
+msgstr "1443605234"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:1444_(video):primary"
+msgid "1444_(video)"
+msgstr "《1444》（视频）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:1444tmt:primary"
+msgid "1444tmt"
+msgstr "1444tmt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:1445286239:primary"
+msgid "1445286239"
+msgstr "1445286239"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:144912897:primary"
+msgid "144912897"
+msgstr "144912897"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:14499150:primary"
+msgid "14499150"
+msgstr "14499150"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 84
+msgctxt "tag:144_(riesztan):primary"
+msgid "144_(riesztan)"
+msgstr "144 (riesztan)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:144ppicasso:primary"
+msgid "144ppicasso"
+msgstr "144ppicasso"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:144udy:primary"
+msgid "144udy"
+msgstr "144udy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1452_ale_89:primary"
+msgid "1452_ale_89"
+msgstr "1452_ale_89"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:145web:primary"
+msgid "145web"
+msgstr "145web"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1461914785:primary"
+msgid "1461914785"
+msgstr "1461914785"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14665989:primary"
+msgid "14665989"
+msgstr "14665989"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1466739408:primary"
+msgid "1466739408"
+msgstr "1466739408"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:146944:primary"
+msgid "146944"
+msgstr "146944"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 110
+#. aliases: 147
+msgctxt "tag:147:primary"
+msgid "147"
+msgstr "147"
+
+#. alias-of: 147
+#. source: ai
+msgctxt "tag:147:alias:1"
+msgid "147"
+msgstr "147"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1472491:primary"
+msgid "1472491"
+msgstr "1472491"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 76
+msgctxt "tag:1473ex:primary"
+msgid "1473ex"
+msgstr "1473ex"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:147807266_(pixiv11504383):primary"
+msgid "147807266_(pixiv11504383)"
+msgstr "147807266（Pixiv 11504383）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1479001934:primary"
+msgid "1479001934"
+msgstr "1479001934"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:147penguinmw:primary"
+msgid "147penguinmw"
+msgstr "147企鹅mw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:148:primary"
+msgid "148"
+msgstr "148"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:1481958711:primary"
+msgid "1481958711"
+msgstr "1481958711"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1482ksr:primary"
+msgid "1482ksr"
+msgstr "1482ksr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:1483119403seashell:primary"
+msgid "1483119403seashell"
+msgstr "1483119403seashell"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14837265:primary"
+msgid "14837265"
+msgstr "14837265"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1485759532siren:primary"
+msgid "1485759532siren"
+msgstr "1485759532siren"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14894567:primary"
+msgid "14894567"
+msgstr "14894567"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:148cm:primary"
+msgid "148cm"
+msgstr "148厘米"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.count.no_subject
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:148m:primary"
+msgid "148m"
+msgstr "148米"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:148nasuka:primary"
+msgid "148nasuka"
+msgstr "148nasuka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:1496yue:primary"
+msgid "1496yue"
+msgstr "1496月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:1497_mtnr:primary"
+msgid "1497_mtnr"
+msgstr "1497 MTNR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:149_150:primary"
+msgid "149_150"
+msgstr "149_150"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:149mts:primary"
+msgid "149mts"
+msgstr "149mts"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:14_(hijiri):primary"
+msgid "14_(hijiri)"
+msgstr "14（圣）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:14_(l4l1l):primary"
+msgid "14_(l4l1l)"
+msgstr "14_(l4l1l)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.quality.quality_score
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14_(number):primary"
+msgid "14_(number)"
+msgstr "14"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 243
+msgctxt "tag:14_(vision5032):primary"
+msgid "14_(vision5032)"
+msgstr "14视觉5032"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:14_days_with_you:primary"
+msgid "14_days_with_you"
+msgstr "与你共度14天"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:14_hao_qu_qi:primary"
+msgid "14_hao_qu_qi"
+msgstr "14号曲奇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14_nichi:primary"
+msgid "14_nichi"
+msgstr "14日"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:14_riatsu:primary"
+msgid "14_riatsu"
+msgstr "14_riatsu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:14_shizu:primary"
+msgid "14_shizu"
+msgstr "十四岁静"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14_tckuuu9:primary"
+msgid "14_tckuuu9"
+msgstr "14_tckuuu9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:14c:primary"
+msgid "14c"
+msgstr "14c"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:14cm_single_gun_mount:primary"
+msgid "14cm_single_gun_mount"
+msgstr "14厘米单炮座"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14da_11:primary"
+msgid "14da_11"
+msgstr "14da11"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 1
+msgctxt "tag:14f_shoukougun:primary"
+msgid "14f_shoukougun"
+msgstr "14岁少女症候群"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14fho:primary"
+msgid "14fho"
+msgstr "14fho"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:14ga:primary"
+msgid "14ga"
+msgstr "14ga"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:14go_han:primary"
+msgid "14go_han"
+msgstr "14go_han"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:14heaki:primary"
+msgid "14heaki"
+msgstr "14heaki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:14ho_sd:primary"
+msgid "14ho_sd"
+msgstr "14ho_sd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14illll:primary"
+msgid "14illll"
+msgstr "14illll"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:14illlll:primary"
+msgid "14illlll"
+msgstr "14illlll"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:14iucc:primary"
+msgid "14iucc"
+msgstr "14iucc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14kshunshun:primary"
+msgid "14kshunshun"
+msgstr "14kshunshun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:14llaann:primary"
+msgid "14llaann"
+msgstr "14llaann"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14lumlum:primary"
+msgid "14lumlum"
+msgstr "14lumlum"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14m_rv:primary"
+msgid "14m_rv"
+msgstr "14m_rv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:14mango:primary"
+msgid "14mango"
+msgstr "14mango"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14mrft23:primary"
+msgid "14mrft23"
+msgstr "14mrft23"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:14p:primary"
+msgid "14p"
+msgstr "14P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14qoo:primary"
+msgid "14qoo"
+msgstr "14qoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:14rabbits:primary"
+msgid "14rabbits"
+msgstr "14rabbits"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14s_data:primary"
+msgid "14s_data"
+msgstr "14s Data"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 149
+msgctxt "tag:14sai_bishoujo_(shoutarou):primary"
+msgid "14sai_bishoujo_(shoutarou)"
+msgstr "14岁美少女"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:14sky:primary"
+msgid "14sky"
+msgstr "14sky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:14su:primary"
+msgid "14su"
+msgstr "14su"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14th:primary"
+msgid "14th"
+msgstr "14"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:14th_dalai_lama:primary"
+msgid "14th_dalai_lama"
+msgstr "第十四世达赖喇嘛"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:14th_dalai_lama_(cosplay):primary"
+msgid "14th_dalai_lama_(cosplay)"
+msgstr "第十四世达赖喇嘛（角色扮演）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:14tydr:primary"
+msgid "14tydr"
+msgstr "14tydr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:14u0:primary"
+msgid "14u0"
+msgstr "14u0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:14wrong:primary"
+msgid "14wrong"
+msgstr "14错误"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:14yuruis:primary"
+msgid "14yuruis"
+msgstr "14yuruis"

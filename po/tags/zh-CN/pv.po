@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:39+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:39+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pv12w:primary"
+msgid "pv12w"
+msgstr "pv12w"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pv71jdzx04isd9k:primary"
+msgid "pv71jdzx04isd9k"
+msgstr "pv71jdzx04isd9k"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pv_y0n:primary"
+msgid "pv_y0n"
+msgstr "PV_Y0n"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pv_ywh:primary"
+msgid "pv_ywh"
+msgstr "pv_ywh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pvacuum:primary"
+msgid "pvacuum"
+msgstr "Pvacuum"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:pvalent:primary"
+msgid "pvalent"
+msgstr "pvalent"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pvasls:primary"
+msgid "pvasls"
+msgstr "pvasls"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 180
+msgctxt "tag:pvc_parfait:primary"
+msgid "pvc_parfait"
+msgstr "PVC巴菲"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pvcpalmtree:primary"
+msgid "pvcpalmtree"
+msgstr "PVC椰子树"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:pvcw5482:primary"
+msgid "pvcw5482"
+msgstr "pvcw5482"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:pveaxy1iikf1y9l:primary"
+msgid "pveaxy1iikf1y9l"
+msgstr "pveaxy1iikf1y9l"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pvky8477:primary"
+msgid "pvky8477"
+msgstr "PVKY8477"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:pvmivs:primary"
+msgid "pvmivs"
+msgstr "pvmivs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pvnksolar:primary"
+msgid "pvnksolar"
+msgstr "pvnksolar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pvoice:primary"
+msgid "pvoice"
+msgstr "PVoice"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+#. aliases: 玩家对战文明
+msgctxt "tag:pvp_civilization:primary"
+msgid "pvp_civilization"
+msgstr "PvP文明"
+
+#. alias-of: pvp_civilization
+#. source: ai
+msgctxt "tag:pvp_civilization:alias:1"
+msgid "pvp_civilization"
+msgstr "玩家对战文明"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pvponlink_art:primary"
+msgid "pvponlink_art"
+msgstr "pvponlink_art"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pvs-14:primary"
+msgid "pvs-14"
+msgstr "PVS-14夜视仪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 1
+#. aliases: PVS-7
+msgctxt "tag:pvs-7:primary"
+msgid "pvs-7"
+msgstr "PVS-7夜视仪"
+
+#. alias-of: pvs-7
+#. source: ai
+msgctxt "tag:pvs-7:alias:1"
+msgid "pvs-7"
+msgstr "PVS-7"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:pvt._murphy's_law:primary"
+msgid "pvt._murphy's_law"
+msgstr "PVT. Murphy's Law"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+#. aliases: Pvtskwerl
+msgctxt "tag:pvtskwerl:primary"
+msgid "pvtskwerl"
+msgstr "Pvtskwerl"
+
+#. alias-of: pvtskwerl
+#. source: ai
+msgctxt "tag:pvtskwerl:alias:1"
+msgid "pvtskwerl"
+msgstr "Pvtskwerl"

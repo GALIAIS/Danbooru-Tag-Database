@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:20+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:20+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bf-palemoon:primary"
+msgid "bf-palemoon"
+msgstr "bf-palemoon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+#. aliases: 男友
+msgctxt "tag:bf.:primary"
+msgid "bf."
+msgstr "男朋友"
+
+#. alias-of: bf.
+#. source: ai
+msgctxt "tag:bf.:alias:1"
+msgid "bf."
+msgstr "男友"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 249
+msgctxt "tag:bf._(sogogiching):primary"
+msgid "bf._(sogogiching)"
+msgstr "BF"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:bf2xuec6ow98466:primary"
+msgid "bf2xuec6ow98466"
+msgstr "bf2xuec6ow98466"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bf_(chaliebrownie):primary"
+msgid "bf_(chaliebrownie)"
+msgstr "BF（chaliebrownie）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bf_(formation_girls):primary"
+msgid "bf_(formation_girls)"
+msgstr "BF"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 165
+#. aliases: BF109战斗机
+msgctxt "tag:bf_109:primary"
+msgid "bf_109"
+msgstr "Bf109"
+
+#. alias-of: bf_109
+#. source: ai
+msgctxt "tag:bf_109:alias:1"
+msgid "bf_109"
+msgstr "BF109战斗机"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:bf_109_(personification):primary"
+msgid "bf_109_(personification)"
+msgstr "BF-109（拟人）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:bf_109_e4_(ash_arms):primary"
+msgid "bf_109_e4_(ash_arms)"
+msgstr "Bf 109 E-4（灰烬之臂）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:bf_110:primary"
+msgid "bf_110"
+msgstr "Bf 110"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bf_25lan:primary"
+msgid "bf_25lan"
+msgstr "BF 25 Lan"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bf_goodrich:primary"
+msgid "bf_goodrich"
+msgstr "BF Goodrich"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bfa:primary"
+msgid "bfa"
+msgstr "BFA"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfa46f_(sarasadou_dan):primary"
+msgid "bfa46f_(sarasadou_dan)"
+msgstr "bfa46f（sarasadou_dan）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfafc1k4:primary"
+msgid "bfafc1k4"
+msgstr "bfafc1k4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfall_frank:primary"
+msgid "bfall_frank"
+msgstr "bfall_frank"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfanhuayuluo:primary"
+msgid "bfanhuayuluo"
+msgstr "bfanhuayuluo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bfaskb_213:primary"
+msgid "bfaskb_213"
+msgstr "bfaskb_213"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:bfblackflower:primary"
+msgid "bfblackflower"
+msgstr "黑花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfdmrp:primary"
+msgid "bfdmrp"
+msgstr "Bfdmrp"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bff_locket:primary"
+msgid "bff_locket"
+msgstr "好友挂坠"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:bfg_10000_(doom_eternal):primary"
+msgid "bfg_10000_(doom_eternal)"
+msgstr "BFG 10000（毁灭战士：永恒）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfg_10k_(quake):primary"
+msgid "bfg_10k_(quake)"
+msgstr "BFG 10K"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 36
+#. aliases: BFG
+msgctxt "tag:bfg_9000:primary"
+msgid "bfg_9000"
+msgstr "BFG-9000"
+
+#. alias-of: bfg_9000
+#. source: ai
+msgctxt "tag:bfg_9000:alias:1"
+msgid "bfg_9000"
+msgstr "BFG"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:bfg_9000_(personification):primary"
+msgid "bfg_9000_(personification)"
+msgstr "BFG-9000"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:bfg_division:primary"
+msgid "bfg_division"
+msgstr "《BFG Division》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfh08:primary"
+msgid "bfh08"
+msgstr "BFH08"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfismylife0812:primary"
+msgid "bfismylife0812"
+msgstr "Bfismylife0812"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+#. aliases: beefjerky
+msgctxt "tag:bfj_(beefjerky):primary"
+msgid "bfj_(beefjerky)"
+msgstr "bfj（beefjerky）"
+
+#. alias-of: bfj_(beefjerky)
+#. source: ai
+msgctxt "tag:bfj_(beefjerky):alias:1"
+msgid "bfj_(beefjerky)"
+msgstr "beefjerky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:bfk:primary"
+msgid "bfk"
+msgstr "BFK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfk_(kininsu):primary"
+msgid "bfk_(kininsu)"
+msgstr "BFK（鬼人素）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 90
+msgctxt "tag:bfmelu:primary"
+msgid "bfmelu"
+msgstr "bfmelu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bfork:primary"
+msgid "bfork"
+msgstr "bfork"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfoxanimation:primary"
+msgid "bfoxanimation"
+msgstr "bfoxanimation"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfr_45-70:primary"
+msgid "bfr_45-70"
+msgstr "BFR .45-70"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfretta:primary"
+msgid "bfretta"
+msgstr "Bfretta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:bfs1557897975:primary"
+msgid "bfs1557897975"
+msgstr "bfs1557897975"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bfsn:primary"
+msgid "bfsn"
+msgstr "BFSN"

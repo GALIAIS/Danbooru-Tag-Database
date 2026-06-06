@@ -1,0 +1,729 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:40+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:40+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:rx-10_albatross:primary"
+msgid "rx-10_albatross"
+msgstr "RX-10信天翁"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:rx-78-01_gundam:primary"
+msgid "rx-78-01_gundam"
+msgstr "RX-78-01高达"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:rx-78-1_gundam_local_type:primary"
+msgid "rx-78-1_gundam_local_type"
+msgstr "RX-78-1高达（本地型）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: 元祖高达
+msgctxt "tag:rx-78-2_(b2b1y9):primary"
+msgid "rx-78-2_(b2b1y9)"
+msgstr "RX-78-2"
+
+#. alias-of: rx-78-2_(b2b1y9)
+#. source: ai
+msgctxt "tag:rx-78-2_(b2b1y9):alias:1"
+msgid "rx-78-2_(b2b1y9)"
+msgstr "元祖高达"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx-78-2_(flight_type):primary"
+msgid "rx-78-2_(flight_type)"
+msgstr "RX-78-2 飞行型"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx-78-2_(underwater_type):primary"
+msgid "rx-78-2_(underwater_type)"
+msgstr "RX-78-2 水中型"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1483
+#. aliases: 高达
+msgctxt "tag:rx-78-2_gundam:primary"
+msgid "rx-78-2_gundam"
+msgstr "RX-78-2高达"
+
+#. alias-of: rx-78-2_gundam
+#. source: ai
+msgctxt "tag:rx-78-2_gundam:alias:1"
+msgid "rx-78-2_gundam"
+msgstr "高达"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:rx-78-2_gundam_(cosplay):primary"
+msgid "rx-78-2_gundam_(cosplay)"
+msgstr "RX-78-2 高达（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rx-78-2_gundam_(g40):primary"
+msgid "rx-78-2_gundam_(g40)"
+msgstr "RX-78-2 高达（G40）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:rx-78-2_gundam_(hyper):primary"
+msgid "rx-78-2_gundam_(hyper)"
+msgstr "RX-78-2高达（Hyper）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 17
+#. aliases: 卡斯瓦尔高达
+msgctxt "tag:rx-78-2_gundam_casval_custom:primary"
+msgid "rx-78-2_gundam_casval_custom"
+msgstr "RX-78-2卡斯瓦尔专用"
+
+#. alias-of: rx-78-2_gundam_casval_custom
+#. source: ai
+msgctxt "tag:rx-78-2_gundam_casval_custom:alias:1"
+msgid "rx-78-2_gundam_casval_custom"
+msgstr "卡斯瓦尔高达"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rx-78-2_real_type:primary"
+msgid "rx-78-2_real_type"
+msgstr "RX-78-2 真实型"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx-78-2_solomon_express_g-2:primary"
+msgid "rx-78-2_solomon_express_g-2"
+msgstr "RX-78-2 所罗门快递 G-2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx-78-5:primary"
+msgid "rx-78-5"
+msgstr "RX-78-5"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:rx-78-7_gundam:primary"
+msgid "rx-78-7_gundam"
+msgstr "RX-78-7高达"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: RX-78-Z1
+msgctxt "tag:rx-78-z1_zeon's_gundam:primary"
+msgid "rx-78-z1_zeon's_gundam"
+msgstr "RX-78-Z1 吉翁的高达"
+
+#. alias-of: rx-78-z1_zeon's_gundam
+#. source: ai
+msgctxt "tag:rx-78-z1_zeon's_gundam:alias:1"
+msgid "rx-78-z1_zeon's_gundam"
+msgstr "RX-78-Z1"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rx-78_junior_gundam:primary"
+msgid "rx-78_junior_gundam"
+msgstr "RX-78 少年高达"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:rx-78f00:primary"
+msgid "rx-78f00"
+msgstr "RX-78F00"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx-78f00_(cosplay):primary"
+msgid "rx-78f00_(cosplay)"
+msgstr "RX-78F00（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx-78nt-x:primary"
+msgid "rx-78nt-x"
+msgstr "RX-78NT-X"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx-7_(top_wo_nerae!):primary"
+msgid "rx-7_(top_wo_nerae!)"
+msgstr "RX-7（向目标瞄准！）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx-81_g-line:primary"
+msgid "rx-81_g-line"
+msgstr "RX-81 G-Line"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx-81st_g-line_standard_armor:primary"
+msgid "rx-81st_g-line_standard_armor"
+msgstr "RX-81ST G-Line 标准装甲"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:rx-c:primary"
+msgid "rx-c"
+msgstr "rx-c"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:rx-zeromaru:primary"
+msgid "rx-zeromaru"
+msgstr "RX零丸"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:rx-zeromaru_(real_mode):primary"
+msgid "rx-zeromaru_(real_mode)"
+msgstr "RX零丸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rx.:primary"
+msgid "rx."
+msgstr "RX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx1204:primary"
+msgid "rx1204"
+msgstr "rx1204"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rx1234:primary"
+msgid "rx1234"
+msgstr "RX1234"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:rx53l5:primary"
+msgid "rx53l5"
+msgstr "rx53l5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx649:primary"
+msgid "rx649"
+msgstr "rx649"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rx7-555:primary"
+msgid "rx7-555"
+msgstr "rx7-555"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 71
+msgctxt "tag:rx7649:primary"
+msgid "rx7649"
+msgstr "rx7649"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:rx782110a:primary"
+msgid "rx782110a"
+msgstr "rx782110a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:rx782_2202:primary"
+msgid "rx782_2202"
+msgstr "RX-782-2202"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:rx79v:primary"
+msgid "rx79v"
+msgstr "RX-79[G]"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rx7kgw-_u_hi:primary"
+msgid "rx7kgw-_u_hi"
+msgstr "rx7kgw-_u_hi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:rx92:primary"
+msgid "rx92"
+msgstr "RX92"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:rx?:primary"
+msgid "rx?"
+msgstr "Rx?"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: RX(TerrorInstinct)
+msgctxt "tag:rx_(terrorinstinct):primary"
+msgid "rx_(terrorinstinct)"
+msgstr "RX"
+
+#. alias-of: rx_(terrorinstinct)
+#. source: ai
+msgctxt "tag:rx_(terrorinstinct):alias:1"
+msgid "rx_(terrorinstinct)"
+msgstr "RX(TerrorInstinct)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx_(vrxodyssey):primary"
+msgid "rx_(vrxodyssey)"
+msgstr "RX（vrxodyssey）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rx_447:primary"
+msgid "rx_447"
+msgstr "RX-447"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx_78ssl:primary"
+msgid "rx_78ssl"
+msgstr "RX-78 SSL"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 141
+msgctxt "tag:rx_boss:primary"
+msgid "rx_boss"
+msgstr "RX Boss"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rx_boss_(cosplay):primary"
+msgid "rx_boss_(cosplay)"
+msgstr "RX Boss（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rx_chuang:primary"
+msgid "rx_chuang"
+msgstr "rx_chuang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rx_desu:primary"
+msgid "rx_desu"
+msgstr "Rx Desu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:rx_drunkman:primary"
+msgid "rx_drunkman"
+msgstr "醉汉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rx_duvan:primary"
+msgid "rx_duvan"
+msgstr "rx_duvan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:rx_hts:primary"
+msgid "rx_hts"
+msgstr "rx_hts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rx_linjiu:primary"
+msgid "rx_linjiu"
+msgstr "rx_linjiu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxbel:primary"
+msgid "rxbel"
+msgstr "rxbel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rxdkxssxs:primary"
+msgid "rxdkxssxs"
+msgstr "rxdkxssxs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:rxgdo:primary"
+msgid "rxgdo"
+msgstr "RXGDO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rxge:primary"
+msgid "rxge"
+msgstr "Rxge"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxgxbxy:primary"
+msgid "rxgxbxy"
+msgstr "Rxgxbxy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:rxi_rxkku:primary"
+msgid "rxi_rxkku"
+msgstr "RxiRxkku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:rxjx:primary"
+msgid "rxjx"
+msgstr "RXJX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rxkwv123:primary"
+msgid "rxkwv123"
+msgstr "rxkwv123"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rxl649:primary"
+msgid "rxl649"
+msgstr "RXL649"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:rxlindera:primary"
+msgid "rxlindera"
+msgstr "Rx Lindera"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxlsxsnil1w6nil:primary"
+msgid "rxlsxsnil1w6nil"
+msgstr "Rxlsxsnil1w6nil"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxmarts:primary"
+msgid "rxmarts"
+msgstr "RXMarts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxmiiiii:primary"
+msgid "rxmiiiii"
+msgstr "rxmiiiii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rxmmjrcrhvoyoxx:primary"
+msgid "rxmmjrcrhvoyoxx"
+msgstr "rxmmjrcrhvoyoxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:rxnal0:primary"
+msgid "rxnal0"
+msgstr "rxnal0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rxnns:primary"
+msgid "rxnns"
+msgstr "Rxnns"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxnrin:primary"
+msgid "rxnrin"
+msgstr "Rxnrin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:rxo2xs:primary"
+msgid "rxo2xs"
+msgstr "rxo2xs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:rxoayurvvt3494:primary"
+msgid "rxoayurvvt3494"
+msgstr "rxoayurvvt3494"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:rxoixoans:primary"
+msgid "rxoixoans"
+msgstr "rxoixoans"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:rxq:primary"
+msgid "rxq"
+msgstr "RXQ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxr03535662:primary"
+msgid "rxr03535662"
+msgstr "RXR03535662"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rxsdm:primary"
+msgid "rxsdm"
+msgstr "rxsdm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:rxsiki:primary"
+msgid "rxsiki"
+msgstr "Rxsiki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:rxsilence:primary"
+msgid "rxsilence"
+msgstr "rxsilence"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxsselin:primary"
+msgid "rxsselin"
+msgstr "rxsselin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rxttenmind:primary"
+msgid "rxttenmind"
+msgstr "rxttenmind"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:rxviph:primary"
+msgid "rxviph"
+msgstr "rxviph"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxx9801:primary"
+msgid "rxx9801"
+msgstr "rxx9801"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:rxxr_i:primary"
+msgid "rxxr_i"
+msgstr "rxxr_i"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxxx_0:primary"
+msgid "rxxx_0"
+msgstr "rxxx_0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxyne:primary"
+msgid "rxyne"
+msgstr "Rxyne"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rxyshso:primary"
+msgid "rxyshso"
+msgstr "rxyshso"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:rxzarx:primary"
+msgid "rxzarx"
+msgstr "rxzarx"

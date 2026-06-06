@@ -1,0 +1,14 @@
+project: GALIAIS Danbooru Tag Database
+repository: https://github.com/GALIAIS/Danbooru-Tag-Database.git
+components:
+  - name: Tags
+    slug: tags
+    file_format: po
+    filemask: po/tags/*/*.po
+    translation_base: po/tags/
+    note: One PO file per shard and locale. Context keys are tag:<tag>:primary and tag:<tag>:alias:<n>.
+  - name: Taxonomy
+    slug: taxonomy
+    file_format: po
+    filemask: po/taxonomy/*.po
+    note: Context keys are taxonomy:<taxonomy_id>:label and taxonomy:<taxonomy_id>:description.

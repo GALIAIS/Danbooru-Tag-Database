@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:45+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:45+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t611620941:primary"
+msgid "t611620941"
+msgstr "t611620941"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:t65_(girls'_frontline):primary"
+msgid "t65_(girls'_frontline)"
+msgstr "T65"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 10
+#. aliases: T65步枪
+msgctxt "tag:t65_assault_rifle:primary"
+msgid "t65_assault_rifle"
+msgstr "T65突击步枪"
+
+#. alias-of: t65_assault_rifle
+#. source: ai
+msgctxt "tag:t65_assault_rifle:alias:1"
+msgid "t65_assault_rifle"
+msgstr "T65步枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+#. aliases: T65K2
+msgctxt "tag:t65k2_assault_rifle:primary"
+msgid "t65k2_assault_rifle"
+msgstr "T65K2突击步枪"
+
+#. alias-of: t65k2_assault_rifle
+#. source: ai
+msgctxt "tag:t65k2_assault_rifle:alias:1"
+msgid "t65k2_assault_rifle"
+msgstr "T65K2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:t66sobakasu:primary"
+msgid "t66sobakasu"
+msgstr "t66sobakasu"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:t69e3:primary"
+msgid "t69e3"
+msgstr "t69e3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:t69sad:primary"
+msgid "t69sad"
+msgstr "t69sad"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+#. aliases: 吸血鬼
+msgctxt "tag:t6_dracula:primary"
+msgid "t6_dracula"
+msgstr "T6 德古拉"
+
+#. alias-of: t6_dracula
+#. source: ai
+msgctxt "tag:t6_dracula:alias:1"
+msgid "t6_dracula"
+msgstr "吸血鬼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:t6_ti:primary"
+msgid "t6_ti"
+msgstr "T6 Ti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t6rzvbxjyshb0az:primary"
+msgid "t6rzvbxjyshb0az"
+msgstr "随机字符串"

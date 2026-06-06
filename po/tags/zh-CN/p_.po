@@ -1,0 +1,2920 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:38+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:38+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:p!_(flaschenstrahlinge):primary"
+msgid "p!_(flaschenstrahlinge)"
+msgstr "P!"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:p!_(motoki_paulo):primary"
+msgid "p!_(motoki_paulo)"
+msgstr "P!（Motoki Paulo）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 85
+msgctxt "tag:p!k@ru:primary"
+msgid "p!k@ru"
+msgstr "p!k@ru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p!n_(pssh27):primary"
+msgid "p!n_(pssh27)"
+msgstr "P!n"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p&c:primary"
+msgid "p&c"
+msgstr "p&c"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p'andor_(ben_10):primary"
+msgid "p'andor_(ben_10)"
+msgstr "P'Andor"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p'fil:primary"
+msgid "p'fil"
+msgstr "P'fil"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:p'li_(the_legend_of_korra):primary"
+msgid "p'li_(the_legend_of_korra)"
+msgstr "P'li（降世神通：科拉传奇）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p'obyano:primary"
+msgid "p'obyano"
+msgstr "p'obyano"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p's_factory_(p.f.w.m):primary"
+msgid "p's_factory_(p.f.w.m)"
+msgstr "P's Factory"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p's_oyasumichuu:primary"
+msgid "p's_oyasumichuu"
+msgstr "P's oyasumichuu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p'ung_ryong:primary"
+msgid "p'ung_ryong"
+msgstr "P'ung Ryong"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 3
+msgctxt "tag:p-1:primary"
+msgid "p-1"
+msgstr "P-1"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p-1112_aigaion:primary"
+msgid "p-1112_aigaion"
+msgstr "P-1112 Aigaion"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-1123:primary"
+msgid "p-1123"
+msgstr "P-1123"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-26_peashooter:primary"
+msgid "p-26_peashooter"
+msgstr "P-26“豌豆射手”战斗机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+#. aliases: 海王星
+msgctxt "tag:p-2_neptune:primary"
+msgid "p-2_neptune"
+msgstr "P-2 海王星"
+
+#. alias-of: p-2_neptune
+#. source: ai
+msgctxt "tag:p-2_neptune:alias:1"
+msgid "p-2_neptune"
+msgstr "海王星"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p-3-q:primary"
+msgid "p-3-q"
+msgstr "P-3-Q"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:p-38_lightning:primary"
+msgid "p-38_lightning"
+msgstr "P-38闪电战斗机"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:p-38_lightning_(ash_arms):primary"
+msgid "p-38_lightning_(ash_arms)"
+msgstr "P-38闪电"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-38_lightning_(personification):primary"
+msgid "p-38_lightning_(personification)"
+msgstr "P-38闪电拟人"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:p-39_airacobra:primary"
+msgid "p-39_airacobra"
+msgstr "P-39空中眼镜蛇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:p-3_(atomic_heart):primary"
+msgid "p-3_(atomic_heart)"
+msgstr "P-3（原子之心）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 5
+#. aliases: P-3, 猎户座
+msgctxt "tag:p-3_orion:primary"
+msgid "p-3_orion"
+msgstr "P-3 Orion"
+
+#. alias-of: p-3_orion
+#. source: ai
+msgctxt "tag:p-3_orion:alias:1"
+msgid "p-3_orion"
+msgstr "P-3"
+
+#. alias-of: p-3_orion
+#. source: ai
+msgctxt "tag:p-3_orion:alias:2"
+msgid "p-3_orion"
+msgstr "猎户座"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 3
+#. aliases: P-3猎户座
+msgctxt "tag:p-3_orion_(personification):primary"
+msgid "p-3_orion_(personification)"
+msgstr "P-3猎户座拟人"
+
+#. alias-of: p-3_orion_(personification)
+#. source: ai
+msgctxt "tag:p-3_orion_(personification):alias:1"
+msgid "p-3_orion_(personification)"
+msgstr "P-3猎户座"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 104
+#. aliases: P-40
+msgctxt "tag:p-40_(tukinosita-de):primary"
+msgid "p-40_(tukinosita-de)"
+msgstr "P-40战斗机"
+
+#. alias-of: p-40_(tukinosita-de)
+#. source: ai
+msgctxt "tag:p-40_(tukinosita-de):alias:1"
+msgid "p-40_(tukinosita-de)"
+msgstr "P-40"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:p-40_warhawk:primary"
+msgid "p-40_warhawk"
+msgstr "P-40战鹰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-40_warhawk_(ash_arms):primary"
+msgid "p-40_warhawk_(ash_arms)"
+msgstr "P-40战鹰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p-40_warhawk_(personification):primary"
+msgid "p-40_warhawk_(personification)"
+msgstr "P-40战鹰（拟人化）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:p-47_thunderbolt:primary"
+msgid "p-47_thunderbolt"
+msgstr "P-47雷电"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p-47b_thunderbolt_(ash_arms):primary"
+msgid "p-47b_thunderbolt_(ash_arms)"
+msgstr "P-47B雷霆"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 74
+msgctxt "tag:p-51_mustang:primary"
+msgid "p-51_mustang"
+msgstr "P-51野马"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:p-51_mustang_(personification):primary"
+msgid "p-51_mustang_(personification)"
+msgstr "P-51野马拟人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p-51a_(ash_arms):primary"
+msgid "p-51a_(ash_arms)"
+msgstr "P-51A（灰烬战线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p-60_(konami_mecha_musume):primary"
+msgid "p-60_(konami_mecha_musume)"
+msgstr "P-60"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p-61_black_widow:primary"
+msgid "p-61_black_widow"
+msgstr "P-61黑寡妇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p-61_black_widow_(personification):primary"
+msgid "p-61_black_widow_(personification)"
+msgstr "P-61黑寡妇（拟人化）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p-61a_black_widow_(ash_arms):primary"
+msgid "p-61a_black_widow_(ash_arms)"
+msgstr "P-61A黑寡妇（灰烬武装）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:p-64:primary"
+msgid "p-64"
+msgstr "P-64"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-700_granit:primary"
+msgid "p-700_granit"
+msgstr "P-700 Granit"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-75_eagle:primary"
+msgid "p-75_eagle"
+msgstr "P-75 Eagle"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-80_shooting_star:primary"
+msgid "p-80_shooting_star"
+msgstr "P-80“流星”战斗机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-82_twin_mustang:primary"
+msgid "p-82_twin_mustang"
+msgstr "P-82“双野马”战斗机"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-alpha:primary"
+msgid "p-alpha"
+msgstr "P-Alpha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:p-b-c_(dark_matter_kakine):primary"
+msgid "p-b-c_(dark_matter_kakine)"
+msgstr "P-B-C"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-bee:primary"
+msgid "p-bee"
+msgstr "P-Bee"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:p-body:primary"
+msgid "p-body"
+msgstr "P-body"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-body_(cosplay):primary"
+msgid "p-body_(cosplay)"
+msgstr "P-Body Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-bot:primary"
+msgid "p-bot"
+msgstr "p-bot"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p-chan_(fatal_fury):primary"
+msgid "p-chan_(fatal_fury)"
+msgstr "P酱（饿狼传说）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:p-chan_(mitsuta52):primary"
+msgid "p-chan_(mitsuta52)"
+msgstr "P君"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-chan_(moya_pchan):primary"
+msgid "p-chan_(moya_pchan)"
+msgstr "p-chan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 26
+#. aliases: P君
+msgctxt "tag:p-chan_(needy_girl_overdose):primary"
+msgid "p-chan_(needy_girl_overdose)"
+msgstr "P子"
+
+#. alias-of: p-chan_(needy_girl_overdose)
+#. source: ai
+msgctxt "tag:p-chan_(needy_girl_overdose):alias:1"
+msgid "p-chan_(needy_girl_overdose)"
+msgstr "P君"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 234
+#. aliases: p-chan
+msgctxt "tag:p-chan_(p90):primary"
+msgid "p-chan_(p90)"
+msgstr "P酱 (p90)"
+
+#. alias-of: p-chan_(p90)
+#. source: ai
+msgctxt "tag:p-chan_(p90):alias:1"
+msgid "p-chan_(p90)"
+msgstr "p-chan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p-chan_(ponkickies):primary"
+msgid "p-chan_(ponkickies)"
+msgstr "p-chan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:p-chan_(precure):primary"
+msgid "p-chan_(precure)"
+msgstr "P酱（光之美少女）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 881
+#. aliases: P-chan
+msgctxt "tag:p-chan_(ranma_1/2):primary"
+msgid "p-chan_(ranma_1/2)"
+msgstr "P仔"
+
+#. alias-of: p-chan_(ranma_1/2)
+#. source: ai
+msgctxt "tag:p-chan_(ranma_1/2):alias:1"
+msgid "p-chan_(ranma_1/2)"
+msgstr "P-chan"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 9
+#. aliases: Ranma 1/2 P-Chan Cosplay
+msgctxt "tag:p-chan_(ranma_1/2)_(cosplay):primary"
+msgid "p-chan_(ranma_1/2)_(cosplay)"
+msgstr "P-酱（乱马1/2）角色扮演"
+
+#. alias-of: p-chan_(ranma_1/2)_(cosplay)
+#. source: ai
+msgctxt "tag:p-chan_(ranma_1/2)_(cosplay):alias:1"
+msgid "p-chan_(ranma_1/2)_(cosplay)"
+msgstr "Ranma 1/2 P-Chan Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:p-chan_(sasaki_to_p-chan):primary"
+msgid "p-chan_(sasaki_to_p-chan)"
+msgstr "P-chan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:p-chan_kai:primary"
+msgid "p-chan_kai"
+msgstr "P酱凯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-crown:primary"
+msgid "p-crown"
+msgstr "P-皇冠"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:p-crush:primary"
+msgid "p-crush"
+msgstr "P-Crush"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+#. aliases: P-灯
+msgctxt "tag:p-deng:primary"
+msgid "p-deng"
+msgstr "p-deng"
+
+#. alias-of: p-deng
+#. source: ai
+msgctxt "tag:p-deng:alias:1"
+msgid "p-deng"
+msgstr "P-灯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p-f:primary"
+msgid "p-f"
+msgstr "P-F"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-gamazo:primary"
+msgid "p-gamazo"
+msgstr "p-gamazo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:p-geist2:primary"
+msgid "p-geist2"
+msgstr "P幽灵2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-gin:primary"
+msgid "p-gin"
+msgstr "P-gin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 98
+msgctxt "tag:p-gnesium:primary"
+msgid "p-gnesium"
+msgstr "P-Gnesium"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-h-p:primary"
+msgid "p-h-p"
+msgstr "P.H.P"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: PBS的P头
+msgctxt "tag:p-head_(pbs):primary"
+msgid "p-head_(pbs)"
+msgstr "P头"
+
+#. alias-of: p-head_(pbs)
+#. source: ai
+msgctxt "tag:p-head_(pbs):alias:1"
+msgid "p-head_(pbs)"
+msgstr "PBS的P头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3139
+msgctxt "tag:p-head_producer:primary"
+msgid "p-head_producer"
+msgstr "p-head制作人"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: P头制作人Cosplay
+msgctxt "tag:p-head_producer_(cosplay):primary"
+msgid "p-head_producer_(cosplay)"
+msgstr "P-Head Producer Cosplay"
+
+#. alias-of: p-head_producer_(cosplay)
+#. source: ai
+msgctxt "tag:p-head_producer_(cosplay):alias:1"
+msgid "p-head_producer_(cosplay)"
+msgstr "P头制作人Cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-hearts:primary"
+msgid "p-hearts"
+msgstr "P-Hearts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:p-hone:primary"
+msgid "p-hone"
+msgstr "P-Hone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-id-nanasinn:primary"
+msgid "p-id-nanasinn"
+msgstr "七新"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p-inky:primary"
+msgid "p-inky"
+msgstr "p-inky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-jo_(iyoiyo27):primary"
+msgid "p-jo_(iyoiyo27)"
+msgstr "p-jo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:p-kana:primary"
+msgid "p-kana"
+msgstr "P-kana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:p-kass:primary"
+msgid "p-kass"
+msgstr "P-Kass"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-kc_(artist):primary"
+msgid "p-kc_(artist)"
+msgstr "P-KC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-ki:primary"
+msgid "p-ki"
+msgstr "P-Ki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p-kiss:primary"
+msgid "p-kiss"
+msgstr "P-Kiss"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-ko:primary"
+msgid "p-ko"
+msgstr "P子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:p-ko_(arakawa):primary"
+msgid "p-ko_(arakawa)"
+msgstr "P-ko（荒川）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:p-ko_(pichnopop):primary"
+msgid "p-ko_(pichnopop)"
+msgstr "P-ko"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-ko_(q-tarou):primary"
+msgid "p-ko_(q-tarou)"
+msgstr "P子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:p-kun_(peerayuth52):primary"
+msgid "p-kun_(peerayuth52)"
+msgstr "p-kun（peerayuth52）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-light:primary"
+msgid "p-light"
+msgstr "P-light"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:p-man-daikaku:primary"
+msgid "p-man-daikaku"
+msgstr "P人大觉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-man@qleed:primary"
+msgid "p-man@qleed"
+msgstr "P-man@qleed"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-man_(p-man0205):primary"
+msgid "p-man_(p-man0205)"
+msgstr "P-Man"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 84
+msgctxt "tag:p-man_(p_man_wktk):primary"
+msgid "p-man_(p_man_wktk)"
+msgstr "P-Man"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:p-man_mk-2:primary"
+msgid "p-man_mk-2"
+msgstr "P人MK-II"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-man_tarou:primary"
+msgid "p-man_tarou"
+msgstr "p-man_tarou"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-mate:primary"
+msgid "p-mate"
+msgstr "P-Mate"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:p-model:primary"
+msgid "p-model"
+msgstr "P-MODEL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p-mou:primary"
+msgid "p-mou"
+msgstr "P-MOU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-natsu:primary"
+msgid "p-natsu"
+msgstr "P-Natsu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 144
+msgctxt "tag:p-nekoe:primary"
+msgid "p-nekoe"
+msgstr "p-nekoe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 274
+msgctxt "tag:p-nekor:primary"
+msgid "p-nekor"
+msgstr "猫娘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-nim:primary"
+msgid "p-nim"
+msgstr "p-nim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:p-nut:primary"
+msgid "p-nut"
+msgstr "花生"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-o-melancholy:primary"
+msgid "p-o-melancholy"
+msgstr "P-O-Melancholy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-p-bobobo:primary"
+msgid "p-p-bobobo"
+msgstr "p-p-bobobo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-p_(niconico):primary"
+msgid "p-p_(niconico)"
+msgstr "P-P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-panda:primary"
+msgid "p-panda"
+msgstr "熊猫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 79
+msgctxt "tag:p-pepper:primary"
+msgid "p-pepper"
+msgstr "胡椒"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: 猪仔
+msgctxt "tag:p-pigling:primary"
+msgid "p-pigling"
+msgstr "p-pigling"
+
+#. alias-of: p-pigling
+#. source: ai
+msgctxt "tag:p-pigling:alias:1"
+msgid "p-pigling"
+msgstr "猪仔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-plus:primary"
+msgid "p-plus"
+msgstr "P-Plus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-po:primary"
+msgid "p-po"
+msgstr "P-Po"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:p-puu:primary"
+msgid "p-puu"
+msgstr "P-Puu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-rink:primary"
+msgid "p-rink"
+msgstr "P-Rink"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-ro:primary"
+msgid "p-ro"
+msgstr "p-ro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-suke1102:primary"
+msgid "p-suke1102"
+msgstr "P-suke1102"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-suke_(akaino):primary"
+msgid "p-suke_(akaino)"
+msgstr "P助"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p-suke_(psuke0512):primary"
+msgid "p-suke_(psuke0512)"
+msgstr "P-Suke"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-ta:primary"
+msgid "p-ta"
+msgstr "P太"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:p-tana:primary"
+msgid "p-tana"
+msgstr "P-tana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p-tarou:primary"
+msgid "p-tarou"
+msgstr "P太郎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p-timan:primary"
+msgid "p-timan"
+msgstr "P-timan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 76
+msgctxt "tag:p-tomi:primary"
+msgid "p-tomi"
+msgstr "P-Tomi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:p-tree:primary"
+msgid "p-tree"
+msgstr "P树"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:p-u-n-i:primary"
+msgid "p-u-n-i"
+msgstr "PUNI"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:p-wing:primary"
+msgid "p-wing"
+msgstr "P翼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p-yama:primary"
+msgid "p-yama"
+msgstr "p山"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:p.1101:primary"
+msgid "p.1101"
+msgstr "P.1101"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.44_pantera:primary"
+msgid "p.44_pantera"
+msgstr "P.44 Pantera"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:p._(momoiro_hakushaku):primary"
+msgid "p._(momoiro_hakushaku)"
+msgstr "P. (桃色伯爵)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:p.a._ocean_seamarine:primary"
+msgid "p.a._ocean_seamarine"
+msgstr "P.A. Ocean Seamarine"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.a._ocean_seamarine_(cosplay):primary"
+msgid "p.a._ocean_seamarine_(cosplay)"
+msgstr "海洋海蓝色（角色扮演）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:p.a._works:primary"
+msgid "p.a._works"
+msgstr "P.A. Works"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.a.eio:primary"
+msgid "p.a.eio"
+msgstr "P.A.EIO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:p.a.l.m:primary"
+msgid "p.a.l.m"
+msgstr "P.A.L.M"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:p.a.w:primary"
+msgid "p.a.w"
+msgstr "P.A.W."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:p.art:primary"
+msgid "p.art"
+msgstr "P画风"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.b._winterbottom:primary"
+msgid "p.b._winterbottom"
+msgstr "P.B.温特伯顿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:p.carredo:primary"
+msgid "p.carredo"
+msgstr "P.Carredo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:p.chronos:primary"
+msgid "p.chronos"
+msgstr "P克洛诺斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p.e.k.k.a:primary"
+msgid "p.e.k.k.a"
+msgstr "P.E.K.K.A"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p.e.k.k.a_(fire-sprit):primary"
+msgid "p.e.k.k.a_(fire-sprit)"
+msgstr "p.e.k.k.a（fire-sprit）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p.e.t.s._academia:primary"
+msgid "p.e.t.s._academia"
+msgstr "P.E.T.S.学院"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p.f_lee:primary"
+msgid "p.f_lee"
+msgstr "P.F. Lee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.fishtail:primary"
+msgid "p.fishtail"
+msgstr "鱼尾"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:p.h._(vocaloid):primary"
+msgid "p.h._(vocaloid)"
+msgstr "P.H."
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p.h_(z3zz4):primary"
+msgid "p.h_(z3zz4)"
+msgstr "p.h"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:p.i.l.:primary"
+msgid "p.i.l."
+msgstr "P.I.L."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 149
+msgctxt "tag:p.i.t.d:primary"
+msgid "p.i.t.d"
+msgstr "P.I.T.D"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.i.x.a.l._(ninjago):primary"
+msgid "p.i.x.a.l._(ninjago)"
+msgstr "P.I.X.A.L."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:p.k.:primary"
+msgid "p.k."
+msgstr "P.K."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:p.k.f:primary"
+msgid "p.k.f"
+msgstr "PKF"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.k.o.:primary"
+msgid "p.k.o."
+msgstr "P.K.O."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:p.kibi:primary"
+msgid "p.kibi"
+msgstr "P.木美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p.m:primary"
+msgid "p.m"
+msgstr "P.M"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:p.maker:primary"
+msgid "p.maker"
+msgstr "P.MAKER"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.monesu:primary"
+msgid "p.monesu"
+msgstr "P·莫奈丝"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p.mume:primary"
+msgid "p.mume"
+msgstr "P.Mume"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:p.n.03:primary"
+msgid "p.n.03"
+msgstr "P.N.03"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+#. aliases: pnutt
+msgctxt "tag:p.nutt:primary"
+msgid "p.nutt"
+msgstr "P.Nutt"
+
+#. alias-of: p.nutt
+#. source: ai
+msgctxt "tag:p.nutt:alias:1"
+msgid "p.nutt"
+msgstr "pnutt"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: P.O. (neco)
+msgctxt "tag:p.o._(neco):primary"
+msgid "p.o._(neco)"
+msgstr "P.O."
+
+#. alias-of: p.o._(neco)
+#. source: ai
+msgctxt "tag:p.o._(neco):alias:1"
+msgid "p.o._(neco)"
+msgstr "P.O. (neco)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:p.o.n._lab:primary"
+msgid "p.o.n._lab"
+msgstr "P.O.N. Lab"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:p.p_(operson_nangko):primary"
+msgid "p.p_(operson_nangko)"
+msgstr "P.P."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:p.rupon:primary"
+msgid "p.rupon"
+msgstr "P.Rupon"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:p.s.:primary"
+msgid "p.s."
+msgstr "P.S."
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.framing.shot_size
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.shot:primary"
+msgid "p.shot"
+msgstr "P镜头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:p.t._barnum:primary"
+msgid "p.t._barnum"
+msgstr "P.T. 巴纳姆"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p.t._barnum_(cosplay):primary"
+msgid "p.t._barnum_(cosplay)"
+msgstr "P.T.巴纳姆（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: P.U.N.K.Jam
+msgctxt "tag:p.u.n.k_jam_dragon_drive:primary"
+msgid "p.u.n.k_jam_dragon_drive"
+msgstr "P.U.N.K JAM Dragon Drive"
+
+#. alias-of: p.u.n.k_jam_dragon_drive
+#. source: ai
+msgctxt "tag:p.u.n.k_jam_dragon_drive:alias:1"
+msgid "p.u.n.k_jam_dragon_drive"
+msgstr "P.U.N.K.Jam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:p.w.:primary"
+msgid "p.w."
+msgstr "PW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p.x.egg:primary"
+msgid "p.x.egg"
+msgstr "P.X.Egg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p.yoshi:primary"
+msgid "p.yoshi"
+msgstr "P.Yoshi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p.z_(poizun0818):primary"
+msgid "p.z_(poizun0818)"
+msgstr "P.Z"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:p.za:primary"
+msgid "p.za"
+msgstr "P.za"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p/\\s:primary"
+msgid "p/\\s"
+msgstr "p/s"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 74
+#. aliases: P/A
+msgctxt "tag:p/a_~potential_ability~:primary"
+msgid "p/a_~potential_ability~"
+msgstr "潜在能力"
+
+#. alias-of: p/a_~potential_ability~
+#. source: ai
+msgctxt "tag:p/a_~potential_ability~:alias:1"
+msgid "p/a_~potential_ability~"
+msgstr "P/A"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_(1548045990):primary"
+msgid "p_(1548045990)"
+msgstr "P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p_(4ss9gh):primary"
+msgid "p_(4ss9gh)"
+msgstr "p_(4ss9gh)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:p_(8909):primary"
+msgid "p_(8909)"
+msgstr "P（8909）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p_(asobijanenda):primary"
+msgid "p_(asobijanenda)"
+msgstr "P（不是来玩的）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p_(chiaki's_journey):primary"
+msgid "p_(chiaki's_journey)"
+msgstr "P（千秋之旅）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_(exuw7334):primary"
+msgid "p_(exuw7334)"
+msgstr "p（exuw7334）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 122
+msgctxt "tag:p_(flavorppp):primary"
+msgid "p_(flavorppp)"
+msgstr "P(flavorppp)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 心形符号
+msgctxt "tag:p_(heart):primary"
+msgid "p_(heart)"
+msgstr "p（心）"
+
+#. alias-of: p_(heart)
+#. source: ai
+msgctxt "tag:p_(heart):alias:1"
+msgid "p_(heart)"
+msgstr "心形符号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:p_(hgdsisd):primary"
+msgid "p_(hgdsisd)"
+msgstr "P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_(hino_ki):primary"
+msgid "p_(hino_ki)"
+msgstr "P（日野木）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_(hun50s6-cut):primary"
+msgid "p_(hun50s6-cut)"
+msgstr "p_(hun50s6-cut)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_(ilu):primary"
+msgid "p_(ilu)"
+msgstr "P（ILU）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_(jsmnpfm):primary"
+msgid "p_(jsmnpfm)"
+msgstr "P"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.book_paper
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:p_(letter):primary"
+msgid "p_(letter)"
+msgstr "字母P"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:p_(motorslice):primary"
+msgid "p_(motorslice)"
+msgstr "Motorslice (P)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: p, neco
+msgctxt "tag:p_(neco):primary"
+msgid "p_(neco)"
+msgstr "P"
+
+#. alias-of: p_(neco)
+#. source: ai
+msgctxt "tag:p_(neco):alias:1"
+msgid "p_(neco)"
+msgstr "p"
+
+#. alias-of: p_(neco)
+#. source: ai
+msgctxt "tag:p_(neco):alias:2"
+msgid "p_(neco)"
+msgstr "neco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_(ny4sb):primary"
+msgid "p_(ny4sb)"
+msgstr "p_(ny4sb)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:p_(p25234112):primary"
+msgid "p_(p25234112)"
+msgstr "P站图号25234112"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_(p_draw):primary"
+msgid "p_(p_draw)"
+msgstr "p_(p_draw)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_(panago):primary"
+msgid "p_(panago)"
+msgstr "p（panago）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_(pdrawswifus):primary"
+msgid "p_(pdrawswifus)"
+msgstr "P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:p_(pixiv65832344):primary"
+msgid "p_(pixiv65832344)"
+msgstr "P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:p_(pkochan):primary"
+msgid "p_(pkochan)"
+msgstr "P (pkochan)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 136
+msgctxt "tag:p_(pm_611a):primary"
+msgid "p_(pm_611a)"
+msgstr "p_(pm_611a)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p_(po_dgs):primary"
+msgid "p_(po_dgs)"
+msgstr "p_(po_dgs)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_(popoi_rgrs):primary"
+msgid "p_(popoi_rgrs)"
+msgstr "P（popoi_rgrs）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_(pp5656qq):primary"
+msgid "p_(pp5656qq)"
+msgstr "P（pp5656qq）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 164
+msgctxt "tag:p_(pppppppppq):primary"
+msgid "p_(pppppppppq)"
+msgstr "未知标签"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:p_(puddingummy):primary"
+msgid "p_(puddingummy)"
+msgstr "P（puddingummy）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_(q_xvx_):primary"
+msgid "p_(q_xvx_)"
+msgstr "P（q_xvx_）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_(sp_grmow):primary"
+msgid "p_(sp_grmow)"
+msgstr "P（SP GRMOW）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 264
+msgctxt "tag:p_(tidoriashi):primary"
+msgid "p_(tidoriashi)"
+msgstr "Tidoriashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:p_(user_twhe8523):primary"
+msgid "p_(user_twhe8523)"
+msgstr "P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:p_(xop_7i):primary"
+msgid "p_(xop_7i)"
+msgstr "p (xop_7i)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_(xxxxxxpxxxxxx):primary"
+msgid "p_(xxxxxxpxxxxxx)"
+msgstr "P（xxxxxxpxxxxxx）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:p_(zzaazz):primary"
+msgid "p_(zzaazz)"
+msgstr "P(zzaazz)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_0122w:primary"
+msgid "p_0122w"
+msgstr "p-0122w"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 99
+msgctxt "tag:p_0_a:primary"
+msgid "p_0_a"
+msgstr "p_0_a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:p_0p:primary"
+msgid "p_0p"
+msgstr "P_0p"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_10:primary"
+msgid "p_10"
+msgstr "P-10"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_337979:primary"
+msgid "p_337979"
+msgstr "p_337979"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_374:primary"
+msgid "p_374"
+msgstr "P-374"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_393911:primary"
+msgid "p_393911"
+msgstr "P_393911"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_4233:primary"
+msgid "p_4233"
+msgstr "p_4233"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_474z:primary"
+msgid "p_474z"
+msgstr "p_474z"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p_4x:primary"
+msgid "p_4x"
+msgstr "P-4x"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p_811679:primary"
+msgid "p_811679"
+msgstr "p_811679"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_8290:primary"
+msgid "p_8290"
+msgstr "P8290"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_866846:primary"
+msgid "p_866846"
+msgstr "P-866846"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_a_gel:primary"
+msgid "p_a_gel"
+msgstr "PAGel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_a_p:primary"
+msgid "p_a_p"
+msgstr "P.A.P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_aita12:primary"
+msgid "p_aita12"
+msgstr "p_aita12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:p_alti:primary"
+msgid "p_alti"
+msgstr "P.Alty"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_alti2:primary"
+msgid "p_alti2"
+msgstr "P Alti2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_anemoia:primary"
+msgid "p_anemoia"
+msgstr "P anemoia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 160
+msgctxt "tag:p_answer:primary"
+msgid "p_answer"
+msgstr "P站回答"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_ar:primary"
+msgid "p_ar"
+msgstr "P Ar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_archive:primary"
+msgid "p_archive"
+msgstr "P Archive"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:p_aya_k:primary"
+msgid "p_aya_k"
+msgstr "P_Aya_K"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_b3_tkng:primary"
+msgid "p_b3_tkng"
+msgstr "P B3 Tkng"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:p_baby_blue:primary"
+msgid "p_baby_blue"
+msgstr "淡蓝色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:p_book:primary"
+msgid "p_book"
+msgstr "书"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_booo:primary"
+msgid "p_booo"
+msgstr "p_booo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:p_ch3c00h:primary"
+msgid "p_ch3c00h"
+msgstr "P Ch3c00h"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:p_changgun:primary"
+msgid "p_changgun"
+msgstr "长群"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:p_chemistry:primary"
+msgid "p_chemistry"
+msgstr "化学"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_chm:primary"
+msgid "p_chm"
+msgstr "p_chm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_cimic:primary"
+msgid "p_cimic"
+msgstr "P_cimic"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_con08:primary"
+msgid "p_con08"
+msgstr "P-Con08"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:p_copopo:primary"
+msgid "p_copopo"
+msgstr "P Copopo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 71
+msgctxt "tag:p_corp_uniform:primary"
+msgid "p_corp_uniform"
+msgstr "P公司制服"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_d0117:primary"
+msgid "p_d0117"
+msgstr "p_d0117"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p_dou_dingding:primary"
+msgid "p_dou_dingding"
+msgstr "p_dou_dingding"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_dovetail:primary"
+msgid "p_dovetail"
+msgstr "p_dovetail"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_e_c_o_r_a:primary"
+msgid "p_e_c_o_r_a"
+msgstr "p_e_c_o_r_a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_em:primary"
+msgid "p_em"
+msgstr "P_EM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_eter:primary"
+msgid "p_eter"
+msgstr "P·彼得"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_flandre:primary"
+msgid "p_flandre"
+msgstr "P·弗兰朵尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_flying_squirrel_mario:primary"
+msgid "p_flying_squirrel_mario"
+msgstr "飞鼠马里奥"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_g_12:primary"
+msgid "p_g_12"
+msgstr "PG12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p_ggam:primary"
+msgid "p_ggam"
+msgstr "p_ggam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:p_giraffa:primary"
+msgid "p_giraffa"
+msgstr "p_giraffa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:p_glansk:primary"
+msgid "p_glansk"
+msgstr "P. Glansk"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:p_hair_ornament:primary"
+msgid "p_hair_ornament"
+msgstr "粉色发饰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:p_i_n_o:primary"
+msgid "p_i_n_o"
+msgstr "P.I.N.O."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_i_o_m:primary"
+msgid "p_i_o_m"
+msgstr "p_i_o_m"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_imo01:primary"
+msgid "p_imo01"
+msgstr "P_imo01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_inlight:primary"
+msgid "p_inlight"
+msgstr "p_inlight"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_ino_2525:primary"
+msgid "p_ino_2525"
+msgstr "P_ino_2525"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:p_ion:primary"
+msgid "p_ion"
+msgstr "P_ion"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_iupiu:primary"
+msgid "p_iupiu"
+msgstr "p_iupiu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_jihwa:primary"
+msgid "p_jihwa"
+msgstr "P Jihwa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_k0uryu:primary"
+msgid "p_k0uryu"
+msgstr "p_k0uryu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_k_m_n:primary"
+msgid "p_k_m_n"
+msgstr "PKMN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_k_nas:primary"
+msgid "p_k_nas"
+msgstr "P.K.Nas"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:p_kaaiioto:primary"
+msgid "p_kaaiioto"
+msgstr "P Kaaiioto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_kaki9:primary"
+msgid "p_kaki9"
+msgstr "P_Kaki9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_karin814:primary"
+msgid "p_karin814"
+msgstr "p_karin814"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_kasu:primary"
+msgid "p_kasu"
+msgstr "p_kasu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_kmym:primary"
+msgid "p_kmym"
+msgstr "P_KMYM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:p_kotai:primary"
+msgid "p_kotai"
+msgstr "P Kotai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:p_kotarou:primary"
+msgid "p_kotarou"
+msgstr "P Kotarou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_lotsofwork:primary"
+msgid "p_lotsofwork"
+msgstr "P·Lotsofwork"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_love_5:primary"
+msgid "p_love_5"
+msgstr "p_love_5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_lum04:primary"
+msgid "p_lum04"
+msgstr "P Lum04"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_lxnet:primary"
+msgid "p_lxnet"
+msgstr "p_lxnet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:p_m_ame:primary"
+msgid "p_m_ame"
+msgstr "P.M.AME"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_m_lostman:primary"
+msgid "p_m_lostman"
+msgstr "p_m_lostman"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_marmotte_kun:primary"
+msgid "p_marmotte_kun"
+msgstr "P_marmotte_kun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:p_mayuhime:primary"
+msgid "p_mayuhime"
+msgstr "P真由姬"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p_mikoluka:primary"
+msgid "p_mikoluka"
+msgstr "P Mikoluka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_mm1112:primary"
+msgid "p_mm1112"
+msgstr "p_mm1112"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_mon_00:primary"
+msgid "p_mon_00"
+msgstr "p_mon_00"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p_niisan:primary"
+msgid "p_niisan"
+msgstr "P哥哥"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:p_no_hito:primary"
+msgid "p_no_hito"
+msgstr "P之人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_nosuke1126:primary"
+msgid "p_nosuke1126"
+msgstr "p_nosuke1126"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:p_notninjin:primary"
+msgid "p_notninjin"
+msgstr "P_notninjin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_o0:primary"
+msgid "p_o0"
+msgstr "p_o0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_o2:primary"
+msgid "p_o2"
+msgstr "p_o2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:p_o_p_dorodoro:primary"
+msgid "p_o_p_dorodoro"
+msgstr "P.O.P. Dorodoro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_o_y_o_n:primary"
+msgid "p_o_y_o_n"
+msgstr "p_o_y_o_n"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:p_okate:primary"
+msgid "p_okate"
+msgstr "p_okate"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p_on_kome:primary"
+msgid "p_on_kome"
+msgstr "Pon酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_opyiyi:primary"
+msgid "p_opyiyi"
+msgstr "p_opyiyi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_ora77:primary"
+msgid "p_ora77"
+msgstr "P_Ora77"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:p_oxo7:primary"
+msgid "p_oxo7"
+msgstr "P_OXO7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_p_a_pr:primary"
+msgid "p_p_a_pr"
+msgstr "p_p_a_pr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_p_bbb:primary"
+msgid "p_p_bbb"
+msgstr "P_P_BBB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:p_p_p99:primary"
+msgid "p_p_p99"
+msgstr "p_p_p99"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:p_p_p_s:primary"
+msgid "p_p_p_s"
+msgstr "三P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_papiru:primary"
+msgid "p_papiru"
+msgstr "P Papiru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_pholvee:primary"
+msgid "p_pholvee"
+msgstr "p_pholvee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_pi011:primary"
+msgid "p_pi011"
+msgstr "P Pi011"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_ponpondayo:primary"
+msgid "p_ponpondayo"
+msgstr "P咚咚哒哟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_poongg:primary"
+msgid "p_poongg"
+msgstr "P Poongg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_poyu4:primary"
+msgid "p_poyu4"
+msgstr "泡泡鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_ppakk:primary"
+msgid "p_ppakk"
+msgstr "P_ppakk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:p_ppp_(doubledash_bank):primary"
+msgid "p_ppp_(doubledash_bank)"
+msgstr "P_PPP（DoubleDash Bank）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 82
+msgctxt "tag:p_protocoll:primary"
+msgid "p_protocoll"
+msgstr "协议p"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_ptug:primary"
+msgid "p_ptug"
+msgstr "P Ptug"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_purplegirl08:primary"
+msgid "p_purplegirl08"
+msgstr "p_purplegirl08"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_purrito:primary"
+msgid "p_purrito"
+msgstr "P·Purrito"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_q315:primary"
+msgid "p_q315"
+msgstr "p_q315"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_qiiq:primary"
+msgid "p_qiiq"
+msgstr "P.qiiq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_qlia:primary"
+msgid "p_qlia"
+msgstr "P_Qlia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_qpo_oq:primary"
+msgid "p_qpo_oq"
+msgstr "p_qpo_oq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_r_f_m_4:primary"
+msgid "p_r_f_m_4"
+msgstr "PRFM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_re:primary"
+msgid "p_re"
+msgstr "p_re"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:p_ried_prawns:primary"
+msgid "p_ried_prawns"
+msgstr "fried prawns"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_ryong:primary"
+msgid "p_ryong"
+msgstr "P. Ryong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_ryto:primary"
+msgid "p_ryto"
+msgstr "ryto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_s:primary"
+msgid "p_s"
+msgstr "p_s"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_sakudayo:primary"
+msgid "p_sakudayo"
+msgstr "P Sakudayo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_sang:primary"
+msgid "p_sang"
+msgstr "P桑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_satoko:primary"
+msgid "p_satoko"
+msgstr "P.里子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:p_shiki:primary"
+msgid "p_shiki"
+msgstr "P志贵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_sol49579:primary"
+msgid "p_sol49579"
+msgstr "p_sol49579"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_stre4:primary"
+msgid "p_stre4"
+msgstr "P Stre4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_sukt:primary"
+msgid "p_sukt"
+msgstr "P_Sukt"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:p_switch:primary"
+msgid "p_switch"
+msgstr "P键"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_t_switch:primary"
+msgid "p_t_switch"
+msgstr "p_t_switch"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:p_tarou:primary"
+msgid "p_tarou"
+msgstr "P太郎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:p_teirin:primary"
+msgid "p_teirin"
+msgstr "提琳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:p_tlnfinder:primary"
+msgid "p_tlnfinder"
+msgstr "p_tlnfinder"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_u_da_yo:primary"
+msgid "p_u_da_yo"
+msgstr "P_u_da_yo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_u_l_u:primary"
+msgid "p_u_l_u"
+msgstr "PULU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:p_umauma:primary"
+msgid "p_umauma"
+msgstr "umauma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p_umemaru:primary"
+msgid "p_umemaru"
+msgstr "p_umemaru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_umi:primary"
+msgid "p_umi"
+msgstr "p_umi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:p_w:primary"
+msgid "p_w"
+msgstr "P_W"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:p_y0:primary"
+msgid "p_y0"
+msgstr "P_y0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p_yamax:primary"
+msgid "p_yamax"
+msgstr "P Yamax"

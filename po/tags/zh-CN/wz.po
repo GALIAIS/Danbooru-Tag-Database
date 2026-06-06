@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:49+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:49+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wz-10:primary"
+msgid "wz-10"
+msgstr "WZ-10"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wz-1001:primary"
+msgid "wz-1001"
+msgstr "WZ-1001"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wz-113:primary"
+msgid "wz-113"
+msgstr "WZ-113"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wz-7:primary"
+msgid "wz-7"
+msgstr "WZ-7"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wz.2005_jantar:primary"
+msgid "wz.2005_jantar"
+msgstr "WZ.2005 Jantar"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 白然
+msgctxt "tag:wz.29_(beauties_of_nature)_(girls'_frontline):primary"
+msgid "wz.29_(beauties_of_nature)_(girls'_frontline)"
+msgstr "WZ.29"
+
+#. alias-of: wz.29_(beauties_of_nature)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:wz.29_(beauties_of_nature)_(girls'_frontline):alias:1"
+msgid "wz.29_(beauties_of_nature)_(girls'_frontline)"
+msgstr "白然"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wz.29_(envoy_of_sweet_dreams)_(girls'_frontline):primary"
+msgid "wz.29_(envoy_of_sweet_dreams)_(girls'_frontline)"
+msgstr "WZ.29（甜梦使者）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:wz.29_(girls'_frontline):primary"
+msgid "wz.29_(girls'_frontline)"
+msgstr "WZ.29（少女前线）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:wz.35:primary"
+msgid "wz.35"
+msgstr "WZ.35"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 8
+#. aliases: 贝露
+msgctxt "tag:wz.96_beryl:primary"
+msgid "wz.96_beryl"
+msgstr "WZ.96 碧玺"
+
+#. alias-of: wz.96_beryl
+#. source: ai
+msgctxt "tag:wz.96_beryl:alias:1"
+msgid "wz.96_beryl"
+msgstr "贝露"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+#. aliases: WZ
+msgctxt "tag:wz_(52889):primary"
+msgid "wz_(52889)"
+msgstr "wz"
+
+#. alias-of: wz_(52889)
+#. source: ai
+msgctxt "tag:wz_(52889):alias:1"
+msgid "wz_(52889)"
+msgstr "WZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:wz_(woyzeck):primary"
+msgid "wz_(woyzeck)"
+msgstr "WZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wz_0125:primary"
+msgid "wz_0125"
+msgstr "wz_0125"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wz_shuizha_q:primary"
+msgid "wz_shuizha_q"
+msgstr "WZ水闸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wz_zong:primary"
+msgid "wz_zong"
+msgstr "wz中"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wza258456:primary"
+msgid "wza258456"
+msgstr "wza258456"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 42
+msgctxt "tag:wzero_pilot_suit:primary"
+msgid "wzero_pilot_suit"
+msgstr "W-ZERO驾驶服"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wzh20090608:primary"
+msgid "wzh20090608"
+msgstr "wzh20090608"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wzh25975:primary"
+msgid "wzh25975"
+msgstr "wzh25975"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wzia_zilim:primary"
+msgid "wzia_zilim"
+msgstr "wzia_zilim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wzmm3284:primary"
+msgid "wzmm3284"
+msgstr "WZMM3284"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:wzoarrylmovmuju:primary"
+msgid "wzoarrylmovmuju"
+msgstr "沃扎里尔莫夫穆朱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:wzoo03:primary"
+msgid "wzoo03"
+msgstr "wzoo03"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wzprops:primary"
+msgid "wzprops"
+msgstr "WZProps"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:wzr:primary"
+msgid "wzr"
+msgstr "WZR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wzru0s:primary"
+msgid "wzru0s"
+msgstr "WZRU0S"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wzss4747:primary"
+msgid "wzss4747"
+msgstr "wzss4747"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wzt0610:primary"
+msgid "wzt0610"
+msgstr "wzt0610"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wzwi013:primary"
+msgid "wzwi013"
+msgstr "wzwi013"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:wzy6mabs7qwyogh:primary"
+msgid "wzy6mabs7qwyogh"
+msgstr "wzy6mabs7qwyogh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:wzy_art:primary"
+msgid "wzy_art"
+msgstr "wzy_art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:wzyskglz:primary"
+msgid "wzyskglz"
+msgstr "wzyskglz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:wzyysyh:primary"
+msgid "wzyysyh"
+msgstr "wzyysyh"

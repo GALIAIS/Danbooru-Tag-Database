@@ -1,0 +1,4929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:28+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:28+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.furniture
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iw-sk_scorpion_chair:primary"
+msgid "iw-sk_scorpion_chair"
+msgstr "蝎子椅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iw_(iw26586381):primary"
+msgid "iw_(iw26586381)"
+msgstr "iw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iw_haaa:primary"
+msgid "iw_haaa"
+msgstr "IW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iw_water:primary"
+msgid "iw_water"
+msgstr "iw水"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:iwa-saka:primary"
+msgid "iwa-saka"
+msgstr "岩坂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwa111116666:primary"
+msgid "iwa111116666"
+msgstr "iwa111116666"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwa_(1911_celeste):primary"
+msgid "iwa_(1911_celeste)"
+msgstr "IWA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:iwa_(alpaca_oukoku):primary"
+msgid "iwa_(alpaca_oukoku)"
+msgstr "岩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iwa_(erwinsfootstall):primary"
+msgid "iwa_(erwinsfootstall)"
+msgstr "iwa_(erwinsfootstall)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwa_(iwa-0522):primary"
+msgid "iwa_(iwa-0522)"
+msgstr "Iwa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:iwa_(iwa000ima):primary"
+msgid "iwa_(iwa000ima)"
+msgstr "岩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 119
+msgctxt "tag:iwa_(iwafish):primary"
+msgid "iwa_(iwafish)"
+msgstr "岩鱼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwa_(kuzukiri):primary"
+msgid "iwa_(kuzukiri)"
+msgstr "iwa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwa_(nanakakusui):primary"
+msgid "iwa_(nanakakusui)"
+msgstr "Iwa（nanakakusui）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwa_11i:primary"
+msgid "iwa_11i"
+msgstr "iwa_11i"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwa_ego:primary"
+msgid "iwa_ego"
+msgstr "Iwa Ego"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwa_hinata:primary"
+msgid "iwa_hinata"
+msgstr "岩日向"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwa_love_iwa:primary"
+msgid "iwa_love_iwa"
+msgstr "岩爱岩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwa_mina:primary"
+msgid "iwa_mina"
+msgstr "岩美奈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:iwaaiso5040:primary"
+msgid "iwaaiso5040"
+msgstr "岩爱5040"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaaki_hitoshi:primary"
+msgid "iwaaki_hitoshi"
+msgstr "岩明均"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaart1027:primary"
+msgid "iwaart1027"
+msgstr "Iwaart1027"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwabane_yuno:primary"
+msgid "iwabane_yuno"
+msgstr "岩羽由乃"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwabi:primary"
+msgid "iwabi"
+msgstr "岩火"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:iwabiihaporn:primary"
+msgid "iwabiihaporn"
+msgstr "iwabiihaporn"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:iwabitsu_(oshiro_project):primary"
+msgid "iwabitsu_(oshiro_project)"
+msgstr "岩櫃（Oshiro Project）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwabuchi:primary"
+msgid "iwabuchi"
+msgstr "岩渊"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:iwabuchi_daniel_hiroshi:primary"
+msgid "iwabuchi_daniel_hiroshi"
+msgstr "岩渊丹尼尔浩史"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:iwabuchi_haruka:primary"
+msgid "iwabuchi_haruka"
+msgstr "岩渊晴香"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwabuchi_machiko:primary"
+msgid "iwabuchi_machiko"
+msgstr "岩渕真智子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwachansarm:primary"
+msgid "iwachansarm"
+msgstr "iwachansarm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwada_you:primary"
+msgid "iwada_you"
+msgstr "岩田洋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:iwadamai:primary"
+msgid "iwadamai"
+msgstr "岩波舞"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwadate_kou:primary"
+msgid "iwadate_kou"
+msgstr "岩馆光"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:iwadate_yuan:primary"
+msgid "iwadate_yuan"
+msgstr "岩立 媛"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwadate_yuan_(cosplay):primary"
+msgid "iwadate_yuan_(cosplay)"
+msgstr "岩馆圆（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 327
+#. aliases: 安娜
+msgctxt "tag:iwado_anna:primary"
+msgid "iwado_anna"
+msgstr "岩户安娜"
+
+#. alias-of: iwado_anna
+#. source: ai
+msgctxt "tag:iwado_anna:alias:1"
+msgid "iwado_anna"
+msgstr "安娜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwadonoyama_(oshiro_project):primary"
+msgid "iwadonoyama_(oshiro_project)"
+msgstr "岩殿山（Oshiro Project）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwafaa:primary"
+msgid "iwafaa"
+msgstr "iwafaa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwagaki_noborou:primary"
+msgid "iwagaki_noborou"
+msgstr "岩柿登"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:iwagakure_shinobi_uniform:primary"
+msgid "iwagakure_shinobi_uniform"
+msgstr "岩隐忍者制服"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 114
+#. aliases: 岩隐符号
+msgctxt "tag:iwagakure_symbol:primary"
+msgid "iwagakure_symbol"
+msgstr "岩隐标志"
+
+#. alias-of: iwagakure_symbol
+#. source: ai
+msgctxt "tag:iwagakure_symbol:alias:1"
+msgid "iwagakure_symbol"
+msgstr "岩隐符号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwagami:primary"
+msgid "iwagami"
+msgstr "岩神"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:iwagmo:primary"
+msgid "iwagmo"
+msgstr "iwagmo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:iwaha_(iwabajunki06):primary"
+msgid "iwaha_(iwabajunki06)"
+msgstr "Iwaha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:iwahada:primary"
+msgid "iwahada"
+msgstr "iwahada"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 104
+msgctxt "tag:iwahana:primary"
+msgid "iwahana"
+msgstr "岩花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwahanabi:primary"
+msgid "iwahanabi"
+msgstr "Iwahanabi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:iwahara_yuuji:primary"
+msgid "iwahara_yuuji"
+msgstr "岩原裕二"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwahashi_sakutarou:primary"
+msgid "iwahashi_sakutarou"
+msgstr "Iwahashi Sakutarou"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwahata_kouji:primary"
+msgid "iwahata_kouji"
+msgstr "岩畑コウジ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwahata_takiyo:primary"
+msgid "iwahata_takiyo"
+msgstr "岩畑多纪代"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwahune_tenkei:primary"
+msgid "iwahune_tenkei"
+msgstr "岩舟天恵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwai:primary"
+msgid "iwai"
+msgstr "Iwai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwai-chan:primary"
+msgid "iwai-chan"
+msgstr "岩井酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwai03:primary"
+msgid "iwai03"
+msgstr "岩井03"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwai10iwai:primary"
+msgid "iwai10iwai"
+msgstr "iwai10iwai"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwai_akiko:primary"
+msgid "iwai_akiko"
+msgstr "岩井晶子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwai_iwana:primary"
+msgid "iwai_iwana"
+msgstr "岩井岩奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwai_kiki:primary"
+msgid "iwai_kiki"
+msgstr "岩井纪纪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 123
+msgctxt "tag:iwai_ku_tsuki:primary"
+msgid "iwai_ku_tsuki"
+msgstr "祝空月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwai_manaka:primary"
+msgid "iwai_manaka"
+msgstr "岩井真心"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwai_miki:primary"
+msgid "iwai_miki"
+msgstr "岩井美纪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iwai_minato:primary"
+msgid "iwai_minato"
+msgstr "岩井凑"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 66
+msgctxt "tag:iwai_munehisa:primary"
+msgid "iwai_munehisa"
+msgstr "岩井宗久"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwai_nao:primary"
+msgid "iwai_nao"
+msgstr "岩井直"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwai_nobuyuki:primary"
+msgid "iwai_nobuyuki"
+msgstr "岩井伸行"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwai_noeko:primary"
+msgid "iwai_noeko"
+msgstr "iwai_noeko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iwai_noutage:primary"
+msgid "iwai_noutage"
+msgstr "iwai_noutage"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwai_roku:primary"
+msgid "iwai_roku"
+msgstr "Iwai Roku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 145
+msgctxt "tag:iwai_ryou:primary"
+msgid "iwai_ryou"
+msgstr "岩井凉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwai_sawako:primary"
+msgid "iwai_sawako"
+msgstr "岩井沢子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:iwai_shu:primary"
+msgid "iwai_shu"
+msgstr "岩井修"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 岩井铃兰
+msgctxt "tag:iwai_suzuran:primary"
+msgid "iwai_suzuran"
+msgstr "岩井铃兰"
+
+#. alias-of: iwai_suzuran
+#. source: ai
+msgctxt "tag:iwai_suzuran:alias:1"
+msgid "iwai_suzuran"
+msgstr "岩井铃兰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwai_tomo:primary"
+msgid "iwai_tomo"
+msgstr "岩井智"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwai_waya_(4h):primary"
+msgid "iwai_waya_(4h)"
+msgstr "岩井和也"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwai_yuuki:primary"
+msgid "iwai_yuuki"
+msgstr "岩井优希"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iwaibeni83:primary"
+msgid "iwaibeni83"
+msgstr "岩红83"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 14
+msgctxt "tag:iwaihime:primary"
+msgid "iwaihime"
+msgstr "祝姫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaihou:primary"
+msgid "iwaihou"
+msgstr "iwaihou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaim0:primary"
+msgid "iwaim0"
+msgstr "iwaim0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:iwainari:primary"
+msgid "iwainari"
+msgstr "庆祝"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:iwaiya:primary"
+msgid "iwaiya"
+msgstr "iwaiya"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwaizuki_nadeshiko:primary"
+msgid "iwaizuki_nadeshiko"
+msgstr "岩月撫子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 146
+msgctxt "tag:iwaizumi_hajime:primary"
+msgid "iwaizumi_hajime"
+msgstr "岩泉一"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwaizumi_hajime_(cosplay):primary"
+msgid "iwaizumi_hajime_(cosplay)"
+msgstr "岩泉一（cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaizumi_kazane:primary"
+msgid "iwaizumi_kazane"
+msgstr "岩泉一"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwaizumi_shou:primary"
+msgid "iwaizumi_shou"
+msgstr "岩泉尚"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:iwakakeru!_sport_climbing_girls:primary"
+msgid "iwakakeru!_sport_climbing_girls"
+msgstr "岩壁！攀岩少女"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwakamu:primary"
+msgid "iwakamu"
+msgstr "岩叶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwakamu_(18come):primary"
+msgid "iwakamu_(18come)"
+msgstr "岩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakasad:primary"
+msgid "iwakasad"
+msgstr "iwakasad"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwake:primary"
+msgid "iwake"
+msgstr "岩挂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaki:primary"
+msgid "iwaki"
+msgstr "岩城"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaki-kun_(atashin'chi):primary"
+msgid "iwaki-kun_(atashin'chi)"
+msgstr "岩木君"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwaki-me_hikari_shoutai:primary"
+msgid "iwaki-me_hikari_shoutai"
+msgstr "Iwaki-me Hikari Shoutai"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaki_(gunboat):primary"
+msgid "iwaki_(gunboat)"
+msgstr "岩城号炮舰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwaki_aloha:primary"
+msgid "iwaki_aloha"
+msgstr "iwaki_aloha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwaki_daisuke:primary"
+msgid "iwaki_daisuke"
+msgstr "岩木大辅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:iwaki_hazuki:primary"
+msgid "iwaki_hazuki"
+msgstr "岩木山日月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwaki_hiro:primary"
+msgid "iwaki_hiro"
+msgstr "岩城宏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:iwaki_kouji:primary"
+msgid "iwaki_kouji"
+msgstr "岩城弘二"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaki_kyousuke:primary"
+msgid "iwaki_kyousuke"
+msgstr "岩城京介"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwaki_masami:primary"
+msgid "iwaki_masami"
+msgstr "岩木雅美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaki_masami_(yuubari_melon_koukou):primary"
+msgid "iwaki_masami_(yuubari_melon_koukou)"
+msgstr "岩木雅美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwaki_mio:primary"
+msgid "iwaki_mio"
+msgstr "岩木美绪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwaki_seiji:primary"
+msgid "iwaki_seiji"
+msgstr "岩木清司"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwaki_soyogo:primary"
+msgid "iwaki_soyogo"
+msgstr "岩木小夜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwaki_tomonori:primary"
+msgid "iwaki_tomonori"
+msgstr "岩木智德"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 105
+#. aliases: Iwaki Yoshimi
+msgctxt "tag:iwaki_yoshimi:primary"
+msgid "iwaki_yoshimi"
+msgstr "岩城吉见"
+
+#. alias-of: iwaki_yoshimi
+#. source: ai
+msgctxt "tag:iwaki_yoshimi:alias:1"
+msgid "iwaki_yoshimi"
+msgstr "Iwaki Yoshimi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakika:primary"
+msgid "iwakika"
+msgstr "岩木"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 岩切花恵
+msgctxt "tag:iwakiri_hanae:primary"
+msgid "iwakiri_hanae"
+msgstr "岩切花苗"
+
+#. alias-of: iwakiri_hanae
+#. source: ai
+msgctxt "tag:iwakiri_hanae:alias:1"
+msgid "iwakiri_hanae"
+msgstr "岩切花恵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakiri_nagatsuka_toushirou:primary"
+msgid "iwakiri_nagatsuka_toushirou"
+msgstr "岩切永冢刀城"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:iwakiriyama_high_school_uniform:primary"
+msgid "iwakiriyama_high_school_uniform"
+msgstr "岩切山高中制服"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakishi_nana:primary"
+msgid "iwakishi_nana"
+msgstr "岩岸奈奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:iwakiyamayukisatoshironanogojuurokushi_akira:primary"
+msgid "iwakiyamayukisatoshironanogojuurokushi_akira"
+msgstr "岩雪幸"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:iwakiyamayukisatoshironanogojuurokushi_yui:primary"
+msgid "iwakiyamayukisatoshironanogojuurokushi_yui"
+msgstr "岩崎雪里·里野后十流石·结衣"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:iwakki:primary"
+msgid "iwakki"
+msgstr "iwakki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:iwako:primary"
+msgid "iwako"
+msgstr "岩子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 83
+msgctxt "tag:iwako_(eiken3kyuboy):primary"
+msgid "iwako_(eiken3kyuboy)"
+msgstr "岩子(臭作)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:iwako_(gegege_no_kitarou):primary"
+msgid "iwako_(gegege_no_kitarou)"
+msgstr "岩子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwako_(pixiv1786128):primary"
+msgid "iwako_(pixiv1786128)"
+msgstr "iwako"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwako_(sakanakana_s):primary"
+msgid "iwako_(sakanakana_s)"
+msgstr "Iwako"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 138
+msgctxt "tag:iwakoo:primary"
+msgid "iwakoo"
+msgstr "iwakoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iwaku:primary"
+msgid "iwaku"
+msgstr "iwaku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaku_(user_fgzh2333):primary"
+msgid "iwaku_(user_fgzh2333)"
+msgstr "iwaku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:iwaku_waku:primary"
+msgid "iwaku_waku"
+msgstr "iwaku_waku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwakuma7:primary"
+msgid "iwakuma7"
+msgstr "岩熊7"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+#. aliases: 岩国
+msgctxt "tag:iwakuni_(oshiro_project):primary"
+msgid "iwakuni_(oshiro_project)"
+msgstr "岩国"
+
+#. alias-of: iwakuni_(oshiro_project)
+#. source: ai
+msgctxt "tag:iwakuni_(oshiro_project):alias:1"
+msgid "iwakuni_(oshiro_project)"
+msgstr "岩国"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwakuni_mizuho:primary"
+msgid "iwakuni_mizuho"
+msgstr "岩国瑞穗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwakura:primary"
+msgid "iwakura"
+msgstr "岩仓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakura_(iwakura_0):primary"
+msgid "iwakura_(iwakura_0)"
+msgstr "岩仓（iwakura_0）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwakura_aria:primary"
+msgid "iwakura_aria"
+msgstr "岩仓有里亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwakura_azusa:primary"
+msgid "iwakura_azusa"
+msgstr "岩仓梓"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwakura_chinatsu:primary"
+msgid "iwakura_chinatsu"
+msgstr "岩仓千夏"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwakura_ichika:primary"
+msgid "iwakura_ichika"
+msgstr "岩仓一花"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwakura_kanata:primary"
+msgid "iwakura_kanata"
+msgstr "岩仓奏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:iwakura_kazunori:primary"
+msgid "iwakura_kazunori"
+msgstr "Iwakura Kazunori"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+#. aliases: 琴音
+msgctxt "tag:iwakura_kotone:primary"
+msgid "iwakura_kotone"
+msgstr "岩仓琴音"
+
+#. alias-of: iwakura_kotone
+#. source: ai
+msgctxt "tag:iwakura_kotone:alias:1"
+msgid "iwakura_kotone"
+msgstr "琴音"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakura_kouin:primary"
+msgid "iwakura_kouin"
+msgstr "岩仓弘胤"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1405
+#. aliases: 岩仓玲音, 莱恩
+msgctxt "tag:iwakura_lain:primary"
+msgid "iwakura_lain"
+msgstr "玲音"
+
+#. alias-of: iwakura_lain
+#. source: ai
+msgctxt "tag:iwakura_lain:alias:1"
+msgid "iwakura_lain"
+msgstr "岩仓玲音"
+
+#. alias-of: iwakura_lain
+#. source: ai
+msgctxt "tag:iwakura_lain:alias:2"
+msgid "iwakura_lain"
+msgstr "莱恩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iwakura_lain_(cosplay):primary"
+msgid "iwakura_lain_(cosplay)"
+msgstr "岩仓玲音Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwakura_mayu:primary"
+msgid "iwakura_mayu"
+msgstr "岩仓真由"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakura_miho:primary"
+msgid "iwakura_miho"
+msgstr "岩仓美穗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iwakura_mika:primary"
+msgid "iwakura_mika"
+msgstr "岩仓美香"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakura_mina:primary"
+msgid "iwakura_mina"
+msgstr "岩仓美奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 165
+msgctxt "tag:iwakura_mitsumi:primary"
+msgid "iwakura_mitsumi"
+msgstr "岩仓美津未"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+#. aliases: 夏希
+msgctxt "tag:iwakura_natsuki:primary"
+msgid "iwakura_natsuki"
+msgstr "岩仓夏希"
+
+#. alias-of: iwakura_natsuki
+#. source: ai
+msgctxt "tag:iwakura_natsuki:alias:1"
+msgid "iwakura_natsuki"
+msgstr "夏希"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakura_patan:primary"
+msgid "iwakura_patan"
+msgstr "IwakuraPatan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakura_sae:primary"
+msgid "iwakura_sae"
+msgstr "岩仓冴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:iwakura_sanae:primary"
+msgid "iwakura_sanae"
+msgstr "岩仓砂绘"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwakura_sasami:primary"
+msgid "iwakura_sasami"
+msgstr "岩仓沙沙美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iwakura_yasuo:primary"
+msgid "iwakura_yasuo"
+msgstr "岩仓康雄"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwakurafushimi:primary"
+msgid "iwakurafushimi"
+msgstr "Iwakura Fushimi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwakurakomaki:primary"
+msgid "iwakurakomaki"
+msgstr "岩仓小卷"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 1
+msgctxt "tag:iwakutsuki_mazoku_kyoushi_to_tenshi_kouhosei:primary"
+msgid "iwakutsuki_mazoku_kyoushi_to_tenshi_kouhosei"
+msgstr "《岩窟姬魔族教师与天使候补生》"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwama_rio:primary"
+msgid "iwama_rio"
+msgstr "岩间里央"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwama_shin:primary"
+msgid "iwama_shin"
+msgstr "岩间真"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:iwama_yoshiki:primary"
+msgid "iwama_yoshiki"
+msgstr "岩间嘉纪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwamaguo:primary"
+msgid "iwamaguo"
+msgstr "Iwamaguo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:iwamasama:primary"
+msgid "iwamasama"
+msgstr "岩间大人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwami:primary"
+msgid "iwami"
+msgstr "石见"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: Iwami
+msgctxt "tag:iwami_(10308):primary"
+msgid "iwami_(10308)"
+msgstr "岩见"
+
+#. alias-of: iwami_(10308)
+#. source: ai
+msgctxt "tag:iwami_(10308):alias:1"
+msgid "iwami_(10308)"
+msgstr "Iwami"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwami_(battleship):primary"
+msgid "iwami_(battleship)"
+msgstr "石见号战列舰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwami_(noragami):primary"
+msgid "iwami_(noragami)"
+msgstr "伊邪那美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 石见 (玉响)
+msgctxt "tag:iwami_(tamacolle):primary"
+msgid "iwami_(tamacolle)"
+msgstr "石见"
+
+#. alias-of: iwami_(tamacolle)
+#. source: ai
+msgctxt "tag:iwami_(tamacolle):alias:1"
+msgid "iwami_(tamacolle)"
+msgstr "石见 (玉响)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwami_aki:primary"
+msgid "iwami_aki"
+msgstr "岩见秋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwami_ih_gi:primary"
+msgid "iwami_ih_gi"
+msgstr "Iwami_IH_gi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 76
+msgctxt "tag:iwami_kiyoko:primary"
+msgid "iwami_kiyoko"
+msgstr "石见清子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 63
+msgctxt "tag:iwami_kyuuto:primary"
+msgid "iwami_kyuuto"
+msgstr "石见久斗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:iwami_manaka:primary"
+msgid "iwami_manaka"
+msgstr "石见真中"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwami_manaka_(cosplay):primary"
+msgid "iwami_manaka_(cosplay)"
+msgstr "岩美真中（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:iwami_sara:primary"
+msgid "iwami_sara"
+msgstr "石见沙罗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:iwami_sayaka:primary"
+msgid "iwami_sayaka"
+msgstr "石见沙耶香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:iwami_shouko:primary"
+msgid "iwami_shouko"
+msgstr "石见翔子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwami_yuuki:primary"
+msgid "iwami_yuuki"
+msgstr "Iwami Yuuki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:iwamine_shuu:primary"
+msgid "iwamine_shuu"
+msgstr "岩峰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iwamizawa_nene:primary"
+msgid "iwamizawa_nene"
+msgstr "iwamizawa_nene"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwamizawa_sorachi:primary"
+msgid "iwamizawa_sorachi"
+msgstr "岩见泽空知"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwamocchan:primary"
+msgid "iwamocchan"
+msgstr "iwamocchan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:iwamochi:primary"
+msgid "iwamochi"
+msgstr "岩饼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwamoto_akina:primary"
+msgid "iwamoto_akina"
+msgstr "岩本明菜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 555
+#. aliases: 岩本英里
+msgctxt "tag:iwamoto_eiri:primary"
+msgid "iwamoto_eiri"
+msgstr "岩本英梨"
+
+#. alias-of: iwamoto_eiri
+#. source: ai
+msgctxt "tag:iwamoto_eiri:alias:1"
+msgid "iwamoto_eiri"
+msgstr "岩本英里"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iwamoto_kogan:primary"
+msgid "iwamoto_kogan"
+msgstr "岩本弘岸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:iwamoto_minoru:primary"
+msgid "iwamoto_minoru"
+msgstr "岩本稔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwamoto_moeka:primary"
+msgid "iwamoto_moeka"
+msgstr "岩本萌香"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwamoto_renka:primary"
+msgid "iwamoto_renka"
+msgstr "岩本莲华"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iwamoto_rina:primary"
+msgid "iwamoto_rina"
+msgstr "岩本莉奈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwamoto_shinji:primary"
+msgid "iwamoto_shinji"
+msgstr "岩本真司"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 228
+msgctxt "tag:iwamoto_sora:primary"
+msgid "iwamoto_sora"
+msgstr "岩本虹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwamoto_squadron_pilot_(kancolle):primary"
+msgid "iwamoto_squadron_pilot_(kancolle)"
+msgstr "岩本中队飞行员"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 95
+msgctxt "tag:iwamoto_tatsurou:primary"
+msgid "iwamoto_tatsurou"
+msgstr "岩本达郎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwamoto_tatsuru:primary"
+msgid "iwamoto_tatsuru"
+msgstr "岩本达郎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwamoto_tetsuzou:primary"
+msgid "iwamoto_tetsuzou"
+msgstr "岩本铁藏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 362
+msgctxt "tag:iwamoto_zerogo:primary"
+msgid "iwamoto_zerogo"
+msgstr "岩本零五"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 65
+msgctxt "tag:iwamotochou_geinousha:primary"
+msgid "iwamotochou_geinousha"
+msgstr "岩本照(岩本照)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:iwamototuka:primary"
+msgid "iwamototuka"
+msgstr "iwamototuka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwamunetaka:primary"
+msgid "iwamunetaka"
+msgstr "iwamunetaka"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwamura_(oshiro_project):primary"
+msgid "iwamura_(oshiro_project)"
+msgstr "岩村（Oshiro Project）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwamura_maiko:primary"
+msgid "iwamura_maiko"
+msgstr "岩村舞子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwamura_sachiko:primary"
+msgid "iwamura_sachiko"
+msgstr "岩村幸子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 280
+msgctxt "tag:iwamushi:primary"
+msgid "iwamushi"
+msgstr "岩虫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwan_(iwan107):primary"
+msgid "iwan_(iwan107)"
+msgstr "iwan（iwan107）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 63
+msgctxt "tag:iwana:primary"
+msgid "iwana"
+msgstr "岩鱼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwana_(spirit_circle):primary"
+msgid "iwana_(spirit_circle)"
+msgstr "岩鱼（魂环）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwana_kosuke:primary"
+msgid "iwana_kosuke"
+msgstr "岩名小助"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwana_no_kai:primary"
+msgid "iwana_no_kai"
+msgstr "岩鱼之会"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:iwana_oishi:primary"
+msgid "iwana_oishi"
+msgstr "iwana_oishi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwana_p:primary"
+msgid "iwana_p"
+msgstr "iwana_p"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwana_toshiki:primary"
+msgid "iwana_toshiki"
+msgstr "岩名俊树"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwanaga:primary"
+msgid "iwanaga"
+msgstr "iwanaga"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwanaga-chan:primary"
+msgid "iwanaga-chan"
+msgstr "岩永酱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanaga_(shinobi_nightmare):primary"
+msgid "iwanaga_(shinobi_nightmare)"
+msgstr "岩永（Shinobi Nightmare）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 568
+msgctxt "tag:iwanaga_ariya:primary"
+msgid "iwanaga_ariya"
+msgstr "岩永有耶"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwanaga_ariya_(cosplay):primary"
+msgid "iwanaga_ariya_(cosplay)"
+msgstr "岩永亚里耶（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 岩永
+msgctxt "tag:iwanaga_kanjuro:primary"
+msgid "iwanaga_kanjuro"
+msgstr "岩永勘十郎"
+
+#. alias-of: iwanaga_kanjuro
+#. source: ai
+msgctxt "tag:iwanaga_kanjuro:alias:1"
+msgid "iwanaga_kanjuro"
+msgstr "岩永"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 135
+msgctxt "tag:iwanaga_kotoko:primary"
+msgid "iwanaga_kotoko"
+msgstr "岩永琴子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanaga_kotoko_(cosplay):primary"
+msgid "iwanaga_kotoko_(cosplay)"
+msgstr "岩永琴子（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanaga_no_ichouhime:primary"
+msgid "iwanaga_no_ichouhime"
+msgstr "岩永银杏姬"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwanaga_sakurako:primary"
+msgid "iwanaga_sakurako"
+msgstr "岩永樱子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwanaga_satsuki:primary"
+msgid "iwanaga_satsuki"
+msgstr "岩永五月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwanaga_shizu:primary"
+msgid "iwanaga_shizu"
+msgstr "岩永静"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:iwanaga_shouko:primary"
+msgid "iwanaga_shouko"
+msgstr "岩永笙子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 103
+#. aliases: 岩永
+msgctxt "tag:iwanaga_tm:primary"
+msgid "iwanaga_tm"
+msgstr "岩永琴子"
+
+#. alias-of: iwanaga_tm
+#. source: ai
+msgctxt "tag:iwanaga_tm:alias:1"
+msgid "iwanaga_tm"
+msgstr "岩永"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanaga_tomomi:primary"
+msgid "iwanaga_tomomi"
+msgstr "岩永友美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwanaga_yoshinori:primary"
+msgid "iwanaga_yoshinori"
+msgstr "岩永善典"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanagahime_(tsugumomo):primary"
+msgid "iwanagahime_(tsugumomo)"
+msgstr "岩永姬（Tsugumomo）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwanai_desho_sonna_koto_(meme):primary"
+msgid "iwanai_desho_sonna_koto_(meme)"
+msgstr "才不会那样说"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanai_kedo_ne.:primary"
+msgid "iwanai_kedo_ne."
+msgstr "虽然不想说但是呢"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+#. aliases: 岩波小夜
+msgctxt "tag:iwanako:primary"
+msgid "iwanako"
+msgstr "岩永"
+
+#. alias-of: iwanako
+#. source: ai
+msgctxt "tag:iwanako:alias:1"
+msgid "iwanako"
+msgstr "岩波小夜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwanamaru:primary"
+msgid "iwanamaru"
+msgstr "岩丸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanami-kun:primary"
+msgid "iwanami-kun"
+msgstr "岩波君"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwanami_(destroyer):primary"
+msgid "iwanami_(destroyer)"
+msgstr "岩波（驱逐舰）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwanami_chika:primary"
+msgid "iwanami_chika"
+msgstr "岩波千花"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwanami_saki:primary"
+msgid "iwanami_saki"
+msgstr "岩波咲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanami_yoko:primary"
+msgid "iwanami_yoko"
+msgstr "岩波余子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanami_yoshitaka:primary"
+msgid "iwanami_yoshitaka"
+msgstr "岩波义孝"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwanashi:primary"
+msgid "iwanashi"
+msgstr "Iwanashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanashi_(evmoon):primary"
+msgid "iwanashi_(evmoon)"
+msgstr "岩嵐（evmoon）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwanashi_(ichigo_wadachi):primary"
+msgid "iwanashi_(ichigo_wadachi)"
+msgstr "岩无志"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: 岩下舞子
+msgctxt "tag:iwanashi_maiko:primary"
+msgid "iwanashi_maiko"
+msgstr "Iwanashi Maiko"
+
+#. alias-of: iwanashi_maiko
+#. source: ai
+msgctxt "tag:iwanashi_maiko:alias:1"
+msgid "iwanashi_maiko"
+msgstr "岩下舞子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwanasho:primary"
+msgid "iwanasho"
+msgstr "Iwanasho"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iwanbou:primary"
+msgid "iwanbou"
+msgstr "岩坊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:iwane_masaaki:primary"
+msgid "iwane_masaaki"
+msgstr "岩根雅明"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:iwanishi:primary"
+msgid "iwanishi"
+msgstr "岩西"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iwannabethesun:primary"
+msgid "iwannabethesun"
+msgstr "iwannabethesun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 55
+#. aliases: iwano
+msgctxt "tag:iwano_(iwanohiroko):primary"
+msgid "iwano_(iwanohiroko)"
+msgstr "岩野弘子"
+
+#. alias-of: iwano_(iwanohiroko)
+#. source: ai
+msgctxt "tag:iwano_(iwanohiroko):alias:1"
+msgid "iwano_(iwanohiroko)"
+msgstr "iwano"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwano_(paresu8):primary"
+msgid "iwano_(paresu8)"
+msgstr "Iwano（paresu8）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwano_akane:primary"
+msgid "iwano_akane"
+msgstr "岩野茜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwano_houmei_(bungou_to_alchemist):primary"
+msgid "iwano_houmei_(bungou_to_alchemist)"
+msgstr "岩野泡鸣（文豪与炼金术师）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:iwano_kal:primary"
+msgid "iwano_kal"
+msgstr "Iwano Kal"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 303
+msgctxt "tag:iwano_kenta:primary"
+msgid "iwano_kenta"
+msgstr "伊野健太"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwanoi:primary"
+msgid "iwanoi"
+msgstr "岩井"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanoki:primary"
+msgid "iwanoki"
+msgstr "岩之木"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwanomiya:primary"
+msgid "iwanomiya"
+msgstr "Iwanomiya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 130
+msgctxt "tag:iwanori:primary"
+msgid "iwanori"
+msgstr "Iwanori"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:iwanosuke:primary"
+msgid "iwanosuke"
+msgstr "iwanosuke"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwant2fkviserysiii:primary"
+msgid "iwant2fkviserysiii"
+msgstr "iwant2fkviserysiii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwantcustody:primary"
+msgid "iwantcustody"
+msgstr "iwantcustody"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwantdie10034:primary"
+msgid "iwantdie10034"
+msgstr "iwantdie10034"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwantmystery:primary"
+msgid "iwantmystery"
+msgstr "iwantmystery"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwantogo_home:primary"
+msgid "iwantogo_home"
+msgstr "iwantogo_home"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwantsoymilk:primary"
+msgid "iwantsoymilk"
+msgstr "iwantsoymilk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanttobecomealamp:primary"
+msgid "iwanttobecomealamp"
+msgstr "iwanttobecomealamp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanttoeatcrabs:primary"
+msgid "iwanttoeatcrabs"
+msgstr "iwanttoeatcrabs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwanuga_hana:primary"
+msgid "iwanuga_hana"
+msgstr "岩永花"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwanuma_rin:primary"
+msgid "iwanuma_rin"
+msgstr "岩沼凛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwanumaart:primary"
+msgid "iwanumaart"
+msgstr "iwanumaart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwanya:primary"
+msgid "iwanya"
+msgstr "伊万雅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwao:primary"
+msgid "iwao"
+msgstr "岩尾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 535
+msgctxt "tag:iwao178:primary"
+msgid "iwao178"
+msgstr "岩尾178"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwao_(iwaogom):primary"
+msgid "iwao_(iwaogom)"
+msgstr "iwao"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwao_(kinnikuman):primary"
+msgid "iwao_(kinnikuman)"
+msgstr "岩尾（筋肉人）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 122
+msgctxt "tag:iwao_(pixiv258710):primary"
+msgid "iwao_(pixiv258710)"
+msgstr "岩尾"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwao_gongenyama:primary"
+msgid "iwao_gongenyama"
+msgstr "岩尾御岳山"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwao_junko:primary"
+msgid "iwao_junko"
+msgstr "岩尾純子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:iwao_kanata:primary"
+msgid "iwao_kanata"
+msgstr "岩尾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwao_suzuki:primary"
+msgid "iwao_suzuki"
+msgstr "岩尾铃木"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.rendering.render_style
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwao_takamoto_(style):primary"
+msgid "iwao_takamoto_(style)"
+msgstr "岩尾隆元（风格）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwao_yuuichi:primary"
+msgid "iwao_yuuichi"
+msgstr "岩尾悠一"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwao_yuujirou:primary"
+msgid "iwao_yuujirou"
+msgstr "岩尾勇二郎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:iwaohime:primary"
+msgid "iwaohime"
+msgstr "岩尾姬"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:iwaoka_(sikabanenomiti_park):primary"
+msgid "iwaoka_(sikabanenomiti_park)"
+msgstr "Iwaoka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaoka_hisae:primary"
+msgid "iwaoka_hisae"
+msgstr "岩冈ヒサエ"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwaoka_tetsu:primary"
+msgid "iwaoka_tetsu"
+msgstr "岩冈哲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwaoropenelep:primary"
+msgid "iwaoropenelep"
+msgstr "Iwaoropenelep"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaozisan:primary"
+msgid "iwaozisan"
+msgstr "岩尾先生"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:iwapd3:primary"
+msgid "iwapd3"
+msgstr "IWA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwapen:primary"
+msgid "iwapen"
+msgstr "iwapen"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaposoinkara:primary"
+msgid "iwaposoinkara"
+msgstr "iwaposoinkara"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iwara.tv:primary"
+msgid "iwara.tv"
+msgstr "iwara.tv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwara_(asat8724):primary"
+msgid "iwara_(asat8724)"
+msgstr "iwara (asat8724)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iwarasaikou:primary"
+msgid "iwarasaikou"
+msgstr "岩佐最幸"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:iwarenge_(flower_knight_girl):primary"
+msgid "iwarenge_(flower_knight_girl)"
+msgstr "岩莲华"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:iwari_(kerokeroboushi):primary"
+msgid "iwari_(kerokeroboushi)"
+msgstr "岩日（可罗可罗帽）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:iwarihhi:primary"
+msgid "iwarihhi"
+msgstr "岩日"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:iwark_briar:primary"
+msgid "iwark_briar"
+msgstr "iwark_briar"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwasa_hiromi:primary"
+msgid "iwasa_hiromi"
+msgstr "岩佐浩美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+#. aliases: 岩佐明美
+msgctxt "tag:iwasa_kasumi:primary"
+msgid "iwasa_kasumi"
+msgstr "岩佐明美"
+
+#. alias-of: iwasa_kasumi
+#. source: ai
+msgctxt "tag:iwasa_kasumi:alias:1"
+msgid "iwasa_kasumi"
+msgstr "岩佐明美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasa_masaru:primary"
+msgid "iwasa_masaru"
+msgstr "岩佐将"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:iwasa_mayuko:primary"
+msgid "iwasa_mayuko"
+msgstr "岩佐真悠子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwasa_miho:primary"
+msgid "iwasa_miho"
+msgstr "岩佐美穗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwasa_tomoko:primary"
+msgid "iwasa_tomoko"
+msgstr "岩佐智子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:iwasa_yuuko:primary"
+msgid "iwasa_yuuko"
+msgstr "岩佐裕子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iwasake-chan_(fake_type):primary"
+msgid "iwasake-chan_(fake_type)"
+msgstr "Iwasake-chan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwasaki_(yxsa5477):primary"
+msgid "iwasaki_(yxsa5477)"
+msgstr "Iwasaki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 爱
+msgctxt "tag:iwasaki_ai:primary"
+msgid "iwasaki_ai"
+msgstr "岩崎爱"
+
+#. alias-of: iwasaki_ai
+#. source: ai
+msgctxt "tag:iwasaki_ai:alias:1"
+msgid "iwasaki_ai"
+msgstr "爱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwasaki_emiko:primary"
+msgid "iwasaki_emiko"
+msgstr "岩崎绘美子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwasaki_gekkou:primary"
+msgid "iwasaki_gekkou"
+msgstr "岩崎月光"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: 岩崎
+msgctxt "tag:iwasaki_hana:primary"
+msgid "iwasaki_hana"
+msgstr "岩崎花"
+
+#. alias-of: iwasaki_hana
+#. source: ai
+msgctxt "tag:iwasaki_hana:alias:1"
+msgid "iwasaki_hana"
+msgstr "岩崎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwasaki_honoka:primary"
+msgid "iwasaki_honoka"
+msgstr "岩崎穗花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwasaki_kagami:primary"
+msgid "iwasaki_kagami"
+msgstr "岩崎镜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwasaki_kona_reika:primary"
+msgid "iwasaki_kona_reika"
+msgstr "岩崎小凪玲華"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:iwasaki_kouji:primary"
+msgid "iwasaki_kouji"
+msgstr "岩崎考二"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwasaki_mahiro:primary"
+msgid "iwasaki_mahiro"
+msgstr "岩崎真弘"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 舞
+msgctxt "tag:iwasaki_mai:primary"
+msgid "iwasaki_mai"
+msgstr "岩崎舞"
+
+#. alias-of: iwasaki_mai
+#. source: ai
+msgctxt "tag:iwasaki_mai:alias:1"
+msgid "iwasaki_mai"
+msgstr "舞"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 108
+msgctxt "tag:iwasaki_masakazu:primary"
+msgid "iwasaki_masakazu"
+msgstr "岩崎正和"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaki_mayuko:primary"
+msgid "iwasaki_mayuko"
+msgstr "岩崎真由子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 美衣
+msgctxt "tag:iwasaki_mii:primary"
+msgid "iwasaki_mii"
+msgstr "岩崎美衣"
+
+#. alias-of: iwasaki_mii
+#. source: ai
+msgctxt "tag:iwasaki_mii:alias:1"
+msgid "iwasaki_mii"
+msgstr "美衣"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaki_miki:primary"
+msgid "iwasaki_miki"
+msgstr "岩崎美纪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:iwasaki_minako:primary"
+msgid "iwasaki_minako"
+msgstr "岩崎美奈子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 549
+msgctxt "tag:iwasaki_minami:primary"
+msgid "iwasaki_minami"
+msgstr "岩崎南"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwasaki_nami:primary"
+msgid "iwasaki_nami"
+msgstr "岩崎奈美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:iwasaki_reina:primary"
+msgid "iwasaki_reina"
+msgstr "岩崎玲奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:iwasaki_rio:primary"
+msgid "iwasaki_rio"
+msgstr "岩崎里绪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:iwasaki_ryuuji:primary"
+msgid "iwasaki_ryuuji"
+msgstr "岩崎龙二"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: Cosplay岩崎龙二
+msgctxt "tag:iwasaki_ryuuji_(cosplay):primary"
+msgid "iwasaki_ryuuji_(cosplay)"
+msgstr "岩崎龙二Cosplay"
+
+#. alias-of: iwasaki_ryuuji_(cosplay)
+#. source: ai
+msgctxt "tag:iwasaki_ryuuji_(cosplay):alias:1"
+msgid "iwasaki_ryuuji_(cosplay)"
+msgstr "Cosplay岩崎龙二"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaki_sakura:primary"
+msgid "iwasaki_sakura"
+msgstr "岩崎樱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwasaki_seijin:primary"
+msgid "iwasaki_seijin"
+msgstr "岩崎成人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:iwasaki_shiho:primary"
+msgid "iwasaki_shiho"
+msgstr "岩崎志帆"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaki_shinano:primary"
+msgid "iwasaki_shinano"
+msgstr "岩崎志乃野"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwasaki_sousuke:primary"
+msgid "iwasaki_sousuke"
+msgstr "岩崎苍介"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaki_suguru:primary"
+msgid "iwasaki_suguru"
+msgstr "岩崎卓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:iwasaki_taisuke:primary"
+msgid "iwasaki_taisuke"
+msgstr "岩崎泰介"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 347
+#. aliases: iwasaki_takashi
+msgctxt "tag:iwasaki_takashi:primary"
+msgid "iwasaki_takashi"
+msgstr "岩崎孝"
+
+#. alias-of: iwasaki_takashi
+#. source: ai
+msgctxt "tag:iwasaki_takashi:alias:1"
+msgid "iwasaki_takashi"
+msgstr "iwasaki_takashi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaki_tatsuya:primary"
+msgid "iwasaki_tatsuya"
+msgstr "岩崎达也"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iwasaki_tsubasa:primary"
+msgid "iwasaki_tsubasa"
+msgstr "岩崎翼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaki_yasasea:primary"
+msgid "iwasaki_yasasea"
+msgstr "iwasaki_yasasea"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaki_yasutoshi:primary"
+msgid "iwasaki_yasutoshi"
+msgstr "岩崎康仁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaki_yoko:primary"
+msgid "iwasaki_yoko"
+msgstr "岩崎阳子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwasaki_yumi:primary"
+msgid "iwasaki_yumi"
+msgstr "岩崎由美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 岩崎
+msgctxt "tag:iwasaki_yuu:primary"
+msgid "iwasaki_yuu"
+msgstr "岩崎祐"
+
+#. alias-of: iwasaki_yuu
+#. source: ai
+msgctxt "tag:iwasaki_yuu:alias:1"
+msgid "iwasaki_yuu"
+msgstr "岩崎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwasaki_yuuji:primary"
+msgid "iwasaki_yuuji"
+msgstr "岩崎优二"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwasaki_yuuka:primary"
+msgid "iwasaki_yuuka"
+msgstr "岩崎优花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwasaki_yuuki:primary"
+msgid "iwasaki_yuuki"
+msgstr "岩崎优希"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:iwasan:primary"
+msgid "iwasan"
+msgstr "岩三"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwasan_(kouta421):primary"
+msgid "iwasan_(kouta421)"
+msgstr "iwasan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwasan_oekaki:primary"
+msgid "iwasan_oekaki"
+msgstr "iwasan涂鸦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwasashinbe:primary"
+msgid "iwasashinbe"
+msgstr "岩下新兵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasato_masanori:primary"
+msgid "iwasato_masanori"
+msgstr "岩里雅纪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasawa1014roxas:primary"
+msgid "iwasawa1014roxas"
+msgstr "iwasawa1014roxas"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasawa_kuriko:primary"
+msgid "iwasawa_kuriko"
+msgstr "岩沢繰子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 458
+msgctxt "tag:iwasawa_masami:primary"
+msgid "iwasawa_masami"
+msgstr "岩泽雅美"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: 岩泽雅美
+msgctxt "tag:iwasawa_masami_(cosplay):primary"
+msgid "iwasawa_masami_(cosplay)"
+msgstr "岩泽雅美（cosplay）"
+
+#. alias-of: iwasawa_masami_(cosplay)
+#. source: ai
+msgctxt "tag:iwasawa_masami_(cosplay):alias:1"
+msgid "iwasawa_masami_(cosplay)"
+msgstr "岩泽雅美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:iwasawa_reiko:primary"
+msgid "iwasawa_reiko"
+msgstr "岩沢玲子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:iwasawa_saki:primary"
+msgid "iwasawa_saki"
+msgstr "岩泽咲"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:iwasawa_shiuru:primary"
+msgid "iwasawa_shiuru"
+msgstr "岩沢志生"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 111
+msgctxt "tag:iwasawayuki:primary"
+msgid "iwasawayuki"
+msgstr "iwasawayuki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasaxxx:primary"
+msgid "iwasaxxx"
+msgstr "iwasaxxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwase:primary"
+msgid "iwase"
+msgstr "岩濑"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwase_(osomatsu-san):primary"
+msgid "iwase_(osomatsu-san)"
+msgstr "岩濑（阿松）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:iwase_aiko:primary"
+msgid "iwase_aiko"
+msgstr "Iwase Aiko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwase_eiji:primary"
+msgid "iwase_eiji"
+msgstr "岩瀬英二"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:iwase_kyouko:primary"
+msgid "iwase_kyouko"
+msgstr "岩濑京子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwase_yuuko:primary"
+msgid "iwase_yuuko"
+msgstr "岩濑裕子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwase_yuuko_(cosplay):primary"
+msgid "iwase_yuuko_(cosplay)"
+msgstr "岩濑裕子（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:iwaserie:primary"
+msgid "iwaserie"
+msgstr "Iwaserie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwashi-chan:primary"
+msgid "iwashi-chan"
+msgstr "iwashi-chan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:iwashi0725:primary"
+msgid "iwashi0725"
+msgstr "iwashi0725"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwashi0830:primary"
+msgid "iwashi0830"
+msgstr "iwashi0830"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwashi0g3:primary"
+msgid "iwashi0g3"
+msgstr "iwashi0g3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashi_(10ube):primary"
+msgid "iwashi_(10ube)"
+msgstr "iwashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwashi_(3star):primary"
+msgid "iwashi_(3star)"
+msgstr "Iwashi（3星）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashi_(66senninjin99):primary"
+msgid "iwashi_(66senninjin99)"
+msgstr "Iwashi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwashi_(hakumei_to_mikochi):primary"
+msgid "iwashi_(hakumei_to_mikochi)"
+msgstr "岩鰤（《小木屋与星》）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 182
+#. aliases: iwashi
+msgctxt "tag:iwashi_(iwashi008):primary"
+msgid "iwashi_(iwashi008)"
+msgstr "伊瓦西"
+
+#. alias-of: iwashi_(iwashi008)
+#. source: ai
+msgctxt "tag:iwashi_(iwashi008):alias:1"
+msgid "iwashi_(iwashi008)"
+msgstr "iwashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwashi_(iwashifurai184):primary"
+msgid "iwashi_(iwashifurai184)"
+msgstr "iwashi（iwashifurai184）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwashi_(kamekazusa):primary"
+msgid "iwashi_(kamekazusa)"
+msgstr "iwashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:iwashi_(morpho000):primary"
+msgid "iwashi_(morpho000)"
+msgstr "iwashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:iwashi_(msr_rgb):primary"
+msgid "iwashi_(msr_rgb)"
+msgstr "沙丁鱼（MSR RGB）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwashi_(niboshiten):primary"
+msgid "iwashi_(niboshiten)"
+msgstr "iwashi_(niboshiten)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:iwashi_(nisankatanso):primary"
+msgid "iwashi_(nisankatanso)"
+msgstr "岩鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:iwashi_(sardineblue):primary"
+msgid "iwashi_(sardineblue)"
+msgstr "iwashi_(sardineblue)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashi_(super_iwasi):primary"
+msgid "iwashi_(super_iwasi)"
+msgstr "Iwashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwashi_(takkun4):primary"
+msgid "iwashi_(takkun4)"
+msgstr "Iwashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwashi_(tomahiyo):primary"
+msgid "iwashi_(tomahiyo)"
+msgstr "iwashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashi_(tunaaaaaaaaaa27):primary"
+msgid "iwashi_(tunaaaaaaaaaa27)"
+msgstr "iwashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwashi_(wasii_91):primary"
+msgid "iwashi_(wasii_91)"
+msgstr "Iwashi（wasii_91）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:iwashi_(wawaisi_iwasi):primary"
+msgid "iwashi_(wawaisi_iwasi)"
+msgstr "wawaisi_iwasi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 113
+msgctxt "tag:iwashi_111:primary"
+msgid "iwashi_111"
+msgstr "iwashi_111"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 226
+msgctxt "tag:iwashi_80:primary"
+msgid "iwashi_80"
+msgstr "iwashi_80"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashi_bone:primary"
+msgid "iwashi_bone"
+msgstr "IwashiBone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 864
+#. aliases: 沙丁鱼小偷
+msgctxt "tag:iwashi_dorobou_-r-:primary"
+msgid "iwashi_dorobou_-r-"
+msgstr "沙丁鱼盗贼"
+
+#. alias-of: iwashi_dorobou_-r-
+#. source: ai
+msgctxt "tag:iwashi_dorobou_-r-:alias:1"
+msgid "iwashi_dorobou_-r-"
+msgstr "沙丁鱼小偷"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashi_ga_tsuchi_kara_haetekuru_n_da_(utau):primary"
+msgid "iwashi_ga_tsuchi_kara_haetekuru_n_da_(utau)"
+msgstr "鲱鱼是从土里长出来的（歌声合成）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:iwashi_ga_tsuchi_kara_haetekurun_da_(utau):primary"
+msgid "iwashi_ga_tsuchi_kara_haetekurun_da_(utau)"
+msgstr "沙丁鱼从土里长出来(UTAU)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:iwashi_gimu:primary"
+msgid "iwashi_gimu"
+msgstr "沙丁鱼义务"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 77
+msgctxt "tag:iwashi_iwashimo:primary"
+msgid "iwashi_iwashimo"
+msgstr "iwashi_iwashimo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:iwashi_mizuni:primary"
+msgid "iwashi_mizuni"
+msgstr "iwashi_mizuni"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwashi_neko:primary"
+msgid "iwashi_neko"
+msgstr "Iwashi Neko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwashi_sozoro:primary"
+msgid "iwashi_sozoro"
+msgstr "iwashi_sozoro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwashi_tabeta_sa:primary"
+msgid "iwashi_tabeta_sa"
+msgstr "iwashi_tabeta_sa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwashiba:primary"
+msgid "iwashiba"
+msgstr "岩羽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwashichannn:primary"
+msgid "iwashichannn"
+msgstr "iwashichannn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwashigumo:primary"
+msgid "iwashigumo"
+msgstr "iwashigumo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashii:primary"
+msgid "iwashii"
+msgstr "iwashii"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwashika:primary"
+msgid "iwashika"
+msgstr "iwashika"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+#. aliases: 岩志上
+msgctxt "tag:iwashikami:primary"
+msgid "iwashikami"
+msgstr "iwashikami"
+
+#. alias-of: iwashikami
+#. source: ai
+msgctxt "tag:iwashikami:alias:1"
+msgid "iwashikami"
+msgstr "岩志上"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashima_mamoru:primary"
+msgid "iwashima_mamoru"
+msgstr "岩岛守"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:iwashimizu_(vrchat):primary"
+msgid "iwashimizu_(vrchat)"
+msgstr "Iwashimizu (VRChat)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwashimizu_luna:primary"
+msgid "iwashimizu_luna"
+msgstr "岩清水露奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwashimizu_rinka:primary"
+msgid "iwashimizu_rinka"
+msgstr "岩清水凛花"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwashimizu_sumiaki:primary"
+msgid "iwashimizu_sumiaki"
+msgstr "岩清水澄明"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwashimizu_tokiko:primary"
+msgid "iwashimizu_tokiko"
+msgstr "岩清水德子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwashimizu_toru:primary"
+msgid "iwashimizu_toru"
+msgstr "岩清水透"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashimizu_yurika:primary"
+msgid "iwashimizu_yurika"
+msgstr "岩清水百合香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwashimp28:primary"
+msgid "iwashimp28"
+msgstr "iwashimp28"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashino:primary"
+msgid "iwashino"
+msgstr "Iwashino"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:iwashiro_byou:primary"
+msgid "iwashiro_byou"
+msgstr "岩城病"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashiro_tesshou:primary"
+msgid "iwashiro_tesshou"
+msgstr "岩城铁舟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwashisabakan:primary"
+msgid "iwashisabakan"
+msgstr "Iwashisabakan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwashisu:primary"
+msgid "iwashisu"
+msgstr "iwashisu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:iwashita:primary"
+msgid "iwashita"
+msgstr "岩下"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwashita_(artist):primary"
+msgid "iwashita_(artist)"
+msgstr "岩下"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:iwashita_(nukopo):primary"
+msgid "iwashita_(nukopo)"
+msgstr "Iwashita (Nukopo)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:iwashita_akemi:primary"
+msgid "iwashita_akemi"
+msgstr "岩下亚美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashita_asuka:primary"
+msgid "iwashita_asuka"
+msgstr "岩下明"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwashita_kiriko:primary"
+msgid "iwashita_kiriko"
+msgstr "岩下雾子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+#. aliases: 岩下
+msgctxt "tag:iwashita_kirito:primary"
+msgid "iwashita_kirito"
+msgstr "岩下桐人"
+
+#. alias-of: iwashita_kirito
+#. source: ai
+msgctxt "tag:iwashita_kirito:alias:1"
+msgid "iwashita_kirito"
+msgstr "岩下"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwashita_kyouko:primary"
+msgid "iwashita_kyouko"
+msgstr "岩下京子"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwashita_no_shin-shouga:primary"
+msgid "iwashita_no_shin-shouga"
+msgstr "岩下的新姜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwashita_rumiko:primary"
+msgid "iwashita_rumiko"
+msgstr "岩下留美子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 110
+msgctxt "tag:iwashita_shima:primary"
+msgid "iwashita_shima"
+msgstr "iwashita_shima"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwashitarou:primary"
+msgid "iwashitarou"
+msgstr "岩志郎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:iwashitsumire:primary"
+msgid "iwashitsumire"
+msgstr "岩紫堇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 864
+msgctxt "tag:iwasi_29:primary"
+msgid "iwasi_29"
+msgstr "沙丁鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:iwasico:primary"
+msgid "iwasico"
+msgstr "iwasico"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:iwasinogomaae:primary"
+msgid "iwasinogomaae"
+msgstr "岩城小前"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwasora:primary"
+msgid "iwasora"
+msgstr "iwasora"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwasuhime:primary"
+msgid "iwasuhime"
+msgstr "岩铃公主"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: 岩佐洁
+msgctxt "tag:iwasuke_(jojo):primary"
+msgid "iwasuke_(jojo)"
+msgstr "岩助（JOJO）"
+
+#. alias-of: iwasuke_(jojo)
+#. source: ai
+msgctxt "tag:iwasuke_(jojo):alias:1"
+msgid "iwasuke_(jojo)"
+msgstr "岩佐洁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwasumi_tatsuhiko:primary"
+msgid "iwasumi_tatsuhiko"
+msgstr "iwasumi_tatsuhiko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata116:primary"
+msgid "iwata116"
+msgstr "岩田116"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata_chiho:primary"
+msgid "iwata_chiho"
+msgstr "岩田千穗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:iwata_haruki:primary"
+msgid "iwata_haruki"
+msgstr "岩田春樹"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwata_hiroki:primary"
+msgid "iwata_hiroki"
+msgstr "Iwata Hiroki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: 奏
+msgctxt "tag:iwata_kana:primary"
+msgid "iwata_kana"
+msgstr "岩田奏"
+
+#. alias-of: iwata_kana
+#. source: ai
+msgctxt "tag:iwata_kana:alias:1"
+msgid "iwata_kana"
+msgstr "奏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwata_keiko:primary"
+msgid "iwata_keiko"
+msgstr "岩田惠子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwata_keina:primary"
+msgid "iwata_keina"
+msgstr "岩田佳奈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwata_kiyohiko:primary"
+msgid "iwata_kiyohiko"
+msgstr "岩田清彦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata_mirai:primary"
+msgid "iwata_mirai"
+msgstr "岩田未来"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata_mitsuo:primary"
+msgid "iwata_mitsuo"
+msgstr "岩田满雄"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata_miu:primary"
+msgid "iwata_miu"
+msgstr "岩田美羽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata_momo:primary"
+msgid "iwata_momo"
+msgstr "岩田桃"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata_norikuni:primary"
+msgid "iwata_norikuni"
+msgstr "岩田则国"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwata_ryuuji:primary"
+msgid "iwata_ryuuji"
+msgstr "Iwata Ryuuji"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata_sachiko:primary"
+msgid "iwata_sachiko"
+msgstr "岩田咲子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 77
+msgctxt "tag:iwata_satoru:primary"
+msgid "iwata_satoru"
+msgstr "岩田智"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata_sekifumi:primary"
+msgid "iwata_sekifumi"
+msgstr "岩田晴文"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwata_yasunari:primary"
+msgid "iwata_yasunari"
+msgstr "岩田泰成"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwata_yukio:primary"
+msgid "iwata_yukio"
+msgstr "岩田雪雄"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwata_yumizu:primary"
+msgid "iwata_yumizu"
+msgstr "iwata_yumizu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 816
+msgctxt "tag:iwatani_naofumi:primary"
+msgid "iwatani_naofumi"
+msgstr "岩谷尚文"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwatani_naofumi_(cosplay):primary"
+msgid "iwatani_naofumi_(cosplay)"
+msgstr "岩谷尚文（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+#. aliases: 海月
+msgctxt "tag:iwatani_uruo_(omedemidori):primary"
+msgid "iwatani_uruo_(omedemidori)"
+msgstr "岩谷润（Omedemidori）"
+
+#. alias-of: iwatani_uruo_(omedemidori)
+#. source: ai
+msgctxt "tag:iwatani_uruo_(omedemidori):alias:1"
+msgid "iwatani_uruo_(omedemidori)"
+msgstr "海月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwatanuki510:primary"
+msgid "iwatanuki510"
+msgstr "IWATANUKI510"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwatate_death:primary"
+msgid "iwatate_death"
+msgstr "Iwatate Death"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwatatsu:primary"
+msgid "iwatatsu"
+msgstr "岩龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 岩手
+msgctxt "tag:iwate_(tohoku_high-light):primary"
+msgid "iwate_(tohoku_high-light)"
+msgstr "岩手（东北高光）"
+
+#. alias-of: iwate_(tohoku_high-light)
+#. source: ai
+msgctxt "tag:iwate_(tohoku_high-light):alias:1"
+msgid "iwate_(tohoku_high-light)"
+msgstr "岩手"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:iwate_prefecture:primary"
+msgid "iwate_prefecture"
+msgstr "岩手县"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iwateyama_(oshiro_project):primary"
+msgid "iwateyama_(oshiro_project)"
+msgstr "岩手山（城堡计划）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwathinner:primary"
+msgid "iwathinner"
+msgstr "伊瓦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 98
+#. aliases: iwatnc
+msgctxt "tag:iwatnc:primary"
+msgid "iwatnc"
+msgstr "艾瓦特恩克"
+
+#. alias-of: iwatnc
+#. source: ai
+msgctxt "tag:iwatnc:alias:1"
+msgid "iwatnc"
+msgstr "iwatnc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:iwato1712:primary"
+msgid "iwato1712"
+msgstr "iwato1712"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 92
+msgctxt "tag:iwato_(celler):primary"
+msgid "iwato_(celler)"
+msgstr "岩户（塞勒）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwato_akise:primary"
+msgid "iwato_akise"
+msgstr "岩户明世"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 317
+msgctxt "tag:iwato_kasumi:primary"
+msgid "iwato_kasumi"
+msgstr "岩戸霞"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwato_kasumi_(cosplay):primary"
+msgid "iwato_kasumi_(cosplay)"
+msgstr "岩户霞（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwato_san:primary"
+msgid "iwato_san"
+msgstr "岩户先生"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 171
+#. aliases: 铃芽
+msgctxt "tag:iwato_suzume:primary"
+msgid "iwato_suzume"
+msgstr "岩户铃芽"
+
+#. alias-of: iwato_suzume
+#. source: ai
+msgctxt "tag:iwato_suzume:alias:1"
+msgid "iwato_suzume"
+msgstr "铃芽"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 5
+#. aliases: 岩户铃芽（Cosplay）
+msgctxt "tag:iwato_suzume_(cosplay):primary"
+msgid "iwato_suzume_(cosplay)"
+msgstr "岩户铃芽（Cosplay）"
+
+#. alias-of: iwato_suzume_(cosplay)
+#. source: ai
+msgctxt "tag:iwato_suzume_(cosplay):alias:1"
+msgid "iwato_suzume_(cosplay)"
+msgstr "岩户铃芽（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iwato_takashi:primary"
+msgid "iwato_takashi"
+msgstr "岩户高志"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iwato_tamaki:primary"
+msgid "iwato_tamaki"
+msgstr "岩户环"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwato_tsubame:primary"
+msgid "iwato_tsubame"
+msgstr "岩户燕"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:iwatobi-chan:primary"
+msgid "iwatobi-chan"
+msgstr "岩波ちゃん"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwatobi_(iwatobi_assault):primary"
+msgid "iwatobi_(iwatobi_assault)"
+msgstr "Iwatobi（iwatobi_assault）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 200
+#. aliases: 岩户校服, iwatobi制服
+msgctxt "tag:iwatobi_high_school_uniform:primary"
+msgid "iwatobi_high_school_uniform"
+msgstr "高中制服"
+
+#. alias-of: iwatobi_high_school_uniform
+#. source: ai
+msgctxt "tag:iwatobi_high_school_uniform:alias:1"
+msgid "iwatobi_high_school_uniform"
+msgstr "岩户校服"
+
+#. alias-of: iwatobi_high_school_uniform
+#. source: ai
+msgctxt "tag:iwatobi_high_school_uniform:alias:2"
+msgid "iwatobi_high_school_uniform"
+msgstr "iwatobi制服"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 244
+msgctxt "tag:iwatobi_hiro:primary"
+msgid "iwatobi_hiro"
+msgstr "岩鸢浩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwatobiiiii:primary"
+msgid "iwatobiiiii"
+msgstr "iwatobiiiii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iwatobineko:primary"
+msgid "iwatobineko"
+msgstr "Iwatobineko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:iwatoko_(iwatokko):primary"
+msgid "iwatoko_(iwatokko)"
+msgstr "iwatoko"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 412
+#. aliases: 岩穿
+msgctxt "tag:iwatooshi:primary"
+msgid "iwatooshi"
+msgstr "岩透"
+
+#. alias-of: iwatooshi
+#. source: ai
+msgctxt "tag:iwatooshi:alias:1"
+msgid "iwatooshi"
+msgstr "岩穿"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwatooshi_(cosplay):primary"
+msgid "iwatooshi_(cosplay)"
+msgstr "岩融（cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwatooshi_(monster_strike):primary"
+msgid "iwatooshi_(monster_strike)"
+msgstr "岩通"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwatoperiod:primary"
+msgid "iwatoperiod"
+msgstr "iwatoperiod"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:iwatou:primary"
+msgid "iwatou"
+msgstr "岩藤"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:iwatozaki_mamoru:primary"
+msgid "iwatozaki_mamoru"
+msgstr "Iwatozaki Mamoru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwatsuka_tomoyo:primary"
+msgid "iwatsuka_tomoyo"
+msgstr "岩塚智世"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:iwatsuki:primary"
+msgid "iwatsuki"
+msgstr "岩月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:iwatsuki_aware:primary"
+msgid "iwatsuki_aware"
+msgstr "岩月爱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwatsuki_kohime:primary"
+msgid "iwatsuki_kohime"
+msgstr "岩月小姬"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwatsuki_sensei:primary"
+msgid "iwatsuki_sensei"
+msgstr "岩月老师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwatsuki_yutaka:primary"
+msgid "iwatsuki_yutaka"
+msgstr "岩月裕"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:iwauchi_tomoki:primary"
+msgid "iwauchi_tomoki"
+msgstr "岩内智树"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 231
+msgctxt "tag:iwawa:primary"
+msgid "iwawa"
+msgstr "伊瓦瓦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwawo:primary"
+msgid "iwawo"
+msgstr "岩尾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 76
+msgctxt "tag:iwaya:primary"
+msgid "iwaya"
+msgstr "岩谷"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwaya654:primary"
+msgid "iwaya654"
+msgstr "iwaya654"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaya_ai_(92m):primary"
+msgid "iwaya_ai_(92m)"
+msgstr "岩谷爱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwaya_akira:primary"
+msgid "iwaya_akira"
+msgstr "岩谷彰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:iwaya_kukuri:primary"
+msgid "iwaya_kukuri"
+msgstr "岩屋久栗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaya_sumika:primary"
+msgid "iwaya_sumika"
+msgstr "岩谷SUMIKA"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwaya_tomomi:primary"
+msgid "iwaya_tomomi"
+msgstr "岩谷友美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwayatm:primary"
+msgid "iwayatm"
+msgstr "Iwaya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwayonchan:primary"
+msgid "iwayonchan"
+msgstr "岩永千寻"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwayuu:primary"
+msgid "iwayuu"
+msgstr "iwayuu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Iwaza
+msgctxt "tag:iwaza_(dragon_ball):primary"
+msgid "iwaza_(dragon_ball)"
+msgstr "伊瓦扎（龙珠）"
+
+#. alias-of: iwaza_(dragon_ball)
+#. source: ai
+msgctxt "tag:iwaza_(dragon_ball):alias:1"
+msgid "iwaza_(dragon_ball)"
+msgstr "Iwaza"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 73
+msgctxt "tag:iwazaki:primary"
+msgid "iwazaki"
+msgstr "岩崎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwazaru:primary"
+msgid "iwazaru"
+msgstr "不说"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iwazaru_(last_period):primary"
+msgid "iwazaru_(last_period)"
+msgstr "岩猿（Last Period）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwazawa_toru:primary"
+msgid "iwazawa_toru"
+msgstr "岩泽亨"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:iwazoukin:primary"
+msgid "iwazoukin"
+msgstr "iwazoukin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwazumo_gana:primary"
+msgid "iwazumo_gana"
+msgstr "iwazumo_gana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1054
+msgctxt "tag:iwbitu:primary"
+msgid "iwbitu"
+msgstr "iwbitu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwcxryy:primary"
+msgid "iwcxryy"
+msgstr "iwcxryy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwfy1_5:primary"
+msgid "iwfy1_5"
+msgstr "iwfy1.5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwi_(ilveluc):primary"
+msgid "iwi_(ilveluc)"
+msgstr "iwi"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:iwi_arad:primary"
+msgid "iwi_arad"
+msgstr "Iwi Arad"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwi_carmel:primary"
+msgid "iwi_carmel"
+msgstr "IWI Carmel步枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwi_dan_.338:primary"
+msgid "iwi_dan_.338"
+msgstr "IWI Dan .338"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:iwi_jericho_941:primary"
+msgid "iwi_jericho_941"
+msgstr "IWI杰里科941"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwi_masada:primary"
+msgid "iwi_masada"
+msgstr "IWI Masada步枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 258
+msgctxt "tag:iwi_tavor:primary"
+msgid "iwi_tavor"
+msgstr "塔沃尔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iwi_tavor_ts12:primary"
+msgid "iwi_tavor_ts12"
+msgstr "IWI Tavor TS12"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:iwi_x95:primary"
+msgid "iwi_x95"
+msgstr "IWI X95"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwikker:primary"
+msgid "iwikker"
+msgstr "iwikker"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:iwillbuckyou:primary"
+msgid "iwillbuckyou"
+msgstr "Iwillbuckyou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwillneverchange:primary"
+msgid "iwillneverchange"
+msgstr "用户iwillneverchange"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:iwillsaveyouso:primary"
+msgid "iwillsaveyouso"
+msgstr "我会拯救你"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:iwillsunder:primary"
+msgid "iwillsunder"
+msgstr "I Will Sunder"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwilltryalittlearter:primary"
+msgid "iwilltryalittlearter"
+msgstr "iwilltryalittlearter"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iwin_(ragnarok_online):primary"
+msgid "iwin_(ragnarok_online)"
+msgstr "Iwin（仙境传说）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:iwis:primary"
+msgid "iwis"
+msgstr "iwis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwishyouthebest:primary"
+msgid "iwishyouthebest"
+msgstr "iwishyouthebest"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwiwiwii:primary"
+msgid "iwiwiwii"
+msgstr "iwiwiwii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwiyjh:primary"
+msgid "iwiyjh"
+msgstr "iwiyjh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iwkfk_02:primary"
+msgid "iwkfk_02"
+msgstr "iwkfk_02"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:iwnm0313:primary"
+msgid "iwnm0313"
+msgstr "iwnm0313"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:iwo_jima:primary"
+msgid "iwo_jima"
+msgstr "硫磺岛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 65
+msgctxt "tag:iwoarazumi129:primary"
+msgid "iwoarazumi129"
+msgstr "iwoarazumi129"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwoesu:primary"
+msgid "iwoesu"
+msgstr "岩手"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:iwoillust:primary"
+msgid "iwoillust"
+msgstr "IWO插画"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iwon:primary"
+msgid "iwon"
+msgstr "iwon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwon_215:primary"
+msgid "iwon_215"
+msgstr "iwon_215"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:iwonn_(pixiv943160):primary"
+msgid "iwonn_(pixiv943160)"
+msgstr "IWONN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 106
+msgctxt "tag:iwonu:primary"
+msgid "iwonu"
+msgstr "iwonu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iwori_1412:primary"
+msgid "iwori_1412"
+msgstr "伊织"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iworidayo:primary"
+msgid "iworidayo"
+msgstr "iworidayo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iworidayone:primary"
+msgid "iworidayone"
+msgstr "iworidayone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iworihase:primary"
+msgid "iworihase"
+msgstr "iworihase"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iworin:primary"
+msgid "iworin"
+msgstr "iworin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iworuru:primary"
+msgid "iworuru"
+msgstr "iworuru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iwoxiv:primary"
+msgid "iwoxiv"
+msgstr "Iwoxiv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwry:primary"
+msgid "iwry"
+msgstr "iwry"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iws_2000_(edelweiss)_(girls'_frontline):primary"
+msgid "iws_2000_(edelweiss)_(girls'_frontline)"
+msgstr "IWS 2000"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 439
+#. aliases: IWS2000
+msgctxt "tag:iws_2000_(girls'_frontline):primary"
+msgid "iws_2000_(girls'_frontline)"
+msgstr "IWS 2000 (少女前线)"
+
+#. alias-of: iws_2000_(girls'_frontline)
+#. source: ai
+msgctxt "tag:iws_2000_(girls'_frontline):alias:1"
+msgid "iws_2000_(girls'_frontline)"
+msgstr "IWS2000"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iws_2000_(girls'_frontline)_(cosplay):primary"
+msgid "iws_2000_(girls'_frontline)_(cosplay)"
+msgstr "IWS 2000（少女前线）（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iws_2000_(sand_castle_terminator)_(girls'_frontline):primary"
+msgid "iws_2000_(sand_castle_terminator)_(girls'_frontline)"
+msgstr "IWS 2000"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:iws_2000_(the_seventh_sealer)_(girls'_frontline):primary"
+msgid "iws_2000_(the_seventh_sealer)_(girls'_frontline)"
+msgstr "IWS 2000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iws_head:primary"
+msgid "iws_head"
+msgstr "iws_head"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 218
+msgctxt "tag:iwse_zhang:primary"
+msgid "iwse_zhang"
+msgstr "IWSE张"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iwsp_strike_gundam:primary"
+msgid "iwsp_strike_gundam"
+msgstr "IWSP强袭高达"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwsp_strike_gundam_e:primary"
+msgid "iwsp_strike_gundam_e"
+msgstr "IWSP强袭高达E型"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwt_fyk:primary"
+msgid "iwt_fyk"
+msgstr "iwt_fyk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:iwtb5572:primary"
+msgid "iwtb5572"
+msgstr "iwtb5572"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iwthu:primary"
+msgid "iwthu"
+msgstr "IWTHU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iwtsigg:primary"
+msgid "iwtsigg"
+msgstr "iwtsigg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:iwtu1810:primary"
+msgid "iwtu1810"
+msgstr "Iwtu1810"

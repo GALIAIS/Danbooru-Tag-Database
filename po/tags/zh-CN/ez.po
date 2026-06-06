@@ -1,0 +1,1602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:24+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:24+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ez-01:primary"
+msgid "ez-01"
+msgstr "EZ-01"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ez2on:primary"
+msgid "ez2on"
+msgstr "EZ2ON"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ez3xyh:primary"
+msgid "ez3xyh"
+msgstr "ez3xyh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ez4me:primary"
+msgid "ez4me"
+msgstr "ez4me"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 368
+#. aliases: EZ6
+msgctxt "tag:ez6:primary"
+msgid "ez6"
+msgstr "易六"
+
+#. alias-of: ez6
+#. source: ai
+msgctxt "tag:ez6:alias:1"
+msgid "ez6"
+msgstr "EZ6"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ez_(fantasian):primary"
+msgid "ez_(fantasian)"
+msgstr "EZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ez_(pixiv_78707147):primary"
+msgid "ez_(pixiv_78707147)"
+msgstr "EZ（pixiv_78707147）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ez_(truehorror):primary"
+msgid "ez_(truehorror)"
+msgstr "EZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:ez_1011:primary"
+msgid "ez_1011"
+msgstr "ez_1011"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ez_do_dance:primary"
+msgid "ez_do_dance"
+msgstr "EZ DO DANCE"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ez_resanoca:primary"
+msgid "ez_resanoca"
+msgstr "EZ Resanoca"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ez_rezero:primary"
+msgid "ez_rezero"
+msgstr "Re:从零开始的异世界生活"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ez_tanishi:primary"
+msgid "ez_tanishi"
+msgstr "江津西"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+#. aliases: 艾扎
+msgctxt "tag:eza_(yowza):primary"
+msgid "eza_(yowza)"
+msgstr "艾扎 (yowza)"
+
+#. alias-of: eza_(yowza)
+#. source: ai
+msgctxt "tag:eza_(yowza):alias:1"
+msgid "eza_(yowza)"
+msgstr "艾扎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ezaki:primary"
+msgid "ezaki"
+msgstr "Ezaki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 235
+#. aliases: Ezaki Bisuko
+msgctxt "tag:ezaki_bisuko:primary"
+msgid "ezaki_bisuko"
+msgstr "江崎美子"
+
+#. alias-of: ezaki_bisuko
+#. source: ai
+msgctxt "tag:ezaki_bisuko:alias:1"
+msgid "ezaki_bisuko"
+msgstr "Ezaki Bisuko"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.fashion_or_costume_style
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ezaki_bisuko_(style):primary"
+msgid "ezaki_bisuko_(style)"
+msgstr "江崎美津子风格"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ezaki_hitomi:primary"
+msgid "ezaki_hitomi"
+msgstr "江崎仁美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ezaki_iroha:primary"
+msgid "ezaki_iroha"
+msgstr "江崎彩叶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezaki_itsuki:primary"
+msgid "ezaki_itsuki"
+msgstr "江崎五月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezaki_kanami:primary"
+msgid "ezaki_kanami"
+msgstr "江崎香奈美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezaki_kozue:primary"
+msgid "ezaki_kozue"
+msgstr "Ezaki Kozue"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ezaki_kuriko:primary"
+msgid "ezaki_kuriko"
+msgstr "江崎栗子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezaki_leona:primary"
+msgid "ezaki_leona"
+msgstr "江崎莉奥娜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezaki_marian:primary"
+msgid "ezaki_marian"
+msgstr "江崎玛丽安"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 133
+msgctxt "tag:ezaki_papiko:primary"
+msgid "ezaki_papiko"
+msgstr "江崎Papiko"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ezaki_purin:primary"
+msgid "ezaki_purin"
+msgstr "ezaki purin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezaki_qovop:primary"
+msgid "ezaki_qovop"
+msgstr "Ezaki Qovop"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezaki_soko:primary"
+msgid "ezaki_soko"
+msgstr "江崎そこ"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezaki_suzuka:primary"
+msgid "ezaki_suzuka"
+msgstr "江崎铃香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezaki_yui:primary"
+msgid "ezaki_yui"
+msgstr "Ezaki Yui"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ezaki_yuichi:primary"
+msgid "ezaki_yuichi"
+msgstr "江崎悠一"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezaki_yukiyoshi:primary"
+msgid "ezaki_yukiyoshi"
+msgstr "江崎雪芳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:ezakishii:primary"
+msgid "ezakishii"
+msgstr "ezakishii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezakist:primary"
+msgid "ezakist"
+msgstr "ezakist"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezakura_aya:primary"
+msgid "ezakura_aya"
+msgstr "江桜あや"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ezalia_joule:primary"
+msgid "ezalia_joule"
+msgstr "艾扎莉亚·乔尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezaliaaaa02:primary"
+msgid "ezaliaaaa02"
+msgstr "Ezaliaaaa02"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 艾莎娜·克琳卡
+msgctxt "tag:ezana_q'linka:primary"
+msgid "ezana_q'linka"
+msgstr "艾扎娜·Q'林卡"
+
+#. alias-of: ezana_q'linka
+#. source: ai
+msgctxt "tag:ezana_q'linka:alias:1"
+msgid "ezana_q'linka"
+msgstr "艾莎娜·克琳卡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezariumi:primary"
+msgid "ezariumi"
+msgstr "ezariumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezawa:primary"
+msgid "ezawa"
+msgstr "江泽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezawa_mika:primary"
+msgid "ezawa_mika"
+msgstr "江泽美香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezawayuu:primary"
+msgid "ezawayuu"
+msgstr "ezawayuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezblossom:primary"
+msgid "ezblossom"
+msgstr "EzBlossom"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:ezbottt:primary"
+msgid "ezbottt"
+msgstr "Ezbottt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezboy_animation:primary"
+msgid "ezboy_animation"
+msgstr "ezboy_animation"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezbunzz:primary"
+msgid "ezbunzz"
+msgstr "ezbunzz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezcat:primary"
+msgid "ezcat"
+msgstr "ezcat"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezdaemon:primary"
+msgid "ezdaemon"
+msgstr "ezdaemon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezdubs185:primary"
+msgid "ezdubs185"
+msgstr "Ezdubs185"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eze3rd:primary"
+msgid "eze3rd"
+msgstr "EZE3RD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:eze6688z:primary"
+msgid "eze6688z"
+msgstr "eze6688z"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eze_ezega:primary"
+msgid "eze_ezega"
+msgstr "Eze Ezega"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ezecrain:primary"
+msgid "ezecrain"
+msgstr "埃泽克兰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezedin:primary"
+msgid "ezedin"
+msgstr "Ezedin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ezekgg:primary"
+msgid "ezekgg"
+msgstr "ezekgg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezekialali_rei:primary"
+msgid "ezekialali_rei"
+msgstr "ezekialali_rei"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezekiel_(carole_&_tuesday):primary"
+msgid "ezekiel_(carole_&_tuesday)"
+msgstr "以西结（Carole & Tuesday）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezekiel_(el_shaddai):primary"
+msgid "ezekiel_(el_shaddai)"
+msgstr "以西结（El Shaddai）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ezekiel_(ez_is_bloo):primary"
+msgid "ezekiel_(ez_is_bloo)"
+msgstr "以西结"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ezekiel_(junketsu_no_maria):primary"
+msgid "ezekiel_(junketsu_no_maria)"
+msgstr "以西结"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ezekiel_(junketsu_no_maria)_(bird):primary"
+msgid "ezekiel_(junketsu_no_maria)_(bird)"
+msgstr "Ezekiel（《纯白之音》）（鸟形态）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ezekiel_(king's_raid):primary"
+msgid "ezekiel_(king's_raid)"
+msgstr "以西结"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezekiel_(mecha):primary"
+msgid "ezekiel_(mecha)"
+msgstr "以西结（机甲）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ezekiel_(osananajimi_wa_daitouryou):primary"
+msgid "ezekiel_(osananajimi_wa_daitouryou)"
+msgstr "以西结 (青梅竹马是大总统)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+#. aliases: 以西结
+msgctxt "tag:ezekiel_(seraphim_slum):primary"
+msgid "ezekiel_(seraphim_slum)"
+msgstr "以西结"
+
+#. alias-of: ezekiel_(seraphim_slum)
+#. source: ai
+msgctxt "tag:ezekiel_(seraphim_slum):alias:1"
+msgid "ezekiel_(seraphim_slum)"
+msgstr "以西结"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezekiel_alluveia_(crrn):primary"
+msgid "ezekiel_alluveia_(crrn)"
+msgstr "以西结·阿卢维亚（CRRN）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezekielsk:primary"
+msgid "ezekielsk"
+msgstr "ezekielsk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 66
+msgctxt "tag:ezekquel:primary"
+msgid "ezekquel"
+msgstr "ezekquel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezekuro:primary"
+msgid "ezekuro"
+msgstr "伊泽黑"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ezekyle_abaddon:primary"
+msgid "ezekyle_abaddon"
+msgstr "Ezekyle Abaddon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ezel_berbier:primary"
+msgid "ezel_berbier"
+msgstr "Ezel Berbier"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezel_granada:primary"
+msgid "ezel_granada"
+msgstr "埃泽尔·格拉纳达"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ezel_the_king_of_fire_and_iron:primary"
+msgid "ezel_the_king_of_fire_and_iron"
+msgstr "艾泽尔（火与铁之王）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ezelith:primary"
+msgid "ezelith"
+msgstr "艾泽里特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezennt:primary"
+msgid "ezennt"
+msgstr "ezennt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ezenour:primary"
+msgid "ezenour"
+msgstr "ezenour"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezequiel_lavezzi:primary"
+msgid "ezequiel_lavezzi"
+msgstr "埃塞基耶尔·拉维奇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezest:primary"
+msgid "ezest"
+msgstr "Ezest"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ezeu2544:primary"
+msgid "ezeu2544"
+msgstr "ezeu2544"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ezgk385:primary"
+msgid "ezgk385"
+msgstr "EZGK385"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ezhailia:primary"
+msgid "ezhailia"
+msgstr "ezhailia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ezhodan:primary"
+msgid "ezhodan"
+msgstr "EZHODAN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ezi:primary"
+msgid "ezi"
+msgstr "伊西"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ezi6570766:primary"
+msgid "ezi6570766"
+msgstr "ezi6570766"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezi_(zi_113):primary"
+msgid "ezi_(zi_113)"
+msgstr "Zi_113"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 95
+msgctxt "tag:ezier:primary"
+msgid "ezier"
+msgstr "Ezier"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eziezi:primary"
+msgid "eziezi"
+msgstr "eziezi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezil_(cheat_kusushi_no_slow_life):primary"
+msgid "ezil_(cheat_kusushi_no_slow_life)"
+msgstr "Ezil（作弊药剂师的慢生活）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezile751:primary"
+msgid "ezile751"
+msgstr "ezile751"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezili_(bloons):primary"
+msgid "ezili_(bloons)"
+msgstr "Ezili（Bloons）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezily3d:primary"
+msgid "ezily3d"
+msgstr "ezily3d"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezima_minami:primary"
+msgid "ezima_minami"
+msgstr "江岛深奈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezimu_akane:primary"
+msgid "ezimu_akane"
+msgstr "Ezimu Akane"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ezina_syra:primary"
+msgid "ezina_syra"
+msgstr "Ezina Syra"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ezio_(pixiv_109778713):primary"
+msgid "ezio_(pixiv_109778713)"
+msgstr "ezio"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 349
+#. aliases: Ezio
+msgctxt "tag:ezio_auditore_da_firenze:primary"
+msgid "ezio_auditore_da_firenze"
+msgstr "艾吉奥"
+
+#. alias-of: ezio_auditore_da_firenze
+#. source: ai
+msgctxt "tag:ezio_auditore_da_firenze:alias:1"
+msgid "ezio_auditore_da_firenze"
+msgstr "Ezio"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ezio_auditore_da_firenze_(cosplay):primary"
+msgid "ezio_auditore_da_firenze_(cosplay)"
+msgstr "艾吉奥(角色扮演)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezium_art:primary"
+msgid "ezium_art"
+msgstr "Ezium Art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:ezizekekiel:primary"
+msgid "ezizekekiel"
+msgstr "Ezizekekiel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezkay_art:primary"
+msgid "ezkay_art"
+msgstr "ezkay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 125
+msgctxt "tag:ezlo:primary"
+msgid "ezlo"
+msgstr "埃兹洛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezlo_(leifyyy):primary"
+msgid "ezlo_(leifyyy)"
+msgstr "EZLO"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:ezma:primary"
+msgid "ezma"
+msgstr "ezma"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezmo_(battlerite):primary"
+msgid "ezmo_(battlerite)"
+msgstr "Ezmo（Battlerite）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eznj4w:primary"
+msgid "eznj4w"
+msgstr "eznj4w"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eznwms57:primary"
+msgid "eznwms57"
+msgstr "eznwms57"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezo:primary"
+msgid "ezo"
+msgstr "虾夷"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezo02kuma02:primary"
+msgid "ezo02kuma02"
+msgstr "ezo02kuma02"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezo1045amz:primary"
+msgid "ezo1045amz"
+msgstr "ezo1045amz"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 167
+msgctxt "tag:ezo_brown_bear_(kemono_friends):primary"
+msgid "ezo_brown_bear_(kemono_friends)"
+msgstr "虾夷棕熊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ezo_egg:primary"
+msgid "ezo_egg"
+msgstr "虾夷蛋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezo_j_p:primary"
+msgid "ezo_j_p"
+msgstr "ezo_j_p"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:ezo_mountain_hare_(kemono_friends):primary"
+msgid "ezo_mountain_hare_(kemono_friends)"
+msgstr "虾夷山兔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 16
+#. aliases: 红狐
+msgctxt "tag:ezo_red_fox:primary"
+msgid "ezo_red_fox"
+msgstr "虾夷赤狐"
+
+#. alias-of: ezo_red_fox
+#. source: ai
+msgctxt "tag:ezo_red_fox:alias:1"
+msgid "ezo_red_fox"
+msgstr "红狐"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1710
+msgctxt "tag:ezo_red_fox_(kemono_friends):primary"
+msgid "ezo_red_fox_(kemono_friends)"
+msgstr "虾夷红狐"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ezo_red_fox_(kemono_friends)_(cosplay):primary"
+msgid "ezo_red_fox_(kemono_friends)_(cosplay)"
+msgstr "虾夷赤狐（兽娘动物园）（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezo_renge_(seiya712):primary"
+msgid "ezo_renge_(seiya712)"
+msgstr "ezo莲华"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ezo_yakumo:primary"
+msgid "ezo_yakumo"
+msgstr "蝦夷矢雲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezoe_kazuhiko:primary"
+msgid "ezoe_kazuhiko"
+msgstr "Ezoe Kazuhiko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ezoezo:primary"
+msgid "ezoezo"
+msgstr "Ezoezo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezogoro66:primary"
+msgid "ezogoro66"
+msgstr "ezogoro66"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ezokuroten:primary"
+msgid "ezokuroten"
+msgstr "Ezokuroten"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezomanntarou:primary"
+msgid "ezomanntarou"
+msgstr "ezomanntarou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezomodas:primary"
+msgid "ezomodas"
+msgstr "Ezomodas"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:ezomori_nozomu:primary"
+msgid "ezomori_nozomu"
+msgstr "希望"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezono_momo:primary"
+msgid "ezono_momo"
+msgstr "江园桃"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezor:primary"
+msgid "ezor"
+msgstr "Ezor"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezorisurisurisu:primary"
+msgid "ezorisurisurisu"
+msgstr "Ezorisurisurisu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 189
+#. aliases: 北海道鹿
+msgctxt "tag:ezoshika:primary"
+msgid "ezoshika"
+msgstr "虾夷鹿"
+
+#. alias-of: ezoshika
+#. source: ai
+msgctxt "tag:ezoshika:alias:1"
+msgid "ezoshika"
+msgstr "北海道鹿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezotan:primary"
+msgid "ezotan"
+msgstr "ezotan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezotsuyu:primary"
+msgid "ezotsuyu"
+msgstr "Ezo Tsuyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezpaizee:primary"
+msgid "ezpaizee"
+msgstr "ezpaizee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezpups:primary"
+msgid "ezpups"
+msgstr "ezpups"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezpzxtc:primary"
+msgid "ezpzxtc"
+msgstr "ezpzxtc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ezr_(31589499):primary"
+msgid "ezr_(31589499)"
+msgstr "EZR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ezr_bb:primary"
+msgid "ezr_bb"
+msgstr "EZBB"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezra_(brave_frontier):primary"
+msgid "ezra_(brave_frontier)"
+msgstr "艾兹拉（Brave Frontier）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ezra_(frontier_hunter):primary"
+msgid "ezra_(frontier_hunter)"
+msgstr "以斯拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 129
+msgctxt "tag:ezra_(project_moon):primary"
+msgid "ezra_(project_moon)"
+msgstr "以斯拉(月之计划)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezra_(project_moon)_(cosplay):primary"
+msgid "ezra_(project_moon)_(cosplay)"
+msgstr "以斯拉（Project Moon）COS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezra_(tomiauk):primary"
+msgid "ezra_(tomiauk)"
+msgstr "以斯拉 (tomiauk)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ezra_bridger:primary"
+msgid "ezra_bridger"
+msgstr "埃兹拉·布里杰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezra_duke:primary"
+msgid "ezra_duke"
+msgstr "以斯拉·杜克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezra_gurney:primary"
+msgid "ezra_gurney"
+msgstr "以斯拉·格尼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 225
+msgctxt "tag:ezra_theodore:primary"
+msgid "ezra_theodore"
+msgstr "埃兹拉·西奥多"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezra_tucker:primary"
+msgid "ezra_tucker"
+msgstr "埃兹拉·塔克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ezra_veil:primary"
+msgid "ezra_veil"
+msgstr "艾兹拉·维尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezrajedi:primary"
+msgid "ezrajedi"
+msgstr "埃兹拉·杰迪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 艾兹兰
+msgctxt "tag:ezran_(the_dragon_prince):primary"
+msgid "ezran_(the_dragon_prince)"
+msgstr "艾兹兰（The Dragon Prince）"
+
+#. alias-of: ezran_(the_dragon_prince)
+#. source: ai
+msgctxt "tag:ezran_(the_dragon_prince):alias:1"
+msgid "ezran_(the_dragon_prince)"
+msgstr "艾兹兰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:ezraqi:primary"
+msgid "ezraqi"
+msgstr "ezraqi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ezrazzle:primary"
+msgid "ezrazzle"
+msgstr "ezrazzle"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 543
+#. aliases: EZ
+msgctxt "tag:ezreal:primary"
+msgid "ezreal"
+msgstr "伊泽瑞尔"
+
+#. alias-of: ezreal
+#. source: ai
+msgctxt "tag:ezreal:alias:1"
+msgid "ezreal"
+msgstr "EZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezreal_(artist):primary"
+msgid "ezreal_(artist)"
+msgstr "ezreal"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezreal_(cosplay):primary"
+msgid "ezreal_(cosplay)"
+msgstr "伊泽瑞尔 COS"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 埃兹伦
+msgctxt "tag:ezren_(pathfinder):primary"
+msgid "ezren_(pathfinder)"
+msgstr "埃兹伦（Pathfinder）"
+
+#. alias-of: ezren_(pathfinder)
+#. source: ai
+msgctxt "tag:ezren_(pathfinder):alias:1"
+msgid "ezren_(pathfinder)"
+msgstr "埃兹伦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ezroseven:primary"
+msgid "ezroseven"
+msgstr "EZRoseven"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ezsesp:primary"
+msgid "ezsesp"
+msgstr "Ezsesp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezsm5857:primary"
+msgid "ezsm5857"
+msgstr "EZSM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ezt_otk:primary"
+msgid "ezt_otk"
+msgstr "EZT OTK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eztt:primary"
+msgid "eztt"
+msgstr "eztt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ezu:primary"
+msgid "ezu"
+msgstr "绘津"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 166
+#. aliases: ezu_(e104mjd)
+msgctxt "tag:ezu_(e104mjd):primary"
+msgid "ezu_(e104mjd)"
+msgstr "ezu"
+
+#. alias-of: ezu_(e104mjd)
+#. source: ai
+msgctxt "tag:ezu_(e104mjd):alias:1"
+msgid "ezu_(e104mjd)"
+msgstr "ezu_(e104mjd)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 81
+msgctxt "tag:ezu_(leejiyu):primary"
+msgid "ezu_(leejiyu)"
+msgstr "ezu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezu_is_winter:primary"
+msgid "ezu_is_winter"
+msgstr "ezu_is_winter"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezu_takafumi:primary"
+msgid "ezu_takafumi"
+msgstr "ezu_takafumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ezuhan_(ezu_ninten):primary"
+msgid "ezuhan_(ezu_ninten)"
+msgstr "绘津羽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ezui:primary"
+msgid "ezui"
+msgstr "绘罪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezuki_hina:primary"
+msgid "ezuki_hina"
+msgstr "江月雛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:ezuki_luna:primary"
+msgid "ezuki_luna"
+msgstr "ezuki luna"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ezuki_riia:primary"
+msgid "ezuki_riia"
+msgstr "绘月之理亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezuki_yuna:primary"
+msgid "ezuki_yuna"
+msgstr "江月由奈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezukiyamai:primary"
+msgid "ezukiyamai"
+msgstr "Ezukiyamai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:ezume_(rosehip):primary"
+msgid "ezume_(rosehip)"
+msgstr "詰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezumi:primary"
+msgid "ezumi"
+msgstr "Ezumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ezumly:primary"
+msgid "ezumly"
+msgstr "ezumly"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ezumomo:primary"
+msgid "ezumomo"
+msgstr "ezumomo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ezunoezume:primary"
+msgid "ezunoezume"
+msgstr "ezunoezume"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ezur3885:primary"
+msgid "ezur3885"
+msgstr "Ezur3885"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ezusa:primary"
+msgid "ezusa"
+msgstr "绘津沙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezusa9962027:primary"
+msgid "ezusa9962027"
+msgstr "ezusa9962027"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:ezusuke:primary"
+msgid "ezusuke"
+msgstr "Ezusuke"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ezwald_(black_souls):primary"
+msgid "ezwald_(black_souls)"
+msgstr "ezwald（黑魂）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezy_(badapple_x):primary"
+msgid "ezy_(badapple_x)"
+msgstr "Ezy (badapple_x)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ezysummers:primary"
+msgid "ezysummers"
+msgstr "ezysummers"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ezzi:primary"
+msgid "ezzi"
+msgstr "ezzi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ezzo_cadner:primary"
+msgid "ezzo_cadner"
+msgstr "Ezzo Cadner"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 89
+msgctxt "tag:ezzydraws:primary"
+msgid "ezzydraws"
+msgstr "ezzydraws"

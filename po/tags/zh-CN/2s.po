@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:2s-364cal:primary"
+msgid "2s-364cal"
+msgstr "2s-364cal"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2s0y04:primary"
+msgid "2s0y04"
+msgstr "2s0y04"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:2s19_msta:primary"
+msgid "2s19_msta"
+msgstr "2S19 Msta"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2s1_gvozdika:primary"
+msgid "2s1_gvozdika"
+msgstr "2S1石竹花自行火炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+#. aliases: Bohdana, 博赫达纳
+msgctxt "tag:2s22_bohdana:primary"
+msgid "2s22_bohdana"
+msgstr "2S22 Bohdana"
+
+#. alias-of: 2s22_bohdana
+#. source: ai
+msgctxt "tag:2s22_bohdana:alias:1"
+msgid "2s22_bohdana"
+msgstr "Bohdana"
+
+#. alias-of: 2s22_bohdana
+#. source: ai
+msgctxt "tag:2s22_bohdana:alias:2"
+msgid "2s22_bohdana"
+msgstr "博赫达纳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2s2s_(piksel164):primary"
+msgid "2s2s_(piksel164)"
+msgstr "2s2s"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2s35_koalitsiya-sv:primary"
+msgid "2s35_koalitsiya-sv"
+msgstr "2S35联盟-SV自行火炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:2s38:primary"
+msgid "2s38"
+msgstr "2S38"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2s3_akatsiya:primary"
+msgid "2s3_akatsiya"
+msgstr "2S3 Akatsiya"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2s6_tunguska:primary"
+msgid "2s6_tunguska"
+msgstr "2S6 Tunguska"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2s9_nona:primary"
+msgid "2s9_nona"
+msgstr "2S9诺娜自行火炮"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 2
+#. aliases: 新世界计划
+msgctxt "tag:2s_-_shin_sekai_project:primary"
+msgid "2s_-_shin_sekai_project"
+msgstr "2S - 新世界计划"
+
+#. alias-of: 2s_-_shin_sekai_project
+#. source: ai
+msgctxt "tag:2s_-_shin_sekai_project:alias:1"
+msgid "2s_-_shin_sekai_project"
+msgstr "新世界计划"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2s_yellow:primary"
+msgid "2s_yellow"
+msgstr "2s_yellow"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2sad2sci:primary"
+msgid "2sad2sci"
+msgstr "2sad2sci"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:2sami_06:primary"
+msgid "2sami_06"
+msgstr "2Sami 06"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2sandpaper:primary"
+msgid "2sandpaper"
+msgstr "2sandpaper"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2sang_19:primary"
+msgid "2sang_19"
+msgstr "2sang 19"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:2sankta:primary"
+msgid "2sankta"
+msgstr "2Sankta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:2sarangkkun2:primary"
+msgid "2sarangkkun2"
+msgstr "2sarangkkun2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2sat0:primary"
+msgid "2sat0"
+msgstr "2sat0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:2satsuki_82:primary"
+msgid "2satsuki_82"
+msgstr "2satsuki_82"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:2sazang:primary"
+msgid "2sazang"
+msgstr "2sazang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:2sbd0:primary"
+msgid "2sbd0"
+msgstr "2sbd0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2seha:primary"
+msgid "2seha"
+msgstr "2seha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:2sen4hyaku:primary"
+msgid "2sen4hyaku"
+msgstr "2sen4hyaku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 122
+msgctxt "tag:2sham:primary"
+msgid "2sham"
+msgstr "2sham"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2shang29:primary"
+msgid "2shang29"
+msgstr "2shang29"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2shiki:primary"
+msgid "2shiki"
+msgstr "二式"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2shito_tuniji:primary"
+msgid "2shito_tuniji"
+msgstr "2shito tuniji"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:2sina0:primary"
+msgid "2sina0"
+msgstr "2sina0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:2sinsalt:primary"
+msgid "2sinsalt"
+msgstr "2sinsalt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2sky:primary"
+msgid "2sky"
+msgstr "2sky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2smmr:primary"
+msgid "2smmr"
+msgstr "2smmr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:2snacks_(artist):primary"
+msgid "2snacks_(artist)"
+msgstr "2snacks"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2soh:primary"
+msgid "2soh"
+msgstr "2soh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:2sox_(black):primary"
+msgid "2sox_(black)"
+msgstr "2SOX"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2spooky4me_(meme):primary"
+msgid "2spooky4me_(meme)"
+msgstr "2spooky4me（网络梗）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2ssno:primary"
+msgid "2ssno"
+msgstr "2ssno"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.archetype_role
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:2st:primary"
+msgid "2st"
+msgstr "第二位"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2starry2:primary"
+msgid "2starry2"
+msgstr "2starry2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:2sunoftatooine:primary"
+msgid "2sunoftatooine"
+msgstr "2sunoftatooine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2sword:primary"
+msgid "2sword"
+msgstr "双剑"

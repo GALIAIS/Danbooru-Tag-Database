@@ -1,0 +1,972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:23+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:23+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dw_(dawnonmonday):primary"
+msgid "dw_(dawnonmonday)"
+msgstr "dawnonmonday"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dw_drums:primary"
+msgid "dw_drums"
+msgstr "DW鼓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:dw_ed_(accelerator):primary"
+msgid "dw_ed_(accelerator)"
+msgstr "加速者 (DW ED)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:dw_liming:primary"
+msgid "dw_liming"
+msgstr "DW立明"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwachr:primary"
+msgid "dwachr"
+msgstr "dwachr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwadadawdadlijaodj:primary"
+msgid "dwadadawdadlijaodj"
+msgstr "Dwadadawdadlijaodj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:dwadessu:primary"
+msgid "dwadessu"
+msgstr "双女神"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:dwadge:primary"
+msgid "dwadge"
+msgstr "DWADGE"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dwadge_custom:primary"
+msgid "dwadge_custom"
+msgstr "德瓦吉定制型"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwaewangmogi17:primary"
+msgid "dwaewangmogi17"
+msgstr "Dwae Wang Mogi 17"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwain:primary"
+msgid "dwain"
+msgstr "dwain"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:dwalin:primary"
+msgid "dwalin"
+msgstr "Dwalin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:dwalkn:primary"
+msgid "dwalkn"
+msgstr "dwalkn"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dwallin_(asheltots):primary"
+msgid "dwallin_(asheltots)"
+msgstr "Dwallin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwamsart:primary"
+msgid "dwamsart"
+msgstr "Dwamsart"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dwango_jp:primary"
+msgid "dwango_jp"
+msgstr "dwango.jp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwaop:primary"
+msgid "dwaop"
+msgstr "dwaop"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwar_(wixoss):primary"
+msgid "dwar_(wixoss)"
+msgstr "杜瓦（WIXOSS）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dward_(another_eidos):primary"
+msgid "dward_(another_eidos)"
+msgstr "德瓦德（Another Eidos）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 2994
+#. aliases: 矮人族
+msgctxt "tag:dwarf:primary"
+msgid "dwarf"
+msgstr "矮人"
+
+#. alias-of: dwarf
+#. source: ai
+msgctxt "tag:dwarf:alias:1"
+msgid "dwarf"
+msgstr "矮人族"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarf1009:primary"
+msgid "dwarf1009"
+msgstr "dwarf1009"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwarf3727:primary"
+msgid "dwarf3727"
+msgstr "dwarf3727"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 80
+#. aliases: DQ10矮人
+msgctxt "tag:dwarf_(dq10):primary"
+msgid "dwarf_(dq10)"
+msgstr "矮人（勇者10）"
+
+#. alias-of: dwarf_(dq10)
+#. source: ai
+msgctxt "tag:dwarf_(dq10):alias:1"
+msgid "dwarf_(dq10)"
+msgstr "DQ10矮人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:dwarf_(dragon's_crown):primary"
+msgid "dwarf_(dragon's_crown)"
+msgstr "矮人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwarf_(ff14):primary"
+msgid "dwarf_(ff14)"
+msgstr "矮人（最终幻想14）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: FF3矮人
+msgctxt "tag:dwarf_(ff3):primary"
+msgid "dwarf_(ff3)"
+msgstr "矮人（最终幻想III）"
+
+#. alias-of: dwarf_(ff3)
+#. source: ai
+msgctxt "tag:dwarf_(ff3):alias:1"
+msgid "dwarf_(ff3)"
+msgstr "FF3矮人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarf_(grimms_echoes):primary"
+msgid "dwarf_(grimms_echoes)"
+msgstr "矮人（Grimms Echoes）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:dwarf_(grimms_notes):primary"
+msgid "dwarf_(grimms_notes)"
+msgstr "矮人 (格林笔记)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwarf_(ken_to_mahou_to_gakuen_mono):primary"
+msgid "dwarf_(ken_to_mahou_to_gakuen_mono)"
+msgstr "Dwarf"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwarf_(legendz):primary"
+msgid "dwarf_(legendz)"
+msgstr "矮人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:dwarf_(lineage_2):primary"
+msgid "dwarf_(lineage_2)"
+msgstr "矮人（天堂2）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarf_(megami_tensei):primary"
+msgid "dwarf_(megami_tensei)"
+msgstr "矮人（女神转生）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarf_(merrivius):primary"
+msgid "dwarf_(merrivius)"
+msgstr "矮人（Merrivius）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dwarf_(monster_girl_encyclopedia):primary"
+msgid "dwarf_(monster_girl_encyclopedia)"
+msgstr "矮人（怪物娘图鉴）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: MGE矮人Cosplay
+msgctxt "tag:dwarf_(monster_girl_encyclopedia)_(cosplay):primary"
+msgid "dwarf_(monster_girl_encyclopedia)_(cosplay)"
+msgstr "矮人（怪物娘图鉴）Cosplay"
+
+#. alias-of: dwarf_(monster_girl_encyclopedia)_(cosplay)
+#. source: ai
+msgctxt "tag:dwarf_(monster_girl_encyclopedia)_(cosplay):alias:1"
+msgid "dwarf_(monster_girl_encyclopedia)_(cosplay)"
+msgstr "MGE矮人Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarf_(stardew_valley):primary"
+msgid "dwarf_(stardew_valley)"
+msgstr "矮人（星露谷物语）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarf_(the_sandman):primary"
+msgid "dwarf_(the_sandman)"
+msgstr "矮人（The Sandman）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:dwarf_(totomono):primary"
+msgid "dwarf_(totomono)"
+msgstr "矮人 (Totomono)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwarf_boy_(pop-up_story):primary"
+msgid "dwarf_boy_(pop-up_story)"
+msgstr "矮人男孩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:dwarf_bulbear:primary"
+msgid "dwarf_bulbear"
+msgstr "矮胖光蝠"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:dwarf_bulborb:primary"
+msgid "dwarf_bulborb"
+msgstr "矮胖食人花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarf_caiman:primary"
+msgid "dwarf_caiman"
+msgstr "侏儒凯门鳄"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dwarf_elder_(suikoden):primary"
+msgid "dwarf_elder_(suikoden)"
+msgstr "矮人长老（Suikoden）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwarf_fortress:primary"
+msgid "dwarf_fortress"
+msgstr "矮人要塞"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:dwarf_gekko:primary"
+msgid "dwarf_gekko"
+msgstr "矮人壁虎"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarf_multicannon_(runescape):primary"
+msgid "dwarf_multicannon_(runescape)"
+msgstr "矮人多管炮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.archetype_role
+#. safety: sfw
+#. post-count: 28
+#. aliases: 小人国公主
+msgctxt "tag:dwarf_princess_(konoshige_(ryuun)):primary"
+msgid "dwarf_princess_(konoshige_(ryuun))"
+msgstr "矮人公主"
+
+#. alias-of: dwarf_princess_(konoshige_(ryuun))
+#. source: ai
+msgctxt "tag:dwarf_princess_(konoshige_(ryuun)):alias:1"
+msgid "dwarf_princess_(konoshige_(ryuun))"
+msgstr "小人国公主"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwarf_princess_(towergirls):primary"
+msgid "dwarf_princess_(towergirls)"
+msgstr "矮人公主"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwarf_princess_ii_(towergirls):primary"
+msgid "dwarf_princess_ii_(towergirls)"
+msgstr "矮人公主II"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.archetype_role
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:dwarf_shaman_(goblin_slayer!):primary"
+msgid "dwarf_shaman_(goblin_slayer!)"
+msgstr "矮人萨满"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarf_sperm_whale:primary"
+msgid "dwarf_sperm_whale"
+msgstr "侏儒抹香鲸"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwarven_centurion_(skyrim):primary"
+msgid "dwarven_centurion_(skyrim)"
+msgstr "矮人百夫长（上古卷轴5：天际）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwarves_(warhammer):primary"
+msgid "dwarves_(warhammer)"
+msgstr "矮人（战锤）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwarx:primary"
+msgid "dwarx"
+msgstr "dwarx"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwayna:primary"
+msgid "dwayna"
+msgstr "Dwayna"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:dwayne_dantes:primary"
+msgid "dwayne_dantes"
+msgstr "Dwayne Dantes"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwayne_forge:primary"
+msgid "dwayne_forge"
+msgstr "德韦恩·福吉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 171
+msgctxt "tag:dwayne_hakkai_2:primary"
+msgid "dwayne_hakkai_2"
+msgstr "德韦恩哈凯2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwayne_hicks:primary"
+msgid "dwayne_hicks"
+msgstr "杜恩·希克斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwayne_michael_b:primary"
+msgid "dwayne_michael_b"
+msgstr "Dwayne Michael B"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: dwc martial arts
+msgctxt "tag:dwc_marshal_arts:primary"
+msgid "dwc_marshal_arts"
+msgstr "DWC Martial Arts"
+
+#. alias-of: dwc_marshal_arts
+#. source: ai
+msgctxt "tag:dwc_marshal_arts:alias:1"
+msgid "dwc_marshal_arts"
+msgstr "dwc martial arts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwcujo:primary"
+msgid "dwcujo"
+msgstr "dwcujo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwd:primary"
+msgid "dwd"
+msgstr "DWD"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 140
+#. aliases: 岩殿居蟹
+msgctxt "tag:dwebble:primary"
+msgid "dwebble"
+msgstr "石居蟹"
+
+#. alias-of: dwebble
+#. source: ai
+msgctxt "tag:dwebble:alias:1"
+msgid "dwebble"
+msgstr "岩殿居蟹"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dweeblley:primary"
+msgid "dweeblley"
+msgstr "Dweeblley"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dweine:primary"
+msgid "dweine"
+msgstr "dweine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwekou:primary"
+msgid "dwekou"
+msgstr "Dwekou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwelglonambul:primary"
+msgid "dwelglonambul"
+msgstr "dwelglonambul"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 9
+#. aliases: 空径
+msgctxt "tag:dweller's_empty_path:primary"
+msgid "dweller's_empty_path"
+msgstr "Dweller's Empty Path"
+
+#. alias-of: dweller's_empty_path
+#. source: ai
+msgctxt "tag:dweller's_empty_path:alias:1"
+msgid "dweller's_empty_path"
+msgstr "空径"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwelnkuf:primary"
+msgid "dwelnkuf"
+msgstr "dwelnkuf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwenda:primary"
+msgid "dwenda"
+msgstr "Dwenda"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwess:primary"
+msgid "dwess"
+msgstr "dwess"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:dwi_c:primary"
+msgid "dwi_c"
+msgstr "Dwi C"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwidorabyeongwonga:primary"
+msgid "dwidorabyeongwonga"
+msgstr "dwidorabyeongwonga"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwight_(dragon_quest):primary"
+msgid "dwight_(dragon_quest)"
+msgstr "迪怀特（勇者斗恶龙）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dwight_(pffk):primary"
+msgid "dwight_(pffk)"
+msgstr "德怀特（PFFK）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwight_camry:primary"
+msgid "dwight_camry"
+msgstr "德怀特·卡姆里"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwight_d._eisenhower:primary"
+msgid "dwight_d._eisenhower"
+msgstr "德怀特·艾森豪威尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 79
+msgctxt "tag:dwight_fairfield:primary"
+msgid "dwight_fairfield"
+msgstr "德怀特·费尔菲尔德"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwight_greenhill:primary"
+msgid "dwight_greenhill"
+msgstr "德怀特·格林希尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwight_howard:primary"
+msgid "dwight_howard"
+msgstr "德怀特·霍华德"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwight_howard_(cosplay):primary"
+msgid "dwight_howard_(cosplay)"
+msgstr "德怀特·霍华德（角色扮演）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: 办公室角色
+msgctxt "tag:dwight_schrute:primary"
+msgid "dwight_schrute"
+msgstr "德怀特·施鲁特"
+
+#. alias-of: dwight_schrute
+#. source: ai
+msgctxt "tag:dwight_schrute:alias:1"
+msgid "dwight_schrute"
+msgstr "办公室角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwight_t._barnes:primary"
+msgid "dwight_t._barnes"
+msgstr "德怀特·T·巴恩斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:dwight_the_king_of_steel:primary"
+msgid "dwight_the_king_of_steel"
+msgstr "钢之王者·德怀特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwikyartwork:primary"
+msgid "dwikyartwork"
+msgstr "Dwikyartwork"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwinter:primary"
+msgid "dwinter"
+msgstr "dwinter"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwioshxyc:primary"
+msgid "dwioshxyc"
+msgstr "dwioshxyc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dwirisky:primary"
+msgid "dwirisky"
+msgstr "dwirisky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwisart:primary"
+msgid "dwisart"
+msgstr "Dwisart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:dwisketch:primary"
+msgid "dwisketch"
+msgstr "DwiSketch"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwl_kent:primary"
+msgid "dwl_kent"
+msgstr "肯特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwobu_65:primary"
+msgid "dwobu_65"
+msgstr "dwobu_65"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:dwon1226:primary"
+msgid "dwon1226"
+msgstr "Dwon1226"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:dwotea:primary"
+msgid "dwotea"
+msgstr "dwotea"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwproductions01:primary"
+msgid "dwproductions01"
+msgstr "dwproductions01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:dwps:primary"
+msgid "dwps"
+msgstr "DWPS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwrbp1:primary"
+msgid "dwrbp1"
+msgstr "龙之皇冠BP1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwtqkodhq211050:primary"
+msgid "dwtqkodhq211050"
+msgstr "dwtqkodhq211050"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dwudwu:primary"
+msgid "dwudwu"
+msgstr "Dwudwu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwun:primary"
+msgid "dwun"
+msgstr "杜恩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:dwun_pubg:primary"
+msgid "dwun_pubg"
+msgstr "DWUN PUBG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dwune:primary"
+msgid "dwune"
+msgstr "dwune"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwutama:primary"
+msgid "dwutama"
+msgstr "Dwutama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwuwuwuwu:primary"
+msgid "dwuwuwuwu"
+msgstr "dwuwuwuwu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dwuzy7:primary"
+msgid "dwuzy7"
+msgstr "dwuzy7"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:dwyane_wade:primary"
+msgid "dwyane_wade"
+msgstr "德维恩·韦德"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:dwyane_wade_(cosplay):primary"
+msgid "dwyane_wade_(cosplay)"
+msgstr "德怀恩·韦德（cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 134
+msgctxt "tag:dwyer_(fire_emblem):primary"
+msgid "dwyer_(fire_emblem)"
+msgstr "德怀尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Dwyer
+msgctxt "tag:dwyer_(hoshidan_festival_of_bonds)_(fire_emblem):primary"
+msgid "dwyer_(hoshidan_festival_of_bonds)_(fire_emblem)"
+msgstr "Dwyer（火焰纹章）"
+
+#. alias-of: dwyer_(hoshidan_festival_of_bonds)_(fire_emblem)
+#. source: ai
+msgctxt "tag:dwyer_(hoshidan_festival_of_bonds)_(fire_emblem):alias:1"
+msgid "dwyer_(hoshidan_festival_of_bonds)_(fire_emblem)"
+msgstr "Dwyer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dwzssdbdl:primary"
+msgid "dwzssdbdl"
+msgstr "Dwzssdbdl"

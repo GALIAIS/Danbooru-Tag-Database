@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:35+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:35+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:mq-101:primary"
+msgid "mq-101"
+msgstr "MQ-101"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:mq-1_predator:primary"
+msgid "mq-1_predator"
+msgstr "MQ-1捕食者无人机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mq-25_stingray:primary"
+msgid "mq-25_stingray"
+msgstr "MQ-25黄貂鱼无人机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mq-8_fire_scout:primary"
+msgid "mq-8_fire_scout"
+msgstr "MQ-8火力侦察无人机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mq-90_quox:primary"
+msgid "mq-90_quox"
+msgstr "MQ-90 Quox"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 5
+msgctxt "tag:mq-99:primary"
+msgid "mq-99"
+msgstr "MQ-99"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 10
+#. aliases: 捕食者B
+msgctxt "tag:mq-9_reaper:primary"
+msgid "mq-9_reaper"
+msgstr "MQ-9死神无人机"
+
+#. alias-of: mq-9_reaper
+#. source: ai
+msgctxt "tag:mq-9_reaper:alias:1"
+msgid "mq-9_reaper"
+msgstr "捕食者B"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mq.d:primary"
+msgid "mq.d"
+msgstr "MQ.D"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mq7771:primary"
+msgid "mq7771"
+msgstr "mq7771"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+#. aliases: MQCG
+msgctxt "tag:mq_cg:primary"
+msgid "mq_cg"
+msgstr "中质量CG"
+
+#. alias-of: mq_cg
+#. source: ai
+msgctxt "tag:mq_cg:alias:1"
+msgid "mq_cg"
+msgstr "MQCG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:mq_meng_xin:primary"
+msgid "mq_meng_xin"
+msgstr "mq梦芯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mq_meng_xin_ya:primary"
+msgid "mq_meng_xin_ya"
+msgstr "MQ孟新亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mq_sof:primary"
+msgid "mq_sof"
+msgstr "mq_sof"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mq_xiaogong:primary"
+msgid "mq_xiaogong"
+msgstr "MQ Xiaogong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mqd0i:primary"
+msgid "mqd0i"
+msgstr "mqd0i"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:mqd0rl:primary"
+msgid "mqd0rl"
+msgstr "作者MQD0RL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mqhg0642:primary"
+msgid "mqhg0642"
+msgstr "mqhg0642"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mqiii9:primary"
+msgid "mqiii9"
+msgstr "mqiii9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mqikel_katrina:primary"
+msgid "mqikel_katrina"
+msgstr "米奎尔·卡特琳娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mqiro:primary"
+msgid "mqiro"
+msgstr "mqiro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:mqkepuoq:primary"
+msgid "mqkepuoq"
+msgstr "MQK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mqlawr:primary"
+msgid "mqlawr"
+msgstr "MQLawr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mqmqm:primary"
+msgid "mqmqm"
+msgstr "mqmqm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mqorz:primary"
+msgid "mqorz"
+msgstr "mqorz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:mqpixels:primary"
+msgid "mqpixels"
+msgstr "mqpixels"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mqquzk:primary"
+msgid "mqquzk"
+msgstr "mqquzk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:mqtsurikq:primary"
+msgid "mqtsurikq"
+msgstr "mqtsurikq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mqwp:primary"
+msgid "mqwp"
+msgstr "MQWP"

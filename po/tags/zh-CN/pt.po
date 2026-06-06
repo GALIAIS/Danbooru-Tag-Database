@@ -1,0 +1,1403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:39+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:39+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:pt:primary"
+msgid "pt"
+msgstr "PT"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pt-76:primary"
+msgid "pt-76"
+msgstr "PT-76"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pt-91_twardy:primary"
+msgid "pt-91_twardy"
+msgstr "PT-91 Twardy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:pt-cr:primary"
+msgid "pt-cr"
+msgstr "pt-cr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:pt.:primary"
+msgid "pt."
+msgstr "pt."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pt082zn:primary"
+msgid "pt082zn"
+msgstr "Pt082zn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:pt0m14o:primary"
+msgid "pt0m14o"
+msgstr "Pt0m14o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pt58376ten:primary"
+msgid "pt58376ten"
+msgstr "pt58376ten"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: petako
+msgctxt "tag:pt5_(petako):primary"
+msgid "pt5_(petako)"
+msgstr "pt5"
+
+#. alias-of: pt5_(petako)
+#. source: ai
+msgctxt "tag:pt5_(petako):alias:1"
+msgid "pt5_(petako)"
+msgstr "petako"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:pt@i:primary"
+msgid "pt@i"
+msgstr "pt@i"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:pt_(hakkinnpt001):primary"
+msgid "pt_(hakkinnpt001)"
+msgstr "PT (hakkinnpt001)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:pt_(pt_blackhole):primary"
+msgid "pt_(pt_blackhole)"
+msgstr "PT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pt_0e0:primary"
+msgid "pt_0e0"
+msgstr "pt_0e0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pt_a_(mhpnnnn):primary"
+msgid "pt_a_(mhpnnnn)"
+msgstr "PT_A"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 209
+#. aliases: 恶魔群
+msgctxt "tag:pt_imp_group:primary"
+msgid "pt_imp_group"
+msgstr "小恶魔群"
+
+#. alias-of: pt_imp_group
+#. source: ai
+msgctxt "tag:pt_imp_group:alias:1"
+msgid "pt_imp_group"
+msgstr "恶魔群"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: cosplay团
+msgctxt "tag:pt_imp_group_(cosplay):primary"
+msgid "pt_imp_group_(cosplay)"
+msgstr "PT Imp Group（Cosplay）"
+
+#. alias-of: pt_imp_group_(cosplay)
+#. source: ai
+msgctxt "tag:pt_imp_group_(cosplay):alias:1"
+msgid "pt_imp_group_(cosplay)"
+msgstr "cosplay团"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pt_lll:primary"
+msgid "pt_lll"
+msgstr "PT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:pt_lynnn:primary"
+msgid "pt_lynnn"
+msgstr "pt_lynnn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pt_moon01:primary"
+msgid "pt_moon01"
+msgstr "pt_moon01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pt_pom:primary"
+msgid "pt_pom"
+msgstr "pt_pom"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:pt_sasa12:primary"
+msgid "pt_sasa12"
+msgstr "pt_sasa12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:pt_teslakit:primary"
+msgid "pt_teslakit"
+msgstr "teslakit"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:pt_tw:primary"
+msgid "pt_tw"
+msgstr "PTTW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:pta:primary"
+msgid "pta"
+msgstr "PTA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptag_(724200):primary"
+msgid "ptag_(724200)"
+msgstr "ptag_(724200)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ptags:primary"
+msgid "ptags"
+msgstr "ptags"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptah_(ark_order):primary"
+msgid "ptah_(ark_order)"
+msgstr "Ptah（Ark Order）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+#. aliases: 卜塔
+msgctxt "tag:ptah_(phantom_of_the_kill):primary"
+msgid "ptah_(phantom_of_the_kill)"
+msgstr "卜塔（杀戮幻影）"
+
+#. alias-of: ptah_(phantom_of_the_kill)
+#. source: ai
+msgctxt "tag:ptah_(phantom_of_the_kill):alias:1"
+msgid "ptah_(phantom_of_the_kill)"
+msgstr "卜塔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 195
+#. aliases: 丝袜
+msgctxt "tag:ptal:primary"
+msgid "ptal"
+msgstr "连裤袜"
+
+#. alias-of: ptal
+#. source: ai
+msgctxt "tag:ptal:alias:1"
+msgid "ptal"
+msgstr "丝袜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptanalo:primary"
+msgid "ptanalo"
+msgstr "ptanalo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptankman_(pondereo):primary"
+msgid "ptankman_(pondereo)"
+msgstr "Ptankman"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ptarmigan:primary"
+msgid "ptarmigan"
+msgstr "雷鸟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptax8873:primary"
+msgid "ptax8873"
+msgstr "PTAX8873"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptb_3:primary"
+msgid "ptb_3"
+msgstr "PTB-3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptbeaker:primary"
+msgid "ptbeaker"
+msgstr "ptbeaker"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ptc:primary"
+msgid "ptc"
+msgstr "PTC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ptcnote:primary"
+msgid "ptcnote"
+msgstr "ptcnote"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptdayo:primary"
+msgid "ptdayo"
+msgstr "PTDaYo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ptdoge:primary"
+msgid "ptdoge"
+msgstr "ptdoge"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptdoodle:primary"
+msgid "ptdoodle"
+msgstr "ptdoodle"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ptdra:primary"
+msgid "ptdra"
+msgstr "ptdra"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pte-chan:primary"
+msgid "pte-chan"
+msgstr "Pte酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptein:primary"
+msgid "ptein"
+msgstr "ptein"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ptera:primary"
+msgid "ptera"
+msgstr "ptera"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptera_(fossil_fighters):primary"
+msgid "ptera_(fossil_fighters)"
+msgstr "Ptera（化石战士）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ptera_(modern_mogal):primary"
+msgid "ptera_(modern_mogal)"
+msgstr "ptera_(modern_mogal)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.biological_specimen
+#. safety: mixed
+#. post-count: 8
+msgctxt "tag:ptera_genome:primary"
+msgid "ptera_genome"
+msgstr "翼龙基因组"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:ptera_ranger:primary"
+msgid "ptera_ranger"
+msgstr "翼龙战队"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ptera_ranger_(cosplay):primary"
+msgid "ptera_ranger_(cosplay)"
+msgstr "翼龙游侠（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 翼手龙
+msgctxt "tag:pteradon_yummy:primary"
+msgid "pteradon_yummy"
+msgstr "Pteradon Yummy"
+
+#. alias-of: pteradon_yummy
+#. source: ai
+msgctxt "tag:pteradon_yummy:alias:1"
+msgid "pteradon_yummy"
+msgstr "翼手龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:pteran:primary"
+msgid "pteran"
+msgstr "pteran"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:pteranodon_(user_wgku3258):primary"
+msgid "pteranodon_(user_wgku3258)"
+msgstr "Pteranodon（用户wgku3258）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pteranomon:primary"
+msgid "pteranomon"
+msgstr "翼龙兽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pteras:primary"
+msgid "pteras"
+msgstr "Pteras"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:pteraspis:primary"
+msgid "pteraspis"
+msgstr "翼鲨"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:pteri:primary"
+msgid "pteri"
+msgstr "翼龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pterix_(xenoblade):primary"
+msgid "pterix_(xenoblade)"
+msgstr "Pterix（异度神剑）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptero_(pteroscreams):primary"
+msgid "ptero_(pteroscreams)"
+msgstr "Ptero"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.transformation_or_hybrid_state
+#. safety: mixed
+#. post-count: 15
+msgctxt "tag:pterocentaur:primary"
+msgid "pterocentaur"
+msgstr "翼龙人马"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pterodactyl_sentry:primary"
+msgid "pterodactyl_sentry"
+msgstr "翼龙哨兵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 104
+msgctxt "tag:pteromon:primary"
+msgid "pteromon"
+msgstr "翼龙兽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pterosapien:primary"
+msgid "pterosapien"
+msgstr "翼龙智人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pterosatchel:primary"
+msgid "pterosatchel"
+msgstr "翼龙书包"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 286
+#. aliases: 翼手龙
+msgctxt "tag:pterosaur:primary"
+msgid "pterosaur"
+msgstr "翼龙"
+
+#. alias-of: pterosaur
+#. source: ai
+msgctxt "tag:pterosaur:alias:1"
+msgid "pterosaur"
+msgstr "翼手龙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 3
+msgctxt "tag:pterosauridae:primary"
+msgid "pterosauridae"
+msgstr "翼手龙科"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.traditional_wear
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:pteruges:primary"
+msgid "pteruges"
+msgstr "皮条裙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptgeist:primary"
+msgid "ptgeist"
+msgstr "Ptgeist"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ptgg:primary"
+msgid "ptgg"
+msgstr "ptgg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pti-spb:primary"
+msgid "pti-spb"
+msgstr "PTI-SPB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptibonsai:primary"
+msgid "ptibonsai"
+msgstr "ptibonsai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptiki:primary"
+msgid "ptiki"
+msgstr "Ptiki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ptilio:primary"
+msgid "ptilio"
+msgstr "ptilio"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:ptilol_(sailor_moon):primary"
+msgid "ptilol_(sailor_moon)"
+msgstr "帕提罗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:ptilopsis_(ambience_synesthesia_2022)_(arknights):primary"
+msgid "ptilopsis_(ambience_synesthesia_2022)_(arknights)"
+msgstr "白面鸮（环境通感2022）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:ptilopsis_(amongst_the_clouds)_(arknights):primary"
+msgid "ptilopsis_(amongst_the_clouds)_(arknights)"
+msgstr "白面鸮（青云之上）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 968
+msgctxt "tag:ptilopsis_(arknights):primary"
+msgid "ptilopsis_(arknights)"
+msgstr "白面鸮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 117
+#. aliases: Ptilopsis（精英二）
+msgctxt "tag:ptilopsis_(elite_ii)_(arknights):primary"
+msgid "ptilopsis_(elite_ii)_(arknights)"
+msgstr "Ptilopsis 精二"
+
+#. alias-of: ptilopsis_(elite_ii)_(arknights)
+#. source: ai
+msgctxt "tag:ptilopsis_(elite_ii)_(arknights):alias:1"
+msgid "ptilopsis_(elite_ii)_(arknights)"
+msgstr "Ptilopsis（精英二）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 84
+#. aliases: 白面
+msgctxt "tag:ptilopsis_(serenity)_(arknights):primary"
+msgid "ptilopsis_(serenity)_(arknights)"
+msgstr "白面鸮"
+
+#. alias-of: ptilopsis_(serenity)_(arknights)
+#. source: ai
+msgctxt "tag:ptilopsis_(serenity)_(arknights):alias:1"
+msgid "ptilopsis_(serenity)_(arknights)"
+msgstr "白面"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptimm:primary"
+msgid "ptimm"
+msgstr "ptimm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptinaika:primary"
+msgid "ptinaika"
+msgstr "Ptinaika"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ptinori:primary"
+msgid "ptinori"
+msgstr "ptinori"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptisfood:primary"
+msgid "ptisfood"
+msgstr "ptisfood"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ptitsa_(lapefamm):primary"
+msgid "ptitsa_(lapefamm)"
+msgstr "Ptitsa（Lapefamm）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ptitsaqaq:primary"
+msgid "ptitsaqaq"
+msgstr "ptitsaqaq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptlegoluke:primary"
+msgid "ptlegoluke"
+msgstr "PT Lego Luke"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptmaster:primary"
+msgid "ptmaster"
+msgstr "ptmaster"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ptmko_d:primary"
+msgid "ptmko_d"
+msgstr "PTMKO_D"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ptn:primary"
+msgid "ptn"
+msgstr "PTN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptn_(fox_fox):primary"
+msgid "ptn_(fox_fox)"
+msgstr "ptn_(fox_fox)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptn_sesam:primary"
+msgid "ptn_sesam"
+msgstr "ptn_sesam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptnc17:primary"
+msgid "ptnc17"
+msgstr "ptnc17"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptnnfudgbpkvn71:primary"
+msgid "ptnnfudgbpkvn71"
+msgstr "ptnnfudgbpkvn71"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptns22:primary"
+msgid "ptns22"
+msgstr "ptns22"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptoidi1224:primary"
+msgid "ptoidi1224"
+msgstr "ptoidi1224"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Ptolemaea, 神经云
+msgctxt "tag:ptolemaea_(neural_cloud):primary"
+msgid "ptolemaea_(neural_cloud)"
+msgstr "Ptolemaea（Neural Cloud）"
+
+#. alias-of: ptolemaea_(neural_cloud)
+#. source: ai
+msgctxt "tag:ptolemaea_(neural_cloud):alias:1"
+msgid "ptolemaea_(neural_cloud)"
+msgstr "Ptolemaea"
+
+#. alias-of: ptolemaea_(neural_cloud)
+#. source: ai
+msgctxt "tag:ptolemaea_(neural_cloud):alias:2"
+msgid "ptolemaea_(neural_cloud)"
+msgstr "神经云"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: PtolemaeaCos
+msgctxt "tag:ptolemaea_(neural_cloud)_(cosplay):primary"
+msgid "ptolemaea_(neural_cloud)_(cosplay)"
+msgstr "Ptolemaea（《神经云》）（Cosplay）"
+
+#. alias-of: ptolemaea_(neural_cloud)_(cosplay)
+#. source: ai
+msgctxt "tag:ptolemaea_(neural_cloud)_(cosplay):alias:1"
+msgid "ptolemaea_(neural_cloud)_(cosplay)"
+msgstr "PtolemaeaCos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptolemaios_(metal_slug):primary"
+msgid "ptolemaios_(metal_slug)"
+msgstr "Ptolemaios（Metal Slug）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ptolemaios_(spaceship):primary"
+msgid "ptolemaios_(spaceship)"
+msgstr "托勒密号（宇宙飞船）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ptolemaios_ii_(spaceship):primary"
+msgid "ptolemaios_ii_(spaceship)"
+msgstr "托勒密II号"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ptolemy_(bartimaeus):primary"
+msgid "ptolemy_(bartimaeus)"
+msgstr "托勒密（巴特迈乌斯）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptolemy_(exhibition_attire)_(fate):primary"
+msgid "ptolemy_(exhibition_attire)_(fate)"
+msgstr "托勒密（展览装）（Fate）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 166
+#. aliases: 托勒密(Fate)
+msgctxt "tag:ptolemy_(fate):primary"
+msgid "ptolemy_(fate)"
+msgstr "托勒密"
+
+#. alias-of: ptolemy_(fate)
+#. source: ai
+msgctxt "tag:ptolemy_(fate):alias:1"
+msgid "ptolemy_(fate)"
+msgstr "托勒密(Fate)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:ptolemy_(first_ascension)_(fate):primary"
+msgid "ptolemy_(first_ascension)_(fate)"
+msgstr "托勒密（第一再临）（Fate）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ptolemy_(reverse:1999):primary"
+msgid "ptolemy_(reverse:1999)"
+msgstr "托勒密（重返未来：1999）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 6
+#. aliases: 托勒密（二破）
+msgctxt "tag:ptolemy_(second_ascension)_(fate):primary"
+msgid "ptolemy_(second_ascension)_(fate)"
+msgstr "托勒密（第二再临）（Fate）"
+
+#. alias-of: ptolemy_(second_ascension)_(fate)
+#. source: ai
+msgctxt "tag:ptolemy_(second_ascension)_(fate):alias:1"
+msgid "ptolemy_(second_ascension)_(fate)"
+msgstr "托勒密（二破）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptolemy_(the_fairyland_story):primary"
+msgid "ptolemy_(the_fairyland_story)"
+msgstr "Ptolemy（The Fairyland Story）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 112
+#. aliases: 托勒密（第三再临）
+msgctxt "tag:ptolemy_(third_ascension)_(fate):primary"
+msgid "ptolemy_(third_ascension)_(fate)"
+msgstr "托勒密"
+
+#. alias-of: ptolemy_(third_ascension)_(fate)
+#. source: ai
+msgctxt "tag:ptolemy_(third_ascension)_(fate):alias:1"
+msgid "ptolemy_(third_ascension)_(fate)"
+msgstr "托勒密（第三再临）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ptolomea_(wild_arms):primary"
+msgid "ptolomea_(wild_arms)"
+msgstr "托勒密（荒野兵器）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pton_lamc09:primary"
+msgid "pton_lamc09"
+msgstr "Pton Lamc09"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:pton_uca09:primary"
+msgid "pton_uca09"
+msgstr "pton_uca09"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptooie:primary"
+msgid "ptooie"
+msgstr "Ptooie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ptping:primary"
+msgid "ptping"
+msgstr "PTPing"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptpt_ark:primary"
+msgid "ptpt_ark"
+msgstr "PTPT_ARK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:ptptprpr:primary"
+msgid "ptptprpr"
+msgstr "ptptprpr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ptpttakosan:primary"
+msgid "ptpttakosan"
+msgstr "ptpttakosan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptr1108362:primary"
+msgid "ptr1108362"
+msgstr "ptr1108362"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptr_virgil:primary"
+msgid "ptr_virgil"
+msgstr "ptr_virgil"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 124
+#. aliases: PTRD-41
+msgctxt "tag:ptrd-41:primary"
+msgid "ptrd-41"
+msgstr "PTRD-41反坦克步枪"
+
+#. alias-of: ptrd-41
+#. source: ai
+msgctxt "tag:ptrd-41:alias:1"
+msgid "ptrd-41"
+msgstr "PTRD-41"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ptrd-41_(xjc900516):primary"
+msgid "ptrd-41_(xjc900516)"
+msgstr "PTRD-41"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ptrd_(crimson_vortex)_(girls'_frontline):primary"
+msgid "ptrd_(crimson_vortex)_(girls'_frontline)"
+msgstr "PTRD（Crimson Vortex）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 76
+msgctxt "tag:ptrd_(girls'_frontline):primary"
+msgid "ptrd_(girls'_frontline)"
+msgstr "PTRD (少女前线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ptrd_(romantic_mission)_(girls'_frontline):primary"
+msgid "ptrd_(romantic_mission)_(girls'_frontline)"
+msgstr "PTRD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptrlejr:primary"
+msgid "ptrlejr"
+msgstr "ptrlejr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptrngdrm:primary"
+msgid "ptrngdrm"
+msgstr "ptrngdrm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ptromea:primary"
+msgid "ptromea"
+msgstr "普罗米亚"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 47
+#. aliases: 反坦克步枪
+msgctxt "tag:ptrs-41:primary"
+msgid "ptrs-41"
+msgstr "PTRS-41"
+
+#. alias-of: ptrs-41
+#. source: ai
+msgctxt "tag:ptrs-41:alias:1"
+msgid "ptrs-41"
+msgstr "反坦克步枪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:ptrt:primary"
+msgid "ptrt"
+msgstr "ptrt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ptrtear:primary"
+msgid "ptrtear"
+msgstr "Ptrtear"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptrtf109:primary"
+msgid "ptrtf109"
+msgstr "ptrtf109"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pts3:primary"
+msgid "pts3"
+msgstr "pts3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pts313:primary"
+msgid "pts313"
+msgstr "pts313"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.mental.thought_or_imagination
+#. safety: sfw
+#. post-count: 233
+#. aliases: PTSD
+msgctxt "tag:ptsd:primary"
+msgid "ptsd"
+msgstr "创伤后应激"
+
+#. alias-of: ptsd
+#. source: ai
+msgctxt "tag:ptsd:alias:1"
+msgid "ptsd"
+msgstr "PTSD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ptsd0818:primary"
+msgid "ptsd0818"
+msgstr "ptsd0818"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptsnd:primary"
+msgid "ptsnd"
+msgstr "PTSD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptt:primary"
+msgid "ptt"
+msgstr "PTT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptt788:primary"
+msgid "ptt788"
+msgstr "ptt788"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ptt_fries:primary"
+msgid "ptt_fries"
+msgstr "PTT薯条"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptt_sho:primary"
+msgid "ptt_sho"
+msgstr "PTT_sho"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptta_60:primary"
+msgid "ptta_60"
+msgstr "ptta_60"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pttarou_(potetaro):primary"
+msgid "pttarou_(potetaro)"
+msgstr "Potetaro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pttimoimo:primary"
+msgid "pttimoimo"
+msgstr "pttimoimo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:pttofu_(petitponkan):primary"
+msgid "pttofu_(petitponkan)"
+msgstr "pttofu（petitponkan）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pttpsboard:primary"
+msgid "pttpsboard"
+msgstr "pttpsboard"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pttusi:primary"
+msgid "pttusi"
+msgstr "pttusi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptty851:primary"
+msgid "ptty851"
+msgstr "ptty851"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:pttyr:primary"
+msgid "pttyr"
+msgstr "pttyr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ptu654:primary"
+msgid "ptu654"
+msgstr "PTU654"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ptumbre:primary"
+msgid "ptumbre"
+msgstr "Ptumbre"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ptviel:primary"
+msgid "ptviel"
+msgstr "Ptviel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ptvm7432:primary"
+msgid "ptvm7432"
+msgstr "ptvm7432"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptw828:primary"
+msgid "ptw828"
+msgstr "ptw828"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptwasshoi025:primary"
+msgid "ptwasshoi025"
+msgstr "ptwasshoi025"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptwenty:primary"
+msgid "ptwenty"
+msgstr "PTwenty"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ptx-40a:primary"
+msgid "ptx-40a"
+msgstr "PTX-40A"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:pty:primary"
+msgid "pty"
+msgstr "PTY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptyynghere:primary"
+msgid "ptyynghere"
+msgstr "Ptyyng Here"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ptyzr777:primary"
+msgid "ptyzr777"
+msgstr "ptyzr777"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ptz_89:primary"
+msgid "ptz_89"
+msgstr "PTZ-89"

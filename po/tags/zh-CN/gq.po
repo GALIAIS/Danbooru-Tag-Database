@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:26+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:26+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:gq40415378:primary"
+msgid "gq40415378"
+msgstr "gq40415378"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gq_(magazine):primary"
+msgid "gq_(magazine)"
+msgstr "GQ杂志"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:gqi_(pixiv_11877511):primary"
+msgid "gqi_(pixiv_11877511)"
+msgstr "gqi（Pixiv 11877511）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gqj60r:primary"
+msgid "gqj60r"
+msgstr "gqj60r"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gqn_mr:primary"
+msgid "gqn_mr"
+msgstr "GQN先生"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:gqr_ko:primary"
+msgid "gqr_ko"
+msgstr "gqr_ko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gqunpi:primary"
+msgid "gqunpi"
+msgstr "gqunpi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 500
+#. aliases: 搞笑音
+msgctxt "tag:gquuuuuux:primary"
+msgid "gquuuuuux"
+msgstr "搞笑音效"
+
+#. alias-of: gquuuuuux
+#. source: ai
+msgctxt "tag:gquuuuuux:alias:1"
+msgid "gquuuuuux"
+msgstr "搞笑音"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:gquuuuuux_(cosplay):primary"
+msgid "gquuuuuux_(cosplay)"
+msgstr "gquuuuuux（cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:gqwittull:primary"
+msgid "gqwittull"
+msgstr "gqwittull"

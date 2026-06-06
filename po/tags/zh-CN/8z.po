@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:18+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:18+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: 想睡8小时
+msgctxt "tag:8zikan_netai:primary"
+msgid "8zikan_netai"
+msgstr "8zikan_netai"
+
+#. alias-of: 8zikan_netai
+#. source: ai
+msgctxt "tag:8zikan_netai:alias:1"
+msgid "8zikan_netai"
+msgstr "想睡8小时"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:8zk:primary"
+msgid "8zk"
+msgstr "8zk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:8zk3p7olhmbfbvt:primary"
+msgid "8zk3p7olhmbfbvt"
+msgstr "8zk3p7olhmbfbvt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:8zm:primary"
+msgid "8zm"
+msgstr "8zm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 8zoo
+msgctxt "tag:8zoo_8n:primary"
+msgid "8zoo_8n"
+msgstr "8zoo"
+
+#. alias-of: 8zoo_8n
+#. source: ai
+msgctxt "tag:8zoo_8n:alias:1"
+msgid "8zoo_8n"
+msgstr "8zoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:8zu:primary"
+msgid "8zu"
+msgstr "8zu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:8zuke:primary"
+msgid "8zuke"
+msgstr "8zuke"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:8zz:primary"
+msgid "8zz"
+msgstr "8zz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:8zzyf:primary"
+msgid "8zzyf"
+msgstr "8zzyf"

@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:49+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:49+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:x901_dr:primary"
+msgid "x901_dr"
+msgstr "X901-DR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:x9273538088516:primary"
+msgid "x9273538088516"
+msgstr "x9273538088516"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 75
+#. aliases: X95人形
+msgctxt "tag:x95_(girls'_frontline):primary"
+msgid "x95_(girls'_frontline)"
+msgstr "X95"
+
+#. alias-of: x95_(girls'_frontline)
+#. source: ai
+msgctxt "tag:x95_(girls'_frontline):alias:1"
+msgid "x95_(girls'_frontline)"
+msgstr "X95人形"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:x95_(girls'_frontline)_(cosplay):primary"
+msgid "x95_(girls'_frontline)_(cosplay)"
+msgstr "X95（少女前线）（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:x95_(jarv):primary"
+msgid "x95_(jarv)"
+msgstr "X95"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:x95_(white_rose_girl)_(girls'_frontline):primary"
+msgid "x95_(white_rose_girl)_(girls'_frontline)"
+msgstr "X95（白玫瑰女孩）（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:x9vie:primary"
+msgid "x9vie"
+msgstr "x9vie"

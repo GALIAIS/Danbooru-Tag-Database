@@ -1,0 +1,562 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:20+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:20+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bh:primary"
+msgid "bh"
+msgstr "黑月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:bh001:primary"
+msgid "bh001"
+msgstr "BH001"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:bh20647:primary"
+msgid "bh20647"
+msgstr "bh20647"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:bh495:primary"
+msgid "bh495"
+msgstr "BH495"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bh_(lofter):primary"
+msgid "bh_(lofter)"
+msgstr "BH（LOFTER）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:bh_zhu_baihe_hua:primary"
+msgid "bh_zhu_baihe_hua"
+msgstr "白鹤花"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:bhaal:primary"
+msgid "bhaal"
+msgstr "巴尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:bhachi88888888:primary"
+msgid "bhachi88888888"
+msgstr "bhachi88888888"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhadra_(granblue_fantasy):primary"
+msgid "bhadra_(granblue_fantasy)"
+msgstr "巴德拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 33
+#. aliases: 碧莎
+msgctxt "tag:bhaisa_(granblue_fantasy):primary"
+msgid "bhaisa_(granblue_fantasy)"
+msgstr "Bhaisa"
+
+#. alias-of: bhaisa_(granblue_fantasy)
+#. source: ai
+msgctxt "tag:bhaisa_(granblue_fantasy):alias:1"
+msgid "bhaisa_(granblue_fantasy)"
+msgstr "碧莎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhaixi:primary"
+msgid "bhaixi"
+msgstr "白兮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bharathkumar:primary"
+msgid "bharathkumar"
+msgstr "bharathkumar"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:bhatar:primary"
+msgid "bhatar"
+msgstr "Bhatar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhavesh:primary"
+msgid "bhavesh"
+msgstr "Bhavesh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhazuart:primary"
+msgid "bhazuart"
+msgstr "Bhazuart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhcnbz:primary"
+msgid "bhcnbz"
+msgstr "bhcnbz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhd_maven:primary"
+msgid "bhd_maven"
+msgstr "BHD Maven"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:bhdptopnotch12:primary"
+msgid "bhdptopnotch12"
+msgstr "Bhdptopnotch12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bheansidhe:primary"
+msgid "bheansidhe"
+msgstr "Bheansidhe"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 比安卡
+msgctxt "tag:bheara_(danmachi):primary"
+msgid "bheara_(danmachi)"
+msgstr "比阿拉（地下城邂逅）"
+
+#. alias-of: bheara_(danmachi)
+#. source: ai
+msgctxt "tag:bheara_(danmachi):alias:1"
+msgid "bheara_(danmachi)"
+msgstr "比安卡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bhedoods:primary"
+msgid "bhedoods"
+msgstr "bhedoods"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:bhenart:primary"
+msgid "bhenart"
+msgstr "bhenart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bherdlu:primary"
+msgid "bherdlu"
+msgstr "Bherdlu"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 25
+#. aliases: 贝赫纳
+msgctxt "tag:bherna_(armor):primary"
+msgid "bherna_(armor)"
+msgstr "贝赫纳铠甲"
+
+#. alias-of: bherna_(armor)
+#. source: ai
+msgctxt "tag:bherna_(armor):alias:1"
+msgid "bherna_(armor)"
+msgstr "贝赫纳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bherna_gal:primary"
+msgid "bherna_gal"
+msgstr "贝赫纳女孩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bheth_fleeson:primary"
+msgid "bheth_fleeson"
+msgstr "贝斯·弗利森"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhfenomoto:primary"
+msgid "bhfenomoto"
+msgstr "bhfenomoto"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhgaming:primary"
+msgid "bhgaming"
+msgstr "BHGaming"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bhgl_lover:primary"
+msgid "bhgl_lover"
+msgstr "BHGLOver"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhh4mnssbkm:primary"
+msgid "bhh4mnssbkm"
+msgstr "bhh4mnssbkm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhherb:primary"
+msgid "bhherb"
+msgstr "Bhherb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhib685wglgavti:primary"
+msgid "bhib685wglgavti"
+msgstr "Bhib685wglgavti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhigbhee:primary"
+msgid "bhigbhee"
+msgstr "bhigbhee"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhima:primary"
+msgid "bhima"
+msgstr "怖军"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bhima_(brothers_special)_(fate):primary"
+msgid "bhima_(brothers_special)_(fate)"
+msgstr "Bhima（兄弟特别版）（Fate）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bhima_(event_portrait)_(fate):primary"
+msgid "bhima_(event_portrait)_(fate)"
+msgstr "毗摩（活动立绘）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 221
+#. aliases: Bhima
+msgctxt "tag:bhima_(fate):primary"
+msgid "bhima_(fate)"
+msgstr "布施"
+
+#. alias-of: bhima_(fate)
+#. source: ai
+msgctxt "tag:bhima_(fate):alias:1"
+msgid "bhima_(fate)"
+msgstr "Bhima"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:bhima_(matsuyuki_cocokara)_(fate):primary"
+msgid "bhima_(matsuyuki_cocokara)_(fate)"
+msgstr "毗摩（松雪协力）（Fate）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:bhima_(second_ascension)_(fate):primary"
+msgid "bhima_(second_ascension)_(fate)"
+msgstr "毗摩(二破)(Fate)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:bhima_(third_ascension)_(fate):primary"
+msgid "bhima_(third_ascension)_(fate)"
+msgstr "毗摩（三破）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhlnsbkhhhh:primary"
+msgid "bhlnsbkhhhh"
+msgstr "BHlnsbkhhhh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bhloopy:primary"
+msgid "bhloopy"
+msgstr "bhloopy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhn097:primary"
+msgid "bhn097"
+msgstr "bhn097"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhn_(bamhaneul1113):primary"
+msgid "bhn_(bamhaneul1113)"
+msgstr "BHN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhobuanli:primary"
+msgid "bhobuanli"
+msgstr "bhobuanli"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:bhoodies:primary"
+msgid "bhoodies"
+msgstr "连帽衫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhoshii:primary"
+msgid "bhoshii"
+msgstr "bhoshii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhpapaya:primary"
+msgid "bhpapaya"
+msgstr "BHPapaya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhpyy542:primary"
+msgid "bhpyy542"
+msgstr "bhpyy542"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhramarii:primary"
+msgid "bhramarii"
+msgstr "Bhramarii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhrin97:primary"
+msgid "bhrin97"
+msgstr "bhrin97"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhs-archetyperex:primary"
+msgid "bhs-archetyperex"
+msgstr "BHS Archetype Rex"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:bhsdesk:primary"
+msgid "bhsdesk"
+msgstr "bhsdesk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:bhsjdhsj:primary"
+msgid "bhsjdhsj"
+msgstr "bhsjdhsj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhto4:primary"
+msgid "bhto4"
+msgstr "BHTO4"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhuj_(f-kare):primary"
+msgid "bhuj_(f-kare)"
+msgstr "碧珠"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhuman_(robokeh):primary"
+msgid "bhuman_(robokeh)"
+msgstr "Bhuman（Robokeh）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:bhumibol_adulyadej:primary"
+msgid "bhumibol_adulyadej"
+msgstr "普密蓬·阿杜德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhunsleepy:primary"
+msgid "bhunsleepy"
+msgstr "Bhunsleepy"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhutan:primary"
+msgid "bhutan"
+msgstr "不丹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhutan_(duel_masters):primary"
+msgid "bhutan_(duel_masters)"
+msgstr "不丹 (决斗大师)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhutan_(nihon-chan):primary"
+msgid "bhutan_(nihon-chan)"
+msgstr "不丹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhutanball:primary"
+msgid "bhutanball"
+msgstr "不丹球"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:bhutanese_flag:primary"
+msgid "bhutanese_flag"
+msgstr "不丹国旗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:bhw-gns1_gains:primary"
+msgid "bhw-gns1_gains"
+msgstr "BHW-GNS1盖恩斯"

@@ -1,0 +1,875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:24+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:24+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ew0014:primary"
+msgid "ew0014"
+msgstr "EW0014"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ew10o:primary"
+msgid "ew10o"
+msgstr "EW10O"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ew314:primary"
+msgid "ew314"
+msgstr "EW314"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ew42613833:primary"
+msgid "ew42613833"
+msgstr "EW42613833"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ew_eien2000:primary"
+msgid "ew_eien2000"
+msgstr "ew_eien2000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:ewa_(ewa0310):primary"
+msgid "ewa_(ewa0310)"
+msgstr "Ewa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 857
+#. aliases: ewa, seraphhuiyu
+msgctxt "tag:ewa_(seraphhuiyu):primary"
+msgid "ewa_(seraphhuiyu)"
+msgstr "伊娃 (Seraphhuiyu)"
+
+#. alias-of: ewa_(seraphhuiyu)
+#. source: ai
+msgctxt "tag:ewa_(seraphhuiyu):alias:1"
+msgid "ewa_(seraphhuiyu)"
+msgstr "ewa"
+
+#. alias-of: ewa_(seraphhuiyu)
+#. source: ai
+msgctxt "tag:ewa_(seraphhuiyu):alias:2"
+msgid "ewa_(seraphhuiyu)"
+msgstr "seraphhuiyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewa_(waka1105):primary"
+msgid "ewa_(waka1105)"
+msgstr "Ewa（waka1105）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ewa_(yion_yu94148):primary"
+msgid "ewa_(yion_yu94148)"
+msgstr "Ewa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 116
+msgctxt "tag:ewaaawa:primary"
+msgid "ewaaawa"
+msgstr "Ewaaawa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewac_gm_(mobile_suit):primary"
+msgid "ewac_gm_(mobile_suit)"
+msgstr "EWAC高达（机动战士）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewac_jegan:primary"
+msgid "ewac_jegan"
+msgstr "EWAC杰刚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewac_nero:primary"
+msgid "ewac_nero"
+msgstr "EWAC尼洛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ewac_zack:primary"
+msgid "ewac_zack"
+msgstr "EWAC扎克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 星之卡比角色
+msgctxt "tag:ewaddledee:primary"
+msgid "ewaddledee"
+msgstr "瓦豆鲁迪"
+
+#. alias-of: ewaddledee
+#. source: ai
+msgctxt "tag:ewaddledee:alias:1"
+msgid "ewaddledee"
+msgstr "星之卡比角色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ewai:primary"
+msgid "ewai"
+msgstr "EWAi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewakaran:primary"
+msgid "ewakaran"
+msgstr "ewakaran"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ewalabak:primary"
+msgid "ewalabak"
+msgstr "ewalabak"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Ewan
+msgctxt "tag:ewan_(another_eden):primary"
+msgid "ewan_(another_eden)"
+msgstr "伊万"
+
+#. alias-of: ewan_(another_eden)
+#. source: ai
+msgctxt "tag:ewan_(another_eden):alias:1"
+msgid "ewan_(another_eden)"
+msgstr "Ewan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:ewan_(fire_emblem):primary"
+msgid "ewan_(fire_emblem)"
+msgstr "艾纹（火焰纹章）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ewan_(ta_ga_tame_no_alchemist):primary"
+msgid "ewan_(ta_ga_tame_no_alchemist)"
+msgstr "Ewan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewan_(xenoblade):primary"
+msgid "ewan_(xenoblade)"
+msgstr "艾万"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:ewan_1212:primary"
+msgid "ewan_1212"
+msgstr "ewan_1212"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ewan_juno:primary"
+msgid "ewan_juno"
+msgstr "Juno"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewan_kleines:primary"
+msgid "ewan_kleines"
+msgstr "埃万·克莱因斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ewan_mcgregor:primary"
+msgid "ewan_mcgregor"
+msgstr "伊万·麦克格雷格"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ewan_remington:primary"
+msgid "ewan_remington"
+msgstr "尤恩·雷明顿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:ewanko_05:primary"
+msgid "ewanko_05"
+msgstr "ewanko_05"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewardyne:primary"
+msgid "ewardyne"
+msgstr "艾瓦丁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ewder:primary"
+msgid "ewder"
+msgstr "Ewder"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewe_1206:primary"
+msgid "ewe_1206"
+msgstr "ewe_1206"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewe_aries:primary"
+msgid "ewe_aries"
+msgstr "Ewe Aries"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:eweedraws:primary"
+msgid "eweedraws"
+msgstr "eweedraws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eweeppy:primary"
+msgid "eweeppy"
+msgstr "Eweeppy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewei_danta:primary"
+msgid "ewei_danta"
+msgstr "ewei_danta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:eweisse:primary"
+msgid "eweisse"
+msgstr "白毛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewell7037:primary"
+msgid "ewell7037"
+msgstr "Ewell7037"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewen_(ffta2):primary"
+msgid "ewen_(ffta2)"
+msgstr "尤恩（FFTA2）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 195
+#. aliases: ewen_egeburg
+msgctxt "tag:ewen_egeburg:primary"
+msgid "ewen_egeburg"
+msgstr "艾文·埃格堡"
+
+#. alias-of: ewen_egeburg
+#. source: ai
+msgctxt "tag:ewen_egeburg:alias:1"
+msgid "ewen_egeburg"
+msgstr "ewen_egeburg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ewertonleoncio:primary"
+msgid "ewertonleoncio"
+msgstr "ewertonleoncio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewestein:primary"
+msgid "ewestein"
+msgstr "Ewestein"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ewewe01:primary"
+msgid "ewewe01"
+msgstr "Ewewe01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ewg7k3eutb99502:primary"
+msgid "ewg7k3eutb99502"
+msgstr "ewg7k3eutb99502"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewgengster:primary"
+msgid "ewgengster"
+msgstr "ewgengster"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewhale99:primary"
+msgid "ewhale99"
+msgstr "ewhale99"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewhm7584:primary"
+msgid "ewhm7584"
+msgstr "ewhm7584"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewi5000:primary"
+msgid "ewi5000"
+msgstr "EWI5000"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewica:primary"
+msgid "ewica"
+msgstr "Ewica"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewick:primary"
+msgid "ewick"
+msgstr "伊维克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ewig:primary"
+msgid "ewig"
+msgstr "Ewig"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ewig_ul:primary"
+msgid "ewig_ul"
+msgstr "Ewig Ul"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewigen_eis:primary"
+msgid "ewigen_eis"
+msgstr "Ewigen Eis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewikasee:primary"
+msgid "ewikasee"
+msgstr "ewikasee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ewind:primary"
+msgid "ewind"
+msgstr "Ewind"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ewind_(jian_feng):primary"
+msgid "ewind_(jian_feng)"
+msgstr "Ewind"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewing:primary"
+msgid "ewing"
+msgstr "Ewing"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ewinnie:primary"
+msgid "ewinnie"
+msgstr "Ewinnie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewio2:primary"
+msgid "ewio2"
+msgstr "ewio2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 94
+#. aliases: Ewiyar, 碧蓝幻想艾维亚尔
+msgctxt "tag:ewiyar_(granblue_fantasy):primary"
+msgid "ewiyar_(granblue_fantasy)"
+msgstr "艾维亚尔"
+
+#. alias-of: ewiyar_(granblue_fantasy)
+#. source: ai
+msgctxt "tag:ewiyar_(granblue_fantasy):alias:1"
+msgid "ewiyar_(granblue_fantasy)"
+msgstr "Ewiyar"
+
+#. alias-of: ewiyar_(granblue_fantasy)
+#. source: ai
+msgctxt "tag:ewiyar_(granblue_fantasy):alias:2"
+msgid "ewiyar_(granblue_fantasy)"
+msgstr "碧蓝幻想艾维亚尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewjd2448:primary"
+msgid "ewjd2448"
+msgstr "ewjd2448"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ewltrqat:primary"
+msgid "ewltrqat"
+msgstr "ewltrqat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewmi0:primary"
+msgid "ewmi0"
+msgstr "ewmi0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 208
+#. aliases: 大眼
+msgctxt "tag:ewn:primary"
+msgid "ewn"
+msgstr "睁眼"
+
+#. alias-of: ewn
+#. source: ai
+msgctxt "tag:ewn:alias:1"
+msgid "ewn"
+msgstr "大眼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewna-art:primary"
+msgid "ewna-art"
+msgstr "EWNA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewo_(ewopictures):primary"
+msgid "ewo_(ewopictures)"
+msgstr "Ewo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ewo_1:primary"
+msgid "ewo_1"
+msgstr "ewo_1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ewo_kakuo:primary"
+msgid "ewo_kakuo"
+msgstr "ewo_kakuo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ewoagemasull:primary"
+msgid "ewoagemasull"
+msgstr "ewoagemasull"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewoageruyobemo:primary"
+msgid "ewoageruyobemo"
+msgstr "ewoageruyobemo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ewok:primary"
+msgid "ewok"
+msgstr "伊沃克人"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ewok_costume:primary"
+msgid "ewok_costume"
+msgstr "伊沃克角色扮演服装"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewoka_gyoku:primary"
+msgid "ewoka_gyoku"
+msgstr "ewoka_gyoku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewokakekou0127:primary"
+msgid "ewokakekou0127"
+msgstr "ewokakekou0127"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewokaku:primary"
+msgid "ewokaku"
+msgstr "绘/画师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ewokaku25:primary"
+msgid "ewokaku25"
+msgstr "ewokaku25"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ewokaku33:primary"
+msgid "ewokaku33"
+msgstr "绘冈33"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ewokaku335:primary"
+msgid "ewokaku335"
+msgstr "ewokaku335"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewokaku_himajin:primary"
+msgid "ewokaku_himajin"
+msgstr "Ewokaku Himajin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 63
+#. aliases: 狐娘
+msgctxt "tag:ewokaku_kitsune:primary"
+msgid "ewokaku_kitsune"
+msgstr "绘若狐"
+
+#. alias-of: ewokaku_kitsune
+#. source: ai
+msgctxt "tag:ewokaku_kitsune:alias:1"
+msgid "ewokaku_kitsune"
+msgstr "狐娘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewokaku_o_mochi:primary"
+msgid "ewokaku_o_mochi"
+msgstr "绘冈冈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewokaku_onigiri:primary"
+msgid "ewokaku_onigiri"
+msgstr "Ewokaku饭团"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ewokakuaccount:primary"
+msgid "ewokakuaccount"
+msgstr "ewokakuaccount"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewokakuhito:primary"
+msgid "ewokakuhito"
+msgstr "ewokakuhito"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewokakuiruka:primary"
+msgid "ewokakuiruka"
+msgstr "Ewokakuiruka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 196
+msgctxt "tag:ewokakukaede:primary"
+msgid "ewokakukaede"
+msgstr "埃沃卡卡德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:ewokakuman:primary"
+msgid "ewokakuman"
+msgstr "ewokakuman"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:ewokakuni:primary"
+msgid "ewokakuni"
+msgstr "ewokakuni"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewokakunogasuki:primary"
+msgid "ewokakunogasuki"
+msgstr "喜欢ewokaku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ewokakupiece:primary"
+msgid "ewokakupiece"
+msgstr "Ewokakupiece"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ewokakuyo:primary"
+msgid "ewokakuyo"
+msgstr "Ewokakuyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ewokakuyo-zz:primary"
+msgid "ewokakuyo-zz"
+msgstr "Ewokakuyo-zz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ewokakuyorozuya:primary"
+msgid "ewokakuyorozuya"
+msgstr "Ewokaku万屋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewordflpisph8aj:primary"
+msgid "ewordflpisph8aj"
+msgstr "ewordflpisph8aj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ewphoria:primary"
+msgid "ewphoria"
+msgstr "ewphoria"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewr_vj_101:primary"
+msgid "ewr_vj_101"
+msgstr "EWR VJ-101"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ewrefd:primary"
+msgid "ewrefd"
+msgstr "ewrefd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ewreilyn:primary"
+msgid "ewreilyn"
+msgstr "ewreilyn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:ewrui:primary"
+msgid "ewrui"
+msgstr "Ewrui"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ews:primary"
+msgid "ews"
+msgstr "EWS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ewz:primary"
+msgid "ewz"
+msgstr "ewz"

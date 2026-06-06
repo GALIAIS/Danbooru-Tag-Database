@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:39+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:39+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 112
+msgctxt "tag:px-tea:primary"
+msgid "px-tea"
+msgstr "px-tea"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:px2011:primary"
+msgid "px2011"
+msgstr "PX2011"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:px4_storm_(gilded_allure)_(girls'_frontline):primary"
+msgid "px4_storm_(gilded_allure)_(girls'_frontline)"
+msgstr "PX4风暴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 88
+msgctxt "tag:px4_storm_(girls'_frontline):primary"
+msgid "px4_storm_(girls'_frontline)"
+msgstr "风暴"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:px4_storm_(girls'_frontline)_(cosplay):primary"
+msgid "px4_storm_(girls'_frontline)_(cosplay)"
+msgstr "PX4风暴cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:px4_storm_(guardian_of_hibernation_dreams)_(girls'_frontline):primary"
+msgid "px4_storm_(guardian_of_hibernation_dreams)_(girls'_frontline)"
+msgstr "PX4 Storm"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: PX4 Storm
+msgctxt "tag:px4_storm_(mod3)_(girls'_frontline):primary"
+msgid "px4_storm_(mod3)_(girls'_frontline)"
+msgstr "PX4风暴（MOD3）（少女前线）"
+
+#. alias-of: px4_storm_(mod3)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:px4_storm_(mod3)_(girls'_frontline):alias:1"
+msgid "px4_storm_(mod3)_(girls'_frontline)"
+msgstr "PX4 Storm"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+#. aliases: Xmas Queen, 少女前线
+msgctxt "tag:px4_storm_(queen_of_x'mas_morning)_(girls'_frontline):primary"
+msgid "px4_storm_(queen_of_x'mas_morning)_(girls'_frontline)"
+msgstr "PX4 Storm"
+
+#. alias-of: px4_storm_(queen_of_x'mas_morning)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:px4_storm_(queen_of_x'mas_morning)_(girls'_frontline):alias:1"
+msgid "px4_storm_(queen_of_x'mas_morning)_(girls'_frontline)"
+msgstr "Xmas Queen"
+
+#. alias-of: px4_storm_(queen_of_x'mas_morning)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:px4_storm_(queen_of_x'mas_morning)_(girls'_frontline):alias:2"
+msgid "px4_storm_(queen_of_x'mas_morning)_(girls'_frontline)"
+msgstr "少女前线"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:px4_storm_(seaside_paradigm)_(girls'_frontline):primary"
+msgid "px4_storm_(seaside_paradigm)_(girls'_frontline)"
+msgstr "PX4风暴（海边范例）（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:px_(pixiv6554):primary"
+msgid "px_(pixiv6554)"
+msgstr "px（pixiv6554）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:px_coffin:primary"
+msgid "px_coffin"
+msgstr "Px_Coffin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:px_ja_ma:primary"
+msgid "px_ja_ma"
+msgstr "px_ja_ma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:px_xxxl:primary"
+msgid "px_xxxl"
+msgstr "px_xxxl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:pxa640:primary"
+msgid "pxa640"
+msgstr "pxa640"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxalot:primary"
+msgid "pxalot"
+msgstr "Pxalot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:pxax3333:primary"
+msgid "pxax3333"
+msgstr "pxax3333"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pxbyz6ynhc83433:primary"
+msgid "pxbyz6ynhc83433"
+msgstr "Pxbyz6ynhc83433"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:pxchop:primary"
+msgid "pxchop"
+msgstr "pxchop"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:pxcpe8esuaq30kz:primary"
+msgid "pxcpe8esuaq30kz"
+msgstr "pxcpe8esuaq30kz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pxelslayer:primary"
+msgid "pxelslayer"
+msgstr "pxelslayer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:pxf:primary"
+msgid "pxf"
+msgstr "PXF"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:pxfx123:primary"
+msgid "pxfx123"
+msgstr "pxfx123"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:pxfz1234:primary"
+msgid "pxfz1234"
+msgstr "pxfz1234"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pxg_25:primary"
+msgid "pxg_25"
+msgstr "pxg_25"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pxhhss:primary"
+msgid "pxhhss"
+msgstr "pxhhss"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxhs:primary"
+msgid "pxhs"
+msgstr "PXHS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxinanmg:primary"
+msgid "pxinanmg"
+msgstr "PXINANMG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:pxkibu:primary"
+msgid "pxkibu"
+msgstr "Pxkibu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:pxl_(pxltw):primary"
+msgid "pxl_(pxltw)"
+msgstr "pxl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pxldrp:primary"
+msgid "pxldrp"
+msgstr "pxldrp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:pxlfrug:primary"
+msgid "pxlfrug"
+msgstr "pxlfrug"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:pxlily:primary"
+msgid "pxlily"
+msgstr "pxlily"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:pxllb:primary"
+msgid "pxllb"
+msgstr "pxllb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxmgmp:primary"
+msgid "pxmgmp"
+msgstr "pxmgmp"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pxndx:primary"
+msgid "pxndx"
+msgstr "pxndx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:pxo6ri4xwwmhkgu:primary"
+msgid "pxo6ri4xwwmhkgu"
+msgstr "pxo6ri4xwwmhkgu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxriss:primary"
+msgid "pxriss"
+msgstr "pxriss"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pxrsszy:primary"
+msgid "pxrsszy"
+msgstr "pxrsszy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:pxtakart:primary"
+msgid "pxtakart"
+msgstr "Pxtakart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:pxton:primary"
+msgid "pxton"
+msgstr "PXTON"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pxunii:primary"
+msgid "pxunii"
+msgstr "Pxunii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxv9999:primary"
+msgid "pxv9999"
+msgstr "pxv9999"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pxversp:primary"
+msgid "pxversp"
+msgstr "PXVersP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:pxvx:primary"
+msgid "pxvx"
+msgstr "PXVX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxvxpoo:primary"
+msgid "pxvxpoo"
+msgstr "pxvxpoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxxdy:primary"
+msgid "pxxdy"
+msgstr "Pxxdy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxxxx:primary"
+msgid "pxxxx"
+msgstr "pxxxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pxyieart:primary"
+msgid "pxyieart"
+msgstr "pxyieart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pxyucheng:primary"
+msgid "pxyucheng"
+msgstr "pxyucheng"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:pxz_(ansony9898):primary"
+msgid "pxz_(ansony9898)"
+msgstr "PXZ"

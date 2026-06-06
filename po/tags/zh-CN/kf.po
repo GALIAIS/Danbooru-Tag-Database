@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:30+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:30+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:kf:primary"
+msgid "kf"
+msgstr "kf"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 8
+#. aliases: KF-21
+msgctxt "tag:kf-21_boramae:primary"
+msgid "kf-21_boramae"
+msgstr "KF-21 Boramae"
+
+#. alias-of: kf-21_boramae
+#. source: ai
+msgctxt "tag:kf-21_boramae:alias:1"
+msgid "kf-21_boramae"
+msgstr "KF-21"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kf-21_boramae_(flight_highschool):primary"
+msgid "kf-21_boramae_(flight_highschool)"
+msgstr "KF-21 Boramae（飞行高中）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kf-d_(877456):primary"
+msgid "kf-d_(877456)"
+msgstr "kf-d"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:kf2impossible:primary"
+msgid "kf2impossible"
+msgstr "kf2impossible"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:kf8fw:primary"
+msgid "kf8fw"
+msgstr "kf8fw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:kf_19960116:primary"
+msgid "kf_19960116"
+msgstr "KF 19960116"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kf_nkm:primary"
+msgid "kf_nkm"
+msgstr "kf_nkm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:kface:primary"
+msgid "kface"
+msgstr "kface"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfatatat:primary"
+msgid "kfatatat"
+msgstr "kfatatat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kfb-r:primary"
+msgid "kfb-r"
+msgstr "KFB-R"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 1151
+#. aliases: KFC
+msgctxt "tag:kfc:primary"
+msgid "kfc"
+msgstr "肯德基"
+
+#. alias-of: kfc
+#. source: ai
+msgctxt "tag:kfc:alias:1"
+msgid "kfc"
+msgstr "KFC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kfc01:primary"
+msgid "kfc01"
+msgstr "KFC01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfc_restaurant_spain:primary"
+msgid "kfc_restaurant_spain"
+msgstr "西班牙肯德基餐厅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfc_yuzussion:primary"
+msgid "kfc_yuzussion"
+msgstr "kfc_yuzussion"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:kfccrazythursday:primary"
+msgid "kfccrazythursday"
+msgstr "肯德基疯狂星期四"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:kfcloud:primary"
+msgid "kfcloud"
+msgstr "KFCloud"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfcxp:primary"
+msgid "kfcxp"
+msgstr "kfcxp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfe8i:primary"
+msgid "kfe8i"
+msgstr "Kfe8i"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfel:primary"
+msgid "kfel"
+msgstr "kfel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kffk3356:primary"
+msgid "kffk3356"
+msgstr "kffk3356"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kfg_(rnzv3352):primary"
+msgid "kfg_(rnzv3352)"
+msgstr "KFG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:kfhhen:primary"
+msgid "kfhhen"
+msgstr "kfhhen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:kfic8k2eg44666:primary"
+msgid "kfic8k2eg44666"
+msgstr "kfic8k2eg44666"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfish:primary"
+msgid "kfish"
+msgstr "kfish"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfishing225a:primary"
+msgid "kfishing225a"
+msgstr "kfishing225a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfk82kfk:primary"
+msgid "kfk82kfk"
+msgstr "kfk82kfk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kfka:primary"
+msgid "kfka"
+msgstr "kfka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:kfkgot7ig2r5265:primary"
+msgid "kfkgot7ig2r5265"
+msgstr "kfkgot7ig2r5265"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kflabj:primary"
+msgid "kflabj"
+msgstr "kflabj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:kflamingo:primary"
+msgid "kflamingo"
+msgstr "kflamingo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:kflowerstorm:primary"
+msgid "kflowerstorm"
+msgstr "Kflowerstorm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kflryrxmb1pycoe:primary"
+msgid "kflryrxmb1pycoe"
+msgstr "kflryrxmb1pycoe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:kfnt:primary"
+msgid "kfnt"
+msgstr "Kfnt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kfour:primary"
+msgid "kfour"
+msgstr "Kfour"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 310
+#. aliases: KFC
+msgctxt "tag:kfp:primary"
+msgid "kfp"
+msgstr "肯德基"
+
+#. alias-of: kfp
+#. source: ai
+msgctxt "tag:kfp:alias:1"
+msgid "kfp"
+msgstr "KFC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 480
+#. aliases: KFPKiara
+msgctxt "tag:kfp_employee_(takanashi_kiara):primary"
+msgid "kfp_employee_(takanashi_kiara)"
+msgstr "Kiara KFP员工"
+
+#. alias-of: kfp_employee_(takanashi_kiara)
+#. source: ai
+msgctxt "tag:kfp_employee_(takanashi_kiara):alias:1"
+msgid "kfp_employee_(takanashi_kiara)"
+msgstr "KFPKiara"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1033
+#. aliases: 动物化
+msgctxt "tag:kfr:primary"
+msgid "kfr"
+msgstr "兽化"
+
+#. alias-of: kfr
+#. source: ai
+msgctxt "tag:kfr:alias:1"
+msgid "kfr"
+msgstr "动物化"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:kfr2_2:primary"
+msgid "kfr2_2"
+msgstr "KFR2-2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:kfre_(gehm8472):primary"
+msgid "kfre_(gehm8472)"
+msgstr "kfre"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfrnkm:primary"
+msgid "kfrnkm"
+msgstr "Kfrnkm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kfrostjh:primary"
+msgid "kfrostjh"
+msgstr "Kfrostjh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfrwena6:primary"
+msgid "kfrwena6"
+msgstr "kfrwena6"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+#. aliases: 小腿袜
+msgctxt "tag:kfsocks:primary"
+msgid "kfsocks"
+msgstr "kfsocks"
+
+#. alias-of: kfsocks
+#. source: ai
+msgctxt "tag:kfsocks:alias:1"
+msgid "kfsocks"
+msgstr "小腿袜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfxnzauzht21472:primary"
+msgid "kfxnzauzht21472"
+msgstr "kfxnzauzht21472"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kfyns:primary"
+msgid "kfyns"
+msgstr "kfyns"

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 20
+msgctxt "tag:3x:primary"
+msgid "3x"
+msgstr "3x"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:3x3_(sazan):primary"
+msgid "3x3_(sazan)"
+msgstr "3x3（sazan）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3x3_448:primary"
+msgid "3x3_448"
+msgstr "3x3_448"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 80
+msgctxt "tag:3x3_eyes:primary"
+msgid "3x3_eyes"
+msgstr "3×3只眼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:3x3oh:primary"
+msgid "3x3oh"
+msgstr "3x3oh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3x3threexthree:primary"
+msgid "3x3threexthree"
+msgstr "3x3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3x7_(user_ywhd7735):primary"
+msgid "3x7_(user_ywhd7735)"
+msgstr "3x7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3x_(sam3x39):primary"
+msgid "3x_(sam3x39)"
+msgstr "3x"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:3x_ice_cream:primary"
+msgid "3x_ice_cream"
+msgstr "3x_ice_cream"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3xamo:primary"
+msgid "3xamo"
+msgstr "3xamo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:3xens:primary"
+msgid "3xens"
+msgstr "3Xens"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3xhollow:primary"
+msgid "3xhollow"
+msgstr "3xhollow"

@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:49+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:49+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:xg-70b_susanoo_ii:primary"
+msgid "xg-70b_susanoo_ii"
+msgstr "XG-70B SUSANOO II"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:xg-70d_susanoo_iv:primary"
+msgid "xg-70d_susanoo_iv"
+msgstr "天照"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xg0609:primary"
+msgid "xg0609"
+msgstr "xg0609"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xg73397:primary"
+msgid "xg73397"
+msgstr "XG73"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:xg7nn:primary"
+msgid "xg7nn"
+msgstr "xg7nn"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:xg_(group):primary"
+msgid "xg_(group)"
+msgstr "XG（组合）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 96
+#. aliases: xg击剑
+msgctxt "tag:xg_epee:primary"
+msgid "xg_epee"
+msgstr "xg_epee"
+
+#. alias-of: xg_epee
+#. source: ai
+msgctxt "tag:xg_epee:alias:1"
+msgid "xg_epee"
+msgstr "xg击剑"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xgamma:primary"
+msgid "xgamma"
+msgstr "Xgamma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:xgao:primary"
+msgid "xgao"
+msgstr "高"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xgasd:primary"
+msgid "xgasd"
+msgstr "XGASD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:xgbghost:primary"
+msgid "xgbghost"
+msgstr "XGBGhost"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xgcanyue:primary"
+msgid "xgcanyue"
+msgstr "xgcanyue"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:xgeats_victory:primary"
+msgid "xgeats_victory"
+msgstr "《XGeats Victory》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:xgg:primary"
+msgid "xgg"
+msgstr "xgg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:xginrw:primary"
+msgid "xginrw"
+msgstr "xginrw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xginson:primary"
+msgid "xginson"
+msgstr "xginson"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xglx_noob:primary"
+msgid "xglx_noob"
+msgstr "xglx_noob"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xgravityrosex:primary"
+msgid "xgravityrosex"
+msgstr "X重力玫瑰X"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xgreenkyun:primary"
+msgid "xgreenkyun"
+msgstr "xgreenkyun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:xgshjsgha:primary"
+msgid "xgshjsgha"
+msgstr "Xgshjsgha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xguk3823:primary"
+msgid "xguk3823"
+msgstr "xguk3823"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:xgyexgy:primary"
+msgid "xgyexgy"
+msgstr "xgyexgy"

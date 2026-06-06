@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:49+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:49+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.gender_presentation
+#. safety: sfw
+#. post-count: 10732
+#. aliases: 女装
+msgctxt "tag:xd:primary"
+msgid "xd"
+msgstr "异装"
+
+#. alias-of: xd
+#. source: ai
+msgctxt "tag:xd:alias:1"
+msgid "xd"
+msgstr "女装"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:xd.highsmith:primary"
+msgid "xd.highsmith"
+msgstr "XD Highsmith"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xd2vi:primary"
+msgid "xd2vi"
+msgstr "xd2vi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xd_(daisuke2008):primary"
+msgid "xd_(daisuke2008)"
+msgstr "XD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xd_(onion_g):primary"
+msgid "xd_(onion_g)"
+msgstr "XD（onion_g）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xd_(steam1103):primary"
+msgid "xd_(steam1103)"
+msgstr "xd_(steam1103)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xd_(xukeer0525):primary"
+msgid "xd_(xukeer0525)"
+msgstr "Xukeer0525"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xd_216:primary"
+msgid "xd_216"
+msgstr "xd_216"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xd_ar1031:primary"
+msgid "xd_ar1031"
+msgstr "xd_ar1031"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:xd_aznad:primary"
+msgid "xd_aznad"
+msgstr "XD·阿兹纳德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xd_li:primary"
+msgid "xd_li"
+msgstr "XD李"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:xd_xiugou:primary"
+msgid "xd_xiugou"
+msgstr "XD修勾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:xdaemonyamu:primary"
+msgid "xdaemonyamu"
+msgstr "xdaemonyamu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:xdakn:primary"
+msgid "xdakn"
+msgstr "XDakN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdange_ruo3:primary"
+msgid "xdange_ruo3"
+msgstr "xdange_ruo3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdangerjazzx:primary"
+msgid "xdangerjazzx"
+msgstr "xdangerjazzx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdarkspace:primary"
+msgid "xdarkspace"
+msgstr "Xdarkspace"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdartwork:primary"
+msgid "xdartwork"
+msgstr "xdartwork"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:xday_(ensemble_stars!):primary"
+msgid "xday_(ensemble_stars!)"
+msgstr "X Day"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:xdaze:primary"
+msgid "xdaze"
+msgstr "Xdaze"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:xdcstc:primary"
+msgid "xdcstc"
+msgstr "xdcstc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xddd_point:primary"
+msgid "xddd_point"
+msgstr "笑点"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xddlighting:primary"
+msgid "xddlighting"
+msgstr "xddlighting"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:xddmlgb:primary"
+msgid "xddmlgb"
+msgstr "XDDMLGB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:xdeaddragonx98:primary"
+msgid "xdeaddragonx98"
+msgstr "xDEADDragonx98"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xdeadkiv:primary"
+msgid "xdeadkiv"
+msgstr "xdeadkiv"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdefiant:primary"
+msgid "xdefiant"
+msgstr "XDefiant"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdesily:primary"
+msgid "xdesily"
+msgstr "德西莉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xdg-01exe:primary"
+msgid "xdg-01exe"
+msgstr "XDG-01EXE"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xdi89jh2eqht4q0:primary"
+msgid "xdi89jh2eqht4q0"
+msgstr "xdi89jh2eqht4q0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 62
+msgctxt "tag:xdies_ds:primary"
+msgid "xdies_ds"
+msgstr "XDIES DS"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 1
+#. aliases: Xdinary英雄
+msgctxt "tag:xdinary_heroes:primary"
+msgid "xdinary_heroes"
+msgstr "Xdinary Heroes"
+
+#. alias-of: xdinary_heroes
+#. source: ai
+msgctxt "tag:xdinary_heroes:alias:1"
+msgid "xdinary_heroes"
+msgstr "Xdinary英雄"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xditop:primary"
+msgid "xditop"
+msgstr "XDItop"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 83
+msgctxt "tag:xdjf63qbpt0iqmj:primary"
+msgid "xdjf63qbpt0iqmj"
+msgstr "xdjf63qbpt0iqmj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:xdl:primary"
+msgid "xdl"
+msgstr "XDL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdlloy:primary"
+msgid "xdlloy"
+msgstr "xdlloy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:xdlloyd091x:primary"
+msgid "xdlloyd091x"
+msgstr "xdlloyd091x"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdmn4548:primary"
+msgid "xdmn4548"
+msgstr "xdmn4548"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdnakoxd:primary"
+msgid "xdnakoxd"
+msgstr "xdnakoxd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdog_o_batapaia:primary"
+msgid "xdog_o_batapaia"
+msgstr "Xdog O Batapaia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xdomikami:primary"
+msgid "xdomikami"
+msgstr "多米卡米"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdonjulio1009:primary"
+msgid "xdonjulio1009"
+msgstr "xdonjulio1009"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 101
+msgctxt "tag:xdoxa89:primary"
+msgid "xdoxa89"
+msgstr "xdoxa89"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:xdqingai:primary"
+msgid "xdqingai"
+msgstr "xdqingai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdragend:primary"
+msgid "xdragend"
+msgstr "xdragend"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:xdraws:primary"
+msgid "xdraws"
+msgstr "xdraws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:xdsama:primary"
+msgid "xdsama"
+msgstr "xdsama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xdvf5582:primary"
+msgid "xdvf5582"
+msgstr "xdvf5582"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:xdxday365:primary"
+msgid "xdxday365"
+msgstr "xdxday365"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:xdxdtanakaxdxd:primary"
+msgid "xdxdtanakaxdxd"
+msgstr "田中"

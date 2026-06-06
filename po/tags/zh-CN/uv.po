@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:47+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:47+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uv4300:primary"
+msgid "uv4300"
+msgstr "UV4300"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uv62010705:primary"
+msgid "uv62010705"
+msgstr "Uv62010705"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:uva:primary"
+msgid "uva"
+msgstr "Uva"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uva_(terupancake):primary"
+msgid "uva_(terupancake)"
+msgstr "乌瓦（terupancake）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uva_(uvaava):primary"
+msgid "uva_(uvaava)"
+msgstr "uva"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 151
+#. aliases: 学院徽章
+msgctxt "tag:uva_academy_(emblem):primary"
+msgid "uva_academy_(emblem)"
+msgstr "UVA学院徽章"
+
+#. alias-of: uva_academy_(emblem)
+#. source: ai
+msgctxt "tag:uva_academy_(emblem):alias:1"
+msgid "uva_academy_(emblem)"
+msgstr "学院徽章"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 2018
+msgctxt "tag:uva_academy_school_uniform:primary"
+msgid "uva_academy_school_uniform"
+msgstr "Uva学院制服"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.outdoor_nature
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uvac_river_canyon:primary"
+msgid "uvac_river_canyon"
+msgstr "UVAC河峡谷"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.event.threat_failure_or_death
+#. safety: mixed
+#. post-count: 1
+msgctxt "tag:uvalde_school_shooting:primary"
+msgid "uvalde_school_shooting"
+msgstr "尤瓦尔迪校园枪击案"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:uvall_(megido72):primary"
+msgid "uvall_(megido72)"
+msgstr "乌瓦尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uvam8248:primary"
+msgid "uvam8248"
+msgstr "uvam8248"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:uvao-tan:primary"
+msgid "uvao-tan"
+msgstr "uvao娘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uvbwsodrgridopi:primary"
+msgid "uvbwsodrgridopi"
+msgstr "UVBWSODRGRIDOPI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 162
+msgctxt "tag:uve:primary"
+msgid "uve"
+msgstr "uve"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uver32:primary"
+msgid "uver32"
+msgstr "uver32"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uverdreams:primary"
+msgid "uverdreams"
+msgstr "Uverdreams"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uvermint:primary"
+msgid "uvermint"
+msgstr "uvermint"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uverover:primary"
+msgid "uverover"
+msgstr "Uverover"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Uvetta
+msgctxt "tag:uvetta_(mosagi):primary"
+msgid "uvetta_(mosagi)"
+msgstr "乌维塔"
+
+#. alias-of: uvetta_(mosagi)
+#. source: ai
+msgctxt "tag:uvetta_(mosagi):alias:1"
+msgid "uvetta_(mosagi)"
+msgstr "Uvetta"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uvhash_(morimens):primary"
+msgid "uvhash_(morimens)"
+msgstr "UV哈希"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uvic_(pixiv_fantasia_age_of_starlight):primary"
+msgid "uvic_(pixiv_fantasia_age_of_starlight)"
+msgstr "尤维克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uviski:primary"
+msgid "uviski"
+msgstr "Uviski"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uvitamint:primary"
+msgid "uvitamint"
+msgstr "uvitamint"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uvj9x2:primary"
+msgid "uvj9x2"
+msgstr "uvj9x2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uvjt3772:primary"
+msgid "uvjt3772"
+msgstr "uvjt3772"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uvlo_gahjewesfv:primary"
+msgid "uvlo_gahjewesfv"
+msgstr "乌夫洛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:uvnono:primary"
+msgid "uvnono"
+msgstr "uvnono"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uvo_s2:primary"
+msgid "uvo_s2"
+msgstr "UVO第二季"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 95
+msgctxt "tag:uvogin:primary"
+msgid "uvogin"
+msgstr "uvogin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uvol_3:primary"
+msgid "uvol_3"
+msgstr "uvol_3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uvopi:primary"
+msgid "uvopi"
+msgstr "uvopi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uvph3438:primary"
+msgid "uvph3438"
+msgstr "uvph3438"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uvu-11:primary"
+msgid "uvu-11"
+msgstr "uvu-11"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uvu1119:primary"
+msgid "uvu1119"
+msgstr "uvu1119"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uvu_00:primary"
+msgid "uvu_00"
+msgstr "UVU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uvu_ghost:primary"
+msgid "uvu_ghost"
+msgstr "UVU幽灵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 2168
+#. aliases: 悬雍垂
+msgctxt "tag:uvula:primary"
+msgid "uvula"
+msgstr "小舌头"
+
+#. alias-of: uvula
+#. source: ai
+msgctxt "tag:uvula:alias:1"
+msgid "uvula"
+msgstr "悬雍垂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uvuowo:primary"
+msgid "uvuowo"
+msgstr "Uvuowo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uvuv2u:primary"
+msgid "uvuv2u"
+msgstr "Uvuv2u"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uvuvus:primary"
+msgid "uvuvus"
+msgstr "乌乌"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:uvwo4:primary"
+msgid "uvwo4"
+msgstr "uvwo4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uvxf4w8x8pokn13:primary"
+msgid "uvxf4w8x8pokn13"
+msgstr "uvxf4w8x8pokn13"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uvy05:primary"
+msgid "uvy05"
+msgstr "uvy05"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uvyuopcqd1dmd4e:primary"
+msgid "uvyuopcqd1dmd4e"
+msgstr "UVYUOPCQD1DMD4E"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:uvz:primary"
+msgid "uvz"
+msgstr "uvz"

@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:5k_hanasaki:primary"
+msgid "5k_hanasaki"
+msgstr "5K花崎"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 2
+msgctxt "tag:5kai_bishoujo_kaden_uriba_de_gozaimasu:primary"
+msgid "5kai_bishoujo_kaden_uriba_de_gozaimasu"
+msgstr "五阶美少女家电卖场在此"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:5kakuten:primary"
+msgid "5kakuten"
+msgstr "5kakuten"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 98
+msgctxt "tag:5kawa8gi:primary"
+msgid "5kawa8gi"
+msgstr "5kawa8gi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:5kiro_karoli:primary"
+msgid "5kiro_karoli"
+msgstr "五式卡罗莉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.layout.paneling
+#. safety: sfw
+#. post-count: 4512
+#. aliases: 五格
+msgctxt "tag:5koma:primary"
+msgid "5koma"
+msgstr "五格漫画"
+
+#. alias-of: 5koma
+#. source: ai
+msgctxt "tag:5koma:alias:1"
+msgid "5koma"
+msgstr "五格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:5kpgte:primary"
+msgid "5kpgte"
+msgstr "5kpgte"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:5kritwlzec903td:primary"
+msgid "5kritwlzec903td"
+msgstr "5kritwlzec903td"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:5ku_futsuu:primary"
+msgid "5ku_futsuu"
+msgstr "5Ku普通"

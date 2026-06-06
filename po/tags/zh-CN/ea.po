@@ -1,0 +1,6239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:23+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:23+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ea-18g_growler:primary"
+msgid "ea-18g_growler"
+msgstr "EA-18G咆哮者电子战机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ea-6_prowler:primary"
+msgid "ea-6_prowler"
+msgstr "EA-6徘徊者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea-nasir:primary"
+msgid "ea-nasir"
+msgstr "Ea-Nasir"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ea08zheci:primary"
+msgid "ea08zheci"
+msgstr "EA08哲辞"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea32m:primary"
+msgid "ea32m"
+msgstr "ea32m"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea82_nikita:primary"
+msgid "ea82_nikita"
+msgstr "ea82_nikita"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea_(1069776573):primary"
+msgid "ea_(1069776573)"
+msgstr "EA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea_(airmoonlight):primary"
+msgid "ea_(airmoonlight)"
+msgstr "EA"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 390
+#. aliases: Ea
+msgctxt "tag:ea_(fate):primary"
+msgid "ea_(fate)"
+msgstr "艾亚"
+
+#. alias-of: ea_(fate)
+#. source: ai
+msgctxt "tag:ea_(fate):alias:1"
+msgid "ea_(fate)"
+msgstr "Ea"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: FF14亚
+msgctxt "tag:ea_(ff14):primary"
+msgid "ea_(ff14)"
+msgstr "亚（FF14）"
+
+#. alias-of: ea_(ff14)
+#. source: ai
+msgctxt "tag:ea_(ff14):alias:1"
+msgid "ea_(ff14)"
+msgstr "FF14亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ea_(khaemouaset):primary"
+msgid "ea_(khaemouaset)"
+msgstr "ea（khaemouaset）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ea_(parallel_worlds):primary"
+msgid "ea_(parallel_worlds)"
+msgstr "EA（parallel_worlds）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea_(rqf9bkkspvlifdr):primary"
+msgid "ea_(rqf9bkkspvlifdr)"
+msgstr "EA"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ea_(shinki_musume):primary"
+msgid "ea_(shinki_musume)"
+msgstr "EA"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ea_(z/x):primary"
+msgid "ea_(z/x)"
+msgstr "EA (Z/X)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea_2re:primary"
+msgid "ea_2re"
+msgstr "EA_2RE"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea_3h:primary"
+msgid "ea_3h"
+msgstr "ea_3h"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea_air:primary"
+msgid "ea_air"
+msgstr "EA Air"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ea_ashdod:primary"
+msgid "ea_ashdod"
+msgstr "EA Ashdod"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:ea_ateu:primary"
+msgid "ea_ateu"
+msgstr "EA Ateu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea_devilbaby:primary"
+msgid "ea_devilbaby"
+msgstr "ea_devilbaby"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ea_exe0:primary"
+msgid "ea_exe0"
+msgstr "EA_EXE0"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea_mictlan:primary"
+msgid "ea_mictlan"
+msgstr "EA Mictlan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ea_xibalba:primary"
+msgid "ea_xibalba"
+msgstr "希巴拉巴"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaa-miku:primary"
+msgid "eaa-miku"
+msgstr "初音未来"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaaz:primary"
+msgid "eaaz"
+msgstr "EAaz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eabakku:primary"
+msgid "eabakku"
+msgstr "eabakku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eabeeee:primary"
+msgid "eabeeee"
+msgstr "Eabeeee"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eabha:primary"
+msgid "eabha"
+msgstr "Eabha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:eabiasan:primary"
+msgid "eabiasan"
+msgstr "Eabiasan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:eabo19tw:primary"
+msgid "eabo19tw"
+msgstr "eabo19tw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eaccount:primary"
+msgid "eaccount"
+msgstr "电子账户"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eache:primary"
+msgid "eache"
+msgstr "eache"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eachtar_(shadowverse):primary"
+msgid "eachtar_(shadowverse)"
+msgstr "希特拉（影之诗）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eacii:primary"
+msgid "eacii"
+msgstr "EACII"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eades_(mugen):primary"
+msgid "eades_(mugen)"
+msgstr "伊兹（Mugen）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:eadgear:primary"
+msgid "eadgear"
+msgstr "伊德盖尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eadie_(roland_roland):primary"
+msgid "eadie_(roland_roland)"
+msgstr "Eadie"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eadmund_armstrong:primary"
+msgid "eadmund_armstrong"
+msgstr "Eadmund Armstrong"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:eadu:primary"
+msgid "eadu"
+msgstr "Eadu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eae40:primary"
+msgid "eae40"
+msgstr "EAE40"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaffe:primary"
+msgid "eaffe"
+msgstr "eaffe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eafrns:primary"
+msgid "eafrns"
+msgstr "eafrns"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagail:primary"
+msgid "eagail"
+msgstr "Eagail"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.emotion.affection_or_desire
+#. safety: mixed
+#. post-count: 15
+#. aliases: 热切
+msgctxt "tag:eager:primary"
+msgid "eager"
+msgstr "渴望"
+
+#. alias-of: eager
+#. source: ai
+msgctxt "tag:eager:alias:1"
+msgid "eager"
+msgstr "热切"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:eager-chan_(ekz):primary"
+msgid "eager-chan_(ekz)"
+msgstr "Eager酱"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eager_believer_(vocaloid):primary"
+msgid "eager_believer_(vocaloid)"
+msgstr "热心信者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eagerfiend:primary"
+msgid "eagerfiend"
+msgstr "EagerFiend"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eagiel_ts:primary"
+msgid "eagiel_ts"
+msgstr "Eagiel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagl:primary"
+msgid "eagl"
+msgstr "Eagl"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaglacid:primary"
+msgid "eaglacid"
+msgstr "Eaglacid"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 2520
+#. aliases: 老鹰
+msgctxt "tag:eagle:primary"
+msgid "eagle"
+msgstr "鹰"
+
+#. alias-of: eagle
+#. source: ai
+msgctxt "tag:eagle:alias:1"
+msgid "eagle"
+msgstr "老鹰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle-eyed_ash:primary"
+msgid "eagle-eyed_ash"
+msgstr "鹰眼艾什"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:eagle-owl_(gegegekman):primary"
+msgid "eagle-owl_(gegegekman)"
+msgstr "雕鸮（gegegekman）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle-t-village:primary"
+msgid "eagle-t-village"
+msgstr "eagle-t-village"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:eagle41:primary"
+msgid "eagle41"
+msgstr "Eagle41"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eagle666:primary"
+msgid "eagle666"
+msgstr "eagle666"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle97jjk:primary"
+msgid "eagle97jjk"
+msgstr "Eagle97jjk"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 鹰 (高级战争)
+msgctxt "tag:eagle_(advance_wars):primary"
+msgid "eagle_(advance_wars)"
+msgstr "伊格尔"
+
+#. alias-of: eagle_(advance_wars)
+#. source: ai
+msgctxt "tag:eagle_(advance_wars):alias:1"
+msgid "eagle_(advance_wars)"
+msgstr "鹰 (高级战争)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:eagle_(azur_lane):primary"
+msgid "eagle_(azur_lane)"
+msgstr "大黄蜂（碧蓝航线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:eagle_(bkub):primary"
+msgid "eagle_(bkub)"
+msgstr "鹰（BKUB）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+#. aliases: 鹰
+msgctxt "tag:eagle_(eagle's_clinic)_(azur_lane):primary"
+msgid "eagle_(eagle's_clinic)_(azur_lane)"
+msgstr "Eagle"
+
+#. alias-of: eagle_(eagle's_clinic)_(azur_lane)
+#. source: ai
+msgctxt "tag:eagle_(eagle's_clinic)_(azur_lane):alias:1"
+msgid "eagle_(eagle's_clinic)_(azur_lane)"
+msgstr "鹰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_(eargle):primary"
+msgid "eagle_(eargle)"
+msgstr "eagle（eargle）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_(fu'un):primary"
+msgid "eagle_(fu'un)"
+msgstr "鹰（风云）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:eagle_(girly_air_force):primary"
+msgid "eagle_(girly_air_force)"
+msgstr "鹰（少女空中力量）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_(godiva_ghoul):primary"
+msgid "eagle_(godiva_ghoul)"
+msgstr "Eagle（Godiva Ghoul）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:eagle_(helldivers):primary"
+msgid "eagle_(helldivers)"
+msgstr "鹰式攻击机(地狱潜兵)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eagle_(maou-sama_retry!):primary"
+msgid "eagle_(maou-sama_retry!)"
+msgstr "Eagle"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:eagle_(pixiv8177028):primary"
+msgid "eagle_(pixiv8177028)"
+msgstr "伊格尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 157
+msgctxt "tag:eagle_(reverse:1999):primary"
+msgid "eagle_(reverse:1999)"
+msgstr "伊格尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 圣剑传说3
+msgctxt "tag:eagle_(seiken_densetsu_3):primary"
+msgid "eagle_(seiken_densetsu_3)"
+msgstr "鹰（圣剑传说3）"
+
+#. alias-of: eagle_(seiken_densetsu_3)
+#. source: ai
+msgctxt "tag:eagle_(seiken_densetsu_3):alias:1"
+msgid "eagle_(seiken_densetsu_3)"
+msgstr "圣剑传说3"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:eagle_(spacecraft):primary"
+msgid "eagle_(spacecraft)"
+msgstr "鹰号飞船"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eagle_(star_gladiator):primary"
+msgid "eagle_(star_gladiator)"
+msgstr "鹰（星之斗士）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:eagle_(street_fighter):primary"
+msgid "eagle_(street_fighter)"
+msgstr "鹰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:eagle_(the_other_path)_(reverse:1999):primary"
+msgid "eagle_(the_other_path)_(reverse:1999)"
+msgstr "鹰(另一条路)(逆转:1999)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:eagle_(the_sixth_sense)_(reverse:1999):primary"
+msgid "eagle_(the_sixth_sense)_(reverse:1999)"
+msgstr "鹰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_(vtuber):primary"
+msgid "eagle_(vtuber)"
+msgstr "Eagle"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:eagle_(weekend_excursion)_(reverse:1999):primary"
+msgid "eagle_(weekend_excursion)_(reverse:1999)"
+msgstr "鹰（周末郊游）（重返未来：1999）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:eagle_1_(helldivers):primary"
+msgid "eagle_1_(helldivers)"
+msgstr "老鹰1号"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: helldivers cosplay
+msgctxt "tag:eagle_1_(helldivers)_(cosplay):primary"
+msgid "eagle_1_(helldivers)_(cosplay)"
+msgstr "Eagle 1（绝地战兵）（角色扮演）"
+
+#. alias-of: eagle_1_(helldivers)_(cosplay)
+#. source: ai
+msgctxt "tag:eagle_1_(helldivers)_(cosplay):alias:1"
+msgid "eagle_1_(helldivers)_(cosplay)"
+msgstr "helldivers cosplay"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 29
+#. aliases: 500kg炸弹
+msgctxt "tag:eagle_500kg_bomb_stratagem_(helldivers):primary"
+msgid "eagle_500kg_bomb_stratagem_(helldivers)"
+msgstr "鹰式500kg炸弹"
+
+#. alias-of: eagle_500kg_bomb_stratagem_(helldivers)
+#. source: ai
+msgctxt "tag:eagle_500kg_bomb_stratagem_(helldivers):alias:1"
+msgid "eagle_500kg_bomb_stratagem_(helldivers)"
+msgstr "500kg炸弹"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_bacon_art:primary"
+msgid "eagle_bacon_art"
+msgstr "eagle_bacon_art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_bite:primary"
+msgid "eagle_bite"
+msgstr "eagle_bite"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.age_stage
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:eagle_boy:primary"
+msgid "eagle_boy"
+msgstr "鹰少年"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_brand:primary"
+msgid "eagle_brand"
+msgstr "Eagle Brand"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eagle_douglas:primary"
+msgid "eagle_douglas"
+msgstr "道格拉斯·伊格尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_eye_(transformers):primary"
+msgid "eagle_eye_(transformers)"
+msgstr "鹰眼（变形金刚）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 武士猫
+msgctxt "tag:eagle_feather_(warrior_cats):primary"
+msgid "eagle_feather_(warrior_cats)"
+msgstr "鹰羽（猫武士）"
+
+#. alias-of: eagle_feather_(warrior_cats)
+#. source: ai
+msgctxt "tag:eagle_feather_(warrior_cats):alias:1"
+msgid "eagle_feather_(warrior_cats)"
+msgstr "武士猫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eagle_fighter:primary"
+msgid "eagle_fighter"
+msgstr "鹰斗士"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.biological_specimen
+#. safety: mixed
+#. post-count: 4
+msgctxt "tag:eagle_genome:primary"
+msgid "eagle_genome"
+msgstr "鹰基因组"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.decor.ornament_or_decoration
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:eagle_head_(ornament):primary"
+msgid "eagle_head_(ornament)"
+msgstr "鹰头饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eagle_helmet:primary"
+msgid "eagle_helmet"
+msgstr "鹰盔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eagle_kagura:primary"
+msgid "eagle_kagura"
+msgstr "神鹰神乐"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eagle_neko:primary"
+msgid "eagle_neko"
+msgstr "Eagle Neko"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eagle_osaka_(bar):primary"
+msgid "eagle_osaka_(bar)"
+msgstr "Eagle Osaka（酒吧）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_riser:primary"
+msgid "eagle_riser"
+msgstr "鹰翼机甲"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_sam:primary"
+msgid "eagle_sam"
+msgstr "Eagle Sam"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 帝国时代2鹰斥候
+msgctxt "tag:eagle_scout_(age_of_empires_ii):primary"
+msgid "eagle_scout_(age_of_empires_ii)"
+msgstr "鹰斥候（帝国时代 II）"
+
+#. alias-of: eagle_scout_(age_of_empires_ii)
+#. source: ai
+msgctxt "tag:eagle_scout_(age_of_empires_ii):alias:1"
+msgid "eagle_scout_(age_of_empires_ii)"
+msgstr "帝国时代2鹰斥候"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_shadow_ranger:primary"
+msgid "eagle_shadow_ranger"
+msgstr "鹰暗影游侠"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 285
+msgctxt "tag:eagle_spirit_(touhou):primary"
+msgid "eagle_spirit_(touhou)"
+msgstr "鹰灵（东方）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:eagle_talon:primary"
+msgid "eagle_talon"
+msgstr "鹰爪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eagle_talon_(car):primary"
+msgid "eagle_talon_(car)"
+msgstr "Eagle Talon（汽车）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.skin.skin_marking
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eagle_tattoo:primary"
+msgid "eagle_tattoo"
+msgstr "鹰纹身"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eagle_tomcat:primary"
+msgid "eagle_tomcat"
+msgstr "Eagle Tomcat"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_undead:primary"
+msgid "eagle_undead"
+msgstr "秃鹰亡灵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 541
+#. aliases: 鹰之联合徽章
+msgctxt "tag:eagle_union_(emblem):primary"
+msgid "eagle_union_(emblem)"
+msgstr "鹰联徽章"
+
+#. alias-of: eagle_union_(emblem)
+#. source: ai
+msgctxt "tag:eagle_union_(emblem):alias:1"
+msgid "eagle_union_(emblem)"
+msgstr "鹰之联合徽章"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_unit:primary"
+msgid "eagle_unit"
+msgstr "鹰部队"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:eagle_vision:primary"
+msgid "eagle_vision"
+msgstr "鹰眼视觉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eagle_warrior:primary"
+msgid "eagle_warrior"
+msgstr "鹰战士"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_white:primary"
+msgid "eagle_white"
+msgstr "eagle_white"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eagle_won:primary"
+msgid "eagle_won"
+msgstr "Eagle Won"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagle_xiaogou_quan_kending:primary"
+msgid "eagle_xiaogou_quan_kending"
+msgstr "eagle_xiaogou_quan_kending"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eagleacee:primary"
+msgid "eagleacee"
+msgstr "Eagleacee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaglebird:primary"
+msgid "eaglebird"
+msgstr "Eaglebird"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eagledl:primary"
+msgid "eagledl"
+msgstr "鹰DL"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eagleeye:primary"
+msgid "eagleeye"
+msgstr "鹰眼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaglekop:primary"
+msgid "eaglekop"
+msgstr "Eaglekop"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eagleproduction:primary"
+msgid "eagleproduction"
+msgstr "EagleProduction"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaglericefield:primary"
+msgid "eaglericefield"
+msgstr "eaglericefield"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eagleshadow:primary"
+msgid "eagleshadow"
+msgstr "鹰影"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eaglesk:primary"
+msgid "eaglesk"
+msgstr "EagleSK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 90
+msgctxt "tag:eaglov:primary"
+msgid "eaglov"
+msgstr "Eaglov"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:eagret:primary"
+msgid "eagret"
+msgstr "白鹭"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eagun_(pokemon):primary"
+msgid "eagun_(pokemon)"
+msgstr "伊贡（宝可梦）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eah3eah3:primary"
+msgid "eah3eah3"
+msgstr "EAH3EAH3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:eahi:primary"
+msgid "eahi"
+msgstr "EAHI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eahmtliy5o71drs:primary"
+msgid "eahmtliy5o71drs"
+msgstr "eahmtliy5o71drs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:eahsu1994:primary"
+msgid "eahsu1994"
+msgstr "eahsu1994"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:eahta_(granblue_fantasy):primary"
+msgid "eahta_(granblue_fantasy)"
+msgstr "伊塔 (GBF)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eahy_yuki:primary"
+msgid "eahy_yuki"
+msgstr "eahy_yuki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eaissilyysack:primary"
+msgid "eaissilyysack"
+msgstr "eaissilyysack"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eajlady:primary"
+msgid "eajlady"
+msgstr "EAJLady"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:eakanasu:primary"
+msgid "eakanasu"
+msgstr "伊卡纳斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eakburger:primary"
+msgid "eakburger"
+msgstr "eakburger"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaklumi:primary"
+msgid "eaklumi"
+msgstr "eaklumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eako_(motiko1114):primary"
+msgid "eako_(motiko1114)"
+msgstr "eako（motiko1114）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:eakon_7bit:primary"
+msgid "eakon_7bit"
+msgstr "Eakon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eakyplanet:primary"
+msgid "eakyplanet"
+msgstr "Eakyplanet"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:eald'narche:primary"
+msgid "eald'narche"
+msgstr "艾尔德纳奇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ealin:primary"
+msgid "ealin"
+msgstr "Ealin"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eallie_mitter:primary"
+msgid "eallie_mitter"
+msgstr "Eallie Mitter"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ealun_zatta:primary"
+msgid "ealun_zatta"
+msgstr "Ealun Zatta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ealya_art:primary"
+msgid "ealya_art"
+msgstr "ealya_art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eamek3:primary"
+msgid "eamek3"
+msgstr "Eamek3"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:eames:primary"
+msgid "eames"
+msgstr "伊姆斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.furniture
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:eames_chair:primary"
+msgid "eames_chair"
+msgstr "伊姆斯椅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eamier:primary"
+msgid "eamier"
+msgstr "Eamier"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eamund:primary"
+msgid "eamund"
+msgstr "eamund"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:eamut1:primary"
+msgid "eamut1"
+msgstr "Eamut1"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:eana_komet:primary"
+msgid "eana_komet"
+msgstr "Eana Komet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:eananaia:primary"
+msgid "eananaia"
+msgstr "Eananaia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eania_s:primary"
+msgid "eania_s"
+msgstr "eania_s"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eanji0704:primary"
+msgid "eanji0704"
+msgstr "eanji0704"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eano_lin:primary"
+msgid "eano_lin"
+msgstr "Eano Lin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eanrehc:primary"
+msgid "eanrehc"
+msgstr "eanrehc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eansi:primary"
+msgid "eansi"
+msgstr "Eansi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eaoo20:primary"
+msgid "eaoo20"
+msgstr "EAOO20"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eap444:primary"
+msgid "eap444"
+msgstr "eap444"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.expression.facial_expression
+#. safety: sfw
+#. post-count: 50
+#. aliases: 露齿笑
+msgctxt "tag:ear-to-ear:primary"
+msgid "ear-to-ear"
+msgstr "咧嘴笑"
+
+#. alias-of: ear-to-ear
+#. source: ai
+msgctxt "tag:ear-to-ear:alias:1"
+msgid "ear-to-ear"
+msgstr "露齿笑"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ear_(age_of_ishtaria):primary"
+msgid "ear_(age_of_ishtaria)"
+msgstr "耳（伊什塔利亚之年）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:ear_armor:primary"
+msgid "ear_armor"
+msgstr "耳甲"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.waist_belt_sash
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ear_belt:primary"
+msgid "ear_belt"
+msgstr "耳带"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.skin.skin_marking
+#. safety: sfw
+#. post-count: 1240
+#. aliases: 耳朵胎记
+msgctxt "tag:ear_birthmark:primary"
+msgid "ear_birthmark"
+msgstr "耳胎记"
+
+#. alias-of: ear_birthmark
+#. source: ai
+msgctxt "tag:ear_birthmark:alias:1"
+msgid "ear_birthmark"
+msgstr "耳朵胎记"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.emotion.embarrassment
+#. safety: mixed
+#. post-count: 17877
+#. aliases: 耳红
+msgctxt "tag:ear_blush:primary"
+msgid "ear_blush"
+msgstr "耳泛红"
+
+#. alias-of: ear_blush
+#. source: ai
+msgctxt "tag:ear_blush:alias:1"
+msgid "ear_blush"
+msgstr "耳红"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 19772
+#. aliases: 耳蝴蝶结
+msgctxt "tag:ear_bow:primary"
+msgid "ear_bow"
+msgstr "耳蝶结"
+
+#. alias-of: ear_bow
+#. source: ai
+msgctxt "tag:ear_bow:alias:1"
+msgid "ear_bow"
+msgstr "耳蝴蝶结"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ear_censor:primary"
+msgid "ear_censor"
+msgstr "耳朵遮挡"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 1610
+msgctxt "tag:ear_chain:primary"
+msgid "ear_chain"
+msgstr "耳链"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ear_chart:primary"
+msgid "ear_chart"
+msgstr "耳朵图表"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 647
+#. aliases: 掏耳
+msgctxt "tag:ear_cleaning:primary"
+msgid "ear_cleaning"
+msgstr "掏耳朵"
+
+#. alias-of: ear_cleaning
+#. source: ai
+msgctxt "tag:ear_cleaning:alias:1"
+msgid "ear_cleaning"
+msgstr "掏耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ear_comparison:primary"
+msgid "ear_comparison"
+msgstr "耳朵对比"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.unworn_or_carried
+#. safety: mixed
+#. post-count: 10
+msgctxt "tag:ear_cover_removed:primary"
+msgid "ear_cover_removed"
+msgstr "摘下耳罩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 42231
+#. aliases: 耳套
+msgctxt "tag:ear_covers:primary"
+msgid "ear_covers"
+msgstr "耳罩"
+
+#. alias-of: ear_covers
+#. source: ai
+msgctxt "tag:ear_covers:alias:1"
+msgid "ear_covers"
+msgstr "耳套"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 153
+#. aliases: 耳夹
+msgctxt "tag:ear_cuffs:primary"
+msgid "ear_cuffs"
+msgstr "耳骨夹"
+
+#. alias-of: ear_cuffs
+#. source: ai
+msgctxt "tag:ear_cuffs:alias:1"
+msgid "ear_cuffs"
+msgstr "耳夹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ear_devil_(chainsaw_man):primary"
+msgid "ear_devil_(chainsaw_man)"
+msgstr "耳之恶魔（电锯人）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ear_due:primary"
+msgid "ear_due"
+msgstr "耳饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.context.sexual_theme
+#. safety: nsfw
+#. post-count: 8
+msgctxt "tag:ear_fetish_chart:primary"
+msgid "ear_fetish_chart"
+msgstr "耳朵恋物图表"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 954
+msgctxt "tag:ear_flower:primary"
+msgid "ear_flower"
+msgstr "耳花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 165
+#. aliases: 耳部特写
+msgctxt "tag:ear_focus:primary"
+msgid "ear_focus"
+msgstr "耳部焦点"
+
+#. alias-of: ear_focus
+#. source: ai
+msgctxt "tag:ear_focus:alias:1"
+msgid "ear_focus"
+msgstr "耳部特写"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.interaction.physical_interaction
+#. safety: mixed
+#. post-count: 185
+#. aliases: 耳朵抚摸
+msgctxt "tag:ear_fondling:primary"
+msgid "ear_fondling"
+msgstr "摸耳"
+
+#. alias-of: ear_fondling
+#. source: ai
+msgctxt "tag:ear_fondling:alias:1"
+msgid "ear_fondling"
+msgstr "耳朵抚摸"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.marking.facial_marking
+#. safety: sfw
+#. post-count: 1
+#. aliases: 耳雀斑
+msgctxt "tag:ear_freckles:primary"
+msgid "ear_freckles"
+msgstr "耳部雀斑"
+
+#. alias-of: ear_freckles
+#. source: ai
+msgctxt "tag:ear_freckles:alias:1"
+msgid "ear_freckles"
+msgstr "耳雀斑"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.hand_gesture
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ear_gesture:primary"
+msgid "ear_gesture"
+msgstr "耳朵动作"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.interaction.physical_interaction
+#. safety: mixed
+#. post-count: 9
+#. aliases: 咬耳
+msgctxt "tag:ear_in_mouth:primary"
+msgid "ear_in_mouth"
+msgstr "耳在口中"
+
+#. alias-of: ear_in_mouth
+#. source: ai
+msgctxt "tag:ear_in_mouth:alias:1"
+msgid "ear_in_mouth"
+msgstr "咬耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.act.penetrative_sex
+#. safety: nsfw
+#. post-count: 29
+msgctxt "tag:ear_insertion:primary"
+msgid "ear_insertion"
+msgstr "耳朵插入"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_contact_or_support
+#. safety: mixed
+#. post-count: 22
+msgctxt "tag:ear_lift:primary"
+msgid "ear_lift"
+msgstr "提耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ear_mittens:primary"
+msgid "ear_mittens"
+msgstr "耳套"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 6
+#. aliases: 耳朵在头上
+msgctxt "tag:ear_on_another's_head:primary"
+msgid "ear_on_another's_head"
+msgstr "头上长着另一对耳朵"
+
+#. alias-of: ear_on_another's_head
+#. source: ai
+msgctxt "tag:ear_on_another's_head:alias:1"
+msgid "ear_on_another's_head"
+msgstr "耳朵在头上"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 29753
+#. aliases: 耳环
+msgctxt "tag:ear_ornament:primary"
+msgid "ear_ornament"
+msgstr "耳饰"
+
+#. alias-of: ear_ornament
+#. source: ai
+msgctxt "tag:ear_ornament:alias:1"
+msgid "ear_ornament"
+msgstr "耳环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.unworn_or_carried
+#. safety: mixed
+#. post-count: 1
+msgctxt "tag:ear_ornament_removed:primary"
+msgid "ear_ornament_removed"
+msgstr "耳饰已移除"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.style.bangs_and_parting
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ear_over_one_eye:primary"
+msgid "ear_over_one_eye"
+msgstr "单耳遮眼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 53
+#. aliases: 采耳
+msgctxt "tag:ear_picking:primary"
+msgid "ear_picking"
+msgstr "掏耳朵"
+
+#. alias-of: ear_picking
+#. source: ai
+msgctxt "tag:ear_picking:alias:1"
+msgid "ear_picking"
+msgstr "采耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.skin.skin_marking
+#. safety: sfw
+#. post-count: 100076
+msgctxt "tag:ear_piercing:primary"
+msgid "ear_piercing"
+msgstr "耳洞"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:ear_piercing_gun:primary"
+msgid "ear_piercing_gun"
+msgstr "穿耳枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 1800
+msgctxt "tag:ear_protection:primary"
+msgid "ear_protection"
+msgstr "耳罩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 11074
+msgctxt "tag:ear_ribbon:primary"
+msgid "ear_ribbon"
+msgstr "耳带"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 1733
+msgctxt "tag:ear_scrunchie:primary"
+msgid "ear_scrunchie"
+msgstr "耳饰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ear_sea_mimi:primary"
+msgid "ear_sea_mimi"
+msgstr "海耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.context.sexual_theme
+#. safety: nsfw
+#. post-count: 223
+#. aliases: 耳部性癖
+msgctxt "tag:ear_sex:primary"
+msgid "ear_sex"
+msgstr "耳性"
+
+#. alias-of: ear_sex
+#. source: ai
+msgctxt "tag:ear_sex:alias:1"
+msgid "ear_sex"
+msgstr "耳部性癖"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 2
+#. aliases: 耳 stalks
+msgctxt "tag:ear_stalks:primary"
+msgid "ear_stalks"
+msgstr "耳杆"
+
+#. alias-of: ear_stalks
+#. source: ai
+msgctxt "tag:ear_stalks:alias:1"
+msgid "ear_stalks"
+msgstr "耳 stalks"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 8385
+#. aliases: 耳环
+msgctxt "tag:ear_tag:primary"
+msgid "ear_tag"
+msgstr "耳饰"
+
+#. alias-of: ear_tag
+#. source: ai
+msgctxt "tag:ear_tag:alias:1"
+msgid "ear_tag"
+msgstr "耳环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 323
+msgctxt "tag:ear_through_crown:primary"
+msgid "ear_through_crown"
+msgstr "耳穿皇冠"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.barrier_or_surface
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ear_to_glass_to_door:primary"
+msgid "ear_to_glass_to_door"
+msgstr "耳贴玻璃门"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 337
+msgctxt "tag:ear_tufts:primary"
+msgid "ear_tufts"
+msgstr "耳毛"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_contact_or_support
+#. safety: mixed
+#. post-count: 42
+msgctxt "tag:ear_tug:primary"
+msgid "ear_tug"
+msgstr "揪耳朵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.reaction.physical_reaction
+#. safety: mixed
+#. post-count: 2763
+msgctxt "tag:ear_wiggle:primary"
+msgid "ear_wiggle"
+msgstr "耳朵抖动"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.nonhuman.horns_wings_scales
+#. safety: sfw
+#. post-count: 86
+msgctxt "tag:ear_wings:primary"
+msgid "ear_wings"
+msgstr "耳翼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 298
+#. aliases: 耳花环
+msgctxt "tag:ear_wreath:primary"
+msgid "ear_wreath"
+msgstr "耳饰"
+
+#. alias-of: ear_wreath
+#. source: ai
+msgctxt "tag:ear_wreath:alias:1"
+msgid "ear_wreath"
+msgstr "耳花环"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:earan_(mabinogi):primary"
+msgid "earan_(mabinogi)"
+msgstr "艾兰（洛奇）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earana:primary"
+msgid "earana"
+msgstr "Earana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 225
+msgctxt "tag:earasensha:primary"
+msgid "earasensha"
+msgstr "艾拉森沙"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 5300
+msgctxt "tag:earbuds:primary"
+msgid "earbuds"
+msgstr "耳塞"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.container
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:earbuds_charging_case:primary"
+msgid "earbuds_charging_case"
+msgstr "耳机充电盒"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earbuds_tail:primary"
+msgid "earbuds_tail"
+msgstr "耳机线尾巴"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:earclacks:primary"
+msgid "earclacks"
+msgstr "耳夹"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 14059
+#. aliases: 耳饰
+msgctxt "tag:earclip:primary"
+msgid "earclip"
+msgstr "耳夹"
+
+#. alias-of: earclip
+#. source: ai
+msgctxt "tag:earclip:alias:1"
+msgid "earclip"
+msgstr "耳饰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:eardoor_1022:primary"
+msgid "eardoor_1022"
+msgstr "eardoor_1022"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eardrum:primary"
+msgid "eardrum"
+msgstr "耳膜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earear:primary"
+msgid "earear"
+msgstr "Earear"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:eareay:primary"
+msgid "eareay"
+msgstr "耳饰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 31
+#. aliases: 极深空计划
+msgctxt "tag:earendel_(jishenkong_jihua):primary"
+msgid "earendel_(jishenkong_jihua)"
+msgstr "Earendel"
+
+#. alias-of: earendel_(jishenkong_jihua)
+#. source: ai
+msgctxt "tag:earendel_(jishenkong_jihua):alias:1"
+msgid "earendel_(jishenkong_jihua)"
+msgstr "极深空计划"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earendelart:primary"
+msgid "earendelart"
+msgstr "Earendelart"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:earendil:primary"
+msgid "earendil"
+msgstr "Earendil"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 526
+#. aliases: 护耳毛线帽
+msgctxt "tag:earflap_beanie:primary"
+msgid "earflap_beanie"
+msgstr "护耳帽"
+
+#. alias-of: earflap_beanie
+#. source: ai
+msgctxt "tag:earflap_beanie:alias:1"
+msgid "earflap_beanie"
+msgstr "护耳毛线帽"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.emotion.affection_or_desire
+#. safety: nsfw
+#. post-count: 382
+#. aliases: 耳高潮
+msgctxt "tag:eargasm:primary"
+msgid "eargasm"
+msgstr "耳快感"
+
+#. alias-of: eargasm
+#. source: ai
+msgctxt "tag:eargasm:alias:1"
+msgid "eargasm"
+msgstr "耳高潮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earhart:primary"
+msgid "earhart"
+msgstr "Earhart"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:earhart_(neural_cloud):primary"
+msgid "earhart_(neural_cloud)"
+msgstr "艾尔哈特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+#. aliases: 艾莉酱
+msgctxt "tag:eari:primary"
+msgid "eari"
+msgstr "艾莉"
+
+#. alias-of: eari
+#. source: ai
+msgctxt "tag:eari:alias:1"
+msgid "eari"
+msgstr "艾莉酱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:eari_(shining_hearts):primary"
+msgid "eari_(shining_hearts)"
+msgstr "艾莉（光明之心）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earia_(mezeporta_kaitaku-ki):primary"
+msgid "earia_(mezeporta_kaitaku-ki)"
+msgstr "Earia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eariel:primary"
+msgid "eariel"
+msgstr "艾莉尔"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eariel_(series):primary"
+msgid "eariel_(series)"
+msgstr "Eariel系列"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earina3d:primary"
+msgid "earina3d"
+msgstr "earina3d"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:eario:primary"
+msgid "eario"
+msgstr "eario"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earis430:primary"
+msgid "earis430"
+msgstr "earis430"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:earl-shirokneeso:primary"
+msgid "earl-shirokneeso"
+msgstr "伯爵白颈天鹅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earl23491195:primary"
+msgid "earl23491195"
+msgstr "earl23491195"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earl_(majo_no_shinzou):primary"
+msgid "earl_(majo_no_shinzou)"
+msgstr "厄尔（魔女之心）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earl_(orangeflame):primary"
+msgid "earl_(orangeflame)"
+msgstr "earl"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earl_(path_to_nowhere):primary"
+msgid "earl_(path_to_nowhere)"
+msgstr "伯爵（无期迷途）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earl_(steven_universe):primary"
+msgid "earl_(steven_universe)"
+msgstr "厄尔（史蒂文宇宙）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earl_(toejam_&_earl):primary"
+msgid "earl_(toejam_&_earl)"
+msgstr "厄尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earl_d_wilson:primary"
+msgid "earl_d_wilson"
+msgstr "厄尔·D·威尔逊"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earl_dervish:primary"
+msgid "earl_dervish"
+msgstr "厄尔·德维什"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earl_devereaux:primary"
+msgid "earl_devereaux"
+msgstr "厄尔·德弗罗"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earl_gray:primary"
+msgid "earl_gray"
+msgstr "《Earl Grey》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earl_grey:primary"
+msgid "earl_grey"
+msgstr "Earl Grey"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earl_grey787:primary"
+msgid "earl_grey787"
+msgstr "EarlGrey787"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 119
+#. aliases: 艾尔·格雷
+msgctxt "tag:earl_grey_(girls_und_panzer):primary"
+msgid "earl_grey_(girls_und_panzer)"
+msgstr "伯爵格雷"
+
+#. alias-of: earl_grey_(girls_und_panzer)
+#. source: ai
+msgctxt "tag:earl_grey_(girls_und_panzer):alias:1"
+msgid "earl_grey_(girls_und_panzer)"
+msgstr "艾尔·格雷"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:earl_grey_(music_circle):primary"
+msgid "earl_grey_(music_circle)"
+msgstr "伯爵灰（音乐同人社团）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earl_grey_2222:primary"
+msgid "earl_grey_2222"
+msgstr "Earl Grey 2222"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earl_grey_ballistic:primary"
+msgid "earl_grey_ballistic"
+msgstr "Earl Grey Ballistic"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:earl_grey_cookie:primary"
+msgid "earl_grey_cookie"
+msgstr "伯爵红茶曲奇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earl_grey_cookie_(romantic_sugar_s/s_collection_model):primary"
+msgid "earl_grey_cookie_(romantic_sugar_s/s_collection_model)"
+msgstr "伯爵红茶曲奇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+#. aliases: 红茶馆
+msgctxt "tag:earl_grey_no_chaba:primary"
+msgid "earl_grey_no_chaba"
+msgstr "伯爵茶茶房"
+
+#. alias-of: earl_grey_no_chaba
+#. source: ai
+msgctxt "tag:earl_grey_no_chaba:alias:1"
+msgid "earl_grey_no_chaba"
+msgstr "红茶馆"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.drink_container
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:earl_grey_tea:primary"
+msgid "earl_grey_tea"
+msgstr "伯爵茶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 伯爵茶
+msgctxt "tag:earl_grey_tea_(food_fantasy):primary"
+msgid "earl_grey_tea_(food_fantasy)"
+msgstr "伯爵红茶"
+
+#. alias-of: earl_grey_tea_(food_fantasy)
+#. source: ai
+msgctxt "tag:earl_grey_tea_(food_fantasy):alias:1"
+msgid "earl_grey_tea_(food_fantasy)"
+msgstr "伯爵茶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earl_hall:primary"
+msgid "earl_hall"
+msgstr "Earl Hall"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earl_hickey:primary"
+msgid "earl_hickey"
+msgstr "厄尔·希基"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earl_leo_(alice_girls):primary"
+msgid "earl_leo_(alice_girls)"
+msgstr "Earl Leo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:earl_leo_(alice_girls)_(cosplay):primary"
+msgid "earl_leo_(alice_girls)_(cosplay)"
+msgstr "雷欧伯爵（Alice Girls）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:earl_of_lemongrab:primary"
+msgid "earl_of_lemongrab"
+msgstr "柠檬公爵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 沃里克_芭乐王
+msgctxt "tag:earl_of_warwick_(baraou):primary"
+msgid "earl_of_warwick_(baraou)"
+msgstr "沃里克伯爵"
+
+#. alias-of: earl_of_warwick_(baraou)
+#. source: ai
+msgctxt "tag:earl_of_warwick_(baraou):alias:1"
+msgid "earl_of_warwick_(baraou)"
+msgstr "沃里克_芭乐王"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earl_ram:primary"
+msgid "earl_ram"
+msgstr "兰姆伯爵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:earl_roze:primary"
+msgid "earl_roze"
+msgstr "earl_roze"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earl_schmerle:primary"
+msgid "earl_schmerle"
+msgstr "厄尔·施默勒"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earlcumber:primary"
+msgid "earlcumber"
+msgstr "earlcumber"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earldarii:primary"
+msgid "earldarii"
+msgstr "厄尔达里"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earleenadler:primary"
+msgid "earleenadler"
+msgstr "Earleen Adler"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earless_mimikyu:primary"
+msgid "earless_mimikyu"
+msgstr "无耳谜拟Q"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:earlette_(icemega5):primary"
+msgid "earlette_(icemega5)"
+msgstr "艾莉特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earlgery_choco_(freya):primary"
+msgid "earlgery_choco_(freya)"
+msgstr "Earlgery Choco（Freya）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 124
+msgctxt "tag:earlgrey:primary"
+msgid "earlgrey"
+msgstr "伯爵茶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:earlgrey3183:primary"
+msgid "earlgrey3183"
+msgstr "earlgrey3183"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earlhalfsweet:primary"
+msgid "earlhalfsweet"
+msgstr "earlhalfsweet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:earlobe1514366:primary"
+msgid "earlobe1514366"
+msgstr "earlobe1514366"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.detail.functional_detail
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:earlobe_stretcher:primary"
+msgid "earlobe_stretcher"
+msgstr "耳垂扩张器"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earlrot:primary"
+msgid "earlrot"
+msgstr "earlrot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earltious:primary"
+msgid "earltious"
+msgstr "Earltious"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:early-blooming_sakura_(miracle_nikki):primary"
+msgid "early-blooming_sakura_(miracle_nikki)"
+msgstr "早樱（奇迹暖暖）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:early4629:primary"
+msgid "early4629"
+msgstr "early4629"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:early_(honwaka):primary"
+msgid "early_(honwaka)"
+msgstr "Early (honwaka)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 千年战争早期
+msgctxt "tag:early_(sennen_sensou_aigis):primary"
+msgid "early_(sennen_sensou_aigis)"
+msgstr "Early（千年战争Aigis）"
+
+#. alias-of: early_(sennen_sensou_aigis)
+#. source: ai
+msgctxt "tag:early_(sennen_sensou_aigis):alias:1"
+msgid "early_(sennen_sensou_aigis)"
+msgstr "千年战争早期"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:early_bird_(pokemon):primary"
+msgid "early_bird_(pokemon)"
+msgstr "《宝可梦》中的早起特性"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:early_clouds_(shining_nikki):primary"
+msgid "early_clouds_(shining_nikki)"
+msgstr "朝云（闪耀暖暖）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:early_days_(vocaloid):primary"
+msgid "early_days_(vocaloid)"
+msgstr "早期日子（Vocaloid）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:early_lag:primary"
+msgid "early_lag"
+msgstr "Early Lag"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.book_paper
+#. safety: sfw
+#. post-count: 79
+msgctxt "tag:early_modern_english_text:primary"
+msgid "early_modern_english_text"
+msgstr "早期现代英语文本"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:early_reins:primary"
+msgid "early_reins"
+msgstr "Early Reins"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:early_type:primary"
+msgid "early_type"
+msgstr "早期类型"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:early_type_gm:primary"
+msgid "early_type_gm"
+msgstr "早期型GM"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:early_zombie:primary"
+msgid "early_zombie"
+msgstr "早期僵尸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earlybird_72:primary"
+msgid "earlybird_72"
+msgstr "Earlybird_72"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earlyblake:primary"
+msgid "earlyblake"
+msgstr "Earlyblake"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earlymarch_wen_xin:primary"
+msgid "earlymarch_wen_xin"
+msgstr "EarlyMarch_Wen_Xin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earlyreflect1on:primary"
+msgid "earlyreflect1on"
+msgstr "EarlyReflect1on"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earmor_m32:primary"
+msgid "earmor_m32"
+msgstr "M32耳罩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 17023
+#. aliases: 耳套
+msgctxt "tag:earmuffs:primary"
+msgid "earmuffs"
+msgstr "耳罩"
+
+#. alias-of: earmuffs
+#. source: ai
+msgctxt "tag:earmuffs:alias:1"
+msgid "earmuffs"
+msgstr "耳套"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 324
+#. aliases: 颈部耳罩
+msgctxt "tag:earmuffs_around_neck:primary"
+msgid "earmuffs_around_neck"
+msgstr "耳罩挂颈"
+
+#. alias-of: earmuffs_around_neck
+#. source: ai
+msgctxt "tag:earmuffs_around_neck:alias:1"
+msgid "earmuffs_around_neck"
+msgstr "颈部耳罩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:earmuffs_removed:primary"
+msgid "earmuffs_removed"
+msgstr "摘下耳罩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earnescorrect_member_evelyn:primary"
+msgid "earnescorrect_member_evelyn"
+msgstr "Evelyn"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earnest_(shining_force):primary"
+msgid "earnest_(shining_force)"
+msgstr "厄尼斯特（光明力量）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:earnest_elf_tristana:primary"
+msgid "earnest_elf_tristana"
+msgstr "认真精灵崔丝塔娜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:earnest_evans:primary"
+msgid "earnest_evans"
+msgstr "认真·埃文斯"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+#. aliases: 厄内斯特
+msgctxt "tag:earnest_evans_(game):primary"
+msgid "earnest_evans_(game)"
+msgstr "厄内斯特·埃文斯（游戏）"
+
+#. alias-of: earnest_evans_(game)
+#. source: ai
+msgctxt "tag:earnest_evans_(game):alias:1"
+msgid "earnest_evans_(game)"
+msgstr "厄内斯特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:earnest_flaming:primary"
+msgid "earnest_flaming"
+msgstr "earnest_flaming"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earnestine_mccoy:primary"
+msgid "earnestine_mccoy"
+msgstr "厄内斯廷·麦科伊"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earnie_the_giant_chicken:primary"
+msgid "earnie_the_giant_chicken"
+msgstr "巨鸡厄尼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earnnee09:primary"
+msgid "earnnee09"
+msgstr "earnnee09"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earnnysuh:primary"
+msgid "earnnysuh"
+msgstr "earnnysuh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earnonoart:primary"
+msgid "earnonoart"
+msgstr "Earnonoart"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earnshaw_(genshin_impact):primary"
+msgid "earnshaw_(genshin_impact)"
+msgstr "Earnshaw（原神）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earo:primary"
+msgid "earo"
+msgstr "earo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:earo_bike:primary"
+msgid "earo_bike"
+msgstr "艾萝摩托"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.relationship
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earoma_sensei:primary"
+msgid "earoma_sensei"
+msgstr "earoma老师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 152
+msgctxt "tag:earosoligt:primary"
+msgid "earosoligt"
+msgstr "Earosoligt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earphone_624517:primary"
+msgid "earphone_624517"
+msgstr "earphone_624517"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 14041
+#. aliases: 耳塞
+msgctxt "tag:earphones:primary"
+msgid "earphones"
+msgstr "耳机"
+
+#. alias-of: earphones
+#. source: ai
+msgctxt "tag:earphones:alias:1"
+msgid "earphones"
+msgstr "耳塞"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 71
+msgctxt "tag:earphones_around_neck:primary"
+msgid "earphones_around_neck"
+msgstr "耳机挂颈"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 103
+msgctxt "tag:earphones_on_animal_ears:primary"
+msgid "earphones_on_animal_ears"
+msgstr "兽耳戴耳机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.lift_or_removed
+#. safety: mixed
+#. post-count: 737
+msgctxt "tag:earphones_removed:primary"
+msgid "earphones_removed"
+msgstr "耳机摘下"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 8649
+msgctxt "tag:earpiece:primary"
+msgid "earpiece"
+msgstr "耳饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 234
+msgctxt "tag:earplugs:primary"
+msgid "earplugs"
+msgstr "耳塞"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earrame:primary"
+msgid "earrame"
+msgstr "耳环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 790690
+#. aliases: 耳饰
+msgctxt "tag:earrings:primary"
+msgid "earrings"
+msgstr "耳环"
+
+#. alias-of: earrings
+#. source: ai
+msgctxt "tag:earrings:alias:1"
+msgid "earrings"
+msgstr "耳饰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earrings_(henry_stickmin):primary"
+msgid "earrings_(henry_stickmin)"
+msgstr "耳环（亨利·斯蒂克明）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 375
+msgctxt "tag:ears_back:primary"
+msgid "ears_back"
+msgstr "耳朵后贴"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_manipulation
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ears_between_breasts:primary"
+msgid "ears_between_breasts"
+msgstr "耳间胸"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 8909
+#. aliases: 垂耳
+msgctxt "tag:ears_down:primary"
+msgid "ears_down"
+msgstr "耳朵下垂"
+
+#. alias-of: ears_down
+#. source: ai
+msgctxt "tag:ears_down:alias:1"
+msgid "ears_down"
+msgstr "垂耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ears_perk:primary"
+msgid "ears_perk"
+msgstr "耳朵竖起"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 6
+#. aliases: 耳穿透发带
+msgctxt "tag:ears_through_hairband:primary"
+msgid "ears_through_hairband"
+msgstr "耳朵穿过发带"
+
+#. alias-of: ears_through_hairband
+#. source: ai
+msgctxt "tag:ears_through_hairband:alias:1"
+msgid "ears_through_hairband"
+msgstr "耳穿透发带"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 18271
+#. aliases: 耳透
+msgctxt "tag:ears_through_headwear:primary"
+msgid "ears_through_headwear"
+msgstr "耳透头饰"
+
+#. alias-of: ears_through_headwear
+#. source: ai
+msgctxt "tag:ears_through_headwear:alias:1"
+msgid "ears_through_headwear"
+msgstr "耳透"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 1117
+msgctxt "tag:ears_through_hood:primary"
+msgid "ears_through_hood"
+msgstr "兜帽露耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 333
+msgctxt "tag:ears_under_headwear:primary"
+msgid "ears_under_headwear"
+msgstr "耳在头饰下"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 189
+msgctxt "tag:ears_up:primary"
+msgid "ears_up"
+msgstr "竖耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.ears.ear_type
+#. safety: sfw
+#. post-count: 1459
+#. aliases: 露耳
+msgctxt "tag:ears_visible_through_hair:primary"
+msgid "ears_visible_through_hair"
+msgstr "发隙露耳"
+
+#. alias-of: ears_visible_through_hair
+#. source: ai
+msgctxt "tag:ears_visible_through_hair:alias:1"
+msgid "ears_visible_through_hair"
+msgstr "露耳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 精灵耳朵
+msgctxt "tag:earsofelf:primary"
+msgid "earsofelf"
+msgstr "earsofelf"
+
+#. alias-of: earsofelf
+#. source: ai
+msgctxt "tag:earsofelf:alias:1"
+msgid "earsofelf"
+msgstr "精灵耳朵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 221
+#. aliases: 地球
+msgctxt "tag:earth-chan:primary"
+msgid "earth-chan"
+msgstr "地球酱"
+
+#. alias-of: earth-chan
+#. source: ai
+msgctxt "tag:earth-chan:alias:1"
+msgid "earth-chan"
+msgstr "地球"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:earth-chan_(concrete_revolutio):primary"
+msgid "earth-chan_(concrete_revolutio)"
+msgstr "地球酱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:earth-ojisan:primary"
+msgid "earth-ojisan"
+msgstr "地球大叔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earth-san:primary"
+msgid "earth-san"
+msgstr "地球先生"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:earth0:primary"
+msgid "earth0"
+msgstr "earth0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth2yume:primary"
+msgid "earth2yume"
+msgstr "earth2yume"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth4120:primary"
+msgid "earth4120"
+msgstr "earth4120"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth455:primary"
+msgid "earth455"
+msgstr "earth455"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:earth69:primary"
+msgid "earth69"
+msgstr "earth69"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earth86643091:primary"
+msgid "earth86643091"
+msgstr "earth86643091"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth:_revival:primary"
+msgid "earth:_revival"
+msgstr "Earth: Revival"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_(artist):primary"
+msgid "earth_(artist)"
+msgstr "Earth"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 艾斯（怕痛的防御特化）
+msgctxt "tag:earth_(bofuri):primary"
+msgid "earth_(bofuri)"
+msgstr "艾斯（BOFURI）"
+
+#. alias-of: earth_(bofuri)
+#. source: ai
+msgctxt "tag:earth_(bofuri):alias:1"
+msgid "earth_(bofuri)"
+msgstr "艾斯（怕痛的防御特化）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:earth_(earth_cg_gallery):primary"
+msgid "earth_(earth_cg_gallery)"
+msgstr "Earth CG画廊"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.effect.elemental.elemental_effect
+#. safety: sfw
+#. post-count: 25
+#. aliases: 地元素
+msgctxt "tag:earth_(element):primary"
+msgid "earth_(element)"
+msgstr "土元素"
+
+#. alias-of: earth_(element)
+#. source: ai
+msgctxt "tag:earth_(element):alias:1"
+msgid "earth_(element)"
+msgstr "地元素"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.decor.ornament_or_decoration
+#. safety: sfw
+#. post-count: 2228
+msgctxt "tag:earth_(ornament):primary"
+msgid "earth_(ornament)"
+msgstr "地球装饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.mineral_natural_object
+#. safety: sfw
+#. post-count: 7024
+msgctxt "tag:earth_(planet):primary"
+msgid "earth_(planet)"
+msgstr "地球"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earth_(planetary_moe):primary"
+msgid "earth_(planetary_moe)"
+msgstr "Earth（Planetary Moe）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earth_(solarballs):primary"
+msgid "earth_(solarballs)"
+msgstr "地球（Solarballs）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earth_(spectral_force):primary"
+msgid "earth_(spectral_force)"
+msgstr "大地"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_(tamagotchi):primary"
+msgid "earth_(tamagotchi)"
+msgstr "地球（拓麻歌子）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earth_(yu-gi-oh!_vrains):primary"
+msgid "earth_(yu-gi-oh!_vrains)"
+msgstr "地属性（游戏王VRAINS）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_1711:primary"
+msgid "earth_1711"
+msgstr "Earth 1711"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earth_8o8:primary"
+msgid "earth_8o8"
+msgstr "Earth 8o8"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:earth_alliance_(gundam_seed):primary"
+msgid "earth_alliance_(gundam_seed)"
+msgstr "地球联合（高达SEED）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:earth_badge:primary"
+msgid "earth_badge"
+msgstr "地球徽章"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:earth_day:primary"
+msgid "earth_day"
+msgstr "地球日"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 103
+msgctxt "tag:earth_defense_force:primary"
+msgid "earth_defense_force"
+msgstr "地球防卫军"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:earth_defense_force_2:primary"
+msgid "earth_defense_force_2"
+msgstr "地球防卫军2"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+#. aliases: EDF2017
+msgctxt "tag:earth_defense_force_2017:primary"
+msgid "earth_defense_force_2017"
+msgstr "地球防卫军2017"
+
+#. alias-of: earth_defense_force_2017
+#. source: ai
+msgctxt "tag:earth_defense_force_2017:alias:1"
+msgid "earth_defense_force_2017"
+msgstr "EDF2017"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:earth_defense_force_2025:primary"
+msgid "earth_defense_force_2025"
+msgstr "地球防卫军2025"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:earth_defense_force_5:primary"
+msgid "earth_defense_force_5"
+msgstr "地球防卫军5"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earth_defense_force_6:primary"
+msgid "earth_defense_force_6"
+msgstr "地球防卫军6"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earth_dragon_knight:primary"
+msgid "earth_dragon_knight"
+msgstr "地龙骑士"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 207
+msgctxt "tag:earth_ekami:primary"
+msgid "earth_ekami"
+msgstr "地球埃卡米"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.nonhuman.horns_wings_scales
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:earth_elemental:primary"
+msgid "earth_elemental"
+msgstr "土元素"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 306
+msgctxt "tag:earth_eleven:primary"
+msgid "earth_eleven"
+msgstr "地球十一"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earth_empire_military_uniform:primary"
+msgid "earth_empire_military_uniform"
+msgstr "地球帝国军装"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:earth_engine_impacter:primary"
+msgid "earth_engine_impacter"
+msgstr "地球引擎冲击者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_engine_ordinary:primary"
+msgid "earth_engine_ordinary"
+msgstr "Earth Engine Ordinary"
+
+#. danbooru-category: 0
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 1601
+msgctxt "tag:earth_federation:primary"
+msgid "earth_federation"
+msgstr "地球联邦"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 577
+msgctxt "tag:earth_federation_space_forces:primary"
+msgid "earth_federation_space_forces"
+msgstr "地球联邦宇宙军"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:earth_gaiden_3:primary"
+msgid "earth_gaiden_3"
+msgstr "地球外传3"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earth_garon:primary"
+msgid "earth_garon"
+msgstr "Earth Garon"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 11
+#. aliases: 地少女
+msgctxt "tag:earth_girl_arjuna:primary"
+msgid "earth_girl_arjuna"
+msgstr "地球少女阿尔儒娜"
+
+#. alias-of: earth_girl_arjuna
+#. source: ai
+msgctxt "tag:earth_girl_arjuna:alias:1"
+msgid "earth_girl_arjuna"
+msgstr "地少女"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earth_granner_eagle_shark:primary"
+msgid "earth_granner_eagle_shark"
+msgstr "地球猛禽鹰鲨"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 里奥猎豹
+msgctxt "tag:earth_granner_leo_cheetah:primary"
+msgid "earth_granner_leo_cheetah"
+msgstr "地球勇者·里奥猎豹"
+
+#. alias-of: earth_granner_leo_cheetah
+#. source: ai
+msgctxt "tag:earth_granner_leo_cheetah:alias:1"
+msgid "earth_granner_leo_cheetah"
+msgstr "里奥猎豹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_granner_saber_panther:primary"
+msgid "earth_granner_saber_panther"
+msgstr "地球格兰纳 剑豹"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_jl:primary"
+msgid "earth_jl"
+msgstr "earth_jl"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 地球正义
+msgctxt "tag:earth_justice:primary"
+msgid "earth_justice"
+msgstr "大地正义"
+
+#. alias-of: earth_justice
+#. source: ai
+msgctxt "tag:earth_justice:alias:1"
+msgid "earth_justice"
+msgstr "地球正义"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:earth_kai:primary"
+msgid "earth_kai"
+msgstr "地球铠"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_leviathan_(lethal_company):primary"
+msgid "earth_leviathan_(lethal_company)"
+msgstr "地球利维坦（Lethal Company）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_light:primary"
+msgid "earth_light"
+msgstr "Earth Light"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earth_mage_(housamo):primary"
+msgid "earth_mage_(housamo)"
+msgstr "土之魔导（Housamo）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:earth_mother:primary"
+msgid "earth_mother"
+msgstr "大地之母"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_mother_bendi:primary"
+msgid "earth_mother_bendi"
+msgstr "大地母神本迪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earth_move1123:primary"
+msgid "earth_move1123"
+msgstr "Earth Move1123"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:earth_music_&_ecology:primary"
+msgid "earth_music_&_ecology"
+msgstr "Earth Music & Ecology"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.effect.elemental.elemental_effect
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earth_power_(pokemon):primary"
+msgid "earth_power_(pokemon)"
+msgstr "大地之力"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:earth_print:primary"
+msgid "earth_print"
+msgstr "地球图案"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earth_seeker:primary"
+msgid "earth_seeker"
+msgstr "地球探求者"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.act.penetrative_sex
+#. safety: nsfw
+#. post-count: 5
+msgctxt "tag:earth_sex:primary"
+msgid "earth_sex"
+msgstr "地球性行为"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 16
+#. aliases: 岩之共鸣
+msgctxt "tag:earth_shaker_(genshin_impact):primary"
+msgid "earth_shaker_(genshin_impact)"
+msgstr "岩击"
+
+#. alias-of: earth_shaker_(genshin_impact)
+#. source: ai
+msgctxt "tag:earth_shaker_(genshin_impact):alias:1"
+msgid "earth_shaker_(genshin_impact)"
+msgstr "岩之共鸣"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_spirit_(crystalline):primary"
+msgid "earth_spirit_(crystalline)"
+msgstr "大地之灵（Crystalline）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_spirit_(dota):primary"
+msgid "earth_spirit_(dota)"
+msgstr "大地之灵（Dota）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_spirit_(warcraft):primary"
+msgid "earth_spirit_(warcraft)"
+msgstr "大地之灵（魔兽）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:earth_symbol:primary"
+msgid "earth_symbol"
+msgstr "地符"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:earth_wind_&_fire_(band):primary"
+msgid "earth_wind_&_fire_(band)"
+msgstr "地球风火乐队"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:earth_wind_&_fire_(stand):primary"
+msgid "earth_wind_&_fire_(stand)"
+msgstr "地风火(替身)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:earth_windy_harp:primary"
+msgid "earth_windy_harp"
+msgstr "Earth Windy Harp"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_wraith_(housamo):primary"
+msgid "earth_wraith_(housamo)"
+msgstr "大地幽魂（Housamo）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earth_wrestler_(live_a_hero):primary"
+msgid "earth_wrestler_(live_a_hero)"
+msgstr "地系摔跤手（Live a Hero）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eartha_(jjune):primary"
+msgid "eartha_(jjune)"
+msgstr "Eartha"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:earthbound_immortal_aslla_piscu:primary"
+msgid "earthbound_immortal_aslla_piscu"
+msgstr "地缚神阿斯拉·皮斯库"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthbound_immortal_aslla_piscu_(cosplay):primary"
+msgid "earthbound_immortal_aslla_piscu_(cosplay)"
+msgstr "地缚神 阿斯拉皮斯库（角色扮演）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earthbound_immortal_ccapac_apu:primary"
+msgid "earthbound_immortal_ccapac_apu"
+msgstr "地缚神 卡帕克·阿普"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earthbound_immortal_ccarayhua:primary"
+msgid "earthbound_immortal_ccarayhua"
+msgstr "地缚神 卡雷哈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earthbound_immortal_chacu_challhua:primary"
+msgid "earthbound_immortal_chacu_challhua"
+msgstr "地缚神·查库查鲁亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earthbound_immortal_cusillu:primary"
+msgid "earthbound_immortal_cusillu"
+msgstr "地缚神库丘林"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:earthbound_immortal_uru:primary"
+msgid "earthbound_immortal_uru"
+msgstr "地缚神·乌卢"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earthbound_immortal_wiraqocha_rasca:primary"
+msgid "earthbound_immortal_wiraqocha_rasca"
+msgstr "地缚神·维拉科查·拉斯卡"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 缚地灵
+msgctxt "tag:earthbound_spirit:primary"
+msgid "earthbound_spirit"
+msgstr "地缚灵"
+
+#. alias-of: earthbound_spirit
+#. source: ai
+msgctxt "tag:earthbound_spirit:alias:1"
+msgid "earthbound_spirit"
+msgstr "缚地灵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:earthbound_spirit_crab_(dandadan):primary"
+msgid "earthbound_spirit_crab_(dandadan)"
+msgstr "地缚灵蟹"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earthcookies:primary"
+msgid "earthcookies"
+msgstr "地球饼干"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eartheas:primary"
+msgid "eartheas"
+msgstr "eartheas"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 74
+msgctxt "tag:earthen_miraculous_sword:primary"
+msgid "earthen_miraculous_sword"
+msgstr "地之奇迹剑"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:earthes:primary"
+msgid "earthes"
+msgstr "Earthes"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthgwee:primary"
+msgid "earthgwee"
+msgstr "Earthgwee"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+#. aliases: 地球星人
+msgctxt "tag:earthian:primary"
+msgid "earthian"
+msgstr "《Earthian》"
+
+#. alias-of: earthian
+#. source: ai
+msgctxt "tag:earthian:alias:1"
+msgid "earthian"
+msgstr "地球星人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:earthisfire:primary"
+msgid "earthisfire"
+msgstr "EarthIsFire"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthkinous:primary"
+msgid "earthkinous"
+msgstr "Earthkinous"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthkream:primary"
+msgid "earthkream"
+msgstr "earthkream"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:earthlain_(sekaiju):primary"
+msgid "earthlain_(sekaiju)"
+msgstr "地上人（世界树迷宫）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:earthlain_2_(sekaiju):primary"
+msgid "earthlain_2_(sekaiju)"
+msgstr "地上人2（世界树迷宫）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthmaul_club_(kid_icarus):primary"
+msgid "earthmaul_club_(kid_icarus)"
+msgstr "地槌棒（《光神话》）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthmover_(ultrakill):primary"
+msgid "earthmover_(ultrakill)"
+msgstr "掘地者（ULTRAKILL）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:earthmusic40258:primary"
+msgid "earthmusic40258"
+msgstr "Earth Music & Ecology"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthnashes:primary"
+msgid "earthnashes"
+msgstr "大地精灵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earthnattapat:primary"
+msgid "earthnattapat"
+msgstr "earthnattapat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:earthore_(noripeti):primary"
+msgid "earthore_(noripeti)"
+msgstr "earthore"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.event.threat_failure_or_death
+#. safety: mixed
+#. post-count: 116
+msgctxt "tag:earthquake:primary"
+msgid "earthquake"
+msgstr "地震"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:earthquake_(pokemon):primary"
+msgid "earthquake_(pokemon)"
+msgstr "地震（宝可梦招式）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:earthquake_(samurai_spirits):primary"
+msgid "earthquake_(samurai_spirits)"
+msgstr "地震"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthquake_king_dragon:primary"
+msgid "earthquake_king_dragon"
+msgstr "地震王龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthquake_kingdragon:primary"
+msgid "earthquake_kingdragon"
+msgstr "地震王龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:earthree_gundam:primary"
+msgid "earthree_gundam"
+msgstr "陆地高达"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthree_gundam_(cosplay):primary"
+msgid "earthree_gundam_(cosplay)"
+msgstr "Earthree高达（角色扮演）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:earthrise_(game):primary"
+msgid "earthrise_(game)"
+msgstr "地球升起"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:earthrise_(photo):primary"
+msgid "earthrise_(photo)"
+msgstr "地出（照片）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthrock_trilobyte_(mega_man):primary"
+msgid "earthrock_trilobyte_(mega_man)"
+msgstr "岩土三叶虫（洛克人）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earths117:primary"
+msgid "earths117"
+msgstr "earths117"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earthshaker:primary"
+msgid "earthshaker"
+msgstr "Earthshaker"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:earthshaker_(kingdom_hearts):primary"
+msgid "earthshaker_(kingdom_hearts)"
+msgstr "大地震（Kingdom Hearts）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 101
+msgctxt "tag:earthspirit_(arknights):primary"
+msgid "earthspirit_(arknights)"
+msgstr "地灵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthspirit_(arknights)_(cosplay):primary"
+msgid "earthspirit_(arknights)_(cosplay)"
+msgstr "地灵（明日方舟）（角色扮演）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:earthspirit_(elite_ii)_(arknights):primary"
+msgid "earthspirit_(elite_ii)_(arknights)"
+msgstr "地灵（精英二）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earthspirit_(major_field)_(arknights):primary"
+msgid "earthspirit_(major_field)_(arknights)"
+msgstr "地灵（Major Field）（明日方舟）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earthsrirshaart:primary"
+msgid "earthsrirshaart"
+msgstr "EarthSrirshaArt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthtocaptainsky:primary"
+msgid "earthtocaptainsky"
+msgstr "Earth to Captain Sky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earthtojaymus:primary"
+msgid "earthtojaymus"
+msgstr "Earthtojaymus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthtrines:primary"
+msgid "earthtrines"
+msgstr "Earthtrines"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:earthtron:primary"
+msgid "earthtron"
+msgstr "earthtron"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:earthtron_(cosplay):primary"
+msgid "earthtron_(cosplay)"
+msgstr "Cosplay"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 174
+msgctxt "tag:earthworm:primary"
+msgid "earthworm"
+msgstr "蚯蚓"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earthworm_(durarara!!):primary"
+msgid "earthworm_(durarara!!)"
+msgstr "蚯蚓（无头骑士异闻录!!）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:earthworm_jim:primary"
+msgid "earthworm_jim"
+msgstr "蚯蚓吉姆"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:earthworm_jim_(series):primary"
+msgid "earthworm_jim_(series)"
+msgstr "蚯蚓吉姆"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:earthy_(clow_card):primary"
+msgid "earthy_(clow_card)"
+msgstr "Earthy（库洛牌）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earu_neko:primary"
+msgid "earu_neko"
+msgstr "earu neko"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:earwig:primary"
+msgid "earwig"
+msgstr "蠼螋"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:earwig_(aaya_to_majo):primary"
+msgid "earwig_(aaya_to_majo)"
+msgstr "蠼螋（Aya to Majo）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eary_guoguo:primary"
+msgid "eary_guoguo"
+msgstr "Eary Guoguo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 690
+#. aliases: EAS
+msgctxt "tag:eas_(precure):primary"
+msgid "eas_(precure)"
+msgstr "邪恶联盟暗影"
+
+#. alias-of: eas_(precure)
+#. source: ai
+msgctxt "tag:eas_(precure):alias:1"
+msgid "eas_(precure)"
+msgstr "EAS"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:eas_(precure)_(cosplay):primary"
+msgid "eas_(precure)_(cosplay)"
+msgstr "EAS光之美少女"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ease1219:primary"
+msgid "ease1219"
+msgstr "ease1219"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ease_(metaphorical):primary"
+msgid "ease_(metaphorical)"
+msgstr "ease（比喻义）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ease_yana_(airse_yana):primary"
+msgid "ease_yana_(airse_yana)"
+msgstr "ease_yana（airse_yana）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.furniture
+#. safety: sfw
+#. post-count: 2119
+msgctxt "tag:easel:primary"
+msgid "easel"
+msgstr "画架"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 80
+msgctxt "tag:easel_(dam0628):primary"
+msgid "easel_(dam0628)"
+msgstr "画架"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:easel_(djeasel):primary"
+msgid "easel_(djeasel)"
+msgstr "画架"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:easel_dragon:primary"
+msgid "easel_dragon"
+msgstr "画架龙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:eashar_lowell:primary"
+msgid "eashar_lowell"
+msgstr "伊夏尔·洛威尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:easily:primary"
+msgid "easily"
+msgstr "容易"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:easir377:primary"
+msgid "easir377"
+msgstr "easir377"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eask69:primary"
+msgid "eask69"
+msgstr "eask69"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:eason870408:primary"
+msgid "eason870408"
+msgstr "eason870408"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easonchannn:primary"
+msgid "easonchannn"
+msgstr "easonchannn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 523
+msgctxt "tag:easonx:primary"
+msgid "easonx"
+msgstr "伊森X"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eassia:primary"
+msgid "eassia"
+msgstr "Eassia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:east-lan:primary"
+msgid "east-lan"
+msgstr "East-lan"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 8268
+msgctxt "tag:east-west_crossover:primary"
+msgid "east-west_crossover"
+msgstr "东西融合"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 84
+msgctxt "tag:east01_06:primary"
+msgid "east01_06"
+msgstr "east01_06"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:east6horizon:primary"
+msgid "east6horizon"
+msgstr "east6horizon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:east99hgs:primary"
+msgid "east99hgs"
+msgstr "east99hgs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 137
+msgctxt "tag:east_(east_0o0):primary"
+msgid "east_(east_0o0)"
+msgstr "East"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:east_(eastbighelp):primary"
+msgid "east_(eastbighelp)"
+msgstr "east"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:east_(hsdhsd2008123):primary"
+msgid "east_(hsdhsd2008123)"
+msgstr "east（hsdhsd2008123）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:east_(witch_hunter):primary"
+msgid "east_(witch_hunter)"
+msgstr "东方（Witch Hunter）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:east_100:primary"
+msgid "east_100"
+msgstr "East 100"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 3445
+#. aliases: 东亚人
+msgctxt "tag:east_asian:primary"
+msgid "east_asian"
+msgstr "东亚"
+
+#. alias-of: east_asian
+#. source: ai
+msgctxt "tag:east_asian:alias:1"
+msgid "east_asian"
+msgstr "东亚人"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.architecture
+#. safety: sfw
+#. post-count: 16127
+#. aliases: 和风建筑
+msgctxt "tag:east_asian_architecture:primary"
+msgid "east_asian_architecture"
+msgstr "东亚建筑"
+
+#. alias-of: east_asian_architecture
+#. source: ai
+msgctxt "tag:east_asian_architecture:alias:1"
+msgid "east_asian_architecture"
+msgstr "和风建筑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:east_coast_canuck:primary"
+msgid "east_coast_canuck"
+msgstr "东海岸加拿大佬"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:east_fortress_general:primary"
+msgid "east_fortress_general"
+msgstr "东方要塞将军"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:east_german_flag:primary"
+msgid "east_german_flag"
+msgstr "东德国旗"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 168
+msgctxt "tag:east_germany:primary"
+msgid "east_germany"
+msgstr "东德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:east_haiyang:primary"
+msgid "east_haiyang"
+msgstr "东海洋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:east_hyeon:primary"
+msgid "east_hyeon"
+msgstr "East Hyeon"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:east_japan_railway_company:primary"
+msgid "east_japan_railway_company"
+msgstr "JR东日本"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:east_kaiou:primary"
+msgid "east_kaiou"
+msgstr "东界王"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:east_lan:primary"
+msgid "east_lan"
+msgstr "东方岚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:east_longan_pearls_(the_tale_of_food):primary"
+msgid "east_longan_pearls_(the_tale_of_food)"
+msgstr "东龙眼珍珠（食物语）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:east_of_the_sun_and_west_of_the_moon:primary"
+msgid "east_of_the_sun_and_west_of_the_moon"
+msgstr "日之东月之西"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:east_river:primary"
+msgid "east_river"
+msgstr "East River"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 170
+msgctxt "tag:east_sha2:primary"
+msgid "east_sha2"
+msgstr "东方SHA2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:east_timorball:primary"
+msgid "east_timorball"
+msgstr "东帝汶球"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:east_wind's_no_fault_(shining_nikki):primary"
+msgid "east_wind's_no_fault_(shining_nikki)"
+msgstr "东风之过（闪耀暖暖）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 东方之木
+msgctxt "tag:east_wood:primary"
+msgid "east_wood"
+msgstr "东木"
+
+#. alias-of: east_wood
+#. source: ai
+msgctxt "tag:east_wood:alias:1"
+msgid "east_wood"
+msgstr "东方之木"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eastadraw2020:primary"
+msgid "eastadraw2020"
+msgstr "Eastadraw2020"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:eastar_bunny_boy_(project_sekai):primary"
+msgid "eastar_bunny_boy_(project_sekai)"
+msgstr "EASTAR兔男孩（世界计划）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:eastblue_95:primary"
+msgid "eastblue_95"
+msgstr "东蓝95"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:eastblueace:primary"
+msgid "eastblueace"
+msgstr "eastblueace"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eastbokujo:primary"
+msgid "eastbokujo"
+msgstr "东部牧场"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastcat94:primary"
+msgid "eastcat94"
+msgstr "eastcat94"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easted:primary"
+msgid "easted"
+msgstr "easted"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastenblack:primary"
+msgid "eastenblack"
+msgstr "Eastenblack"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastendoor:primary"
+msgid "eastendoor"
+msgstr "eastendoor"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 1631
+msgctxt "tag:easter:primary"
+msgid "easter"
+msgstr "复活节"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easter_(bishakalaka):primary"
+msgid "easter_(bishakalaka)"
+msgstr "Easter（Bishakalaka）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:easter_(ensemble_stars!):primary"
+msgid "easter_(ensemble_stars!)"
+msgstr "复活祭"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:easter_(skullgirls):primary"
+msgid "easter_(skullgirls)"
+msgstr "复活节（骷髅女孩）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.archetype_role
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:easter_bunny:primary"
+msgid "easter_bunny"
+msgstr "复活节兔子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:easter_bunny_(cosplay):primary"
+msgid "easter_bunny_(cosplay)"
+msgstr "复活节兔子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 2
+#. aliases: 奇迹暖暖复活节兔
+msgctxt "tag:easter_bunny_(miracle_nikki):primary"
+msgid "easter_bunny_(miracle_nikki)"
+msgstr "复活节兔子"
+
+#. alias-of: easter_bunny_(miracle_nikki)
+#. source: ai
+msgctxt "tag:easter_bunny_(miracle_nikki):alias:1"
+msgid "easter_bunny_(miracle_nikki)"
+msgstr "奇迹暖暖复活节兔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 2057
+msgctxt "tag:easter_egg:primary"
+msgid "easter_egg"
+msgstr "彩蛋"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easter_egg_(food_fantasy):primary"
+msgid "easter_egg_(food_fantasy)"
+msgstr "复活节彩蛋（Food Fantasy）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:easter_island:primary"
+msgid "easter_island"
+msgstr "复活节岛"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easter_jell-o_pie:primary"
+msgid "easter_jell-o_pie"
+msgstr "复活节果冻派"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:easter_lily:primary"
+msgid "easter_lily"
+msgstr "复活节百合"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 1
+#. aliases: 复活节人偶
+msgctxt "tag:easter_marching_doll_(project_sekai):primary"
+msgid "easter_marching_doll_(project_sekai)"
+msgstr "复活节行进人偶"
+
+#. alias-of: easter_marching_doll_(project_sekai)
+#. source: ai
+msgctxt "tag:easter_marching_doll_(project_sekai):alias:1"
+msgid "easter_marching_doll_(project_sekai)"
+msgstr "复活节人偶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:easter_miku:primary"
+msgid "easter_miku"
+msgstr "复活节初音未来"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:easter_night_(ensemble_stars!):primary"
+msgid "easter_night_(ensemble_stars!)"
+msgstr "复活节之夜"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:easter_wonderland:primary"
+msgid "easter_wonderland"
+msgstr "复活节仙境"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:easterhands:primary"
+msgid "easterhands"
+msgstr "easterhands"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:eastern-specs:primary"
+msgid "eastern-specs"
+msgstr "Eastern-specs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastern_(artist):primary"
+msgid "eastern_(artist)"
+msgstr "Eastern (画师)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastern_572:primary"
+msgid "eastern_572"
+msgstr "Eastern"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:eastern_and_little_nature_deity:primary"
+msgid "eastern_and_little_nature_deity"
+msgstr "东方与小自然神"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eastern_bluebird:primary"
+msgid "eastern_bluebird"
+msgstr "东蓝鸲"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eastern_cattle_egret:primary"
+msgid "eastern_cattle_egret"
+msgstr "牛背鹭"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 6384
+msgctxt "tag:eastern_dragon:primary"
+msgid "eastern_dragon"
+msgstr "东方龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eastern_dragon_(dungeon_meshi):primary"
+msgid "eastern_dragon_(dungeon_meshi)"
+msgstr "东龙"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.nonhuman.horns_wings_scales
+#. safety: sfw
+#. post-count: 3969
+msgctxt "tag:eastern_dragon_horns:primary"
+msgid "eastern_dragon_horns"
+msgstr "东方龙角"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:eastern_dragon_maid_(murgoten):primary"
+msgid "eastern_dragon_maid_(murgoten)"
+msgstr "东方龙女仆（梦龙）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eastern_dragon_print:primary"
+msgid "eastern_dragon_print"
+msgstr "东方龙印花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 2526
+msgctxt "tag:eastern_dragon_tail:primary"
+msgid "eastern_dragon_tail"
+msgstr "东方龙尾"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eastern_osprey_(kemono_friends)_(metamimi):primary"
+msgid "eastern_osprey_(kemono_friends)_(metamimi)"
+msgstr "东方鹗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:eastern_quoll_(kemono_friends):primary"
+msgid "eastern_quoll_(kemono_friends)"
+msgstr "东袋鼬"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastern_rosella:primary"
+msgid "eastern_rosella"
+msgstr "东部玫瑰鹦鹉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: 巨龟
+msgctxt "tag:eastern_santa_cruz_giant_tortoise_(kemono_friends):primary"
+msgid "eastern_santa_cruz_giant_tortoise_(kemono_friends)"
+msgstr "东圣克鲁斯巨龟"
+
+#. alias-of: eastern_santa_cruz_giant_tortoise_(kemono_friends)
+#. source: ai
+msgctxt "tag:eastern_santa_cruz_giant_tortoise_(kemono_friends):alias:1"
+msgid "eastern_santa_cruz_giant_tortoise_(kemono_friends)"
+msgstr "巨龟"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:eastern_spot-billed_duck:primary"
+msgid "eastern_spot-billed_duck"
+msgstr "东亚斑嘴鸭"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:eastern_wolf_(kemono_friends):primary"
+msgid "eastern_wolf_(kemono_friends)"
+msgstr "东部狼（兽娘动物园）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:eastern_wolf_(old_design)_(kemono_friends):primary"
+msgid "eastern_wolf_(old_design)_(kemono_friends)"
+msgstr "东部狼（旧设计）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eastern_youth:primary"
+msgid "eastern_youth"
+msgstr "东方少年"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:easterneuropeto:primary"
+msgid "easterneuropeto"
+msgstr "EasternEuropeTo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:easternrival:primary"
+msgid "easternrival"
+msgstr "easternrival"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastgohan:primary"
+msgid "eastgohan"
+msgstr "eastgohan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:easthies_(tongari_boushi_no_atelier):primary"
+msgid "easthies_(tongari_boushi_no_atelier)"
+msgstr "东希斯（魔法使之嫁）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastishpesto:primary"
+msgid "eastishpesto"
+msgstr "eastishpesto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastking1218:primary"
+msgid "eastking1218"
+msgstr "eastking1218"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:eastman:primary"
+msgid "eastman"
+msgstr "eastman"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastmonkey:primary"
+msgid "eastmonkey"
+msgstr "东猴"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:eastnewsound:primary"
+msgid "eastnewsound"
+msgstr "East New Sound"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eastside_9366:primary"
+msgid "eastside_9366"
+msgstr "eastside_9366"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eastsova:primary"
+msgid "eastsova"
+msgstr "Eastsova"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 101
+msgctxt "tag:eastward:primary"
+msgid "eastward"
+msgstr "向东"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eastwood_wong:primary"
+msgid "eastwood_wong"
+msgstr "eastwood_wong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eastxeden:primary"
+msgid "eastxeden"
+msgstr "Eastxeden"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:easty:primary"
+msgid "easty"
+msgstr "东"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:easu_(park_jihye):primary"
+msgid "easu_(park_jihye)"
+msgstr "Easu (朴智惠)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:easy-0426:primary"
+msgid "easy-0426"
+msgstr "easy-0426"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 377
+#. aliases: 轻松
+msgctxt "tag:easy_(aqk7bdqt):primary"
+msgid "easy_(aqk7bdqt)"
+msgstr "简单"
+
+#. alias-of: easy_(aqk7bdqt)
+#. source: ai
+msgctxt "tag:easy_(aqk7bdqt):alias:1"
+msgid "easy_(aqk7bdqt)"
+msgstr "轻松"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:easy_(drifters):primary"
+msgid "easy_(drifters)"
+msgstr "Easy（漂流者）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:easy_(easycrew):primary"
+msgid "easy_(easycrew)"
+msgstr "Easy Crew"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easy_(hazbin_hotel):primary"
+msgid "easy_(hazbin_hotel)"
+msgstr "Easy（《地狱客栈》）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.emotion.positive_emotion
+#. safety: sfw
+#. post-count: 98
+#. aliases: 悠闲
+msgctxt "tag:easy_breezy:primary"
+msgid "easy_breezy"
+msgstr "轻松惬意"
+
+#. alias-of: easy_breezy
+#. source: ai
+msgctxt "tag:easy_breezy:alias:1"
+msgid "easy_breezy"
+msgstr "悠闲"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.furniture
+#. safety: sfw
+#. post-count: 519
+#. aliases: 扶手椅
+msgctxt "tag:easy_chair:primary"
+msgid "easy_chair"
+msgstr "安乐椅"
+
+#. alias-of: easy_chair
+#. source: ai
+msgctxt "tag:easy_chair:alias:1"
+msgid "easy_chair"
+msgstr "扶手椅"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:easy_delivery_co.:primary"
+msgid "easy_delivery_co."
+msgstr "Easy Delivery Co."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:easy_eisaku:primary"
+msgid "easy_eisaku"
+msgstr "轻松英作"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+#. aliases: 快马
+msgctxt "tag:easy_goer_(racehorse):primary"
+msgid "easy_goer_(racehorse)"
+msgstr "Easy Goer"
+
+#. alias-of: easy_goer_(racehorse)
+#. source: ai
+msgctxt "tag:easy_goer_(racehorse):alias:1"
+msgid "easy_goer_(racehorse)"
+msgstr "快马"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 57
+#. aliases: 羽美
+msgctxt "tag:easy_hasumi_(blue_archive)_(mecham):primary"
+msgid "easy_hasumi_(blue_archive)_(mecham)"
+msgstr "羽美（蓝色档案）"
+
+#. alias-of: easy_hasumi_(blue_archive)_(mecham)
+#. source: ai
+msgctxt "tag:easy_hasumi_(blue_archive)_(mecham):alias:1"
+msgid "easy_hasumi_(blue_archive)_(mecham)"
+msgstr "羽美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:easy_itoki_(kelly123owo):primary"
+msgid "easy_itoki_(kelly123owo)"
+msgstr "Easy Itoki（kelly123owo）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easy_picture:primary"
+msgid "easy_picture"
+msgstr "简单图片"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:easy_rider_(movie):primary"
+msgid "easy_rider_(movie)"
+msgstr "《Easy Rider》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:easy_sadam:primary"
+msgid "easy_sadam"
+msgstr "Easy Sadam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easyd:primary"
+msgid "easyd"
+msgstr "easyd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:easyfunkycrazy:primary"
+msgid "easyfunkycrazy"
+msgstr "easyfunkycrazy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easygoing1484:primary"
+msgid "easygoing1484"
+msgstr "easygoing1484"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easyleng160819:primary"
+msgid "easyleng160819"
+msgstr "easyleng160819"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:easylook:primary"
+msgid "easylook"
+msgstr "easylook"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:easylucario:primary"
+msgid "easylucario"
+msgstr "easylucario"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:easymc2:primary"
+msgid "easymc2"
+msgstr "EasyMc2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:easyrider761:primary"
+msgid "easyrider761"
+msgstr "easyrider761"
+
+#. danbooru-category: 5
+#. taxonomy-id: 5.meta.process.generation_or_editing
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:easytoon_(medium):primary"
+msgid "easytoon_(medium)"
+msgstr "EasyToon媒介"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:easytyann:primary"
+msgid "easytyann"
+msgstr "Easytyann"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:easyyoooo:primary"
+msgid "easyyoooo"
+msgstr "easyyoooo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eat-17_expendable_anti-tank:primary"
+msgid "eat-17_expendable_anti-tank"
+msgstr "EAT-17一次性反坦克武器"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eat-horse-shoot:primary"
+msgid "eat-horse-shoot"
+msgstr "eat-horse-shoot"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:eat-man:primary"
+msgid "eat-man"
+msgstr "食人魔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eat-me:primary"
+msgid "eat-me"
+msgstr "eat-me"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:eat0123:primary"
+msgid "eat0123"
+msgstr "吃东西"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:eat666:primary"
+msgid "eat666"
+msgstr "Eat666"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 进食
+msgctxt "tag:eat_(7529831347):primary"
+msgid "eat_(7529831347)"
+msgstr "eat"
+
+#. alias-of: eat_(7529831347)
+#. source: ai
+msgctxt "tag:eat_(7529831347):alias:1"
+msgid "eat_(7529831347)"
+msgstr "进食"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eat_(nagabe):primary"
+msgid "eat_(nagabe)"
+msgstr "EAT（Nagabe）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:eat_8971:primary"
+msgid "eat_8971"
+msgstr "eat 8971"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:eat_cola:primary"
+msgid "eat_cola"
+msgstr "喝可乐"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.theme.symbolic_or_abstract_theme
+#. safety: sfw
+#. post-count: 172
+msgctxt "tag:eat_me:primary"
+msgid "eat_me"
+msgstr "吃我"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:eat_me_(vocaloid):primary"
+msgid "eat_me_(vocaloid)"
+msgstr "Eat Me（Vocaloid）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eat_my_manga:primary"
+msgid "eat_my_manga"
+msgstr "eat_my_manga"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eat_osushi:primary"
+msgid "eat_osushi"
+msgstr "eat_osushi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:eat_potatochip:primary"
+msgid "eat_potatochip"
+msgstr "eat_potatochip"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:eat_sleep_dance:primary"
+msgid "eat_sleep_dance"
+msgstr "吃睡舞"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:eat_sleep_x_repeat_(meme):primary"
+msgid "eat_sleep_x_repeat_(meme)"
+msgstr "吃睡重复（梗）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 82
+msgctxt "tag:eat_some_cookie:primary"
+msgid "eat_some_cookie"
+msgstr "吃饼干"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eat_some_eggs:primary"
+msgid "eat_some_eggs"
+msgstr "eat_some_eggs"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eat_the_rich:primary"
+msgid "eat_the_rich"
+msgstr "打倒富人"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 20
+#. aliases: 吃世界树
+msgctxt "tag:eat_the_world_tree:primary"
+msgid "eat_the_world_tree"
+msgstr "吞噬世界树"
+
+#. alias-of: eat_the_world_tree
+#. source: ai
+msgctxt "tag:eat_the_world_tree:alias:1"
+msgid "eat_the_world_tree"
+msgstr "吃世界树"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:eatalllot:primary"
+msgid "eatalllot"
+msgstr "eatalllot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eatanteater:primary"
+msgid "eatanteater"
+msgstr "eatanteater"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:eatbabies0:primary"
+msgid "eatbabies0"
+msgstr "eatbabies0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:eatbara:primary"
+msgid "eatbara"
+msgstr "食.bar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eatbrain_(friendly_unit93):primary"
+msgid "eatbrain_(friendly_unit93)"
+msgstr "eatbrain（friendly_unit93）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eatcat:primary"
+msgid "eatcat"
+msgstr "Eat Cat"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:eatchel_gustav:primary"
+msgid "eatchel_gustav"
+msgstr "Eatchel Gustav"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eatcookie3:primary"
+msgid "eatcookie3"
+msgstr "Eatcookie3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eateat030:primary"
+msgid "eateat030"
+msgstr "EATEAT030"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:eateatcookie:primary"
+msgid "eateatcookie"
+msgstr "eateatcookie"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eated_a_bees_(meme):primary"
+msgid "eated_a_bees_(meme)"
+msgstr "被蜜蜂蛰了（梗）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eatenchococake:primary"
+msgid "eatenchococake"
+msgstr "eatenchococake"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eater:primary"
+msgid "eater"
+msgstr "《Eater》"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eater._(neco):primary"
+msgid "eater._(neco)"
+msgstr "食者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 火焰联盟吞噬者
+msgctxt "tag:eater_(blaze_union):primary"
+msgid "eater_(blaze_union)"
+msgstr "吞噬者（Blaze Union）"
+
+#. alias-of: eater_(blaze_union)
+#. source: ai
+msgctxt "tag:eater_(blaze_union):alias:1"
+msgid "eater_(blaze_union)"
+msgstr "火焰联盟吞噬者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 83
+#. aliases: 食梦兽
+msgctxt "tag:eater_(digimon):primary"
+msgid "eater_(digimon)"
+msgstr "食梦兽 (数码宝贝)"
+
+#. alias-of: eater_(digimon)
+#. source: ai
+msgctxt "tag:eater_(digimon):alias:1"
+msgid "eater_(digimon)"
+msgstr "食梦兽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:eater_(humanoid_mode):primary"
+msgid "eater_(humanoid_mode)"
+msgstr "吞噬者（人形模式）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:eater_(purebreed_mode):primary"
+msgid "eater_(purebreed_mode)"
+msgstr "吞噬者（纯血模式）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:eater_adam:primary"
+msgid "eater_adam"
+msgstr "亚当"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:eater_bit:primary"
+msgid "eater_bit"
+msgstr "食者·比特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eater_chen:primary"
+msgid "eater_chen"
+msgstr "陈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:eater_eden:primary"
+msgid "eater_eden"
+msgstr "伊甸"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:eater_eve:primary"
+msgid "eater_eve"
+msgstr "食者·伊芙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:eater_legion:primary"
+msgid "eater_legion"
+msgstr "军团"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eater_of_millions:primary"
+msgid "eater_of_millions"
+msgstr "Eater of Millions"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eater_of_souls:primary"
+msgid "eater_of_souls"
+msgstr "噬魂者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:eater_of_worlds_(terraria):primary"
+msgid "eater_of_worlds_(terraria)"
+msgstr "世界吞噬怪（泰拉瑞亚）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eater_sabella:primary"
+msgid "eater_sabella"
+msgstr "萨贝拉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eatergamers:primary"
+msgid "eatergamers"
+msgstr "eatergamers"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eateuliseu:primary"
+msgid "eateuliseu"
+msgstr "Eateuliseu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eatgesso:primary"
+msgid "eatgesso"
+msgstr "eatgesso"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eatharm99:primary"
+msgid "eatharm99"
+msgstr "eatharm99"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eather_mei:primary"
+msgid "eather_mei"
+msgstr "Eather Mei"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 109265
+#. aliases: 吃
+msgctxt "tag:eating:primary"
+msgid "eating"
+msgstr "进食"
+
+#. alias-of: eating
+#. source: ai
+msgctxt "tag:eating:alias:1"
+msgid "eating"
+msgstr "吃"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eating403:primary"
+msgid "eating403"
+msgstr "Eating403"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:eating_(eetw7887):primary"
+msgid "eating_(eetw7887)"
+msgstr "eating"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eating_and_sleeping:primary"
+msgid "eating_and_sleeping"
+msgstr "饮食与睡眠"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:eating_bugs:primary"
+msgid "eating_bugs"
+msgstr "吃虫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 45
+#. aliases: 吞衣
+msgctxt "tag:eating_clothes:primary"
+msgid "eating_clothes"
+msgstr "吃衣服"
+
+#. alias-of: eating_clothes
+#. source: ai
+msgctxt "tag:eating_clothes:alias:1"
+msgid "eating_clothes"
+msgstr "吞衣"
+
+#. danbooru-category: 0
+#. taxonomy-id: 5.meta.event.challenge_or_celebration
+#. safety: sfw
+#. post-count: 74
+msgctxt "tag:eating_contest:primary"
+msgid "eating_contest"
+msgstr "大胃王比赛"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:eating_crayons:primary"
+msgid "eating_crayons"
+msgstr "吃蜡笔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:eating_during_class:primary"
+msgid "eating_during_class"
+msgstr "课上吃东西"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 185
+msgctxt "tag:eating_flower:primary"
+msgid "eating_flower"
+msgstr "吃花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 384
+msgctxt "tag:eating_hair:primary"
+msgid "eating_hair"
+msgstr "吃头发"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eating_halo:primary"
+msgid "eating_halo"
+msgstr "吃光环"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eating_hotwings:primary"
+msgid "eating_hotwings"
+msgstr "eating_hotwings"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 269
+msgctxt "tag:eating_non-food:primary"
+msgid "eating_non-food"
+msgstr "吃非食物"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: nsfw
+#. post-count: 17
+msgctxt "tag:eating_panties:primary"
+msgid "eating_panties"
+msgstr "吃内裤"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:eating_paper:primary"
+msgid "eating_paper"
+msgstr "吃纸"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eating_pectorals_(meme):primary"
+msgid "eating_pectorals_(meme)"
+msgstr "吃胸肌"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eating_snow:primary"
+msgid "eating_snow"
+msgstr "吃雪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:eating_the_chess_pieces_(meme):primary"
+msgid "eating_the_chess_pieces_(meme)"
+msgstr "吃棋子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:eatingbiscuts:primary"
+msgid "eatingbiscuts"
+msgstr "eatingbiscuts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eatingyarn:primary"
+msgid "eatingyarn"
+msgstr "eatingyarn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eatke_art_(linkhsu2946541):primary"
+msgid "eatke_art_(linkhsu2946541)"
+msgstr "Eatke Art"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eatle_(ben_10):primary"
+msgid "eatle_(ben_10)"
+msgstr "Eatle"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eatlrj:primary"
+msgid "eatlrj"
+msgstr "eatlrj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eatm7772:primary"
+msgid "eatm7772"
+msgstr "eatm7772"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.event.threat_failure_or_death
+#. safety: mixed
+#. post-count: 1
+msgctxt "tag:eaton_township_weis_markets_shooting:primary"
+msgid "eaton_township_weis_markets_shooting"
+msgstr "伊顿镇魏斯市场枪击案"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 105
+msgctxt "tag:eatora:primary"
+msgid "eatora"
+msgstr "伊托拉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:eatos:primary"
+msgid "eatos"
+msgstr "伊托斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eatosu:primary"
+msgid "eatosu"
+msgstr "Eatosu"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eats_a_lemon_and_dies_(meme):primary"
+msgid "eats_a_lemon_and_dies_(meme)"
+msgstr "吃柠檬会死"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:eatsleep1111_(ai_chan_1111):primary"
+msgid "eatsleep1111_(ai_chan_1111)"
+msgstr "eatsleep1111"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:eatslugs:primary"
+msgid "eatslugs"
+msgstr "吃蛞蝓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:eatsthgood:primary"
+msgid "eatsthgood"
+msgstr "eatsthgood"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eatthatcrab:primary"
+msgid "eatthatcrab"
+msgstr "EatThatCrab"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eatuly:primary"
+msgid "eatuly"
+msgstr "eatuly"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eatupall:primary"
+msgid "eatupall"
+msgstr "eatupall"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eatwaffles1:primary"
+msgid "eatwaffles1"
+msgstr "Eatwaffles1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:eau:primary"
+msgid "eau"
+msgstr "水"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eau_de_cologne:primary"
+msgid "eau_de_cologne"
+msgstr "古龙水"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eau_de_mushroom:primary"
+msgid "eau_de_mushroom"
+msgstr "eau_de_mushroom"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaude995:primary"
+msgid "eaude995"
+msgstr "eaude995"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eavan_(mabinogi):primary"
+msgid "eavan_(mabinogi)"
+msgstr "Eavan（洛奇）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eavdedd:primary"
+msgid "eavdedd"
+msgstr "eavdedd"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.architecture
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:eaves:primary"
+msgid "eaves"
+msgstr "屋檐"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.social_or_intentional_action
+#. safety: mixed
+#. post-count: 253
+#. aliases: 窃听
+msgctxt "tag:eavesdropping:primary"
+msgid "eavesdropping"
+msgstr "偷听"
+
+#. alias-of: eavesdropping
+#. source: ai
+msgctxt "tag:eavesdropping:alias:1"
+msgid "eavesdropping"
+msgstr "窃听"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eavlol_(vtuber):primary"
+msgid "eavlol_(vtuber)"
+msgstr "Eavlol"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eaxlightway:primary"
+msgid "eaxlightway"
+msgstr "eaxlightway"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eaysalmon:primary"
+msgid "eaysalmon"
+msgstr "Eaysalmon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:eaz_(dcex5335):primary"
+msgid "eaz_(dcex5335)"
+msgstr "EAZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eazek:primary"
+msgid "eazek"
+msgstr "Eazek"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eazone90:primary"
+msgid "eazone90"
+msgstr "eazone90"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:eazy_dance_(vocaloid):primary"
+msgid "eazy_dance_(vocaloid)"
+msgstr "Eazy Dance（Vocaloid）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eazy_e:primary"
+msgid "eazy_e"
+msgstr "Eazy-E"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eazy_e_(cosplay):primary"
+msgid "eazy_e_(cosplay)"
+msgstr "Eazy-E角色扮演"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:eazzionline:primary"
+msgid "eazzionline"
+msgstr "eazzionline"

@@ -1,0 +1,587 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:36+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:36+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nc:primary"
+msgid "nc"
+msgstr "NC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nc-8429:primary"
+msgid "nc-8429"
+msgstr "NC-8429"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: Arles NC
+msgctxt "tag:nc._(arles_nc):primary"
+msgid "nc._(arles_nc)"
+msgstr "NC"
+
+#. alias-of: nc._(arles_nc)
+#. source: ai
+msgctxt "tag:nc._(arles_nc):alias:1"
+msgid "nc._(arles_nc)"
+msgstr "Arles NC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nc2538:primary"
+msgid "nc2538"
+msgstr "nc2538"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:nc2_xgxh8273:primary"
+msgid "nc2_xgxh8273"
+msgstr "NC2_XGXH8273"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:nc4:primary"
+msgid "nc4"
+msgstr "NC4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 279
+msgctxt "tag:nc731:primary"
+msgid "nc731"
+msgstr "nc731"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nc_(nctiramisucat):primary"
+msgid "nc_(nctiramisucat)"
+msgstr "NC(nctiramisucat)"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nc_empire:primary"
+msgid "nc_empire"
+msgstr "NC帝国"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:nc_empire_(circle):primary"
+msgid "nc_empire_(circle)"
+msgstr "NC帝国"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nc_enushi:primary"
+msgid "nc_enushi"
+msgstr "NC Enushi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nc_zz0:primary"
+msgid "nc_zz0"
+msgstr "NC_ZZ0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ncatabc:primary"
+msgid "ncatabc"
+msgstr "NCATABC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncb6s_ujz:primary"
+msgid "ncb6s_ujz"
+msgstr "ncb6s_ujz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncbcontrol:primary"
+msgid "ncbcontrol"
+msgstr "ncbcontrol"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncc05217:primary"
+msgid "ncc05217"
+msgstr "ncc05217"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncdexiaoguan:primary"
+msgid "ncdexiaoguan"
+msgstr "ncdexiaoguan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ncec-ninja:primary"
+msgid "ncec-ninja"
+msgstr "NCEC-忍者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ncesium:primary"
+msgid "ncesium"
+msgstr "ncesium"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ncfnwzn:primary"
+msgid "ncfnwzn"
+msgstr "ncfnwzn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncha:primary"
+msgid "ncha"
+msgstr "ncha"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nchallenge:primary"
+msgid "nchallenge"
+msgstr "NChallenge"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nchan_gs:primary"
+msgid "nchan_gs"
+msgstr "N酱GS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nchang123xwx:primary"
+msgid "nchang123xwx"
+msgstr "nchang123xwx"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:nchans:primary"
+msgid "nchans"
+msgstr "Nchan们"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:nchans_style:primary"
+msgid "nchans_style"
+msgstr "N-chan风格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nchbt:primary"
+msgid "nchbt"
+msgstr "NCHBT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nchc6:primary"
+msgid "nchc6"
+msgstr "nchc6"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ncheng11good:primary"
+msgid "ncheng11good"
+msgstr "Ncheng"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nchi!:primary"
+msgid "nchi!"
+msgstr "nchi!"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nchibi:primary"
+msgid "nchibi"
+msgstr "nchibi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:nchitan3:primary"
+msgid "nchitan3"
+msgstr "nchitan3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:nchiu:primary"
+msgid "nchiu"
+msgstr "nchiu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:nchproductions:primary"
+msgid "nchproductions"
+msgstr "NCH制作组"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nchuke0721:primary"
+msgid "nchuke0721"
+msgstr "nchuke0721"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ncis:primary"
+msgid "ncis"
+msgstr "NCIS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ncj0810:primary"
+msgid "ncj0810"
+msgstr "ncj0810"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:nckak9rjjdjff4e:primary"
+msgid "nckak9rjjdjff4e"
+msgstr "nckak9rjjdjff4e"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:ncle_69:primary"
+msgid "ncle_69"
+msgstr "ncle_69"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:nclife:primary"
+msgid "nclife"
+msgstr "NCLife"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncn24108:primary"
+msgid "ncn24108"
+msgstr "ncn24108"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ncn828:primary"
+msgid "ncn828"
+msgstr "ncn828"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ncoll36:primary"
+msgid "ncoll36"
+msgstr "ncoll36"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ncone:primary"
+msgid "ncone"
+msgstr "NCone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 423
+#. aliases: ncontrail
+msgctxt "tag:ncontrail_(mgax7527):primary"
+msgid "ncontrail_(mgax7527)"
+msgstr "恩特雷尔"
+
+#. alias-of: ncontrail_(mgax7527)
+#. source: ai
+msgctxt "tag:ncontrail_(mgax7527):alias:1"
+msgid "ncontrail_(mgax7527)"
+msgstr "ncontrail"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncox9n9ioggnmb1:primary"
+msgid "ncox9n9ioggnmb1"
+msgstr "ncox9n9ioggnmb1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncprkwiibot:primary"
+msgid "ncprkwiibot"
+msgstr "NCPRKWIIBot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ncpsmr:primary"
+msgid "ncpsmr"
+msgstr "ncpsmr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncr124:primary"
+msgid "ncr124"
+msgstr "ncr124"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ncr_first_recon_soldier:primary"
+msgid "ncr_first_recon_soldier"
+msgstr "NCR第一侦察营士兵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:ncr_trooper:primary"
+msgid "ncr_trooper"
+msgstr "NCR士兵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 89
+msgctxt "tag:ncr_veteran_ranger:primary"
+msgid "ncr_veteran_ranger"
+msgstr "NCR游骑兵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 11
+#. aliases: NCR游侠COS
+msgctxt "tag:ncr_veteran_ranger_(cosplay):primary"
+msgid "ncr_veteran_ranger_(cosplay)"
+msgstr "NCR老兵游骑兵（Cosplay）"
+
+#. alias-of: ncr_veteran_ranger_(cosplay)
+#. source: ai
+msgctxt "tag:ncr_veteran_ranger_(cosplay):alias:1"
+msgid "ncr_veteran_ranger_(cosplay)"
+msgstr "NCR游侠COS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncromania:primary"
+msgid "ncromania"
+msgstr "ncromania"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ncross_125:primary"
+msgid "ncross_125"
+msgstr "NCross125"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ncs:primary"
+msgid "ncs"
+msgstr "NCS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncsmumi:primary"
+msgid "ncsmumi"
+msgstr "Ncsmumi"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:nct_(band):primary"
+msgid "nct_(band)"
+msgstr "NCT（乐队）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nctl:primary"
+msgid "nctl"
+msgstr "nctl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:nctn_patch:primary"
+msgid "nctn_patch"
+msgstr "NCTN补丁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ncvg:primary"
+msgid "ncvg"
+msgstr "NCVG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ncvkdc:primary"
+msgid "ncvkdc"
+msgstr "ncvkdc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncwkqozg:primary"
+msgid "ncwkqozg"
+msgstr "ncwkqozg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 128
+msgctxt "tag:ncww_rinichi:primary"
+msgid "ncww_rinichi"
+msgstr "ncww_rinichi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncwxsnpf:primary"
+msgid "ncwxsnpf"
+msgstr "Ncwxsnpf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ncxdjj:primary"
+msgid "ncxdjj"
+msgstr "ncxdjj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ncxlsxls:primary"
+msgid "ncxlsxls"
+msgstr "ncxlsxls"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ncxm2277:primary"
+msgid "ncxm2277"
+msgstr "NCXM2277"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nczw4343:primary"
+msgid "nczw4343"
+msgstr "nczw4343"

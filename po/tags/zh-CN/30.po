@@ -1,0 +1,965 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:30:primary"
+msgid "30"
+msgstr "30"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 312
+#. aliases: 3006弹
+msgctxt "tag:30-06:primary"
+msgid "30-06"
+msgstr "30-06弹"
+
+#. alias-of: 30-06
+#. source: ai
+msgctxt "tag:30-06:alias:1"
+msgid "30-06"
+msgstr "3006弹"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:30-30_repeater:primary"
+msgid "30-30_repeater"
+msgstr "温彻斯特M1894"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 44
+#. aliases: 三十岁魔法师
+msgctxt "tag:30-sai_made_doutei_dato_mahoutsukai_ni_nareru_rashii:primary"
+msgid "30-sai_made_doutei_dato_mahoutsukai_ni_nareru_rashii"
+msgstr "三十岁还是处男的话似乎能成为魔法师"
+
+#. alias-of: 30-sai_made_doutei_dato_mahoutsukai_ni_nareru_rashii
+#. source: ai
+msgctxt "tag:30-sai_made_doutei_dato_mahoutsukai_ni_nareru_rashii:alias:1"
+msgid "30-sai_made_doutei_dato_mahoutsukai_ni_nareru_rashii"
+msgstr "三十岁魔法师"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30-sai_made_doutei_de_itara_mahou_shoujo_ni_narimashita:primary"
+msgid "30-sai_made_doutei_de_itara_mahou_shoujo_ni_narimashita"
+msgstr "30岁还是处男的话就会变成魔法少女"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:30-sai_no_hoken_taiiku:primary"
+msgid "30-sai_no_hoken_taiiku"
+msgstr "30岁的保健体育"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:30-year-old_boomer_(meme):primary"
+msgid "30-year-old_boomer_(meme)"
+msgstr "30岁婴儿潮一代梗"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3000-nen_fuuinsareshi_jaryuu-chan_to_tomodachi_ni_narimashita:primary"
+msgid "3000-nen_fuuinsareshi_jaryuu-chan_to_tomodachi_ni_narimashita"
+msgstr "与被封印三千年的邪龙酱成为了朋友"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:30000000000:primary"
+msgid "30000000000"
+msgstr "30000000000"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30000_miles_under_the_sea:primary"
+msgid "30000_miles_under_the_sea"
+msgstr "海底三万里"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:3000_etc:primary"
+msgid "3000_etc"
+msgstr "3000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:3000_ff14:primary"
+msgid "3000_ff14"
+msgstr "最终幻想14"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:3000_xiao_chun:primary"
+msgid "3000_xiao_chun"
+msgstr "三千小春"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 3000熊
+msgctxt "tag:3000bears:primary"
+msgid "3000bears"
+msgstr "3000熊"
+
+#. alias-of: 3000bears
+#. source: ai
+msgctxt "tag:3000bears:alias:1"
+msgid "3000bears"
+msgstr "3000熊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3000haitai:primary"
+msgid "3000haitai"
+msgstr "3000haitai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:3000mhyouhyouriver:primary"
+msgid "3000mhyouhyouriver"
+msgstr "3000米冰瀑之河"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3000mld:primary"
+msgid "3000mld"
+msgstr "3000mld"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:3000tan:primary"
+msgid "3000tan"
+msgstr "三千"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:3000yen:primary"
+msgid "3000yen"
+msgstr "3000日元"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:3000zialg:primary"
+msgid "3000zialg"
+msgstr "3000zialg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:3001mg:primary"
+msgid "3001mg"
+msgstr "3001mg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:30020505:primary"
+msgid "30020505"
+msgstr "30020505"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3004cm:primary"
+msgid "3004cm"
+msgstr "3004cm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:300886:primary"
+msgid "300886"
+msgstr "300886"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 123
+#. aliases: 300
+msgctxt "tag:300_(movie):primary"
+msgid "300_(movie)"
+msgstr "斯巴达300勇士"
+
+#. alias-of: 300_(movie)
+#. source: ai
+msgctxt "tag:300_(movie):alias:1"
+msgid "300_(movie)"
+msgstr "300"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:300_(youshangbai):primary"
+msgid "300_(youshangbai)"
+msgstr "300（youshangbai）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:300_battles:primary"
+msgid "300_battles"
+msgstr "300战役"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:300_blackout:primary"
+msgid "300_blackout"
+msgstr "300 blackout"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.mobile_gacha
+#. safety: sfw
+#. post-count: 81
+msgctxt "tag:300_heroes:primary"
+msgid "300_heroes"
+msgstr "300英雄"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+#. aliases: 三百年后复活的大魔法师
+msgctxt "tag:300_nen_go_ni_fukkatsu_shita_dai_mahoutsukai:primary"
+msgid "300_nen_go_ni_fukkatsu_shita_dai_mahoutsukai"
+msgstr "300年后复活的大魔法师"
+
+#. alias-of: 300_nen_go_ni_fukkatsu_shita_dai_mahoutsukai
+#. source: ai
+msgctxt "tag:300_nen_go_ni_fukkatsu_shita_dai_mahoutsukai:alias:1"
+msgid "300_nen_go_ni_fukkatsu_shita_dai_mahoutsukai"
+msgstr "三百年后复活的大魔法师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:300_pm:primary"
+msgid "300_pm"
+msgstr "300_pm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:300beans666:primary"
+msgid "300beans666"
+msgstr "300beans666"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:300man-kiro:primary"
+msgid "300man-kiro"
+msgstr "300man-kiro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:300ml:primary"
+msgid "300ml"
+msgstr "300ml"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:300rei:primary"
+msgid "300rei"
+msgstr "300rei"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:300syumibito:primary"
+msgid "300syumibito"
+msgstr "300syumibito"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 300年
+msgctxt "tag:300years:primary"
+msgid "300years"
+msgstr "三百年"
+
+#. alias-of: 300years
+#. source: ai
+msgctxt "tag:300years:alias:1"
+msgid "300years"
+msgstr "300年"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:301:primary"
+msgid "301"
+msgstr "301"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:301094:primary"
+msgid "301094"
+msgstr "301094"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:3010shiki:primary"
+msgid "3010shiki"
+msgstr "3010式"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3012_desu:primary"
+msgid "3012_desu"
+msgstr "3012_desu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:3018:primary"
+msgid "3018"
+msgstr "3018"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30182562:primary"
+msgid "30182562"
+msgstr "30182562"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:3020_takimori:primary"
+msgid "3020_takimori"
+msgstr "3020 Takimori"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30214:primary"
+msgid "30214"
+msgstr "30214"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:3026233904yin:primary"
+msgid "3026233904yin"
+msgstr "3026233904yin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:3029045536:primary"
+msgid "3029045536"
+msgstr "3029045536"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:302go_shitsu:primary"
+msgid "302go_shitsu"
+msgstr "302go_shitsu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:302lion:primary"
+msgid "302lion"
+msgstr "302lion"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:302nd_rifle_division_(soviet_union):primary"
+msgid "302nd_rifle_division_(soviet_union)"
+msgstr "苏联第302步兵师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:302now:primary"
+msgid "302now"
+msgstr "302now"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:303:primary"
+msgid "303"
+msgstr "303"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:3030_15:primary"
+msgid "3030_15"
+msgstr "3030_15"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:3030ri:primary"
+msgid "3030ri"
+msgstr "3030ri"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:303_goushitsu_no_kamisama:primary"
+msgid "303_goushitsu_no_kamisama"
+msgstr "房间303的女神"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:303_haru:primary"
+msgid "303_haru"
+msgstr "303_haru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:303_jiu:primary"
+msgid "303_jiu"
+msgstr "303九"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:303milo:primary"
+msgid "303milo"
+msgstr "303milo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:303owo303:primary"
+msgid "303owo303"
+msgstr "303owo303"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:303xymm:primary"
+msgid "303xymm"
+msgstr "303xymm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:304back_s:primary"
+msgid "304back_s"
+msgstr "304back_s"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:3050973685:primary"
+msgid "3050973685"
+msgstr "3050973685"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:305482571:primary"
+msgid "305482571"
+msgstr "305482571"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:3056365256:primary"
+msgid "3056365256"
+msgstr "3056365256"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:305cm:primary"
+msgid "305cm"
+msgstr "305cm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:305xiaobai:primary"
+msgid "305xiaobai"
+msgstr "305小白"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3063919209:primary"
+msgid "3063919209"
+msgstr "3063919209"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:3066115054:primary"
+msgid "3066115054"
+msgstr "3066115054"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:306liri:primary"
+msgid "306liri"
+msgstr "306liri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:307010:primary"
+msgid "307010"
+msgstr "307010"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:307503233:primary"
+msgid "307503233"
+msgstr "307503233"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:3076188601:primary"
+msgid "3076188601"
+msgstr "3076188601"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:307_(west-garden):primary"
+msgid "307_(west-garden)"
+msgstr "307（west-garden）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3080g:primary"
+msgid "3080g"
+msgstr "3080g"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:3085fes:primary"
+msgid "3085fes"
+msgstr "3085fes"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:308886423:primary"
+msgid "308886423"
+msgstr "308886423"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:308albi:primary"
+msgid "308albi"
+msgstr "308Albi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:308min:primary"
+msgid "308min"
+msgstr "308min"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:309079077:primary"
+msgid "309079077"
+msgstr "309079077"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:309425413:primary"
+msgid "309425413"
+msgstr "309425413"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:309766845:primary"
+msgid "309766845"
+msgstr "309766845"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:309_(brazing-star):primary"
+msgid "309_(brazing-star)"
+msgstr "309（brazing-star）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30_(miso100dai):primary"
+msgid "30_(miso100dai)"
+msgstr "30"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:30_(mitsumaru):primary"
+msgid "30_(mitsumaru)"
+msgstr "30（三丸）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:30_(user_xnua7274):primary"
+msgid "30_(user_xnua7274)"
+msgstr "xnua7274"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:30_byou_suwa:primary"
+msgid "30_byou_suwa"
+msgstr "30Byou Suwa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30_for_30:primary"
+msgid "30_for_30"
+msgstr "30for30"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:30_minutes_missions:primary"
+msgid "30_minutes_missions"
+msgstr "30分钟任务"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 196
+#. aliases: 30MS
+msgctxt "tag:30_minutes_sisters:primary"
+msgid "30_minutes_sisters"
+msgstr "30分姐妹"
+
+#. alias-of: 30_minutes_sisters
+#. source: ai
+msgctxt "tag:30_minutes_sisters:alias:1"
+msgid "30_minutes_sisters"
+msgstr "30MS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30_mm30:primary"
+msgid "30_mm30"
+msgstr "30_mm30"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:30_ouo_61:primary"
+msgid "30_ouo_61"
+msgstr "30_ouo_61"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30_page_de_loop_suru_soshite_kimi_wo_shi_no_unmei_kara_sukuu:primary"
+msgid "30_page_de_loop_suru_soshite_kimi_wo_shi_no_unmei_kara_sukuu"
+msgstr "在30页内循环，并将你从死亡的命运中拯救出来"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:30_rock:primary"
+msgid "30_rock"
+msgstr "30 Rock"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 1
+#. aliases: 网络迷因
+msgctxt "tag:30_times_the_glass_was_not_strong_enough_(meme):primary"
+msgid "30_times_the_glass_was_not_strong_enough_(meme)"
+msgstr "30次玻璃都不够结实（梗）"
+
+#. alias-of: 30_times_the_glass_was_not_strong_enough_(meme)
+#. source: ai
+msgctxt "tag:30_times_the_glass_was_not_strong_enough_(meme):alias:1"
+msgid "30_times_the_glass_was_not_strong_enough_(meme)"
+msgstr "网络迷因"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:30amamiya_r:primary"
+msgid "30amamiya_r"
+msgstr "30amamiya_R"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30amari1:primary"
+msgid "30amari1"
+msgstr "30amari1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:30cln1cg:primary"
+msgid "30cln1cg"
+msgstr "30cln1cg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:30clock:primary"
+msgid "30clock"
+msgstr "30clock"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:30en_(esx5g):primary"
+msgid "30en_(esx5g)"
+msgstr "30EN"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:30girl.com:primary"
+msgid "30girl.com"
+msgstr "30girl.com"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30jikanneruuuuu:primary"
+msgid "30jikanneruuuuu"
+msgstr "30jikanneruuuuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:30l:primary"
+msgid "30l"
+msgstr "30l"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:30ml:primary"
+msgid "30ml"
+msgstr "30毫升"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:30re:primary"
+msgid "30re"
+msgstr "30Re"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:30sugarnoice:primary"
+msgid "30sugarnoice"
+msgstr "30Sugarnoice"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30tfi:primary"
+msgid "30tfi"
+msgstr "30tfi"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.outdoor_urban
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30th_street_station:primary"
+msgid "30th_street_station"
+msgstr "30街车站"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 30票
+msgctxt "tag:30tickets:primary"
+msgid "30tickets"
+msgstr "30tickets"
+
+#. alias-of: 30tickets
+#. source: ai
+msgctxt "tag:30tickets:alias:1"
+msgid "30tickets"
+msgstr "30票"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30volt:primary"
+msgid "30volt"
+msgstr "30volt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:30wmx:primary"
+msgid "30wmx"
+msgstr "30wmx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:30x_x02:primary"
+msgid "30x_x02"
+msgstr "30x_x02"

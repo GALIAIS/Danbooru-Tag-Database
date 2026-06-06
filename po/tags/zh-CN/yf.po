@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:50+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:50+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:yf:primary"
+msgid "yf"
+msgstr "YF"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yf-11:primary"
+msgid "yf-11"
+msgstr "YF-11"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 93
+msgctxt "tag:yf-19:primary"
+msgid "yf-19"
+msgstr "YF-19"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yf-192:primary"
+msgid "yf-192"
+msgstr "YF-192"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:yf-21:primary"
+msgid "yf-21"
+msgstr "YF-21"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yf-22:primary"
+msgid "yf-22"
+msgstr "YF-22"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:yf-23:primary"
+msgid "yf-23"
+msgstr "YF-23"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yf-25:primary"
+msgid "yf-25"
+msgstr "YF-25"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:yf-29:primary"
+msgid "yf-29"
+msgstr "YF-29"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yf-29_(cosplay):primary"
+msgid "yf-29_(cosplay)"
+msgstr "YF-29（角色扮演）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:yf-30:primary"
+msgid "yf-30"
+msgstr "YF-30"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:yf_(hbyg):primary"
+msgid "yf_(hbyg)"
+msgstr "yf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yf_(hgjvjezarne5xh):primary"
+msgid "yf_(hgjvjezarne5xh)"
+msgstr "yf_(hgjvjezarne5xh)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yf_en_e1:primary"
+msgid "yf_en_e1"
+msgstr "YF-EN-E1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:yf_studio:primary"
+msgid "yf_studio"
+msgstr "YF工作室"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yfa01669:primary"
+msgid "yfa01669"
+msgstr "yfa01669"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yfafxyx:primary"
+msgid "yfafxyx"
+msgstr "yfafxyx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yfcm8378:primary"
+msgid "yfcm8378"
+msgstr "YFCM8378"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:yfdxh:primary"
+msgid "yfdxh"
+msgstr "yfdxh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:yfel-axel:primary"
+msgid "yfel-axel"
+msgstr "Yfel-Axel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yff25147:primary"
+msgid "yff25147"
+msgstr "yff25147"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:yfm_(mrk):primary"
+msgid "yfm_(mrk)"
+msgstr "YFM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:yfmaichobmkr:primary"
+msgid "yfmaichobmkr"
+msgstr "yfmaichobmkr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yfmx133333:primary"
+msgid "yfmx133333"
+msgstr "yfmx133333"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yfngls:primary"
+msgid "yfngls"
+msgstr "Yfngls"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yfokito04:primary"
+msgid "yfokito04"
+msgstr "yfokito04"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:yfq:primary"
+msgid "yfq"
+msgstr "yfq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:yft000:primary"
+msgid "yft000"
+msgstr "yft000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yft107316:primary"
+msgid "yft107316"
+msgstr "YFT107316"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:yfu:primary"
+msgid "yfu"
+msgstr "YFU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:yfwdec22:primary"
+msgid "yfwdec22"
+msgstr "YFW 2022-12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:yfwid_harley:primary"
+msgid "yfwid_harley"
+msgstr "哈莉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:yfy:primary"
+msgid "yfy"
+msgstr "yfy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:yfz:primary"
+msgid "yfz"
+msgstr "YFZ"

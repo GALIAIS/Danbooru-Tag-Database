@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:45+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:45+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:t1000g_metamon:primary"
+msgid "t1000g_metamon"
+msgstr "T1000G Metamon"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:t110_heavy_tank:primary"
+msgid "t110_heavy_tank"
+msgstr "T110重型坦克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:t112:primary"
+msgid "t112"
+msgstr "T-112"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:t11830:primary"
+msgid "t11830"
+msgstr "T11830"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:t12t12:primary"
+msgid "t12t12"
+msgstr "t12t12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t14141414:primary"
+msgid "t14141414"
+msgstr "t14141414"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t14_heavy_tank:primary"
+msgid "t14_heavy_tank"
+msgstr "T14重型坦克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:t1669760880301:primary"
+msgid "t1669760880301"
+msgstr "t1669760880301"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:t17e1_staghound:primary"
+msgid "t17e1_staghound"
+msgstr "T17E1蹄兔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:t19er:primary"
+msgid "t19er"
+msgstr "t19er"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 27
+#. aliases: T1
+msgctxt "tag:t1_(esports):primary"
+msgid "t1_(esports)"
+msgstr "T1战队"
+
+#. alias-of: t1_(esports)
+#. source: ai
+msgctxt "tag:t1_(esports):alias:1"
+msgid "t1_(esports)"
+msgstr "T1"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t1_heavy_tank:primary"
+msgid "t1_heavy_tank"
+msgstr "T1重型坦克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t1_yone:primary"
+msgid "t1_yone"
+msgstr "T1 Yone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:t1fdc:primary"
+msgid "t1fdc"
+msgstr "T1FDC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:t1g:primary"
+msgid "t1g"
+msgstr "T1G"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:t1ger_spuma:primary"
+msgid "t1ger_spuma"
+msgstr "t1ger_spuma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t1gress:primary"
+msgid "t1gress"
+msgstr "T1格斗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 645
+#. aliases: 女孩
+msgctxt "tag:t1kosewad:primary"
+msgid "t1kosewad"
+msgstr "1女孩"
+
+#. alias-of: t1kosewad
+#. source: ai
+msgctxt "tag:t1kosewad:alias:1"
+msgid "t1kosewad"
+msgstr "女孩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t1kosewad_(style):primary"
+msgid "t1kosewad_(style)"
+msgstr "T1kosewad风格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t1me_tellzzz:primary"
+msgid "t1me_tellzzz"
+msgstr "t1me_tellzzz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:t1milikes2:primary"
+msgid "t1milikes2"
+msgstr "T1milikes2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:t1nal:primary"
+msgid "t1nal"
+msgstr "T1nal"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t1red13:primary"
+msgid "t1red13"
+msgstr "T1RED13"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:t1tans90:primary"
+msgid "t1tans90"
+msgstr "t1tans90"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:t1tsu_kyun:primary"
+msgid "t1tsu_kyun"
+msgstr "t1tsu_kyun"

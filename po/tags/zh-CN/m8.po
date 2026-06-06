@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:32+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:32+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:m8:primary"
+msgid "m8"
+msgstr "m8"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:m82_(apprentice_extraordinaire)_(girls'_frontline):primary"
+msgid "m82_(apprentice_extraordinaire)_(girls'_frontline)"
+msgstr "M82"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:m82_(girls'_frontline):primary"
+msgid "m82_(girls'_frontline)"
+msgstr "M82"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: M82
+msgctxt "tag:m82_(kitty_chorus)_(girls'_frontline):primary"
+msgid "m82_(kitty_chorus)_(girls'_frontline)"
+msgstr "M82"
+
+#. alias-of: m82_(kitty_chorus)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:m82_(kitty_chorus)_(girls'_frontline):alias:1"
+msgid "m82_(kitty_chorus)_(girls'_frontline)"
+msgstr "M82"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:m82a1_(girls'_frontline):primary"
+msgid "m82a1_(girls'_frontline)"
+msgstr "M82A1"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:m82a1_(out_of_darkness)_(girls'_frontline):primary"
+msgid "m82a1_(out_of_darkness)_(girls'_frontline)"
+msgstr "M82A1（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:m82sama:primary"
+msgid "m82sama"
+msgstr "M82大人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:m833068161:primary"
+msgid "m833068161"
+msgstr "m833068161"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:m83_smoke_grenade:primary"
+msgid "m83_smoke_grenade"
+msgstr "M83烟雾弹"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:m84_stun_grenade:primary"
+msgid "m84_stun_grenade"
+msgstr "M84眩晕手榴弹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 156
+#. aliases: M870霰弹枪
+msgctxt "tag:m870_(girls'_frontline):primary"
+msgid "m870_(girls'_frontline)"
+msgstr "M870"
+
+#. alias-of: m870_(girls'_frontline)
+#. source: ai
+msgctxt "tag:m870_(girls'_frontline):alias:1"
+msgid "m870_(girls'_frontline)"
+msgstr "M870霰弹枪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:m870_(pumpkin_fortress)_(girls'_frontline):primary"
+msgid "m870_(pumpkin_fortress)_(girls'_frontline)"
+msgstr "M870（南瓜堡垒，少女前线）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.fantasy_or_sci_fi
+#. safety: sfw
+#. post-count: 104
+msgctxt "tag:m87_black_hole:primary"
+msgid "m87_black_hole"
+msgstr "M87黑洞"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m87_illustration:primary"
+msgid "m87_illustration"
+msgstr "m87插画"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m88030253:primary"
+msgid "m88030253"
+msgstr "m88030253"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:m888992l7:primary"
+msgid "m888992l7"
+msgstr "m888992l7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:m88km88k:primary"
+msgid "m88km88k"
+msgstr "M88K"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:m893:primary"
+msgid "m893"
+msgstr "M893"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:m8_6nn:primary"
+msgid "m8_6nn"
+msgstr "m8_6nn"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:m8_greyhound:primary"
+msgid "m8_greyhound"
+msgstr "M8灰狗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m8_howitzer_(panzer_waltz):primary"
+msgid "m8_howitzer_(panzer_waltz)"
+msgstr "M8榴弹炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m8_scott:primary"
+msgid "m8_scott"
+msgstr "M8 Scott"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:m8a1:primary"
+msgid "m8a1"
+msgstr "M8A1"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:m8l8th:primary"
+msgid "m8l8th"
+msgstr "M8L8th"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:m8n8xide:primary"
+msgid "m8n8xide"
+msgstr "m8n8xide"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m8nort:primary"
+msgid "m8nort"
+msgstr "M8NORT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m8nstruckluv:primary"
+msgid "m8nstruckluv"
+msgstr "M8nstruckluv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:m8w8m:primary"
+msgid "m8w8m"
+msgstr "m8w8m"

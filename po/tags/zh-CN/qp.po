@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:39+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:39+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:qp-mayomayo:primary"
+msgid "qp-mayomayo"
+msgstr "qp-mayomayo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qp4400:primary"
+msgid "qp4400"
+msgstr "QP4400"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qp7mag7eswhllqe:primary"
+msgid "qp7mag7eswhllqe"
+msgstr "qp7mag7eswhllqe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 2636
+#. aliases: 短发女郎
+msgctxt "tag:qp:flapper:primary"
+msgid "qp:flapper"
+msgstr "飞发女郎"
+
+#. alias-of: qp:flapper
+#. source: ai
+msgctxt "tag:qp:flapper:alias:1"
+msgid "qp:flapper"
+msgstr "短发女郎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:qp_(caligula_2):primary"
+msgid "qp_(caligula_2)"
+msgstr "QP"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:qp_(orange_juice):primary"
+msgid "qp_(orange_juice)"
+msgstr "QP(Orange Juice)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+#. aliases: QP
+msgctxt "tag:qp_(qp_anipokopi):primary"
+msgid "qp_(qp_anipokopi)"
+msgstr "QP"
+
+#. alias-of: qp_(qp_anipokopi)
+#. source: ai
+msgctxt "tag:qp_(qp_anipokopi):alias:1"
+msgid "qp_(qp_anipokopi)"
+msgstr "QP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: qp
+msgctxt "tag:qp_(qpkpqpkp):primary"
+msgid "qp_(qpkpqpkp)"
+msgstr "qp（qpkpqpkp）"
+
+#. alias-of: qp_(qpkpqpkp)
+#. source: ai
+msgctxt "tag:qp_(qpkpqpkp):alias:1"
+msgid "qp_(qpkpqpkp)"
+msgstr "qp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:qp_mellang:primary"
+msgid "qp_mellang"
+msgstr "qp_mellang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qp_s3_96:primary"
+msgid "qp_s3_96"
+msgstr "qp_s3_96"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:qp_shooting:primary"
+msgid "qp_shooting"
+msgstr "qp_shooting"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qpa5455:primary"
+msgid "qpa5455"
+msgstr "qpa5455"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:qpafterhours_(voice_actor):primary"
+msgid "qpafterhours_(voice_actor)"
+msgstr "qpafterhours（声优）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:qpalql:primary"
+msgid "qpalql"
+msgstr "qpalql"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qpdb:primary"
+msgid "qpdb"
+msgstr "qpdb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:qpeatcat:primary"
+msgid "qpeatcat"
+msgstr "qpeatcat"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Pinkshonen
+msgctxt "tag:qper_(pinkshonen):primary"
+msgid "qper_(pinkshonen)"
+msgstr "Qper"
+
+#. alias-of: qper_(pinkshonen)
+#. source: ai
+msgctxt "tag:qper_(pinkshonen):alias:1"
+msgid "qper_(pinkshonen)"
+msgstr "Pinkshonen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qpi_tink:primary"
+msgid "qpi_tink"
+msgstr "Qpi Tink"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qpllo_(mochi):primary"
+msgid "qpllo_(mochi)"
+msgstr "Qpllo（Mochi）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:qplus:primary"
+msgid "qplus"
+msgstr "Q+"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qpnddbbxwjwixmx:primary"
+msgid "qpnddbbxwjwixmx"
+msgstr "Qpnddbbxwjwixmx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qpoisii:primary"
+msgid "qpoisii"
+msgstr "qpoisii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qpoz_(1704740):primary"
+msgid "qpoz_(1704740)"
+msgstr "qpoz_(1704740)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:qpporori:primary"
+msgid "qpporori"
+msgstr "Q波波罗里"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:qpqowpqp:primary"
+msgid "qpqowpqp"
+msgstr "qpqowpqp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:qpqpqp117117:primary"
+msgid "qpqpqp117117"
+msgstr "qpqpqp117117"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Q宝
+msgctxt "tag:qpro_(beatmania):primary"
+msgid "qpro_(beatmania)"
+msgstr "Qpro（beatmania）"
+
+#. alias-of: qpro_(beatmania)
+#. source: ai
+msgctxt "tag:qpro_(beatmania):alias:1"
+msgid "qpro_(beatmania)"
+msgstr "Q宝"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:qpsk_6:primary"
+msgid "qpsk_6"
+msgstr "QPSK-6"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:qptote:primary"
+msgid "qptote"
+msgstr "qptote"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:qpwksnaz:primary"
+msgid "qpwksnaz"
+msgstr "qpwksnaz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qpwoei4756:primary"
+msgid "qpwoei4756"
+msgstr "qpwoei4756"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qpwoeiru_0192:primary"
+msgid "qpwoeiru_0192"
+msgstr "Qpwoeiru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qpwoqp14:primary"
+msgid "qpwoqp14"
+msgstr "qpwoqp14"

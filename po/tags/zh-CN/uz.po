@@ -1,0 +1,3432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:47+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:47+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uz-cartoons:primary"
+msgid "uz-cartoons"
+msgstr "uz-cartoons"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uz24:primary"
+msgid "uz24"
+msgstr "UZ24"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uz3_str:primary"
+msgid "uz3_str"
+msgstr "uz3_str"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:uz3d:primary"
+msgid "uz3d"
+msgstr "UZ3D"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 240
+msgctxt "tag:uz_(uzru0428):primary"
+msgid "uz_(uzru0428)"
+msgstr "uz"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uz_(vocaloid):primary"
+msgid "uz_(vocaloid)"
+msgstr "uz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:uz_trpg_414:primary"
+msgid "uz_trpg_414"
+msgstr "UZ跑团414"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uz_yiy:primary"
+msgid "uz_yiy"
+msgstr "UZ_YIY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:uza:primary"
+msgid "uza"
+msgstr "Uza"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:uza435:primary"
+msgid "uza435"
+msgstr "uza435"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 130
+msgctxt "tag:uza_(hellme):primary"
+msgid "uza_(hellme)"
+msgstr "Uza"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzaara:primary"
+msgid "uzaara"
+msgstr "乌扎拉"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 4
+msgctxt "tag:uzagarami_gyaru_no_isourou_ga_ore_no_heya_kara_deteikanai.:primary"
+msgid "uzagarami_gyaru_no_isourou_ga_ore_no_heya_kara_deteikanai."
+msgstr "纠缠不休的辣妹幽灵从我的房间里出不去。"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzagi:primary"
+msgid "uzagi"
+msgstr "uzagi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzagv:primary"
+msgid "uzagv"
+msgstr "uzagv"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzai_(nijiura_maids):primary"
+msgid "uzai_(nijiura_maids)"
+msgstr "UZAI（Nijiura Maids）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzai_(tsukyomi33):primary"
+msgid "uzai_(tsukyomi33)"
+msgstr "Uzai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzair_rashid:primary"
+msgid "uzair_rashid"
+msgstr "Uzair Rashid"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2504
+#. aliases: 宇崎
+msgctxt "tag:uzaki-chan_wa_asobitai!:primary"
+msgid "uzaki-chan_wa_asobitai!"
+msgstr "宇崎学妹想要玩！"
+
+#. alias-of: uzaki-chan_wa_asobitai!
+#. source: ai
+msgctxt "tag:uzaki-chan_wa_asobitai!:alias:1"
+msgid "uzaki-chan_wa_asobitai!"
+msgstr "宇崎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 297
+#. aliases: 宇崎
+msgctxt "tag:uzaki_(jiro):primary"
+msgid "uzaki_(jiro)"
+msgstr "宇崎次郎"
+
+#. alias-of: uzaki_(jiro)
+#. source: ai
+msgctxt "tag:uzaki_(jiro):alias:1"
+msgid "uzaki_(jiro)"
+msgstr "宇崎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzaki_fujio:primary"
+msgid "uzaki_fujio"
+msgstr "宇崎藤雄"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1452
+#. aliases: uzaki_hana
+msgctxt "tag:uzaki_hana:primary"
+msgid "uzaki_hana"
+msgstr "宇崎花"
+
+#. alias-of: uzaki_hana
+#. source: ai
+msgctxt "tag:uzaki_hana:alias:1"
+msgid "uzaki_hana"
+msgstr "uzaki_hana"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:uzaki_hana_(cosplay):primary"
+msgid "uzaki_hana_(cosplay)"
+msgstr "宇崎花(角色扮演)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:uzaki_hitomi:primary"
+msgid "uzaki_hitomi"
+msgstr "宇崎日和"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzaki_hitomi_(cosplay):primary"
+msgid "uzaki_hitomi_(cosplay)"
+msgstr "宇崎瞳（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzaki_kiri:primary"
+msgid "uzaki_kiri"
+msgstr "宇崎桐"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzaki_mayuu:primary"
+msgid "uzaki_mayuu"
+msgstr "宇崎麻友"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzaki_moi:primary"
+msgid "uzaki_moi"
+msgstr "宇崎萌"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzaki_ran:primary"
+msgid "uzaki_ran"
+msgstr "宇崎兰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 宇崎兰cos
+msgctxt "tag:uzaki_ran_(cosplay):primary"
+msgid "uzaki_ran_(cosplay)"
+msgstr "宇崎兰（Cosplay）"
+
+#. alias-of: uzaki_ran_(cosplay)
+#. source: ai
+msgctxt "tag:uzaki_ran_(cosplay):alias:1"
+msgid "uzaki_ran_(cosplay)"
+msgstr "宇崎兰cos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1103
+msgctxt "tag:uzaki_tsuki:primary"
+msgid "uzaki_tsuki"
+msgstr "宇崎月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 207
+msgctxt "tag:uzaki_yanagi:primary"
+msgid "uzaki_yanagi"
+msgstr "宇崎柳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzakiya_yuma:primary"
+msgid "uzakiya_yuma"
+msgstr "uzakiya_yuma"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:uzal_delilah:primary"
+msgid "uzal_delilah"
+msgstr "乌扎尔·迪利拉"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:uzanee!!:primary"
+msgid "uzanee!!"
+msgstr "uzanee!!"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzaro5656:primary"
+msgid "uzaro5656"
+msgstr "uzaro5656"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:uzattei_uzannu:primary"
+msgid "uzattei_uzannu"
+msgstr "Uzattei Uzannu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzausa:primary"
+msgid "uzausa"
+msgstr "Uzausa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzawa_mifuyu:primary"
+msgid "uzawa_mifuyu"
+msgstr "鵜泽美冬"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzawa_rii:primary"
+msgid "uzawa_rii"
+msgstr "鵜澤莉莉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Uzawa Shoutarou
+msgctxt "tag:uzawa_shoutarou:primary"
+msgid "uzawa_shoutarou"
+msgstr "鵜沢翔太朗"
+
+#. alias-of: uzawa_shoutarou
+#. source: ai
+msgctxt "tag:uzawa_shoutarou:alias:1"
+msgid "uzawa_shoutarou"
+msgstr "Uzawa Shoutarou"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.fashion_or_costume_style
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:uzbek_clothes:primary"
+msgid "uzbek_clothes"
+msgstr "乌兹别克服饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzbek_flag:primary"
+msgid "uzbek_flag"
+msgstr "乌兹别克斯坦国旗"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzbek_text:primary"
+msgid "uzbek_text"
+msgstr "乌兹别克语文字"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:uzbekis-tan:primary"
+msgid "uzbekis-tan"
+msgstr "乌兹别克斯坦娘"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:uzbekistan:primary"
+msgid "uzbekistan"
+msgstr "乌兹别克斯坦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzbekistanball:primary"
+msgid "uzbekistanball"
+msgstr "乌兹别克斯坦球"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:uzcoco_66:primary"
+msgid "uzcoco_66"
+msgstr "uzcoco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzcov:primary"
+msgid "uzcov"
+msgstr "Uzcov"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:uzda_ricecake:primary"
+msgid "uzda_ricecake"
+msgstr "Uzda年糕"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uze24:primary"
+msgid "uze24"
+msgstr "uze24"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uze_(harrytoyashiba0):primary"
+msgid "uze_(harrytoyashiba0)"
+msgstr "Uze"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uze_va:primary"
+msgid "uze_va"
+msgstr "uze_va"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 89
+msgctxt "tag:uzen_kyouka:primary"
+msgid "uzen_kyouka"
+msgstr "宇善京华"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzen_kyouka_(cosplay):primary"
+msgid "uzen_kyouka_(cosplay)"
+msgstr "雨前京香（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzhas_(ragnarok_online):primary"
+msgid "uzhas_(ragnarok_online)"
+msgstr "Uzhas"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 417
+#. aliases: Uzi
+msgctxt "tag:uzi:primary"
+msgid "uzi"
+msgstr "乌兹"
+
+#. alias-of: uzi
+#. source: ai
+msgctxt "tag:uzi:alias:1"
+msgid "uzi"
+msgstr "Uzi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzi_(artist):primary"
+msgid "uzi_(artist)"
+msgstr "uzi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzi_(dogeist):primary"
+msgid "uzi_(dogeist)"
+msgstr "uzi (dogeist)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzi_(gamer):primary"
+msgid "uzi_(gamer)"
+msgstr "Uzi（选手）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:uzi_(kei_t_drawing):primary"
+msgid "uzi_(kei_t_drawing)"
+msgstr "uzi（kei_t_drawing）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 167
+msgctxt "tag:uzi_(murder_drones):primary"
+msgid "uzi_(murder_drones)"
+msgstr "乌兹"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: Uzi Cosplay (Murder Drones)
+msgctxt "tag:uzi_(murder_drones)_(cosplay):primary"
+msgid "uzi_(murder_drones)_(cosplay)"
+msgstr "Uzi（Murder Drones）Cosplay"
+
+#. alias-of: uzi_(murder_drones)_(cosplay)
+#. source: ai
+msgctxt "tag:uzi_(murder_drones)_(cosplay):alias:1"
+msgid "uzi_(murder_drones)_(cosplay)"
+msgstr "Uzi Cosplay (Murder Drones)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:uzi_346:primary"
+msgid "uzi_346"
+msgstr "UZI 346"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzi_hope99:primary"
+msgid "uzi_hope99"
+msgstr "UZI希望99"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzi_pro:primary"
+msgid "uzi_pro"
+msgstr "UZI Pro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzi_villain:primary"
+msgid "uzi_villain"
+msgstr "Uzi Villain"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uziaru:primary"
+msgid "uziaru"
+msgstr "uziaru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:uzicha:primary"
+msgid "uzicha"
+msgstr "Uzicha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzico:primary"
+msgid "uzico"
+msgstr "Uzico"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uziel_(d-rex):primary"
+msgid "uziel_(d-rex)"
+msgstr "乌齐尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzii_io:primary"
+msgid "uzii_io"
+msgstr "Uzii Io"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uziiware:primary"
+msgid "uziiware"
+msgstr "Uziiware"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:uziki_ntoki:primary"
+msgid "uziki_ntoki"
+msgstr "uziki_ntoki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:uzikowa:primary"
+msgid "uzikowa"
+msgstr "uzikowa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzileks:primary"
+msgid "uzileks"
+msgstr "uzileks"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzimaccha:primary"
+msgid "uzimaccha"
+msgstr "uzimaccha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:uzimusi_fgo:primary"
+msgid "uzimusi_fgo"
+msgstr "Uzimusi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzinaaaa:primary"
+msgid "uzinaaaa"
+msgstr "uzinaaaa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzisuv:primary"
+msgid "uzisuv"
+msgstr "uzisuv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uziteas:primary"
+msgid "uziteas"
+msgstr "uziteas"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uziuzi_v:primary"
+msgid "uziuzi_v"
+msgstr "uziuzi_v"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzm1a:primary"
+msgid "uzm1a"
+msgstr "Uzm1a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:uzmee:primary"
+msgid "uzmee"
+msgstr "uzmee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzmk:primary"
+msgid "uzmk"
+msgstr "UZMK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzo-uzo:primary"
+msgid "uzo-uzo"
+msgstr "uzo-uzo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzo_3o:primary"
+msgid "uzo_3o"
+msgstr "uzo_3o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzodayo:primary"
+msgid "uzodayo"
+msgstr "uzodayo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzoi_(somali_to_mori_no_kami-sama):primary"
+msgid "uzoi_(somali_to_mori_no_kami-sama)"
+msgstr "Uzoi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzoike_zumishi:primary"
+msgid "uzoike_zumishi"
+msgstr "Uzoike Zumishi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzomuzo:primary"
+msgid "uzomuzo"
+msgstr "uzomuzo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzomuzo108:primary"
+msgid "uzomuzo108"
+msgstr "uzomuzo108"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:uzono_(yuushitsu):primary"
+msgid "uzono_(yuushitsu)"
+msgstr "宇园"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:uzou:primary"
+msgid "uzou"
+msgstr "宇藏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 189
+#. aliases: uzou
+msgctxt "tag:uzou_(uzooooooooo):primary"
+msgid "uzou_(uzooooooooo)"
+msgstr "乌走"
+
+#. alias-of: uzou_(uzooooooooo)
+#. source: ai
+msgctxt "tag:uzou_(uzooooooooo):alias:1"
+msgid "uzou_(uzooooooooo)"
+msgstr "uzou"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzou_(uzooooooooo)_(style):primary"
+msgid "uzou_(uzooooooooo)_(style)"
+msgstr "uzou（uzooooooooo）风格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: 乌佐姆
+msgctxt "tag:uzoum:primary"
+msgid "uzoum"
+msgstr "Uzoum"
+
+#. alias-of: uzoum
+#. source: ai
+msgctxt "tag:uzoum:alias:1"
+msgid "uzoum"
+msgstr "乌佐姆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:uzoumuzo:primary"
+msgid "uzoumuzo"
+msgstr "uzoumuzo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzoym43218:primary"
+msgid "uzoym43218"
+msgstr "uzoym43218"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 107
+msgctxt "tag:uzr_akira:primary"
+msgid "uzr_akira"
+msgstr "uzr_akira"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzra_hh:primary"
+msgid "uzra_hh"
+msgstr "Uzra HH"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzrah:primary"
+msgid "uzrah"
+msgstr "Uzrah"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzrtws:primary"
+msgid "uzrtws"
+msgstr "uzrtws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzsio00:primary"
+msgid "uzsio00"
+msgstr "uzsio00"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzu0411:primary"
+msgid "uzu0411"
+msgstr "uzu0411"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzu48kairi:primary"
+msgid "uzu48kairi"
+msgstr "uzu48kairi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzu86_(toritoritotori):primary"
+msgid "uzu86_(toritoritotori)"
+msgstr "uzu86"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzu_(4330047):primary"
+msgid "uzu_(4330047)"
+msgstr "Uzu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzu_(482_air):primary"
+msgid "uzu_(482_air)"
+msgstr "uzu (482_air)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzu_(bluecalx):primary"
+msgid "uzu_(bluecalx)"
+msgstr "Uzu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzu_(cascadenyamnyam):primary"
+msgid "uzu_(cascadenyamnyam)"
+msgstr "uzu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzu_(lne11o):primary"
+msgid "uzu_(lne11o)"
+msgstr "uzu (lne11o)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:uzu_(malese0202):primary"
+msgid "uzu_(malese0202)"
+msgstr "涡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzu_(pixiv_id_280227):primary"
+msgid "uzu_(pixiv_id_280227)"
+msgstr "uzu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzu_(urwm5454):primary"
+msgid "uzu_(urwm5454)"
+msgstr "Uzu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzu_(uz_u):primary"
+msgid "uzu_(uz_u)"
+msgstr "uzu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:uzu_(uzu_xon):primary"
+msgid "uzu_(uzu_xon)"
+msgstr "UZU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 174
+#. aliases: uzu
+msgctxt "tag:uzu_(uzusio55):primary"
+msgid "uzu_(uzusio55)"
+msgstr "乌兹"
+
+#. alias-of: uzu_(uzusio55)
+#. source: ai
+msgctxt "tag:uzu_(uzusio55):alias:1"
+msgid "uzu_(uzusio55)"
+msgstr "uzu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:uzu_asc:primary"
+msgid "uzu_asc"
+msgstr "uzu_asc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzu_chocomint:primary"
+msgid "uzu_chocomint"
+msgstr "uzu_chocomint"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 66
+msgctxt "tag:uzu_hi:primary"
+msgid "uzu_hi"
+msgstr "涡日"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzu_kikaku:primary"
+msgid "uzu_kikaku"
+msgstr "Uzu Kikaku"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzu_mikoto:primary"
+msgid "uzu_mikoto"
+msgstr "宇津御言"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:uzu_oh:primary"
+msgid "uzu_oh"
+msgstr "漩涡王"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:uzu_shi_o:primary"
+msgid "uzu_shi_o"
+msgstr "uzu_shi_o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzu_uzu:primary"
+msgid "uzu_uzu"
+msgstr "uzu_uzu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzube_(azurinn1021):primary"
+msgid "uzube_(azurinn1021)"
+msgstr "Uzube"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzubi:primary"
+msgid "uzubi"
+msgstr "Uzubi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzuc4g0:primary"
+msgid "uzuc4g0"
+msgstr "uzuc4g0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:uzucake:primary"
+msgid "uzucake"
+msgstr "uzucake"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 宇智波
+msgctxt "tag:uzudark:primary"
+msgid "uzudark"
+msgstr "uzudark"
+
+#. alias-of: uzudark
+#. source: ai
+msgctxt "tag:uzudark:alias:1"
+msgid "uzudark"
+msgstr "宇智波"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuham:primary"
+msgid "uzuham"
+msgstr "uzuham"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 73
+msgctxt "tag:uzuharu_(uduharu):primary"
+msgid "uzuharu_(uduharu)"
+msgstr "宇治原"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:uzuhime_the_manifested_mikanko:primary"
+msgid "uzuhime_the_manifested_mikanko"
+msgstr "内姬"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:uzui_(horizon):primary"
+msgid "uzui_(horizon)"
+msgstr "宇海（境界线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzui_azusa:primary"
+msgid "uzui_azusa"
+msgstr "宇豆梓"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 442
+#. aliases: 宇髄
+msgctxt "tag:uzui_tengen:primary"
+msgid "uzui_tengen"
+msgstr "宇髄天元"
+
+#. alias-of: uzui_tengen
+#. source: ai
+msgctxt "tag:uzui_tengen:alias:1"
+msgid "uzui_tengen"
+msgstr "宇髄"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzui_tengen's_brother:primary"
+msgid "uzui_tengen's_brother"
+msgstr "宇髓天元的兄弟"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: 宇髄天元Cosplay
+msgctxt "tag:uzui_tengen_(cosplay):primary"
+msgid "uzui_tengen_(cosplay)"
+msgstr "宇髄天元（Cosplay）"
+
+#. alias-of: uzui_tengen_(cosplay)
+#. source: ai
+msgctxt "tag:uzui_tengen_(cosplay):alias:1"
+msgid "uzui_tengen_(cosplay)"
+msgstr "宇髄天元Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzui_tenma:primary"
+msgid "uzui_tenma"
+msgstr "宇井天马"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuilerio:primary"
+msgid "uzuilerio"
+msgstr "Uzuilerio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzuinu:primary"
+msgid "uzuinu"
+msgstr "Uzuinu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzuk1_03:primary"
+msgid "uzuk1_03"
+msgstr "Uzuk1-03"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzukara:primary"
+msgid "uzukara"
+msgstr "宇津辛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki0250:primary"
+msgid "uzuki0250"
+msgstr "Uzuki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:uzuki_(amayadori):primary"
+msgid "uzuki_(amayadori)"
+msgstr "Uzuki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzuki_(anri-ifrit):primary"
+msgid "uzuki_(anri-ifrit)"
+msgstr "卯月(Anri-Ifrit)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 84
+msgctxt "tag:uzuki_(azur_lane):primary"
+msgid "uzuki_(azur_lane)"
+msgstr "Uzuki (碧蓝航线)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzuki_(azur_lane)_(cosplay):primary"
+msgid "uzuki_(azur_lane)_(cosplay)"
+msgstr "卯月（碧蓝航线）（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_(black_surge_night):primary"
+msgid "uzuki_(black_surge_night)"
+msgstr "卯月（Black Surge Night）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 706
+msgctxt "tag:uzuki_(cookie):primary"
+msgid "uzuki_(cookie)"
+msgstr "宇月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_(cq_uz):primary"
+msgid "uzuki_(cq_uz)"
+msgstr "卯月"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_(destroyer):primary"
+msgid "uzuki_(destroyer)"
+msgstr "卯月号驱逐舰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_(haruhiei):primary"
+msgid "uzuki_(haruhiei)"
+msgstr "uzuki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_(inaba_rabbits):primary"
+msgid "uzuki_(inaba_rabbits)"
+msgstr "卯月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3016
+msgctxt "tag:uzuki_(kancolle):primary"
+msgid "uzuki_(kancolle)"
+msgstr "卯月"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 21
+#. aliases: 卯月cos
+msgctxt "tag:uzuki_(kancolle)_(cosplay):primary"
+msgid "uzuki_(kancolle)_(cosplay)"
+msgstr "卯月（舰C Cosplay）"
+
+#. alias-of: uzuki_(kancolle)_(cosplay)
+#. source: ai
+msgctxt "tag:uzuki_(kancolle)_(cosplay):alias:1"
+msgid "uzuki_(kancolle)_(cosplay)"
+msgstr "卯月cos"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:uzuki_(pixiv184744):primary"
+msgid "uzuki_(pixiv184744)"
+msgstr "Uzuki（pixiv184744）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_(pixiv2202213):primary"
+msgid "uzuki_(pixiv2202213)"
+msgstr "uzuki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzuki_(pixiv22658999):primary"
+msgid "uzuki_(pixiv22658999)"
+msgstr "卯月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzuki_(rune_factory):primary"
+msgid "uzuki_(rune_factory)"
+msgstr "卯月（符文工厂）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:uzuki_(sakamoto_days):primary"
+msgid "uzuki_(sakamoto_days)"
+msgstr "卯月（坂本日常）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 29
+#. aliases: UZUKI(舰Colle)
+msgctxt "tag:uzuki_(saury_festival)_(kancolle):primary"
+msgid "uzuki_(saury_festival)_(kancolle)"
+msgstr "UZUKI(秋刀鱼祭典)（舰Colle）"
+
+#. alias-of: uzuki_(saury_festival)_(kancolle)
+#. source: ai
+msgctxt "tag:uzuki_(saury_festival)_(kancolle):alias:1"
+msgid "uzuki_(saury_festival)_(kancolle)"
+msgstr "UZUKI(舰Colle)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:uzuki_(shiriko):primary"
+msgid "uzuki_(shiriko)"
+msgstr "卯月（shiriko）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzuki_(sleepy_uzuki)_(azur_lane):primary"
+msgid "uzuki_(sleepy_uzuki)_(azur_lane)"
+msgstr "卯月（困倦卯月）（碧蓝航线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:uzuki_(spring)_(kancolle):primary"
+msgid "uzuki_(spring)_(kancolle)"
+msgstr "卯月(春)(舰队Collection)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_(stuffed_bunny):primary"
+msgid "uzuki_(stuffed_bunny)"
+msgstr "卯月(布偶兔)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_(suzu04):primary"
+msgid "uzuki_(suzu04)"
+msgstr "uzuki_(suzu04)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:uzuki_(sxk_uxk):primary"
+msgid "uzuki_(sxk_uxk)"
+msgstr "卯月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_(ufdbk):primary"
+msgid "uzuki_(ufdbk)"
+msgstr "卯月(ufdbk)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:uzuki_(under_night_in-birth):primary"
+msgid "uzuki_(under_night_in-birth)"
+msgstr "卯月（夜下降生）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_(uzuki421):primary"
+msgid "uzuki_(uzuki421)"
+msgstr "卯月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:uzuki_(uzuki_4m):primary"
+msgid "uzuki_(uzuki_4m)"
+msgstr "Uzuki（uzuki_4m）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:uzuki_(uzukinokaze):primary"
+msgid "uzuki_(uzukinokaze)"
+msgstr "uzuki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:uzuki_0420m:primary"
+msgid "uzuki_0420m"
+msgstr "uzuki_0420m"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzuki_15555:primary"
+msgid "uzuki_15555"
+msgstr "卯月15555"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_aina:primary"
+msgid "uzuki_aina"
+msgstr "卯月爱奈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 166
+#. aliases: 卯月, Uzuki
+msgctxt "tag:uzuki_aki:primary"
+msgid "uzuki_aki"
+msgstr "卯月明"
+
+#. alias-of: uzuki_aki
+#. source: ai
+msgctxt "tag:uzuki_aki:alias:1"
+msgid "uzuki_aki"
+msgstr "卯月"
+
+#. alias-of: uzuki_aki
+#. source: ai
+msgctxt "tag:uzuki_aki:alias:2"
+msgid "uzuki_aki"
+msgstr "Uzuki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzuki_amu:primary"
+msgid "uzuki_amu"
+msgstr "卯月亚梦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzuki_arata:primary"
+msgid "uzuki_arata"
+msgstr "卯月新"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:uzuki_asa:primary"
+msgid "uzuki_asa"
+msgstr "卯月朝"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzuki_asobin:primary"
+msgid "uzuki_asobin"
+msgstr "Uzuki Asobin"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzuki_chii:primary"
+msgid "uzuki_chii"
+msgstr "卯月千"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_eight:primary"
+msgid "uzuki_eight"
+msgstr "uzuki_eight"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:uzuki_eri:primary"
+msgid "uzuki_eri"
+msgstr "卯月绘里"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_gamou:primary"
+msgid "uzuki_gamou"
+msgstr "卯木游木"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzuki_haru:primary"
+msgid "uzuki_haru"
+msgstr "卯月春"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzuki_haruka:primary"
+msgid "uzuki_haruka"
+msgstr "uzuki_haruka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_hinano:primary"
+msgid "uzuki_hinano"
+msgstr "卯月雏乃"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:uzuki_hiro:primary"
+msgid "uzuki_hiro"
+msgstr "宇月廣"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_iona:primary"
+msgid "uzuki_iona"
+msgstr "卯月伊织奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:uzuki_kagura:primary"
+msgid "uzuki_kagura"
+msgstr "卯月神乐"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzuki_kaguya:primary"
+msgid "uzuki_kaguya"
+msgstr "卯月华月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:uzuki_kai:primary"
+msgid "uzuki_kai"
+msgstr "风月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_kaito:primary"
+msgid "uzuki_kaito"
+msgstr "卯月海斗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzuki_kanon:primary"
+msgid "uzuki_kanon"
+msgstr "卯月花音"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_kazu:primary"
+msgid "uzuki_kazu"
+msgstr "uzuki_kazu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzuki_kazusa:primary"
+msgid "uzuki_kazusa"
+msgstr "uzuki_kazusa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_kohime:primary"
+msgid "uzuki_kohime"
+msgstr "卯月狐姬"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzuki_kotone:primary"
+msgid "uzuki_kotone"
+msgstr "卯月琴音"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1078
+msgctxt "tag:uzuki_kou:primary"
+msgid "uzuki_kou"
+msgstr "卯月光"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 76
+msgctxt "tag:uzuki_kou_(1st_costume):primary"
+msgid "uzuki_kou_(1st_costume)"
+msgstr "卯月小(第一套服装)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 54
+#. aliases: 二周年卯月
+msgctxt "tag:uzuki_kou_(2nd_costume):primary"
+msgid "uzuki_kou_(2nd_costume)"
+msgstr "卯月コウ（二周年服装）"
+
+#. alias-of: uzuki_kou_(2nd_costume)
+#. source: ai
+msgctxt "tag:uzuki_kou_(2nd_costume):alias:1"
+msgid "uzuki_kou_(2nd_costume)"
+msgstr "二周年卯月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 279
+#. aliases: uzuki kou
+msgctxt "tag:uzuki_kou_(3rd_costume):primary"
+msgid "uzuki_kou_(3rd_costume)"
+msgstr "宇月幸3装"
+
+#. alias-of: uzuki_kou_(3rd_costume)
+#. source: ai
+msgctxt "tag:uzuki_kou_(3rd_costume):alias:1"
+msgid "uzuki_kou_(3rd_costume)"
+msgstr "uzuki kou"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 130
+msgctxt "tag:uzuki_kou_(4th_costume):primary"
+msgid "uzuki_kou_(4th_costume)"
+msgstr "卯月幸(第4套服装)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 125
+msgctxt "tag:uzuki_kou_(5th_costume):primary"
+msgid "uzuki_kou_(5th_costume)"
+msgstr "卯月幸(第5套服装)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_kou_(cosplay):primary"
+msgid "uzuki_kou_(cosplay)"
+msgstr "卯月洸（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: 卯月
+msgctxt "tag:uzuki_kouma:primary"
+msgid "uzuki_kouma"
+msgstr "uzuki_kouma"
+
+#. alias-of: uzuki_kouma
+#. source: ai
+msgctxt "tag:uzuki_kouma:alias:1"
+msgid "uzuki_kouma"
+msgstr "卯月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:uzuki_kouta:primary"
+msgid "uzuki_kouta"
+msgstr "铃木虎太"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_lona:primary"
+msgid "uzuki_lona"
+msgstr "卯月罗娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+#. aliases: 卯月街道
+msgctxt "tag:uzuki_machi:primary"
+msgid "uzuki_machi"
+msgstr "卯月町"
+
+#. alias-of: uzuki_machi
+#. source: ai
+msgctxt "tag:uzuki_machi:alias:1"
+msgid "uzuki_machi"
+msgstr "卯月街道"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 125
+msgctxt "tag:uzuki_makio:primary"
+msgid "uzuki_makio"
+msgstr "卯月真绪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_manai:primary"
+msgid "uzuki_manai"
+msgstr "卯月真菜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:uzuki_manaka:primary"
+msgid "uzuki_manaka"
+msgstr "宇月真中"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 400
+msgctxt "tag:uzuki_mei:primary"
+msgid "uzuki_mei"
+msgstr "宇月梅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_misako:primary"
+msgid "uzuki_misako"
+msgstr "卯月美沙子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzuki_miu:primary"
+msgid "uzuki_miu"
+msgstr "卯月美羽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:uzuki_miwa:primary"
+msgid "uzuki_miwa"
+msgstr "卯月美和"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzuki_nagi:primary"
+msgid "uzuki_nagi"
+msgstr "卯月なぎ"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_nakau:primary"
+msgid "uzuki_nakau"
+msgstr "卯月那久"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzuki_nantoka:primary"
+msgid "uzuki_nantoka"
+msgstr "卯月Nantoka"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_noah:primary"
+msgid "uzuki_noah"
+msgstr "卯月诺亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 70
+#. aliases: 卯月升
+msgctxt "tag:uzuki_noboru_(denchuu_shoujo):primary"
+msgid "uzuki_noboru_(denchuu_shoujo)"
+msgstr "卯月"
+
+#. alias-of: uzuki_noboru_(denchuu_shoujo)
+#. source: ai
+msgctxt "tag:uzuki_noboru_(denchuu_shoujo):alias:1"
+msgid "uzuki_noboru_(denchuu_shoujo)"
+msgstr "卯月升"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:uzuki_nono:primary"
+msgid "uzuki_nono"
+msgstr "宇月乃乃"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:uzuki_orange:primary"
+msgid "uzuki_orange"
+msgstr "卯月橘"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzuki_rabby:primary"
+msgid "uzuki_rabby"
+msgstr "卯月Rabby"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 卯月蕾娜
+msgctxt "tag:uzuki_rena:primary"
+msgid "uzuki_rena"
+msgstr "卯月蕾娜"
+
+#. alias-of: uzuki_rena
+#. source: ai
+msgctxt "tag:uzuki_rena:alias:1"
+msgid "uzuki_rena"
+msgstr "卯月蕾娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzuki_rin_(hrjoagulzb7d26c):primary"
+msgid "uzuki_rin_(hrjoagulzb7d26c)"
+msgstr "卯月凛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzuki_sachi:primary"
+msgid "uzuki_sachi"
+msgstr "卯月沙智"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_saki:primary"
+msgid "uzuki_saki"
+msgstr "内木咲"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+#. aliases: 卯月
+msgctxt "tag:uzuki_saku:primary"
+msgid "uzuki_saku"
+msgstr "卯月樱"
+
+#. alias-of: uzuki_saku
+#. source: ai
+msgctxt "tag:uzuki_saku:alias:1"
+msgid "uzuki_saku"
+msgstr "卯月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:uzuki_sakura:primary"
+msgid "uzuki_sakura"
+msgstr "凉月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+#. aliases: 卯月樱
+msgctxt "tag:uzuki_sakura_(mmys534):primary"
+msgid "uzuki_sakura_(mmys534)"
+msgstr "卯月樱（mmys534）"
+
+#. alias-of: uzuki_sakura_(mmys534)
+#. source: ai
+msgctxt "tag:uzuki_sakura_(mmys534):alias:1"
+msgid "uzuki_sakura_(mmys534)"
+msgstr "卯月樱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 607
+msgctxt "tag:uzuki_sayaka:primary"
+msgid "uzuki_sayaka"
+msgstr "宇月小夜香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 81
+msgctxt "tag:uzuki_sena:primary"
+msgid "uzuki_sena"
+msgstr "Uzuki Sena"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:uzuki_shinobu:primary"
+msgid "uzuki_shinobu"
+msgstr "铃鹿志乃"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_shiro:primary"
+msgid "uzuki_shiro"
+msgstr "卯月白"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:uzuki_takeru:primary"
+msgid "uzuki_takeru"
+msgstr "卯月猛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:uzuki_tatsuki:primary"
+msgid "uzuki_tatsuki"
+msgstr "卯月达树"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_tempura:primary"
+msgid "uzuki_tempura"
+msgstr "卯月天妇罗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:uzuki_tenchan:primary"
+msgid "uzuki_tenchan"
+msgstr "卯月天酱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_tia:primary"
+msgid "uzuki_tia"
+msgstr "卯月蒂娅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:uzuki_tomoya:primary"
+msgid "uzuki_tomoya"
+msgstr "卯月朋也"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 74
+msgctxt "tag:uzuki_tooru:primary"
+msgid "uzuki_tooru"
+msgstr "宇月遥"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzuki_tsukushi:primary"
+msgid "uzuki_tsukushi"
+msgstr "卯月つくし"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 114
+#. aliases: 月夜卯月
+msgctxt "tag:uzuki_tsukuyo:primary"
+msgid "uzuki_tsukuyo"
+msgstr "卯月月夜"
+
+#. alias-of: uzuki_tsukuyo
+#. source: ai
+msgctxt "tag:uzuki_tsukuyo:alias:1"
+msgid "uzuki_tsukuyo"
+msgstr "月夜卯月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:uzuki_uzu:primary"
+msgid "uzuki_uzu"
+msgstr "卯月涡"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuki_yoshino:primary"
+msgid "uzuki_yoshino"
+msgstr "卯月芳乃"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:uzuki_yukine:primary"
+msgid "uzuki_yukine"
+msgstr "雪音"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:uzuki_yuugao:primary"
+msgid "uzuki_yuugao"
+msgstr "卯月夕阳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuki_yuuka:primary"
+msgid "uzuki_yuuka"
+msgstr "uzuki_yuuka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzuki_zaqlo:primary"
+msgid "uzuki_zaqlo"
+msgstr "卯月·扎克洛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzukiao:primary"
+msgid "uzukiao"
+msgstr "uzukiao"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:uzukibox47:primary"
+msgid "uzukibox47"
+msgstr "Uzukibox47"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzukihime:primary"
+msgid "uzukihime"
+msgstr "卯月姬"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzukiiro:primary"
+msgid "uzukiiro"
+msgstr "uzukiiro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:uzukin_(uzu_kazu411):primary"
+msgid "uzukin_(uzu_kazu411)"
+msgstr "Uzukin（uzu_kazu411）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 106
+msgctxt "tag:uzukinoko:primary"
+msgid "uzukinoko"
+msgstr "卯月之子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzukiyuni:primary"
+msgid "uzukiyuni"
+msgstr "uzukiyuni"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuluna:primary"
+msgid "uzuluna"
+msgstr "Uzuluna"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzuma_(ta_ga_tame_no_alchemist):primary"
+msgid "uzuma_(ta_ga_tame_no_alchemist)"
+msgstr "宇间"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:uzumaki:primary"
+msgid "uzumaki"
+msgstr "漩涡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumaki0487:primary"
+msgid "uzumaki0487"
+msgstr "漩涡0487"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:uzumaki_(skydirt):primary"
+msgid "uzumaki_(skydirt)"
+msgstr "旋涡"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 992
+msgctxt "tag:uzumaki_boruto:primary"
+msgid "uzumaki_boruto"
+msgstr "漩涡博人"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzumaki_boruto_(cosplay):primary"
+msgid "uzumaki_boruto_(cosplay)"
+msgstr "漩涡博人（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumaki_enichi:primary"
+msgid "uzumaki_enichi"
+msgstr "漩涡绘里"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 467
+msgctxt "tag:uzumaki_himawari:primary"
+msgid "uzumaki_himawari"
+msgstr "漩涡向日葵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzumaki_himawari_(cosplay):primary"
+msgid "uzumaki_himawari_(cosplay)"
+msgstr "漩涡向日葵（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzumaki_hinata:primary"
+msgid "uzumaki_hinata"
+msgstr "漩涡雏田"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 419
+msgctxt "tag:uzumaki_kushina:primary"
+msgid "uzumaki_kushina"
+msgstr "漩涡玖辛奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:uzumaki_menma:primary"
+msgid "uzumaki_menma"
+msgstr "漩涡梅玛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:uzumaki_mito:primary"
+msgid "uzumaki_mito"
+msgstr "漩涡水户"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5334
+#. aliases: 鸣人
+msgctxt "tag:uzumaki_naruto:primary"
+msgid "uzumaki_naruto"
+msgstr "漩涡鸣人"
+
+#. alias-of: uzumaki_naruto
+#. source: ai
+msgctxt "tag:uzumaki_naruto:alias:1"
+msgid "uzumaki_naruto"
+msgstr "鸣人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.age_or_body_variant
+#. safety: mixed
+#. post-count: 10
+msgctxt "tag:uzumaki_naruto_(baryon_mode):primary"
+msgid "uzumaki_naruto_(baryon_mode)"
+msgstr "漩涡鸣人（重粒子模式）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 91
+msgctxt "tag:uzumaki_naruto_(cosplay):primary"
+msgid "uzumaki_naruto_(cosplay)"
+msgstr "漩涡鸣人 Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.age_or_body_variant
+#. safety: mixed
+#. post-count: 42
+msgctxt "tag:uzumaki_naruto_(kurama_mode):primary"
+msgid "uzumaki_naruto_(kurama_mode)"
+msgstr "漩涡鸣人（九尾模式）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 3
+#. aliases: 鸣人
+msgctxt "tag:uzumaki_naruto_(six_paths_sage_mode):primary"
+msgid "uzumaki_naruto_(six_paths_sage_mode)"
+msgstr "漩涡鸣人（六道仙人模式）"
+
+#. alias-of: uzumaki_naruto_(six_paths_sage_mode)
+#. source: ai
+msgctxt "tag:uzumaki_naruto_(six_paths_sage_mode):alias:1"
+msgid "uzumaki_naruto_(six_paths_sage_mode)"
+msgstr "鸣人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 鸣人拉链
+msgctxt "tag:uzumaki_naruto_zipper:primary"
+msgid "uzumaki_naruto_zipper"
+msgstr "漩涡鸣人拉链"
+
+#. alias-of: uzumaki_naruto_zipper
+#. source: ai
+msgctxt "tag:uzumaki_naruto_zipper:alias:1"
+msgid "uzumaki_naruto_zipper"
+msgstr "鸣人拉链"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 140
+msgctxt "tag:uzumaki_osushi:primary"
+msgid "uzumaki_osushi"
+msgstr "漩涡御寿司"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzumaki_panda:primary"
+msgid "uzumaki_panda"
+msgstr "Uzumaki Panda"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:uzumaki_spiral_head_girl_(meme):primary"
+msgid "uzumaki_spiral_head_girl_(meme)"
+msgstr "漩涡头少女(梗)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 137
+#. aliases: 漩涡符号
+msgctxt "tag:uzumaki_symbol:primary"
+msgid "uzumaki_symbol"
+msgstr "漩涡标志"
+
+#. alias-of: uzumaki_symbol
+#. source: ai
+msgctxt "tag:uzumaki_symbol:alias:1"
+msgid "uzumaki_symbol"
+msgstr "漩涡符号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumaki_tenba:primary"
+msgid "uzumaki_tenba"
+msgstr "uzumaki_tenba"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumakiani:primary"
+msgid "uzumakiani"
+msgstr "Uzumakiani"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzumasa_azami:primary"
+msgid "uzumasa_azami"
+msgstr "太秦梓"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:uzumasa_moe:primary"
+msgid "uzumasa_moe"
+msgstr "太秦萌"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 61
+#. aliases: 宇芽
+msgctxt "tag:uzume_(gino):primary"
+msgid "uzume_(gino)"
+msgstr "宇芽 (Gino)"
+
+#. alias-of: uzume_(gino)
+#. source: ai
+msgctxt "tag:uzume_(gino):alias:1"
+msgid "uzume_(gino)"
+msgstr "宇芽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzume_(himegami_kagura):primary"
+msgid "uzume_(himegami_kagura)"
+msgstr "天鈿女"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzume_(kamiko):primary"
+msgid "uzume_(kamiko)"
+msgstr "钿女（神子）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:uzume_(kendeshi):primary"
+msgid "uzume_(kendeshi)"
+msgstr "铃女（剑斗士）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzume_(mugen):primary"
+msgid "uzume_(mugen)"
+msgstr "Uzume"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:uzume_(sekirei):primary"
+msgid "uzume_(sekirei)"
+msgstr "鯵人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:uzume_(uzm0):primary"
+msgid "uzume_(uzm0)"
+msgstr "uzume"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzume_(uzume_e):primary"
+msgid "uzume_(uzume_e)"
+msgstr "uzume"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:uzume_(vtuber):primary"
+msgid "uzume_(vtuber)"
+msgstr "卯月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzume_mikoto:primary"
+msgid "uzume_mikoto"
+msgstr "宇受女命"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumeia_(twinkle_star_knights):primary"
+msgid "uzumeia_(twinkle_star_knights)"
+msgstr "uzumeia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzumi:primary"
+msgid "uzumi"
+msgstr "uzumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:uzumi1201:primary"
+msgid "uzumi1201"
+msgstr "uzumi1201"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:uzumi_(uzumi_yosi):primary"
+msgid "uzumi_(uzumi_yosi)"
+msgstr "卯澄"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzumi_hi:primary"
+msgid "uzumi_hi"
+msgstr "Uzumi Hi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uzumi_nara_athha:primary"
+msgid "uzumi_nara_athha"
+msgstr "Uzumi Nara Athha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 135
+msgctxt "tag:uzumibi:primary"
+msgid "uzumibi"
+msgstr "uzumibi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumibi_(hungry_omurice):primary"
+msgid "uzumibi_(hungry_omurice)"
+msgstr "uzumibi（hungry_omurice）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzumibi_no_jyakuya:primary"
+msgid "uzumibi_no_jyakuya"
+msgstr "漩火之邪鸦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzumibi_no_koufuku:primary"
+msgid "uzumibi_no_koufuku"
+msgstr "漩火之幸福"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzumibi_no_mingobee:primary"
+msgid "uzumibi_no_mingobee"
+msgstr "漩火之明戈比"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumino_katherine:primary"
+msgid "uzumino_katherine"
+msgstr "漩野Katherine"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumiya_aoi:primary"
+msgid "uzumiya_aoi"
+msgstr "凉宫葵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumori2077939:primary"
+msgid "uzumori2077939"
+msgstr "uzumori2077939"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzumori_teru:primary"
+msgid "uzumori_teru"
+msgstr "uzumori_teru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzunanpoo:primary"
+msgid "uzunanpoo"
+msgstr "uzunanpoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:uzune:primary"
+msgid "uzune"
+msgstr "Uzune"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzune_hitori:primary"
+msgid "uzune_hitori"
+msgstr "Uzune Hitori"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:uzunohanare:primary"
+msgid "uzunohanare"
+msgstr "uzunohanare"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+#. aliases: Tamaki
+msgctxt "tag:uzunoki_tamaki:primary"
+msgid "uzunoki_tamaki"
+msgstr "宇津木环"
+
+#. alias-of: uzunoki_tamaki
+#. source: ai
+msgctxt "tag:uzunoki_tamaki:alias:1"
+msgid "uzunoki_tamaki"
+msgstr "Tamaki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuoe7c:primary"
+msgid "uzuoe7c"
+msgstr "Uzuoe7c"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuori1:primary"
+msgid "uzuori1"
+msgstr "uzuori1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuoto:primary"
+msgid "uzuoto"
+msgstr "uzūoto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:uzupico:primary"
+msgid "uzupico"
+msgstr "uzupico"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzupiyo:primary"
+msgid "uzupiyo"
+msgstr "uzupiyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:uzura-000:primary"
+msgid "uzura-000"
+msgstr "Uzura"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzura-pc:primary"
+msgid "uzura-pc"
+msgstr "Uzura-PC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzura-sekai1_no_tamago:primary"
+msgid "uzura-sekai1_no_tamago"
+msgstr "uzura-sekai1_no_tamago"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzura1015:primary"
+msgid "uzura1015"
+msgstr "Uzura1015"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:uzura3026:primary"
+msgid "uzura3026"
+msgstr "uzura3026"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzura763:primary"
+msgid "uzura763"
+msgstr "Uzura763"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzura_(4360):primary"
+msgid "uzura_(4360)"
+msgstr "uzura（4360）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 45
+#. aliases: bonnet225
+msgctxt "tag:uzura_(bonnet225):primary"
+msgid "uzura_(bonnet225)"
+msgstr "uzura"
+
+#. alias-of: uzura_(bonnet225)
+#. source: ai
+msgctxt "tag:uzura_(bonnet225):alias:1"
+msgid "uzura_(bonnet225)"
+msgstr "bonnet225"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:uzura_(dekoi683):primary"
+msgid "uzura_(dekoi683)"
+msgstr "鹌鹑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzura_(harukawa):primary"
+msgid "uzura_(harukawa)"
+msgstr "uzura_(harukawa)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 74
+msgctxt "tag:uzura_(moimoi):primary"
+msgid "uzura_(moimoi)"
+msgstr "Uzura（鹑）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:uzura_(piroro-foo):primary"
+msgid "uzura_(piroro-foo)"
+msgstr "uzura"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+#. aliases: 丑鸟
+msgctxt "tag:uzura_(princess_tutu):primary"
+msgid "uzura_(princess_tutu)"
+msgstr "丑鸟(公主公主)"
+
+#. alias-of: uzura_(princess_tutu)
+#. source: ai
+msgctxt "tag:uzura_(princess_tutu):alias:1"
+msgid "uzura_(princess_tutu)"
+msgstr "丑鸟"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 丑小鸭
+msgctxt "tag:uzura_(princess_tutu)_(cosplay):primary"
+msgid "uzura_(princess_tutu)_(cosplay)"
+msgstr "乌祖拉（《公主舞会》Cosplay）"
+
+#. alias-of: uzura_(princess_tutu)_(cosplay)
+#. source: ai
+msgctxt "tag:uzura_(princess_tutu)_(cosplay):alias:1"
+msgid "uzura_(princess_tutu)_(cosplay)"
+msgstr "丑小鸭"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzura_(reimu):primary"
+msgid "uzura_(reimu)"
+msgstr "uzura（灵梦）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzura_(suzukane):primary"
+msgid "uzura_(suzukane)"
+msgstr "uzura（铃钟）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzura_(uzra_illust):primary"
+msgid "uzura_(uzra_illust)"
+msgstr "uzura"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:uzura_(uzrtamago):primary"
+msgid "uzura_(uzrtamago)"
+msgstr "uzura"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzura_(uzura12):primary"
+msgid "uzura_(uzura12)"
+msgstr "uzura（uzura12）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzura_(uzura6267):primary"
+msgid "uzura_(uzura6267)"
+msgstr "uzura_(uzura6267)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzura_dobin:primary"
+msgid "uzura_dobin"
+msgstr "uzura_dobin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 168
+#. aliases: uzura_kazuhisa
+msgctxt "tag:uzura_kazuhisa:primary"
+msgid "uzura_kazuhisa"
+msgstr "鶉一尚"
+
+#. alias-of: uzura_kazuhisa
+#. source: ai
+msgctxt "tag:uzura_kazuhisa:alias:1"
+msgid "uzura_kazuhisa"
+msgstr "uzura_kazuhisa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzura_lala:primary"
+msgid "uzura_lala"
+msgstr "uzura_lala"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:uzura_no_tamago:primary"
+msgid "uzura_no_tamago"
+msgstr "鹌鹑蛋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:uzura_no_tamago_(yudeuzutama):primary"
+msgid "uzura_no_tamago_(yudeuzutama)"
+msgstr "鹌鹑蛋(煮乌兹塔玛)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:uzura_purin:primary"
+msgid "uzura_purin"
+msgstr "鹌鹑布丁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:uzura_syouyu:primary"
+msgid "uzura_syouyu"
+msgstr "鹌鹑酱油"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:uzura_yuuno:primary"
+msgid "uzura_yuuno"
+msgstr "uzura_yuuno"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:uzuraa:primary"
+msgid "uzuraa"
+msgstr "Uzuraa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 110
+msgctxt "tag:uzuradobin:primary"
+msgid "uzuradobin"
+msgstr "鹑壶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuradon:primary"
+msgid "uzuradon"
+msgstr "Uzuradon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuragi:primary"
+msgid "uzuragi"
+msgstr "uzuragi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzurakago_tsumuji:primary"
+msgid "uzurakago_tsumuji"
+msgstr "鹌鹑笼つむじ"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzurakago_yata:primary"
+msgid "uzurakago_yata"
+msgstr "雉笼八咫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzurakandume_12:primary"
+msgid "uzurakandume_12"
+msgstr "uzurakandume_12"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzurakazura:primary"
+msgid "uzurakazura"
+msgstr "Uzurakazura"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzurake56:primary"
+msgid "uzurake56"
+msgstr "uzurake56"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:uzurako:primary"
+msgid "uzurako"
+msgstr "卯桜子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzurano:primary"
+msgid "uzurano"
+msgstr "Uzurano"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:uzurano_toe:primary"
+msgid "uzurano_toe"
+msgstr "卯之野脚趾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:uzurara:primary"
+msgid "uzurara"
+msgstr "Uzurara"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:uzuratani_(uzu):primary"
+msgid "uzuratani_(uzu)"
+msgstr "卯津谷（uzu）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuraumaiyo:primary"
+msgid "uzuraumaiyo"
+msgstr "uzuraumaiyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 69
+msgctxt "tag:uzuri_art:primary"
+msgid "uzuri_art"
+msgstr "Uzuri Art"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 米娅
+msgctxt "tag:uzuri_mia_(vtuber):primary"
+msgid "uzuri_mia_(vtuber)"
+msgstr "Uzuri Mia"
+
+#. alias-of: uzuri_mia_(vtuber)
+#. source: ai
+msgctxt "tag:uzuri_mia_(vtuber):alias:1"
+msgid "uzuri_mia_(vtuber)"
+msgstr "米娅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzuriartonline:primary"
+msgid "uzuriartonline"
+msgstr "Uzuriart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzurimia:primary"
+msgid "uzurimia"
+msgstr "uzurimia"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzushiki_haruka:primary"
+msgid "uzushiki_haruka"
+msgstr "潮汐遥"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uzushima_naruko:primary"
+msgid "uzushima_naruko"
+msgstr "宇洲岛鸣子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:uzushio_(ss-592):primary"
+msgid "uzushio_(ss-592)"
+msgstr "涡潮（SS-592）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzushio_(udsotolna1do):primary"
+msgid "uzushio_(udsotolna1do)"
+msgstr "uzushio（udsotolna1do）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:uzushio_(uzusio):primary"
+msgid "uzushio_(uzusio)"
+msgstr "Uzushio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:uzushiopawn:primary"
+msgid "uzushiopawn"
+msgstr "Uzushiopawn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:uzushiro:primary"
+msgid "uzushiro"
+msgstr "Uzushiro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzushiro_maimai:primary"
+msgid "uzushiro_maimai"
+msgstr "uzushiro_maimai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzusio66:primary"
+msgid "uzusio66"
+msgstr "uzusio66"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzusiyo:primary"
+msgid "uzusiyo"
+msgstr "uzusiyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 98
+msgctxt "tag:uzuta:primary"
+msgid "uzuta"
+msgstr "宇佐太"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzutama_(yukippi):primary"
+msgid "uzutama_(yukippi)"
+msgstr "uzutama（yukippi）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 131
+msgctxt "tag:uzutanco:primary"
+msgid "uzutanco"
+msgstr "uzutanco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzuuzuya:primary"
+msgid "uzuuzuya"
+msgstr "Uzuuzuya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:uzuz_(xvhm5584):primary"
+msgid "uzuz_(xvhm5584)"
+msgstr "UZUZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 140
+msgctxt "tag:uzyou_(momotk1109):primary"
+msgid "uzyou_(momotk1109)"
+msgstr "うじょう"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:uzyuzu37:primary"
+msgid "uzyuzu37"
+msgstr "uzyuzu37"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzz_aknt:primary"
+msgid "uzz_aknt"
+msgstr "uzz_aknt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uzzexl:primary"
+msgid "uzzexl"
+msgstr "Uzzexl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzziahkarl:primary"
+msgid "uzziahkarl"
+msgstr "uzziahkarl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uzzin4:primary"
+msgid "uzzin4"
+msgstr "uzzin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uzzo_3o:primary"
+msgid "uzzo_3o"
+msgstr "uzzo_3o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 155
+msgctxt "tag:uzzy2801:primary"
+msgid "uzzy2801"
+msgstr "Uzzy2801"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:uzzy_corn:primary"
+msgid "uzzy_corn"
+msgstr "uzzy_corn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uzzzy:primary"
+msgid "uzzzy"
+msgstr "Uzzzy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uzzzyzzzu:primary"
+msgid "uzzzyzzzu"
+msgstr "乌兹"

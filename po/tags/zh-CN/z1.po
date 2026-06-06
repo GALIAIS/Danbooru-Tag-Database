@@ -1,0 +1,516 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:50+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:50+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z1:primary"
+msgid "z1"
+msgstr "z1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:z1004ero:primary"
+msgid "z1004ero"
+msgstr "z1004ero"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:z10_hans_lody:primary"
+msgid "z10_hans_lody"
+msgstr "Z10汉斯·洛迪号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:z1111zoey1:primary"
+msgid "z1111zoey1"
+msgstr "z1111zoey1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:z117:primary"
+msgid "z117"
+msgstr "z117"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 163
+#. aliases: 碧蓝航线Z11
+msgctxt "tag:z11_(azur_lane):primary"
+msgid "z11_(azur_lane)"
+msgstr "Z11"
+
+#. alias-of: z11_(azur_lane)
+#. source: ai
+msgctxt "tag:z11_(azur_lane):alias:1"
+msgid "z11_(azur_lane)"
+msgstr "碧蓝航线Z11"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z11_(azur_lane)_(cosplay):primary"
+msgid "z11_(azur_lane)_(cosplay)"
+msgstr "Z11（碧蓝航线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 87
+msgctxt "tag:z11_(service_sincerity_and_insolvency)_(azur_lane):primary"
+msgid "z11_(service_sincerity_and_insolvency)_(azur_lane)"
+msgstr "Z11"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z12321a:primary"
+msgid "z12321a"
+msgstr "z12321a"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:z12_erich_giese:primary"
+msgid "z12_erich_giese"
+msgstr "Z12埃里希·吉泽号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:z12_ze_yao_er:primary"
+msgid "z12_ze_yao_er"
+msgstr "泽亚尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:z13_(azur_lane):primary"
+msgid "z13_(azur_lane)"
+msgstr "Z13"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+#. aliases: Z13（碧蓝航线）
+msgctxt "tag:z13_(strategic_date_solution)_(azur_lane):primary"
+msgid "z13_(strategic_date_solution)_(azur_lane)"
+msgstr "Z13"
+
+#. alias-of: z13_(strategic_date_solution)_(azur_lane)
+#. source: ai
+msgctxt "tag:z13_(strategic_date_solution)_(azur_lane):alias:1"
+msgid "z13_(strategic_date_solution)_(azur_lane)"
+msgstr "Z13（碧蓝航线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+#. aliases: Z16
+msgctxt "tag:z16_(azur_lane):primary"
+msgid "z16_(azur_lane)"
+msgstr "Z16 (碧蓝航线)"
+
+#. alias-of: z16_(azur_lane)
+#. source: ai
+msgctxt "tag:z16_(azur_lane):alias:1"
+msgid "z16_(azur_lane)"
+msgstr "Z16"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:z16_(guaranteed_grand_slam)_(azur_lane):primary"
+msgid "z16_(guaranteed_grand_slam)_(azur_lane)"
+msgstr "Z16（Guaranteed Grand Slam）（碧蓝航线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:z16_friedrich_eckoldt_(blue_oath):primary"
+msgid "z16_friedrich_eckoldt_(blue_oath)"
+msgstr "Z16 弗里德里希·埃克尔特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 6
+#. aliases: 弗里德里希·埃克尔特
+msgctxt "tag:z16_friedrich_eckoldt_(mod)_(warship_girls_r):primary"
+msgid "z16_friedrich_eckoldt_(mod)_(warship_girls_r)"
+msgstr "Z16 Friedrich Eckoldt（MOD）"
+
+#. alias-of: z16_friedrich_eckoldt_(mod)_(warship_girls_r)
+#. source: ai
+msgctxt "tag:z16_friedrich_eckoldt_(mod)_(warship_girls_r):alias:1"
+msgid "z16_friedrich_eckoldt_(mod)_(warship_girls_r)"
+msgstr "弗里德里希·埃克尔特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:z16_friedrich_eckoldt_(warship_girls_r):primary"
+msgid "z16_friedrich_eckoldt_(warship_girls_r)"
+msgstr "Z16弗里德里希·埃克尔特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Z17
+msgctxt "tag:z17_diether_von_roeder_(mod)_(warship_girls_r):primary"
+msgid "z17_diether_von_roeder_(mod)_(warship_girls_r)"
+msgstr "Z17 迪特·冯·罗德尔（改）"
+
+#. alias-of: z17_diether_von_roeder_(mod)_(warship_girls_r)
+#. source: ai
+msgctxt "tag:z17_diether_von_roeder_(mod)_(warship_girls_r):alias:1"
+msgid "z17_diether_von_roeder_(mod)_(warship_girls_r)"
+msgstr "Z17"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:z17_diether_von_roeder_(warship_girls_r):primary"
+msgid "z17_diether_von_roeder_(warship_girls_r)"
+msgstr "Z17 迪特尔·冯·罗德尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:z18_(azur_lane):primary"
+msgid "z18_(azur_lane)"
+msgstr "Z18（碧蓝航线）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 碧蓝航线Z18
+msgctxt "tag:z18_(azur_lane)_(cosplay):primary"
+msgid "z18_(azur_lane)_(cosplay)"
+msgstr "Z18（碧蓝航线）"
+
+#. alias-of: z18_(azur_lane)_(cosplay)
+#. source: ai
+msgctxt "tag:z18_(azur_lane)_(cosplay):alias:1"
+msgid "z18_(azur_lane)_(cosplay)"
+msgstr "碧蓝航线Z18"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:z18_hans_ludemann_(warship_girls_r):primary"
+msgid "z18_hans_ludemann_(warship_girls_r)"
+msgstr "Z18汉斯·吕德曼(战舰少女R)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 65
+msgctxt "tag:z19_hermann_kunne_(azur_lane):primary"
+msgid "z19_hermann_kunne_(azur_lane)"
+msgstr "Z19赫尔曼·库内"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 19
+#. aliases: Z1马斯
+msgctxt "tag:z1_leberecht_maass_(\"rebellious\"_top_student)_(azur_lane):primary"
+msgid "z1_leberecht_maass_(\"rebellious\"_top_student)_(azur_lane)"
+msgstr "Z1莱伯雷希特·马斯（叛逆的优等生）"
+
+#. alias-of: z1_leberecht_maass_("rebellious"_top_student)_(azur_lane)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(\"rebellious\"_top_student)_(azur_lane):alias:1"
+msgid "z1_leberecht_maass_(\"rebellious\"_top_student)_(azur_lane)"
+msgstr "Z1马斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 164
+#. aliases: 马斯
+msgctxt "tag:z1_leberecht_maass_(azur_lane):primary"
+msgid "z1_leberecht_maass_(azur_lane)"
+msgstr "勒贝雷希特·马斯"
+
+#. alias-of: z1_leberecht_maass_(azur_lane)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(azur_lane):alias:1"
+msgid "z1_leberecht_maass_(azur_lane)"
+msgstr "马斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: 马斯cos
+msgctxt "tag:z1_leberecht_maass_(azur_lane)_(cosplay):primary"
+msgid "z1_leberecht_maass_(azur_lane)_(cosplay)"
+msgstr "莱伯雷希特·马斯（碧蓝航线）（角色扮演）"
+
+#. alias-of: z1_leberecht_maass_(azur_lane)_(cosplay)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(azur_lane)_(cosplay):alias:1"
+msgid "z1_leberecht_maass_(azur_lane)_(cosplay)"
+msgstr "马斯cos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z1_leberecht_maass_(battleship_girl):primary"
+msgid "z1_leberecht_maass_(battleship_girl)"
+msgstr "Z1·莱伯勒希特·马斯（舰队收藏）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:z1_leberecht_maass_(black_surge_night):primary"
+msgid "z1_leberecht_maass_(black_surge_night)"
+msgstr "Z1 莱伯雷希特·马斯（黑潮之夜）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:z1_leberecht_maass_(blue_oath):primary"
+msgid "z1_leberecht_maass_(blue_oath)"
+msgstr "Z1 莱贝雷希特·马斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3322
+#. aliases: Z1马斯, 莱贝雷希特·马斯
+msgctxt "tag:z1_leberecht_maass_(kancolle):primary"
+msgid "z1_leberecht_maass_(kancolle)"
+msgstr "莱贝雷希特·马斯（舰娘）"
+
+#. alias-of: z1_leberecht_maass_(kancolle)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(kancolle):alias:1"
+msgid "z1_leberecht_maass_(kancolle)"
+msgstr "Z1马斯"
+
+#. alias-of: z1_leberecht_maass_(kancolle)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(kancolle):alias:2"
+msgid "z1_leberecht_maass_(kancolle)"
+msgstr "莱贝雷希特·马斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 110
+msgctxt "tag:z1_leberecht_maass_(kancolle)_(cosplay):primary"
+msgid "z1_leberecht_maass_(kancolle)_(cosplay)"
+msgstr "Z1 雷伯希特·马斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Z1改, 马斯改
+msgctxt "tag:z1_leberecht_maass_(mod)_(warship_girls_r):primary"
+msgid "z1_leberecht_maass_(mod)_(warship_girls_r)"
+msgstr "Z1 莱贝雷希特·马斯（改）"
+
+#. alias-of: z1_leberecht_maass_(mod)_(warship_girls_r)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(mod)_(warship_girls_r):alias:1"
+msgid "z1_leberecht_maass_(mod)_(warship_girls_r)"
+msgstr "Z1改"
+
+#. alias-of: z1_leberecht_maass_(mod)_(warship_girls_r)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(mod)_(warship_girls_r):alias:2"
+msgid "z1_leberecht_maass_(mod)_(warship_girls_r)"
+msgstr "马斯改"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 148
+#. aliases: Z1啤酒节
+msgctxt "tag:z1_leberecht_maass_(oktoberfest)_(kancolle):primary"
+msgid "z1_leberecht_maass_(oktoberfest)_(kancolle)"
+msgstr "Z1(啤酒节)"
+
+#. alias-of: z1_leberecht_maass_(oktoberfest)_(kancolle)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(oktoberfest)_(kancolle):alias:1"
+msgid "z1_leberecht_maass_(oktoberfest)_(kancolle)"
+msgstr "Z1啤酒节"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:z1_leberecht_maass_(retrofit)_(azur_lane):primary"
+msgid "z1_leberecht_maass_(retrofit)_(azur_lane)"
+msgstr "Z1 莱伯雷希特·马斯（改造）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 48
+#. aliases: 舰队Collection马萨斯
+msgctxt "tag:z1_leberecht_maass_(summer_dress)_(kancolle):primary"
+msgid "z1_leberecht_maass_(summer_dress)_(kancolle)"
+msgstr "马萨斯改夏装"
+
+#. alias-of: z1_leberecht_maass_(summer_dress)_(kancolle)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(summer_dress)_(kancolle):alias:1"
+msgid "z1_leberecht_maass_(summer_dress)_(kancolle)"
+msgstr "舰队Collection马萨斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 275
+#. aliases: Z1(泳装)
+msgctxt "tag:z1_leberecht_maass_(swimsuit)_(kancolle):primary"
+msgid "z1_leberecht_maass_(swimsuit)_(kancolle)"
+msgstr "Z1泳装"
+
+#. alias-of: z1_leberecht_maass_(swimsuit)_(kancolle)
+#. source: ai
+msgctxt "tag:z1_leberecht_maass_(swimsuit)_(kancolle):alias:1"
+msgid "z1_leberecht_maass_(swimsuit)_(kancolle)"
+msgstr "Z1(泳装)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z1_leberecht_maass_(victory_belles):primary"
+msgid "z1_leberecht_maass_(victory_belles)"
+msgstr "Z1·莱伯勒希特·马斯（Victory Belles）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:z1_leberecht_maass_(warship_girls_r):primary"
+msgid "z1_leberecht_maass_(warship_girls_r)"
+msgstr "Z1勒贝雷希特·马斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z1b00n:primary"
+msgid "z1b00n"
+msgstr "z1b00n"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:z1g3d:primary"
+msgid "z1g3d"
+msgstr "z1g3d"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:z1npool:primary"
+msgid "z1npool"
+msgstr "z1npool"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z1oknn:primary"
+msgid "z1oknn"
+msgstr "z1oknn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:z1png:primary"
+msgid "z1png"
+msgstr "z1png"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:z1raell:primary"
+msgid "z1raell"
+msgstr "Z1raell"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:z1t_vi:primary"
+msgid "z1t_vi"
+msgstr "Z1T_VI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:z1vfcd2:primary"
+msgid "z1vfcd2"
+msgstr "z1vfcd2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z1zoy:primary"
+msgid "z1zoy"
+msgstr "z1zoy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z1zq:primary"
+msgid "z1zq"
+msgstr "z1zq"

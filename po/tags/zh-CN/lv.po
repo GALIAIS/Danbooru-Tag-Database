@@ -1,0 +1,1015 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:32+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:32+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lv-223:primary"
+msgid "lv-223"
+msgstr "LV-223"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:lv-426:primary"
+msgid "lv-426"
+msgstr "LV-426"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv.10:primary"
+msgid "lv.10"
+msgstr "Lv.10"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv.14:primary"
+msgid "lv.14"
+msgstr "Lv.14"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lv.4:primary"
+msgid "lv.4"
+msgstr "LV.4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lv.7:primary"
+msgid "lv.7"
+msgstr "Lv.7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv0_mofa_shi_cm_limi:primary"
+msgid "lv0_mofa_shi_cm_limi"
+msgstr "Lv0 魔法师 cm limi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv100mage:primary"
+msgid "lv100mage"
+msgstr "lv100mage"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv1065029440:primary"
+msgid "lv1065029440"
+msgstr "lv1065029440"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+#. aliases: Lv11
+msgctxt "tag:lv11:primary"
+msgid "lv11"
+msgstr "等级11"
+
+#. alias-of: lv11
+#. source: ai
+msgctxt "tag:lv11:alias:1"
+msgid "lv11"
+msgstr "Lv11"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv1763:primary"
+msgid "lv1763"
+msgstr "Lv1763"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 54
+#. aliases: 勇者与一间房的魔王
+msgctxt "tag:lv1_maou_to_one_room_yuusha:primary"
+msgid "lv1_maou_to_one_room_yuusha"
+msgstr "魔王与勇者"
+
+#. alias-of: lv1_maou_to_one_room_yuusha
+#. source: ai
+msgctxt "tag:lv1_maou_to_one_room_yuusha:alias:1"
+msgid "lv1_maou_to_one_room_yuusha"
+msgstr "勇者与一间房的魔王"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv1_myang:primary"
+msgid "lv1_myang"
+msgstr "lv1_myang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv1_rubili:primary"
+msgid "lv1_rubili"
+msgstr "lv1_rubili"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:lv1na_ura:primary"
+msgid "lv1na_ura"
+msgstr "Lv1na Ura"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:lv21:primary"
+msgid "lv21"
+msgstr "lv21"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:lv25t00:primary"
+msgid "lv25t00"
+msgstr "LV25T00"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:lv2_1130:primary"
+msgid "lv2_1130"
+msgstr "lv2_1130"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 127
+#. aliases: LV2开挂
+msgctxt "tag:lv2_kara_cheat_datta_moto_yuusha_kouho_no_mattari_isekai_life:primary"
+msgid "lv2_kara_cheat_datta_moto_yuusha_kouho_no_mattari_isekai_life"
+msgstr "LV2开始开挂的原勇者候补悠闲的异世界生活"
+
+#. alias-of: lv2_kara_cheat_datta_moto_yuusha_kouho_no_mattari_isekai_life
+#. source: ai
+msgctxt "tag:lv2_kara_cheat_datta_moto_yuusha_kouho_no_mattari_isekai_life:alias:1"
+msgid "lv2_kara_cheat_datta_moto_yuusha_kouho_no_mattari_isekai_life"
+msgstr "LV2开挂"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 罗格, 魔王
+msgctxt "tag:lv2_overlord_(rogu):primary"
+msgid "lv2_overlord_(rogu)"
+msgstr "Lv2魔王"
+
+#. alias-of: lv2_overlord_(rogu)
+#. source: ai
+msgctxt "tag:lv2_overlord_(rogu):alias:1"
+msgid "lv2_overlord_(rogu)"
+msgstr "罗格"
+
+#. alias-of: lv2_overlord_(rogu)
+#. source: ai
+msgctxt "tag:lv2_overlord_(rogu):alias:2"
+msgid "lv2_overlord_(rogu)"
+msgstr "魔王"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv2nt:primary"
+msgid "lv2nt"
+msgstr "Lv2nt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv3:primary"
+msgid "lv3"
+msgstr "lv3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:lv41_(lv41low):primary"
+msgid "lv41_(lv41low)"
+msgstr "LV41"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv426plus:primary"
+msgid "lv426plus"
+msgstr "lv426plus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 82
+msgctxt "tag:lv5plant:primary"
+msgid "lv5plant"
+msgstr "Lv5植物"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lv666:primary"
+msgid "lv666"
+msgstr "lv666"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv8wriyjkcolgly:primary"
+msgid "lv8wriyjkcolgly"
+msgstr "lv8wriyjkcolgly"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:lv999ppbunny:primary"
+msgid "lv999ppbunny"
+msgstr "lv999ppbunny"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lv9o5:primary"
+msgid "lv9o5"
+msgstr "lv9o5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lv_11:primary"
+msgid "lv_11"
+msgstr "等级11"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lv_249:primary"
+msgid "lv_249"
+msgstr "LV-249"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lv_999_no_murabito:primary"
+msgid "lv_999_no_murabito"
+msgstr "LV999的村民"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv_99kermit:primary"
+msgid "lv_99kermit"
+msgstr "LV99柯米特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:lv_bu:primary"
+msgid "lv_bu"
+msgstr "吕布"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lv_bu_(cosplay):primary"
+msgid "lv_bu_(cosplay)"
+msgstr "吕布（cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:lv_chan_cat:primary"
+msgid "lv_chan_cat"
+msgstr "LV酱猫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:lv_dagun:primary"
+msgid "lv_dagun"
+msgstr "Lv Dagun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv_harya:primary"
+msgid "lv_harya"
+msgstr "lv_harya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:lv_k1b0:primary"
+msgid "lv_k1b0"
+msgstr "Lv_K1b0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lv_lamdba:primary"
+msgid "lv_lamdba"
+msgstr "LV Lambda"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lv_lunatic:primary"
+msgid "lv_lunatic"
+msgstr "Lv狂人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lv_meng:primary"
+msgid "lv_meng"
+msgstr "吕蒙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:lv_minus999:primary"
+msgid "lv_minus999"
+msgstr "等级-999"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:lv_refrain:primary"
+msgid "lv_refrain"
+msgstr "lv_refrain"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lv_som:primary"
+msgid "lv_som"
+msgstr "lv_som"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:lv_zhu_xuan:primary"
+msgid "lv_zhu_xuan"
+msgstr "绿珠轩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 62
+msgctxt "tag:lvans:primary"
+msgid "lvans"
+msgstr "lvans"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvanteinn:primary"
+msgid "lvanteinn"
+msgstr "lvanteinn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:lvbanshan:primary"
+msgid "lvbanshan"
+msgstr "lvbanshan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvbeer:primary"
+msgid "lvbeer"
+msgstr "LV啤酒"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:lvbing:primary"
+msgid "lvbing"
+msgstr "吕冰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvbuliang1:primary"
+msgid "lvbuliang1"
+msgstr "lvbuliang1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvc1d:primary"
+msgid "lvc1d"
+msgstr "lvc1d"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvchuanxun:primary"
+msgid "lvchuanxun"
+msgstr "绿川训"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvckyyy37:primary"
+msgid "lvckyyy37"
+msgstr "Lvckyyy37"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvd_lafu:primary"
+msgid "lvd_lafu"
+msgstr "lvd_lafu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvdagun_mt:primary"
+msgid "lvdagun_mt"
+msgstr "LV大根MT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvdoubingshishei:primary"
+msgid "lvdoubingshishei"
+msgstr "lvdoubingshishei"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvdougaogaogao:primary"
+msgid "lvdougaogaogao"
+msgstr "lvdougaogaogao"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:lvebuer:primary"
+msgid "lvebuer"
+msgstr "Lvebuer"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:lveeta:primary"
+msgid "lveeta"
+msgstr "Lveeta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:lveink:primary"
+msgid "lveink"
+msgstr "lveink"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvelaa_g:primary"
+msgid "lvelaa_g"
+msgstr "LVELAA G"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:lvemhrd:primary"
+msgid "lvemhrd"
+msgstr "lvemhrd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:lver_(artist):primary"
+msgid "lver_(artist)"
+msgstr "Lver"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 172
+#. aliases: Helvetica
+msgctxt "tag:lvetica:primary"
+msgid "lvetica"
+msgstr "赫尔维蒂"
+
+#. alias-of: lvetica
+#. source: ai
+msgctxt "tag:lvetica:alias:1"
+msgid "lvetica"
+msgstr "Helvetica"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvf3vr:primary"
+msgid "lvf3vr"
+msgstr "lvf3vr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvgatarin:primary"
+msgid "lvgatarin"
+msgstr "lvgatarin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:lvgpztoetp4nbha:primary"
+msgid "lvgpztoetp4nbha"
+msgstr "lvgpztoetp4nbha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:lvguanyouhu:primary"
+msgid "lvguanyouhu"
+msgstr "lvguanyouhu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:lvhang1023:primary"
+msgid "lvhang1023"
+msgstr "lvhang1023"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 299
+msgctxt "tag:lvi:primary"
+msgid "lvi"
+msgstr "lvi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvie_lvyi:primary"
+msgid "lvie_lvyi"
+msgstr "Lvie Lvyi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvilve:primary"
+msgid "lvilve"
+msgstr "lvilve"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lvk181:primary"
+msgid "lvk181"
+msgstr "lvk181"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:lvl1noll:primary"
+msgid "lvl1noll"
+msgstr "lvl1noll"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:lvl225:primary"
+msgid "lvl225"
+msgstr "lvl225"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:lvl229:primary"
+msgid "lvl229"
+msgstr "lvl229"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 96
+msgctxt "tag:lvl374:primary"
+msgid "lvl374"
+msgstr "等级374"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:lvl3toaster:primary"
+msgid "lvl3toaster"
+msgstr "lvl3toaster"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvl404:primary"
+msgid "lvl404"
+msgstr "LVL404"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 963
+msgctxt "tag:lvl_(sentrythe2310):primary"
+msgid "lvl_(sentrythe2310)"
+msgstr "lvl_(sentrythe2310)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:lvl_31:primary"
+msgid "lvl_31"
+msgstr "lvl_31"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvl_lul:primary"
+msgid "lvl_lul"
+msgstr "LvlLul"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvlcurrent:primary"
+msgid "lvlcurrent"
+msgstr "Lvlcurrent"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:lvli_x2:primary"
+msgid "lvli_x2"
+msgstr "Lvli_X2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:lvluri_(murimurri670):primary"
+msgid "lvluri_(murimurri670)"
+msgstr "Lv1Luri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 206
+msgctxt "tag:lvlv:primary"
+msgid "lvlv"
+msgstr "未知"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:lvlv_(wmhc3443):primary"
+msgid "lvlv_(wmhc3443)"
+msgstr "Lvlv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:lvlvlvjian41352:primary"
+msgid "lvlvlvjian41352"
+msgstr "用户标签"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvlypop:primary"
+msgid "lvlypop"
+msgstr "LVLY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvmie:primary"
+msgid "lvmie"
+msgstr "lvmie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvmrkezm:primary"
+msgid "lvmrkezm"
+msgstr "Lvmrkezm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvmy:primary"
+msgid "lvmy"
+msgstr "Lvmy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:lvn_iritoki:primary"
+msgid "lvn_iritoki"
+msgstr "LVN Iritoki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvndr:primary"
+msgid "lvndr"
+msgstr "Lvndr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvndrxuu:primary"
+msgid "lvndrxuu"
+msgstr "lvndrxuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvnesart:primary"
+msgid "lvnesart"
+msgstr "lvnesart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvni_jiangmian:primary"
+msgid "lvni_jiangmian"
+msgstr "lvni_jiangmian"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:lvnp:primary"
+msgid "lvnp"
+msgstr "LVNP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvo0_0:primary"
+msgid "lvo0_0"
+msgstr "lvo0_0"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:lvoa-c:primary"
+msgid "lvoa-c"
+msgstr "LVOA-C"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lvoa-c_(girls'_frontline)_(chinese_robot_kid):primary"
+msgid "lvoa-c_(girls'_frontline)_(chinese_robot_kid)"
+msgstr "LVOA-C"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvohtn:primary"
+msgid "lvohtn"
+msgstr "lvohtn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:lvs7u:primary"
+msgid "lvs7u"
+msgstr "lvs7u"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:lvt:primary"
+msgid "lvt"
+msgstr "Lvt"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvt-1_alligator:primary"
+msgid "lvt-1_alligator"
+msgstr "LVT-1鳄鱼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvt-4:primary"
+msgid "lvt-4"
+msgstr "LVT-4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvttdyja2rhdgl8:primary"
+msgid "lvttdyja2rhdgl8"
+msgstr "lvttdyja2rhdgl8"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvuligar:primary"
+msgid "lvuligar"
+msgstr "Lvuligar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:lvup1234:primary"
+msgid "lvup1234"
+msgstr "lvup1234"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvwh:primary"
+msgid "lvwh"
+msgstr "lvwh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:lvx_ccc:primary"
+msgid "lvx_ccc"
+msgstr "lvx_ccc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvxing_kedou:primary"
+msgid "lvxing_kedou"
+msgstr "旅行蝌蚪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lvxooo:primary"
+msgid "lvxooo"
+msgstr "Lvxooo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:lvy_1415:primary"
+msgid "lvy_1415"
+msgstr "lvy_1415"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvyangdang:primary"
+msgid "lvyangdang"
+msgstr "Lvyangdang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lvycqt:primary"
+msgid "lvycqt"
+msgstr "lvycqt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lvyi_muzhiniao:primary"
+msgid "lvyi_muzhiniao"
+msgstr "绿衣木之鸟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:lvyoujun1:primary"
+msgid "lvyoujun1"
+msgstr "Lvyoujun1"

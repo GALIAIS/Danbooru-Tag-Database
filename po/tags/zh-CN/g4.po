@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:25+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:25+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 103
+#. aliases: 海滩朋克 G41
+msgctxt "tag:g41_(beach_punk_2064)_(girls'_frontline):primary"
+msgid "g41_(beach_punk_2064)_(girls'_frontline)"
+msgstr "G41(少女前线)"
+
+#. alias-of: g41_(beach_punk_2064)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:g41_(beach_punk_2064)_(girls'_frontline):alias:1"
+msgid "g41_(beach_punk_2064)_(girls'_frontline)"
+msgstr "海滩朋克 G41"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 花之告白
+msgctxt "tag:g41_(floral_confession)_(girls'_frontline):primary"
+msgid "g41_(floral_confession)_(girls'_frontline)"
+msgstr "G41"
+
+#. alias-of: g41_(floral_confession)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:g41_(floral_confession)_(girls'_frontline):alias:1"
+msgid "g41_(floral_confession)_(girls'_frontline)"
+msgstr "花之告白"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 756
+msgctxt "tag:g41_(girls'_frontline):primary"
+msgid "g41_(girls'_frontline)"
+msgstr "G41(少女前线)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:g41_(girls'_frontline)_(cosplay):primary"
+msgid "g41_(girls'_frontline)_(cosplay)"
+msgstr "G41"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+#. aliases: 环球快车G41
+msgctxt "tag:g41_(universal_express)_(girls'_frontline):primary"
+msgid "g41_(universal_express)_(girls'_frontline)"
+msgstr "G41 (环球快车) (少女前线)"
+
+#. alias-of: g41_(universal_express)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:g41_(universal_express)_(girls'_frontline):alias:1"
+msgid "g41_(universal_express)_(girls'_frontline)"
+msgstr "环球快车G41"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:g4265059:primary"
+msgid "g4265059"
+msgstr "G4265059"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:g43_(girls'_frontline):primary"
+msgid "g43_(girls'_frontline)"
+msgstr "G43（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: 伯爵夫人, 少女前线
+msgctxt "tag:g43_(rendezvous_with_a_countess)_(girls'_frontline):primary"
+msgid "g43_(rendezvous_with_a_countess)_(girls'_frontline)"
+msgstr "G43"
+
+#. alias-of: g43_(rendezvous_with_a_countess)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:g43_(rendezvous_with_a_countess)_(girls'_frontline):alias:1"
+msgid "g43_(rendezvous_with_a_countess)_(girls'_frontline)"
+msgstr "伯爵夫人"
+
+#. alias-of: g43_(rendezvous_with_a_countess)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:g43_(rendezvous_with_a_countess)_(girls'_frontline):alias:2"
+msgid "g43_(rendezvous_with_a_countess)_(girls'_frontline)"
+msgstr "少女前线"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:g47556255:primary"
+msgid "g47556255"
+msgstr "G47556255"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:g49:primary"
+msgid "g49"
+msgstr "G49"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:g4_(zuipo):primary"
+msgid "g4_(zuipo)"
+msgstr "G4（zuipo）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:g4_volta:primary"
+msgid "g4_volta"
+msgstr "g4_volta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:g4etur:primary"
+msgid "g4etur"
+msgstr "g4etur"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:g4imtomjcq33929:primary"
+msgid "g4imtomjcq33929"
+msgstr "g4imtomjcq33929"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:g4inrin:primary"
+msgid "g4inrin"
+msgstr "G4印鳞"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:g4ku:primary"
+msgid "g4ku"
+msgstr "G4KU"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:g4l_(song):primary"
+msgid "g4l_(song)"
+msgstr "G4L（歌曲）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:g4l_gaming_expo-festival:primary"
+msgid "g4l_gaming_expo-festival"
+msgstr "G4L Gaming Expo-Festival"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 40
+msgctxt "tag:g4m:primary"
+msgid "g4m"
+msgstr "G4M"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:g4m_(personification):primary"
+msgid "g4m_(personification)"
+msgstr "g4m拟人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:g4nnnnx:primary"
+msgid "g4nnnnx"
+msgstr "G4nnnnx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:g4qs:primary"
+msgid "g4qs"
+msgstr "G4QS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:g4rb4ge_b0x:primary"
+msgid "g4rb4ge_b0x"
+msgstr "g4rb4ge_b0x"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:g4reki:primary"
+msgid "g4reki"
+msgstr "G4reki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:g4ro_(garo):primary"
+msgid "g4ro_(garo)"
+msgstr "g4ro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:g4rrel:primary"
+msgid "g4rrel"
+msgstr "G4rrel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:g4y8u9:primary"
+msgid "g4y8u9"
+msgstr "g4y8u9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:g4ymaric0ncin:primary"
+msgid "g4ymaric0ncin"
+msgstr "g4ymaric0ncin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:g4ymo:primary"
+msgid "g4ymo"
+msgstr "g4ymo"

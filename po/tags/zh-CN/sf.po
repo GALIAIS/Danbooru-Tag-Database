@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:41+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:41+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sf-3a_(personification):primary"
+msgid "sf-3a_(personification)"
+msgstr "SF-3A拟人化"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 820
+msgctxt "tag:sf-a2_miki:primary"
+msgid "sf-a2_miki"
+msgstr "SF-A2 米基"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:sf-a2_miki_(2012_ver):primary"
+msgid "sf-a2_miki_(2012_ver)"
+msgstr "SF-A2 Miki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: 艾·米琪
+msgctxt "tag:sf-a2_miki_(ai_miki):primary"
+msgid "sf-a2_miki_(ai_miki)"
+msgstr "SF-A2 Miki"
+
+#. alias-of: sf-a2_miki_(ai_miki)
+#. source: ai
+msgctxt "tag:sf-a2_miki_(ai_miki):alias:1"
+msgid "sf-a2_miki_(ai_miki)"
+msgstr "艾·米琪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:sf-a2_miki_(cosplay):primary"
+msgid "sf-a2_miki_(cosplay)"
+msgstr "SF-A2 Miki Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+#. aliases: SF-A2ミク
+msgctxt "tag:sf-a2_miki_(vocaloid4):primary"
+msgid "sf-a2_miki_(vocaloid4)"
+msgstr "SF-A2 Miki"
+
+#. alias-of: sf-a2_miki_(vocaloid4)
+#. source: ai
+msgctxt "tag:sf-a2_miki_(vocaloid4):alias:1"
+msgid "sf-a2_miki_(vocaloid4)"
+msgstr "SF-A2ミク"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sf10320065:primary"
+msgid "sf10320065"
+msgstr "sf10320065"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:sf2250:primary"
+msgid "sf2250"
+msgstr "sf2250"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sf6_gorira:primary"
+msgid "sf6_gorira"
+msgstr "SF6 Gorilla"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sf82lys:primary"
+msgid "sf82lys"
+msgstr "sf82lys"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sf:_onee-san_teacher:primary"
+msgid "sf:_onee-san_teacher"
+msgstr "SF：姐姐老师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sf_(8am):primary"
+msgid "sf_(8am)"
+msgstr "sf (8am)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sf_(artist):primary"
+msgid "sf_(artist)"
+msgstr "SF"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:sf_(owari_no_chronicle):primary"
+msgid "sf_(owari_no_chronicle)"
+msgstr "SF（终末的物语）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sf_(sf_404):primary"
+msgid "sf_(sf_404)"
+msgstr "SF"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sf_404:primary"
+msgid "sf_404"
+msgstr "sf_404"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 170
+#. aliases: 超次元传说
+msgctxt "tag:sf_choujigen_densetsu_rall:primary"
+msgid "sf_choujigen_densetsu_rall"
+msgstr "SF超次元传说拉尔"
+
+#. alias-of: sf_choujigen_densetsu_rall
+#. source: ai
+msgctxt "tag:sf_choujigen_densetsu_rall:alias:1"
+msgid "sf_choujigen_densetsu_rall"
+msgstr "超次元传说"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sf_clockman:primary"
+msgid "sf_clockman"
+msgstr "sf_clockman"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.archetype_role
+#. safety: sfw
+#. post-count: 2
+#. aliases: 科幻少女
+msgctxt "tag:sf_girl:primary"
+msgid "sf_girl"
+msgstr "SF女孩"
+
+#. alias-of: sf_girl
+#. source: ai
+msgctxt "tag:sf_girl:alias:1"
+msgid "sf_girl"
+msgstr "科幻少女"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:sf_going_on:primary"
+msgid "sf_going_on"
+msgstr "SF进行中"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 63
+msgctxt "tag:sf_jd:primary"
+msgid "sf_jd"
+msgstr "科幻连衣裙"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sf_saiyuki_starzinger:primary"
+msgid "sf_saiyuki_starzinger"
+msgstr "《SF西游记星盗者》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sf_solaris:primary"
+msgid "sf_solaris"
+msgstr "sf_solaris"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sf_takahashi:primary"
+msgid "sf_takahashi"
+msgstr "SF高桥"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+#. aliases: SFACG
+msgctxt "tag:sfacg:primary"
+msgid "sfacg"
+msgstr "SFACG"
+
+#. alias-of: sfacg
+#. source: ai
+msgctxt "tag:sfacg:alias:1"
+msgid "sfacg"
+msgstr "SFACG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfaij:primary"
+msgid "sfaij"
+msgstr "sfaij"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:sfan:primary"
+msgid "sfan"
+msgstr "Sfan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfapple:primary"
+msgid "sfapple"
+msgstr "SFApple"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfarx_(spark_the_electric_jester_3):primary"
+msgid "sfarx_(spark_the_electric_jester_3)"
+msgstr "Sfarx（Spark the Electric Jester 3）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfaxv416354:primary"
+msgid "sfaxv416354"
+msgstr "sfaxv416354"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfbdim:primary"
+msgid "sfbdim"
+msgstr "sfbdim"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfc-tan:primary"
+msgid "sfc-tan"
+msgstr "SFC-Tan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfchen1210:primary"
+msgid "sfchen1210"
+msgstr "Sfchen1210"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:sfdin_yoshi:primary"
+msgid "sfdin_yoshi"
+msgstr "SFDin吉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:sfdj:primary"
+msgid "sfdj"
+msgstr "SFDJ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sfei219283191:primary"
+msgid "sfei219283191"
+msgstr "sfei219283191"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sffalconet:primary"
+msgid "sffalconet"
+msgstr "sffalconet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sffy_(saffyel):primary"
+msgid "sffy_(saffyel)"
+msgstr "sffy_(saffyel)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfgcad:primary"
+msgid "sfgcad"
+msgstr "SFGCAD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:sfheibai:primary"
+msgid "sfheibai"
+msgstr "sfheibai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfifl1031:primary"
+msgid "sfifl1031"
+msgstr "sfifl1031"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:sfika:primary"
+msgid "sfika"
+msgstr "sfika"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:sfisdis:primary"
+msgid "sfisdis"
+msgstr "sfisdis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sfj_(bihai_chao_tian):primary"
+msgid "sfj_(bihai_chao_tian)"
+msgstr "SFJ（碧海朝天）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sfkatgo:primary"
+msgid "sfkatgo"
+msgstr "sfkatgo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sfl-hikari:primary"
+msgid "sfl-hikari"
+msgstr "SFL-Hikari"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:sflake_song:primary"
+msgid "sflake_song"
+msgstr "Sflake Song"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfloreven:primary"
+msgid "sfloreven"
+msgstr "sfloreven"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:sflr:primary"
+msgid "sflr"
+msgstr "sflr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sfm-hobb3s:primary"
+msgid "sfm-hobb3s"
+msgstr "sfm-hobb3s"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:sfm_zhang:primary"
+msgid "sfm_zhang"
+msgstr "SFM Zhang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sfmlover22:primary"
+msgid "sfmlover22"
+msgstr "sfmlover22"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:sfmtessai:primary"
+msgid "sfmtessai"
+msgstr "SFMTessai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfn_stefann.visuals:primary"
+msgid "sfn_stefann.visuals"
+msgstr "sfn_stefann.visuals"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:sfnnezl_0u0:primary"
+msgid "sfnnezl_0u0"
+msgstr "sfnnezl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sfnxzu:primary"
+msgid "sfnxzu"
+msgstr "sfnxzu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfolse:primary"
+msgid "sfolse"
+msgstr "sfolse"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfonsecan:primary"
+msgid "sfonsecan"
+msgstr "Sfonsecan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sforei_(cardfight!!_vanguard):primary"
+msgid "sforei_(cardfight!!_vanguard)"
+msgstr "Sforei（卡片战斗先导者）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 65
+msgctxt "tag:sfour_s4:primary"
+msgid "sfour_s4"
+msgstr "S4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfphysics:primary"
+msgid "sfphysics"
+msgstr "sfphysics"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:sfrabbit:primary"
+msgid "sfrabbit"
+msgstr "宇宙兔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:sframboob:primary"
+msgid "sframboob"
+msgstr "S大胸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sfroshi:primary"
+msgid "sfroshi"
+msgstr "sfroshi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:sfry0323:primary"
+msgid "sfry0323"
+msgstr "Sfry0323"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:sfsaltfish:primary"
+msgid "sfsaltfish"
+msgstr "SFSaltfish"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfsicm048:primary"
+msgid "sfsicm048"
+msgstr "sfsicm048"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfsl_(user_78996987):primary"
+msgid "sfsl_(user_78996987)"
+msgstr "sfsl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:sfss:primary"
+msgid "sfss"
+msgstr "SFSS"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:sfv_story_cammy:primary"
+msgid "sfv_story_cammy"
+msgstr "街霸5剧情嘉米"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfwbat:primary"
+msgid "sfwbat"
+msgstr "安全蝙蝠"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfwiwiwts:primary"
+msgid "sfwiwiwts"
+msgstr "sfwiwiwts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfwsoul:primary"
+msgid "sfwsoul"
+msgstr "sfwsoul"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfxdii4:primary"
+msgid "sfxdii4"
+msgstr "sfxdii4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sfz0qullkk:primary"
+msgid "sfz0qullkk"
+msgstr "用户标签"

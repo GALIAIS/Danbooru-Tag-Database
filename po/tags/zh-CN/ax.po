@@ -1,0 +1,3135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:20+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:20+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ax-el:primary"
+msgid "ax-el"
+msgstr "ax-el"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ax-s:primary"
+msgid "ax-s"
+msgstr "AX-S"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ax0057:primary"
+msgid "ax0057"
+msgstr "ax0057"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ax10zx:primary"
+msgid "ax10zx"
+msgstr "ax10zx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ax1om_pr1est:primary"
+msgid "ax1om_pr1est"
+msgstr "Ax1omPr1est"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ax1omo4ka:primary"
+msgid "ax1omo4ka"
+msgstr "ax1omo4ka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: B站
+msgctxt "tag:ax3_(bilibili_168576578):primary"
+msgid "ax3_(bilibili_168576578)"
+msgstr "B站用户"
+
+#. alias-of: ax3_(bilibili_168576578)
+#. source: ai
+msgctxt "tag:ax3_(bilibili_168576578):alias:1"
+msgid "ax3_(bilibili_168576578)"
+msgstr "B站"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ax3_(civvie_11):primary"
+msgid "ax3_(civvie_11)"
+msgstr "A-X3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ax3lart:primary"
+msgid "ax3lart"
+msgstr "ax3lart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ax4:primary"
+msgid "ax4"
+msgstr "AX4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ax4ntii:primary"
+msgid "ax4ntii"
+msgstr "ax4ntii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ax94gn:primary"
+msgid "ax94gn"
+msgstr "ax94gn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ax_(mihuashi_2426):primary"
+msgid "ax_(mihuashi_2426)"
+msgstr "ax_(mihuashi_2426)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ax_07:primary"
+msgid "ax_07"
+msgstr "ax_07（画师）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ax_ak9:primary"
+msgid "ax_ak9"
+msgstr "AX AK9"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:ax_bass:primary"
+msgid "ax_bass"
+msgstr "贝斯斧"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:ax_battler:primary"
+msgid "ax_battler"
+msgstr "斧战士"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ax_faction:primary"
+msgid "ax_faction"
+msgstr "AX阵营"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ax_g90:primary"
+msgid "ax_g90"
+msgstr "AX G90"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ax_guitar:primary"
+msgid "ax_guitar"
+msgstr "AX吉他"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ax_oda:primary"
+msgid "ax_oda"
+msgstr "Ax Oda"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axa403:primary"
+msgid "axa403"
+msgstr "axa403"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axaaa:primary"
+msgid "axaaa"
+msgstr "axaaa"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axalara_t9:primary"
+msgid "axalara_t9"
+msgstr "Axalara T9"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 43
+msgctxt "tag:axanael:primary"
+msgid "axanael"
+msgstr "Axanael"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axapquxu:primary"
+msgid "axapquxu"
+msgstr "axapquxu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axashizoshi:primary"
+msgid "axashizoshi"
+msgstr "axashizoshi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:axax_toast:primary"
+msgid "axax_toast"
+msgstr "Axax Toast"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axayacatl:primary"
+msgid "axayacatl"
+msgstr "阿萨亚卡特尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axb:primary"
+msgid "axb"
+msgstr "AXB"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: daemoria
+msgctxt "tag:axbet_(daemoria):primary"
+msgid "axbet_(daemoria)"
+msgstr "axbet"
+
+#. alias-of: axbet_(daemoria)
+#. source: ai
+msgctxt "tag:axbet_(daemoria):alias:1"
+msgid "axbet_(daemoria)"
+msgstr "daemoria"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axbraun:primary"
+msgid "axbraun"
+msgstr "Axbraun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axbreii:primary"
+msgid "axbreii"
+msgstr "axbreii"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:axcalibur:primary"
+msgid "axcalibur"
+msgstr "斧剑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axcell:primary"
+msgid "axcell"
+msgstr "axcell"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axdg:primary"
+msgid "axdg"
+msgstr "AXDG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axdom:primary"
+msgid "axdom"
+msgstr "Axdom"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 19568
+#. aliases: 斧
+msgctxt "tag:axe:primary"
+msgid "axe"
+msgstr "斧头"
+
+#. alias-of: axe
+#. source: ai
+msgctxt "tag:axe:alias:1"
+msgid "axe"
+msgstr "斧"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axe-knight:primary"
+msgid "axe-knight"
+msgstr "斧骑士"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axe0911:primary"
+msgid "axe0911"
+msgstr "axe0911"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:axe_(dota):primary"
+msgid "axe_(dota)"
+msgstr "斧王（Dota）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:axe_(earclacks):primary"
+msgid "axe_(earclacks)"
+msgstr "斧头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:axe_(navigavi):primary"
+msgid "axe_(navigavi)"
+msgstr "Axe（Navigavi）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axe_armor_(castlevania):primary"
+msgid "axe_armor_(castlevania)"
+msgstr "斧铠甲（恶魔城）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:axe_assa:primary"
+msgid "axe_assa"
+msgstr "斧头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:axe_cat_(nyanko_daisensou):primary"
+msgid "axe_cat_(nyanko_daisensou)"
+msgstr "斧子猫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axe_cop:primary"
+msgid "axe_cop"
+msgstr "斧头警察"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axe_cop_(comic):primary"
+msgid "axe_cop_(comic)"
+msgstr "斧头警察（漫画）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 15
+#. aliases: 斧形耳饰
+msgctxt "tag:axe_earrings:primary"
+msgid "axe_earrings"
+msgstr "斧头耳环"
+
+#. alias-of: axe_earrings
+#. source: ai
+msgctxt "tag:axe_earrings:alias:1"
+msgid "axe_earrings"
+msgstr "斧形耳饰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axe_empty:primary"
+msgid "axe_empty"
+msgstr "Axe Empty"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:axe_ftga8758:primary"
+msgid "axe_ftga8758"
+msgstr "axe"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:axe_guitar:primary"
+msgid "axe_guitar"
+msgstr "斧吉他"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+#. aliases: 斧手摩根
+msgctxt "tag:axe_hand_morgan:primary"
+msgid "axe_hand_morgan"
+msgstr "斧手摩根"
+
+#. alias-of: axe_hand_morgan
+#. source: ai
+msgctxt "tag:axe_hand_morgan:alias:1"
+msgid "axe_hand_morgan"
+msgstr "斧手摩根"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.injury.bandage_or_wound
+#. safety: mixed
+#. post-count: 38
+msgctxt "tag:axe_in_head:primary"
+msgid "axe_in_head"
+msgstr "头斧"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.combat_action
+#. safety: sfw
+#. post-count: 222
+msgctxt "tag:axe_kick:primary"
+msgid "axe_kick"
+msgstr "斧踢"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 斧头骑士
+msgctxt "tag:axe_knight:primary"
+msgid "axe_knight"
+msgstr "斧骑士"
+
+#. alias-of: axe_knight
+#. source: ai
+msgctxt "tag:axe_knight:alias:1"
+msgid "axe_knight"
+msgstr "斧头骑士"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:axe_knight_(kirby):primary"
+msgid "axe_knight_(kirby)"
+msgstr "斧骑士"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:axe_luther:primary"
+msgid "axe_luther"
+msgstr "斧头路德"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axe_meg_(mboymanuel):primary"
+msgid "axe_meg_(mboymanuel)"
+msgstr "斧梅格（mboymanuel）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:axe_metal:primary"
+msgid "axe_metal"
+msgstr "金属斧头"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 3
+#. aliases: 战斧项链
+msgctxt "tag:axe_necklace:primary"
+msgid "axe_necklace"
+msgstr "斧头项链"
+
+#. alias-of: axe_necklace
+#. source: ai
+msgctxt "tag:axe_necklace:alias:1"
+msgid "axe_necklace"
+msgstr "战斧项链"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:axe_of_despair:primary"
+msgid "axe_of_despair"
+msgstr "绝望之斧"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axe_of_fools:primary"
+msgid "axe_of_fools"
+msgstr "愚者之斧"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:axe_print:primary"
+msgid "axe_print"
+msgstr "斧头印花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 198
+#. aliases: 斧头
+msgctxt "tag:axe_r18:primary"
+msgid "axe_r18"
+msgstr "斧"
+
+#. alias-of: axe_r18
+#. source: ai
+msgctxt "tag:axe_r18:alias:1"
+msgid "axe_r18"
+msgstr "斧头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axe_stump_(maplestory):primary"
+msgid "axe_stump_(maplestory)"
+msgstr "斧头桩（冒险岛）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axe_warrior_(gogalking):primary"
+msgid "axe_warrior_(gogalking)"
+msgstr "斧战士"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axe_yuuri:primary"
+msgid "axe_yuuri"
+msgstr "斧百合"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axe_zombie_(blood):primary"
+msgid "axe_zombie_(blood)"
+msgstr "斧头僵尸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axecutioner_(artist):primary"
+msgid "axecutioner_(artist)"
+msgstr "Axecutioner"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axed:primary"
+msgid "axed"
+msgstr "Axed"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:axehorn_(ssambatea):primary"
+msgid "axehorn_(ssambatea)"
+msgstr "斧角"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:axeilden:primary"
+msgid "axeilden"
+msgstr "Axeilden"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axeisland:primary"
+msgid "axeisland"
+msgstr "Axe Island"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel-gimenez:primary"
+msgid "axel-gimenez"
+msgstr "阿克塞尔·希门尼斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel-tiredstudent:primary"
+msgid "axel-tiredstudent"
+msgstr "Axel"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:axel-v:primary"
+msgid "axel-v"
+msgstr "axel-v"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:axel_(animal_crossing):primary"
+msgid "axel_(animal_crossing)"
+msgstr "阿克斯（动物森友会）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:axel_(axelwarriorvs):primary"
+msgid "axel_(axelwarriorvs)"
+msgstr "Axel"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel_(code_bunny):primary"
+msgid "axel_(code_bunny)"
+msgstr "阿克塞尔（Code Bunny）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Axel
+msgctxt "tag:axel_(coral_island):primary"
+msgid "axel_(coral_island)"
+msgstr "阿克塞尔"
+
+#. alias-of: axel_(coral_island)
+#. source: ai
+msgctxt "tag:axel_(coral_island):alias:1"
+msgid "axel_(coral_island)"
+msgstr "Axel"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axel_(crazy_taxi):primary"
+msgid "axel_(crazy_taxi)"
+msgstr "Axel（疯狂出租车）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:axel_(danshin):primary"
+msgid "axel_(danshin)"
+msgstr "阿克塞尔（丹神）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 593
+msgctxt "tag:axel_(kingdom_hearts):primary"
+msgid "axel_(kingdom_hearts)"
+msgstr "阿克塞尔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 5
+#. aliases: 阿克塞尔Cosplay
+msgctxt "tag:axel_(kingdom_hearts)_(cosplay):primary"
+msgid "axel_(kingdom_hearts)_(cosplay)"
+msgstr "Axel（王国之心）Cosplay"
+
+#. alias-of: axel_(kingdom_hearts)_(cosplay)
+#. source: ai
+msgctxt "tag:axel_(kingdom_hearts)_(cosplay):alias:1"
+msgid "axel_(kingdom_hearts)_(cosplay)"
+msgstr "阿克塞尔Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:axel_(koko_d._nuts):primary"
+msgid "axel_(koko_d._nuts)"
+msgstr "Axel"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axel_(lazarus):primary"
+msgid "axel_(lazarus)"
+msgstr "Axel（Lazarus）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axel_(poke789):primary"
+msgid "axel_(poke789)"
+msgstr "axel"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:axel_(rtf):primary"
+msgid "axel_(rtf)"
+msgstr "阿克塞尔（RTF）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:axel_(studioaxel):primary"
+msgid "axel_(studioaxel)"
+msgstr "Axel (Studio Axel)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 亚克
+msgctxt "tag:axel_(suikoden):primary"
+msgid "axel_(suikoden)"
+msgstr "亚克塞尔"
+
+#. alias-of: axel_(suikoden)
+#. source: ai
+msgctxt "tag:axel_(suikoden):alias:1"
+msgid "axel_(suikoden)"
+msgstr "亚克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axel_(t7x3xi116):primary"
+msgid "axel_(t7x3xi116)"
+msgstr "阿克塞尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Axel
+msgctxt "tag:axel_(tear_ring_saga):primary"
+msgid "axel_(tear_ring_saga)"
+msgstr "阿克塞尔（Tear Ring Saga）"
+
+#. alias-of: axel_(tear_ring_saga)
+#. source: ai
+msgctxt "tag:axel_(tear_ring_saga):alias:1"
+msgid "axel_(tear_ring_saga)"
+msgstr "Axel"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 阿克塞尔
+msgctxt "tag:axel_(total_drama):primary"
+msgid "axel_(total_drama)"
+msgstr "Axel（Total Drama）"
+
+#. alias-of: axel_(total_drama)
+#. source: ai
+msgctxt "tag:axel_(total_drama):alias:1"
+msgid "axel_(total_drama)"
+msgstr "阿克塞尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axel_(twisted_metal):primary"
+msgid "axel_(twisted_metal)"
+msgstr "Axel"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel_(vtuber):primary"
+msgid "axel_(vtuber)"
+msgstr "Axel（VTuber）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:axel_almer:primary"
+msgid "axel_almer"
+msgstr "阿克塞尔·阿尔默"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axel_backer:primary"
+msgid "axel_backer"
+msgstr "Axel Backer"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axel_city:primary"
+msgid "axel_city"
+msgstr "Axel City"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:axel_diamondis:primary"
+msgid "axel_diamondis"
+msgstr "阿克塞尔·戴蒙迪斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel_gear:primary"
+msgid "axel_gear"
+msgstr "阿克塞尔·吉尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:axel_hawk:primary"
+msgid "axel_hawk"
+msgstr "阿克塞尔·霍克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axel_hell:primary"
+msgid "axel_hell"
+msgstr "Axel Hell"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:axel_hi:primary"
+msgid "axel_hi"
+msgstr "axel_hi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axel_hughes:primary"
+msgid "axel_hughes"
+msgstr "Axel Hughes"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:axel_in_harlem_(meme):primary"
+msgid "axel_in_harlem_(meme)"
+msgstr "哈林摇梗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel_lamury:primary"
+msgid "axel_lamury"
+msgstr "Axel Lamury"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axel_massa:primary"
+msgid "axel_massa"
+msgstr "Axel Massa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel_medellin:primary"
+msgid "axel_medellin"
+msgstr "axel_medellin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel_meyer:primary"
+msgid "axel_meyer"
+msgstr "axel_meyer"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel_redbrand:primary"
+msgid "axel_redbrand"
+msgstr "Axel Redbrand"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:axel_rosered:primary"
+msgid "axel_rosered"
+msgstr "红蔷薇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:axel_stone:primary"
+msgid "axel_stone"
+msgstr "Axel Stone"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 525
+msgctxt "tag:axel_syrios:primary"
+msgid "axel_syrios"
+msgstr "阿克塞尔·西里奥斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:axel_syrios_(1st_costume):primary"
+msgid "axel_syrios_(1st_costume)"
+msgstr "艾克西斯·赛里奥斯 (第一套)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:axel_syrios_(2nd_costume):primary"
+msgid "axel_syrios_(2nd_costume)"
+msgstr "阿克塞尔·西里奥斯 (第2套服装)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:axel_syrios_(3rd_costume):primary"
+msgid "axel_syrios_(3rd_costume)"
+msgstr "Axel Syrios（第三套服装）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axel_syrios_(4th_costume):primary"
+msgid "axel_syrios_(4th_costume)"
+msgstr "艾克赛尔·赛利奥斯（四号服装）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel_syrios_(artist):primary"
+msgid "axel_syrios_(artist)"
+msgstr "Axel Syrios"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axel_syrios_(cosplay):primary"
+msgid "axel_syrios_(cosplay)"
+msgstr "Axel Syrios（扮装）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axel_thurston:primary"
+msgid "axel_thurston"
+msgstr "Axel Thurston"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axel_travers:primary"
+msgid "axel_travers"
+msgstr "Axel Travers"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axel_zero:primary"
+msgid "axel_zero"
+msgstr "AXEL ZERO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:axela_(ki0929):primary"
+msgid "axela_(ki0929)"
+msgstr "Axela"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axela_warrick:primary"
+msgid "axela_warrick"
+msgstr "阿克塞拉·瓦里克"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axelay:primary"
+msgid "axelay"
+msgstr "Axelay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axelcastle:primary"
+msgid "axelcastle"
+msgstr "Axelcastle"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axele:primary"
+msgid "axele"
+msgstr "axele"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+#. aliases: Axeleration
+msgctxt "tag:axeleration_(disgaea):primary"
+msgid "axeleration_(disgaea)"
+msgstr "《魔界战记》中的《Axeleration》"
+
+#. alias-of: axeleration_(disgaea)
+#. source: ai
+msgctxt "tag:axeleration_(disgaea):alias:1"
+msgid "axeleration_(disgaea)"
+msgstr "Axeleration"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axelferdinanart:primary"
+msgid "axelferdinanart"
+msgstr "axelferdinanart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axelhi:primary"
+msgid "axelhi"
+msgstr "axelhi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axelia:primary"
+msgid "axelia"
+msgstr "阿克赛利亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:axelia_(alchemy_stars):primary"
+msgid "axelia_(alchemy_stars)"
+msgstr "艾克斯莉娅（Alchemy Stars）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axell_wolf:primary"
+msgid "axell_wolf"
+msgstr "艾克塞尔·沃尔夫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axelldiamond:primary"
+msgid "axelldiamond"
+msgstr "axelldiamond"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axelle_mey:primary"
+msgid "axelle_mey"
+msgstr "axelle mey"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axeller:primary"
+msgid "axeller"
+msgstr "艾克塞勒"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axelliance:primary"
+msgid "axelliance"
+msgstr "Axelliance"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:axelnekokitty:primary"
+msgid "axelnekokitty"
+msgstr "axelnekokitty"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axelorca:primary"
+msgid "axelorca"
+msgstr "axelorca"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 73
+msgctxt "tag:axelotl_(axel_syrios):primary"
+msgid "axelotl_(axel_syrios)"
+msgstr "六角恐龙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:axeloust:primary"
+msgid "axeloust"
+msgstr "axeloust"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:axelsauerwald:primary"
+msgid "axelsauerwald"
+msgstr "Axel Sauerwald"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axelshrine:primary"
+msgid "axelshrine"
+msgstr "Axel神殿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:axelstool:primary"
+msgid "axelstool"
+msgstr "Axelstool"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:axelsworks:primary"
+msgid "axelsworks"
+msgstr "Axels Works"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axelthesketchartist:primary"
+msgid "axelthesketchartist"
+msgstr "Axelthesketchartist"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axem_(world_flipper):primary"
+msgid "axem_(world_flipper)"
+msgstr "Axem"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axem_black:primary"
+msgid "axem_black"
+msgstr "黑斧头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axem_green:primary"
+msgid "axem_green"
+msgstr "绿斧头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axem_pink:primary"
+msgid "axem_pink"
+msgstr "粉斧头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axem_red:primary"
+msgid "axem_red"
+msgstr "红斧头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axem_yellow:primary"
+msgid "axem_yellow"
+msgstr "黄斧头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.archetype_role
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axeman_(toshi_densetsu_kaitai_center):primary"
+msgid "axeman_(toshi_densetsu_kaitai_center)"
+msgstr "斧头男"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:axenanim:primary"
+msgid "axenanim"
+msgstr "Axe动画"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.detail.decorative_detail
+#. safety: sfw
+#. post-count: 322
+msgctxt "tag:axent_wear:primary"
+msgid "axent_wear"
+msgstr "点缀服饰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axenyan:primary"
+msgid "axenyan"
+msgstr "Axenyan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:axer_veicht:primary"
+msgid "axer_veicht"
+msgstr "Axer Veicht"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axeras:primary"
+msgid "axeras"
+msgstr "axeras"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axeria810:primary"
+msgid "axeria810"
+msgstr "Axeria810"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axerusart:primary"
+msgid "axerusart"
+msgstr "AxerusArt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axes_(axes1125):primary"
+msgid "axes_(axes1125)"
+msgstr "Axes (axes1125)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axesaurus:primary"
+msgid "axesaurus"
+msgstr "斧龙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:axescr:primary"
+msgid "axescr"
+msgstr "axescr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axesyuna:primary"
+msgid "axesyuna"
+msgstr "axesyuna"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 387
+msgctxt "tag:axew:primary"
+msgid "axew"
+msgstr "牙牙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axezon:primary"
+msgid "axezon"
+msgstr "axezon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:axg5a:primary"
+msgid "axg5a"
+msgstr "axg5a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axgbc29:primary"
+msgid "axgbc29"
+msgstr "axgbc29"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:axi:primary"
+msgid "axi"
+msgstr "Axi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axi-bdymhc:primary"
+msgid "axi-bdymhc"
+msgstr "axi-bdymhc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:axi125:primary"
+msgid "axi125"
+msgstr "Axi125"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axi2211:primary"
+msgid "axi2211"
+msgstr "axi2211"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: axi用户
+msgctxt "tag:axi_(user_grna5574):primary"
+msgid "axi_(user_grna5574)"
+msgstr "axi"
+
+#. alias-of: axi_(user_grna5574)
+#. source: ai
+msgctxt "tag:axi_(user_grna5574):alias:1"
+msgid "axi_(user_grna5574)"
+msgstr "axi用户"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axi_song:primary"
+msgid "axi_song"
+msgstr "axi_song"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axi_stryker:primary"
+msgid "axi_stryker"
+msgstr "Axi Stryker"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:axia:primary"
+msgid "axia"
+msgstr "Axia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 194
+#. aliases: axia-chan, axia
+msgctxt "tag:axia-chan:primary"
+msgid "axia-chan"
+msgstr "阿克西亚酱"
+
+#. alias-of: axia-chan
+#. source: ai
+msgctxt "tag:axia-chan:alias:1"
+msgid "axia-chan"
+msgstr "axia-chan"
+
+#. alias-of: axia-chan
+#. source: ai
+msgctxt "tag:axia-chan:alias:2"
+msgid "axia-chan"
+msgstr "axia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:axia_(03400441):primary"
+msgid "axia_(03400441)"
+msgstr "阿克西亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: 阿克夏
+msgctxt "tag:axia_(shadowverse:_worlds_beyond):primary"
+msgid "axia_(shadowverse:_worlds_beyond)"
+msgstr "Axia（影之诗：超越世界）"
+
+#. alias-of: axia_(shadowverse:_worlds_beyond)
+#. source: ai
+msgctxt "tag:axia_(shadowverse:_worlds_beyond):alias:1"
+msgid "axia_(shadowverse:_worlds_beyond)"
+msgstr "阿克夏"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axia_de_nardi:primary"
+msgid "axia_de_nardi"
+msgstr "阿克希亚·德·纳尔迪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 160
+msgctxt "tag:axia_krone:primary"
+msgid "axia_krone"
+msgstr "阿希娅·克洛涅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 89
+#. aliases: Axia Krone
+msgctxt "tag:axia_krone_(1st_costume):primary"
+msgid "axia_krone_(1st_costume)"
+msgstr "Axia Krone（初代服装）"
+
+#. alias-of: axia_krone_(1st_costume)
+#. source: ai
+msgctxt "tag:axia_krone_(1st_costume):alias:1"
+msgid "axia_krone_(1st_costume)"
+msgstr "Axia Krone"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axia_krone_(2nd_costume):primary"
+msgid "axia_krone_(2nd_costume)"
+msgstr "亚西亚·克罗内（第二套服装）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axia_krone_(3rd_costume):primary"
+msgid "axia_krone_(3rd_costume)"
+msgstr "阿克西亚·克罗内（第三服装）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axia_krone_(cosplay):primary"
+msgid "axia_krone_(cosplay)"
+msgstr "艾希亚·克罗恩（角色扮演）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axial:primary"
+msgid "axial"
+msgstr "axial"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+#. aliases: Axial
+msgctxt "tag:axial_(disgaea):primary"
+msgid "axial_(disgaea)"
+msgstr "《魔界战记》中的《Axial》"
+
+#. alias-of: axial_(disgaea)
+#. source: ai
+msgctxt "tag:axial_(disgaea):alias:1"
+msgid "axial_(disgaea)"
+msgstr "Axial"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axialshift:primary"
+msgid "axialshift"
+msgstr "axialshift"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axialux:primary"
+msgid "axialux"
+msgstr "Axialux"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axian:primary"
+msgid "axian"
+msgstr "阿仙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axian6777:primary"
+msgid "axian6777"
+msgstr "axian6777"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axiang217:primary"
+msgid "axiang217"
+msgstr "axiang217"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:axiang_cai:primary"
+msgid "axiang_cai"
+msgstr "阿翔彩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+#. aliases: 阿翔星華
+msgctxt "tag:axiang_seika:primary"
+msgid "axiang_seika"
+msgstr "阿翔星华"
+
+#. alias-of: axiang_seika
+#. source: ai
+msgctxt "tag:axiang_seika:alias:1"
+msgid "axiang_seika"
+msgstr "阿翔星華"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:axiangxiang:primary"
+msgid "axiangxiang"
+msgstr "axiangxiang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiannn404:primary"
+msgid "axiannn404"
+msgstr "axiannn404"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 55
+#. aliases: AxianOrange
+msgctxt "tag:axianorange:primary"
+msgid "axianorange"
+msgstr "阿西安橙"
+
+#. alias-of: axianorange
+#. source: ai
+msgctxt "tag:axianorange:alias:1"
+msgid "axianorange"
+msgstr "AxianOrange"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axianyuman:primary"
+msgid "axianyuman"
+msgstr "Axianyuman"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiao:primary"
+msgid "axiao"
+msgstr "axiao"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiaomomomo:primary"
+msgid "axiaomomomo"
+msgstr "axiaomomomo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiaoxiaowandou:primary"
+msgid "axiaoxiaowandou"
+msgstr "阿小小豌豆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axiartwork:primary"
+msgid "axiartwork"
+msgstr "Axi Artwork"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axiaxia02346:primary"
+msgid "axiaxia02346"
+msgstr "axiaxia02346"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axichipaomian:primary"
+msgid "axichipaomian"
+msgstr "Axichipaomian"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:axicoi:primary"
+msgid "axicoi"
+msgstr "axicoi"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+#. aliases: Axiden
+msgctxt "tag:axiden_(disgaea):primary"
+msgid "axiden_(disgaea)"
+msgstr "《魔界战记》中的《Axiden》"
+
+#. alias-of: axiden_(disgaea)
+#. source: ai
+msgctxt "tag:axiden_(disgaea):alias:1"
+msgid "axiden_(disgaea)"
+msgstr "Axiden"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 4
+msgctxt "tag:axie:primary"
+msgid "axie"
+msgstr "Axie"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.mobile_gacha
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axie_infinity:primary"
+msgid "axie_infinity"
+msgstr "Axie Infinity"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axiel_hildagarde:primary"
+msgid "axiel_hildagarde"
+msgstr "Axiel Hildagarde"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.age_stage
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiel_hildagarde_(axziel):primary"
+msgid "axiel_hildagarde_(axziel)"
+msgstr "Axiel Hildagarde（Axziel）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axiexia915:primary"
+msgid "axiexia915"
+msgstr "Axiexia915"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.breast.breast_size_shape
+#. safety: sfw
+#. post-count: 125
+#. aliases: 副乳
+msgctxt "tag:axillary_tail_of_spence:primary"
+msgid "axillary_tail_of_spence"
+msgstr "腋尾"
+
+#. alias-of: axillary_tail_of_spence
+#. source: ai
+msgctxt "tag:axillary_tail_of_spence:alias:1"
+msgid "axillary_tail_of_spence"
+msgstr "副乳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:aximily:primary"
+msgid "aximily"
+msgstr "艾希米莉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:aximor:primary"
+msgid "aximor"
+msgstr "Aximor"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:aximxi:primary"
+msgid "aximxi"
+msgstr "aximxi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axing2000:primary"
+msgid "axing2000"
+msgstr "axing2000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axio_pt:primary"
+msgid "axio_pt"
+msgstr "Axio Pt"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.architecture
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiom_church_central_cathedral:primary"
+msgid "axiom_church_central_cathedral"
+msgstr "公理教会中央大教堂"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiom_verge:primary"
+msgid "axiom_verge"
+msgstr "Axiom Verge"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiominus:primary"
+msgid "axiominus"
+msgstr "axiominus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiomofc:primary"
+msgid "axiomofc"
+msgstr "axiomofc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axion0912:primary"
+msgid "axion0912"
+msgstr "阿西翁0912"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axionomotics:primary"
+msgid "axionomotics"
+msgstr "axionomotics"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axirokko:primary"
+msgid "axirokko"
+msgstr "阿希罗科"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:axis005vr:primary"
+msgid "axis005vr"
+msgstr "axis005vr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:axis04:primary"
+msgid "axis04"
+msgstr "axis04"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axis_(at_mark):primary"
+msgid "axis_(at_mark)"
+msgstr "axis（@符号）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:axis_(axis_na8):primary"
+msgid "axis_(axis_na8)"
+msgstr "Axis (Axis Na8)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 124
+#. aliases: 阿克西斯
+msgctxt "tag:axis_(gundam):primary"
+msgid "axis_(gundam)"
+msgstr "新吉翁"
+
+#. alias-of: axis_(gundam)
+#. source: ai
+msgctxt "tag:axis_(gundam):alias:1"
+msgid "axis_(gundam)"
+msgstr "阿克西斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 33
+#. aliases: 轴线
+msgctxt "tag:axis_(monori_rogue):primary"
+msgid "axis_(monori_rogue)"
+msgstr "轴"
+
+#. alias-of: axis_(monori_rogue)
+#. source: ai
+msgctxt "tag:axis_(monori_rogue):alias:1"
+msgid "axis_(monori_rogue)"
+msgstr "轴线"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axis_(teahouse):primary"
+msgid "axis_(teahouse)"
+msgstr "Axis（茶屋）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axis_(undertale_yellow):primary"
+msgid "axis_(undertale_yellow)"
+msgstr "Axis（Undertale Yellow）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:axis_3047:primary"
+msgid "axis_3047"
+msgstr "Axis_3047"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axis_524:primary"
+msgid "axis_524"
+msgstr "axis_524"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 62
+#. aliases: 鹿
+msgctxt "tag:axis_deer_(kemono_friends):primary"
+msgid "axis_deer_(kemono_friends)"
+msgstr "轴鹿"
+
+#. alias-of: axis_deer_(kemono_friends)
+#. source: ai
+msgctxt "tag:axis_deer_(kemono_friends):alias:1"
+msgid "axis_deer_(kemono_friends)"
+msgstr "鹿"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axis_deer_(kemono_friends)_(cosplay):primary"
+msgid "axis_deer_(kemono_friends)_(cosplay)"
+msgstr "轴鹿（动物朋友）角色扮演"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axis_fran:primary"
+msgid "axis_fran"
+msgstr "axis_fran"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 10226
+#. aliases: Hetalia
+msgctxt "tag:axis_powers_hetalia:primary"
+msgid "axis_powers_hetalia"
+msgstr "黑塔利亚"
+
+#. alias-of: axis_powers_hetalia
+#. source: ai
+msgctxt "tag:axis_powers_hetalia:alias:1"
+msgid "axis_powers_hetalia"
+msgstr "Hetalia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:axis_pr:primary"
+msgid "axis_pr"
+msgstr "axis_pr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axis_smith:primary"
+msgid "axis_smith"
+msgstr "Axis Smith"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiswilliams:primary"
+msgid "axiswilliams"
+msgstr "axiswilliams"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axiumatrics:primary"
+msgid "axiumatrics"
+msgstr "Axiumatrics"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:axiuya:primary"
+msgid "axiuya"
+msgstr "阿西尤雅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axk888:primary"
+msgid "axk888"
+msgstr "AXK888"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axkaku_7:primary"
+msgid "axkaku_7"
+msgstr "axkaku_7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axkxtxa:primary"
+msgid "axkxtxa"
+msgstr "axkxtxa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:axl-fox:primary"
+msgid "axl-fox"
+msgstr "阿克塞尔狐"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:axl11hikari:primary"
+msgid "axl11hikari"
+msgstr "axl11hikari"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axl9031:primary"
+msgid "axl9031"
+msgstr "Axl9031"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: 艾克
+msgctxt "tag:axl_(final_fight):primary"
+msgid "axl_(final_fight)"
+msgstr "Axl（《Final Fight》）"
+
+#. alias-of: axl_(final_fight)
+#. source: ai
+msgctxt "tag:axl_(final_fight):alias:1"
+msgid "axl_(final_fight)"
+msgstr "艾克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 366
+#. aliases: Axl
+msgctxt "tag:axl_(mega_man):primary"
+msgid "axl_(mega_man)"
+msgstr "阿克瑟尔 (洛克人)"
+
+#. alias-of: axl_(mega_man)
+#. source: ai
+msgctxt "tag:axl_(mega_man):alias:1"
+msgid "axl_(mega_man)"
+msgstr "Axl"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axl_(mega_man)_(cosplay):primary"
+msgid "axl_(mega_man)_(cosplay)"
+msgstr "Axl（洛克人）Cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:axl_(type-hidden):primary"
+msgid "axl_(type-hidden)"
+msgstr "axl"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.brand_or_merchandise_item
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:axl_bullets:primary"
+msgid "axl_bullets"
+msgstr "Axl Bullets"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 113
+msgctxt "tag:axl_crow:primary"
+msgid "axl_crow"
+msgstr "Axl Crow"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 190
+#. aliases: 阿克塞尔
+msgctxt "tag:axl_low:primary"
+msgid "axl_low"
+msgstr "阿克塞尔·洛"
+
+#. alias-of: axl_low
+#. source: ai
+msgctxt "tag:axl_low:alias:1"
+msgid "axl_low"
+msgstr "阿克塞尔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axl_low_(cosplay):primary"
+msgid "axl_low_(cosplay)"
+msgstr "Axl Low（扮装）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:axl_ro:primary"
+msgid "axl_ro"
+msgstr "Axelrod"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axl_rose:primary"
+msgid "axl_rose"
+msgstr "艾克索·罗斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axl_rose_(cosplay):primary"
+msgid "axl_rose_(cosplay)"
+msgstr "埃克塞尔·罗斯（角色扮演）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 45
+#. aliases: 赛文斯
+msgctxt "tag:axl_sevens:primary"
+msgid "axl_sevens"
+msgstr "阿克塞尔·赛文斯"
+
+#. alias-of: axl_sevens
+#. source: ai
+msgctxt "tag:axl_sevens:alias:1"
+msgid "axl_sevens"
+msgstr "赛文斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axlcancio:primary"
+msgid "axlcancio"
+msgstr "axlcancio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axle_(traumxxx):primary"
+msgid "axle_(traumxxx)"
+msgstr "Axle"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 204
+msgctxt "tag:axleaki:primary"
+msgid "axleaki"
+msgstr "阿克西拉基"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axledrawing:primary"
+msgid "axledrawing"
+msgstr "axledrawing"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axlegreese:primary"
+msgid "axlegreese"
+msgstr "Axlegreese"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:axley:primary"
+msgid "axley"
+msgstr "Axley"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:axlhearts:primary"
+msgid "axlhearts"
+msgstr "Axlhearts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axlhj0422:primary"
+msgid "axlhj0422"
+msgstr "axlhj0422"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axlol5:primary"
+msgid "axlol5"
+msgstr "Axlol5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:axlone:primary"
+msgid "axlone"
+msgstr "AxLone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axlrosie:primary"
+msgid "axlrosie"
+msgstr "Axl Rose"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axlvegeta:primary"
+msgid "axlvegeta"
+msgstr "Axl Vegeta"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axm-a9s_spinatio_(sengoku_type):primary"
+msgid "axm-a9s_spinatio_(sengoku_type)"
+msgstr "AXM-A9S Spinatio（战国型）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Axo
+msgctxt "tag:axo_(fortnite):primary"
+msgid "axo_(fortnite)"
+msgstr "Axo（堡垒之夜）"
+
+#. alias-of: axo_(fortnite)
+#. source: ai
+msgctxt "tag:axo_(fortnite):alias:1"
+msgid "axo_(fortnite)"
+msgstr "Axo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axoaxoaxoaxoa:primary"
+msgid "axoaxoaxoaxoa"
+msgstr "axoaxoaxoaxoa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axobait:primary"
+msgid "axobait"
+msgstr "axobait"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axogogo:primary"
+msgid "axogogo"
+msgstr "Axogogo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:axokim:primary"
+msgid "axokim"
+msgstr "axokim"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axol:primary"
+msgid "axol"
+msgstr "Axol"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axola:primary"
+msgid "axola"
+msgstr "axola"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axolati:primary"
+msgid "axolati"
+msgstr "阿克索拉蒂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axolloid:primary"
+msgid "axolloid"
+msgstr "美西螈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axolol:primary"
+msgid "axolol"
+msgstr "六角恐龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axolopatchi:primary"
+msgid "axolopatchi"
+msgstr "Axolopatchi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axoloter:primary"
+msgid "axoloter"
+msgstr "美西螈"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 617
+#. aliases: 墨西哥钝口螈
+msgctxt "tag:axolotl:primary"
+msgid "axolotl"
+msgstr "六角恐龙"
+
+#. alias-of: axolotl
+#. source: ai
+msgctxt "tag:axolotl:alias:1"
+msgid "axolotl"
+msgstr "墨西哥钝口螈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:axolotl-anne:primary"
+msgid "axolotl-anne"
+msgstr "六角恐龙安妮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axolotl_(gravity_falls):primary"
+msgid "axolotl_(gravity_falls)"
+msgstr "美西螈（怪诞小镇）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:axolotl_(karameru):primary"
+msgid "axolotl_(karameru)"
+msgstr "六角恐龙（Karameru）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 93
+#. aliases: Minecraft美西螈
+msgctxt "tag:axolotl_(minecraft):primary"
+msgid "axolotl_(minecraft)"
+msgstr "美西螈"
+
+#. alias-of: axolotl_(minecraft)
+#. source: ai
+msgctxt "tag:axolotl_(minecraft):alias:1"
+msgid "axolotl_(minecraft)"
+msgstr "Minecraft美西螈"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axolotl_(minecraft)_(cosplay):primary"
+msgid "axolotl_(minecraft)_(cosplay)"
+msgstr "美西螈（我的世界）角色扮演"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 美西螈, Axolotl（塔防英雄）
+msgctxt "tag:axolotl_(tower_heroes):primary"
+msgid "axolotl_(tower_heroes)"
+msgstr "美西螈（Tower Heroes）"
+
+#. alias-of: axolotl_(tower_heroes)
+#. source: ai
+msgctxt "tag:axolotl_(tower_heroes):alias:1"
+msgid "axolotl_(tower_heroes)"
+msgstr "美西螈"
+
+#. alias-of: axolotl_(tower_heroes)
+#. source: ai
+msgctxt "tag:axolotl_(tower_heroes):alias:2"
+msgid "axolotl_(tower_heroes)"
+msgstr "Axolotl（塔防英雄）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.age_stage
+#. safety: sfw
+#. post-count: 8
+#. aliases: 蝾螈男孩
+msgctxt "tag:axolotl_boy:primary"
+msgid "axolotl_boy"
+msgstr "六角恐龙少年"
+
+#. alias-of: axolotl_boy
+#. source: ai
+msgctxt "tag:axolotl_boy:alias:1"
+msgid "axolotl_boy"
+msgstr "蝾螈男孩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:axolotl_costume:primary"
+msgid "axolotl_costume"
+msgstr "六角恐龙服装"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 174
+#. aliases: 美西螈耳
+msgctxt "tag:axolotl_ears:primary"
+msgid "axolotl_ears"
+msgstr "蝾螈耳"
+
+#. alias-of: axolotl_ears
+#. source: ai
+msgctxt "tag:axolotl_ears:alias:1"
+msgid "axolotl_ears"
+msgstr "美西螈耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 165
+#. aliases: 六角恐龙女孩
+msgctxt "tag:axolotl_girl:primary"
+msgid "axolotl_girl"
+msgstr "美西螈女孩"
+
+#. alias-of: axolotl_girl
+#. source: ai
+msgctxt "tag:axolotl_girl:alias:1"
+msgid "axolotl_girl"
+msgstr "六角恐龙女孩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:axolotl_hair_ornament:primary"
+msgid "axolotl_hair_ornament"
+msgstr "六角恐龙发饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 10
+#. aliases: 美西螈印花
+msgctxt "tag:axolotl_print:primary"
+msgid "axolotl_print"
+msgstr "六角恐龙图案"
+
+#. alias-of: axolotl_print
+#. source: ai
+msgctxt "tag:axolotl_print:alias:1"
+msgid "axolotl_print"
+msgstr "美西螈印花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 107
+msgctxt "tag:axolotl_tail:primary"
+msgid "axolotl_tail"
+msgstr "蝾螈尾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axolotl_tf:primary"
+msgid "axolotl_tf"
+msgstr "六角恐龙变形"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axolotlang:primary"
+msgid "axolotlang"
+msgstr "墨西哥钝口螈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 六角恐龙
+msgctxt "tag:axolotlaxolotls:primary"
+msgid "axolotlaxolotls"
+msgstr "美西螈"
+
+#. alias-of: axolotlaxolotls
+#. source: ai
+msgctxt "tag:axolotlaxolotls:alias:1"
+msgid "axolotlaxolotls"
+msgstr "六角恐龙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axolotlototo:primary"
+msgid "axolotlototo"
+msgstr "axolotlototo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axomamma:primary"
+msgid "axomamma"
+msgstr "Axomamma"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axonn_(bionicle):primary"
+msgid "axonn_(bionicle)"
+msgstr "Axonn（Bionicle）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.perspective.lens_perspective
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:axonometric:primary"
+msgid "axonometric"
+msgstr "轴测投影"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axonomi:primary"
+msgid "axonomi"
+msgstr "axonomi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:axontatsu:primary"
+msgid "axontatsu"
+msgstr "Axontatsu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axopies:primary"
+msgid "axopies"
+msgstr "axopies"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:axouel2009:primary"
+msgid "axouel2009"
+msgstr "axouel2009"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axpohey8817:primary"
+msgid "axpohey8817"
+msgstr "axpohey8817"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axred7:primary"
+msgid "axred7"
+msgstr "Axred7"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+#. aliases: Axril
+msgctxt "tag:axril_(disgaea):primary"
+msgid "axril_(disgaea)"
+msgstr "《魔界战记》中的《Axril》"
+
+#. alias-of: axril_(disgaea)
+#. source: ai
+msgctxt "tag:axril_(disgaea):alias:1"
+msgid "axril_(disgaea)"
+msgstr "Axril"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axrrrrrr:primary"
+msgid "axrrrrrr"
+msgstr "Axrrrrrr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:axrynic:primary"
+msgid "axrynic"
+msgstr "Axrynic"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axsajim:primary"
+msgid "axsajim"
+msgstr "axsajim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axschy:primary"
+msgid "axschy"
+msgstr "Axschy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axsd8:primary"
+msgid "axsd8"
+msgstr "AXSD8"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 292
+#. aliases: Axsen
+msgctxt "tag:axsen:primary"
+msgid "axsen"
+msgstr "阿克森"
+
+#. alias-of: axsen
+#. source: ai
+msgctxt "tag:axsen:alias:1"
+msgid "axsen"
+msgstr "Axsen"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:axsena:primary"
+msgid "axsena"
+msgstr "阿克塞娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:axseraserasera:primary"
+msgid "axseraserasera"
+msgstr "axseraserasera"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axshenglzro:primary"
+msgid "axshenglzro"
+msgstr "axshenglzro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:axtame:primary"
+msgid "axtame"
+msgstr "axtame"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:axtinguisher:primary"
+msgid "axtinguisher"
+msgstr "灭火器"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axtlv:primary"
+msgid "axtlv"
+msgstr "AXTLV"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:axton_(borderlands):primary"
+msgid "axton_(borderlands)"
+msgstr "阿克斯顿（无主之地）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axtre_luraine:primary"
+msgid "axtre_luraine"
+msgstr "Axtre Luraine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axtre_luraine_(artist):primary"
+msgid "axtre_luraine_(artist)"
+msgstr "Axtre Luraine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axu:primary"
+msgid "axu"
+msgstr "axu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axuana:primary"
+msgid "axuana"
+msgstr "axuana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:axue:primary"
+msgid "axue"
+msgstr "阿雪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:axue0w0:primary"
+msgid "axue0w0"
+msgstr "axue0w0"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axum_(victory_belles):primary"
+msgid "axum_(victory_belles)"
+msgstr "阿克苏姆（Victory Belles）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:axver_arg:primary"
+msgid "axver_arg"
+msgstr "Axver Arg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: axx
+msgctxt "tag:axx_eternity7379:primary"
+msgid "axx_eternity7379"
+msgstr "Axx Eternity"
+
+#. alias-of: axx_eternity7379
+#. source: ai
+msgctxt "tag:axx_eternity7379:alias:1"
+msgid "axx_eternity7379"
+msgstr "axx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:axxjkmmz:primary"
+msgid "axxjkmmz"
+msgstr "axxjkmmz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axxsiot:primary"
+msgid "axxsiot"
+msgstr "axxsiot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axxxaxxxxa:primary"
+msgid "axxxaxxxxa"
+msgstr "axxxaxxxxa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axxxxxxixxx:primary"
+msgid "axxxxxxixxx"
+msgstr "axxxxxxixxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:axxyu:primary"
+msgid "axxyu"
+msgstr "axxyu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:axy:primary"
+msgid "axy"
+msgstr "Axy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axy20983:primary"
+msgid "axy20983"
+msgstr "axy20983"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axy3_le:primary"
+msgid "axy3_le"
+msgstr "Axy3 LE"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:axyachan:primary"
+msgid "axyachan"
+msgstr "axyachan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:axygen:primary"
+msgid "axygen"
+msgstr "Axygen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 63
+msgctxt "tag:axylon:primary"
+msgid "axylon"
+msgstr "Axylon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:axys:primary"
+msgid "axys"
+msgstr "Axys"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axzf8485:primary"
+msgid "axzf8485"
+msgstr "axzf8485"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:axzibit:primary"
+msgid "axzibit"
+msgstr "阿兹比特"

@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:1g_no_izumi:primary"
+msgid "1g_no_izumi"
+msgstr "1G No Izumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:1ga84:primary"
+msgid "1ga84"
+msgstr "1ga84"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1gemao:primary"
+msgid "1gemao"
+msgstr "1gemao"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:1gen_sinkun:primary"
+msgid "1gen_sinkun"
+msgstr "一期生心君"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.count.single_subject
+#. safety: sfw
+#. post-count: 7850467
+#. aliases: 一个女孩
+msgctxt "tag:1girl:primary"
+msgid "1girl"
+msgstr "单人女孩"
+
+#. alias-of: 1girl
+#. source: ai
+msgctxt "tag:1girl:alias:1"
+msgid "1girl"
+msgstr "一个女孩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:1gkfdifvvcm3mfm:primary"
+msgid "1gkfdifvvcm3mfm"
+msgstr "1gkfdifvvcm3mfm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:1gmizz:primary"
+msgid "1gmizz"
+msgstr "1gmizz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1go1e3195:primary"
+msgid "1go1e3195"
+msgstr "1go1e3195"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:1go_(2gemozi):primary"
+msgid "1go_(2gemozi)"
+msgstr "一GO（2gemozi）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:1gram:primary"
+msgid "1gram"
+msgstr "1g"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:1gundam:primary"
+msgid "1gundam"
+msgstr "高达"

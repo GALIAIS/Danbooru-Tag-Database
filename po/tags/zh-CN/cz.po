@@ -1,0 +1,1064 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:22+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:22+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 3
+msgctxt "tag:cz-100:primary"
+msgid "cz-100"
+msgstr "CZ-100"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 3
+msgctxt "tag:cz-2000:primary"
+msgid "cz-2000"
+msgstr "CZ-2000"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+#. aliases: CZ805
+msgctxt "tag:cz-805_(girls'_frontline):primary"
+msgid "cz-805_(girls'_frontline)"
+msgstr "CZ-805"
+
+#. alias-of: cz-805_(girls'_frontline)
+#. source: ai
+msgctxt "tag:cz-805_(girls'_frontline):alias:1"
+msgid "cz-805_(girls'_frontline)"
+msgstr "CZ805"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+#. aliases: 金库回忆
+msgctxt "tag:cz-805_(golden_memories)_(girls'_frontline):primary"
+msgid "cz-805_(golden_memories)_(girls'_frontline)"
+msgstr "CZ-805（Golden Memories）（少女前线）"
+
+#. alias-of: cz-805_(golden_memories)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:cz-805_(golden_memories)_(girls'_frontline):alias:1"
+msgid "cz-805_(golden_memories)_(girls'_frontline)"
+msgstr "金库回忆"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:cz-82:primary"
+msgid "cz-82"
+msgstr "CZ-82"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cz-beary:primary"
+msgid "cz-beary"
+msgstr "CZ Beary"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cz-chan:primary"
+msgid "cz-chan"
+msgstr "CZ酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:cz-j:primary"
+msgid "cz-j"
+msgstr "CZ-J"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.brand_or_merchandise_item
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cz-p01:primary"
+msgid "cz-p01"
+msgstr "CZ-P01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:cz-t:primary"
+msgid "cz-t"
+msgstr "CZ-T"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:cz100_(girls'_frontline):primary"
+msgid "cz100_(girls'_frontline)"
+msgstr "CZ100"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:cz1021:primary"
+msgid "cz1021"
+msgstr "cz1021"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:cz2000_(girls'_frontline):primary"
+msgid "cz2000_(girls'_frontline)"
+msgstr "CZ2000（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 108
+msgctxt "tag:cz2128_delta:primary"
+msgid "cz2128_delta"
+msgstr "cz2128_delta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:cz474:primary"
+msgid "cz474"
+msgstr "CZ474"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:cz52_(baby_blue_eyes)_(girls'_frontline):primary"
+msgid "cz52_(baby_blue_eyes)_(girls'_frontline)"
+msgstr "CZ52"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:cz52_(crow-expelling_dark_sorceress)_(girls'_frontline):primary"
+msgid "cz52_(crow-expelling_dark_sorceress)_(girls'_frontline)"
+msgstr "驱鸦黑术师"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:cz52_(girls'_frontline):primary"
+msgid "cz52_(girls'_frontline)"
+msgstr "CZ52"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+#. aliases: CZ75不加班
+msgctxt "tag:cz75_(cz75_does_not_work_overtime)_(girls'_frontline):primary"
+msgid "cz75_(cz75_does_not_work_overtime)_(girls'_frontline)"
+msgstr "CZ75"
+
+#. alias-of: cz75_(cz75_does_not_work_overtime)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:cz75_(cz75_does_not_work_overtime)_(girls'_frontline):alias:1"
+msgid "cz75_(cz75_does_not_work_overtime)_(girls'_frontline)"
+msgstr "CZ75不加班"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 179
+#. aliases: CZ75少前
+msgctxt "tag:cz75_(girls'_frontline):primary"
+msgid "cz75_(girls'_frontline)"
+msgstr "CZ75 (少女前线)"
+
+#. alias-of: cz75_(girls'_frontline)
+#. source: ai
+msgctxt "tag:cz75_(girls'_frontline):alias:1"
+msgid "cz75_(girls'_frontline)"
+msgstr "CZ75少前"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:cz75_(monks_cress)_(girls'_frontline):primary"
+msgid "cz75_(monks_cress)_(girls'_frontline)"
+msgstr "CZ75"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:cz75_(winter_forager)_(girls'_frontline):primary"
+msgid "cz75_(winter_forager)_(girls'_frontline)"
+msgstr "CZ75"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:cz_(anstjrwn2758):primary"
+msgid "cz_(anstjrwn2758)"
+msgstr "CZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:cz_(mikumikumi):primary"
+msgid "cz_(mikumikumi)"
+msgstr "CZ（Mikumikumi）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:cz_(scrapped_princess):primary"
+msgid "cz_(scrapped_princess)"
+msgstr "CZ(废弃公主)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:cz_2075_rami:primary"
+msgid "cz_2075_rami"
+msgstr "CZ 2075 Rami"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cz_25:primary"
+msgid "cz_25"
+msgstr "CZ 25手枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:cz_52:primary"
+msgid "cz_52"
+msgstr "CZ-52手枪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cz_52_(artist):primary"
+msgid "cz_52_(artist)"
+msgstr "CZ_52"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 235
+msgctxt "tag:cz_75:primary"
+msgid "cz_75"
+msgstr "CZ-75"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 81
+msgctxt "tag:cz_805_bren:primary"
+msgid "cz_805_bren"
+msgstr "CZ 805 BREN"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 13
+#. aliases: CZ Bren 2, Bren 2 BR
+msgctxt "tag:cz_bren-2_br:primary"
+msgid "cz_bren-2_br"
+msgstr "CZ Bren 2 BR"
+
+#. alias-of: cz_bren-2_br
+#. source: ai
+msgctxt "tag:cz_bren-2_br:alias:1"
+msgid "cz_bren-2_br"
+msgstr "CZ Bren 2"
+
+#. alias-of: cz_bren-2_br
+#. source: ai
+msgctxt "tag:cz_bren-2_br:alias:2"
+msgid "cz_bren-2_br"
+msgstr "Bren 2 BR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cz_buu:primary"
+msgid "cz_buu"
+msgstr "CZ·布"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:cz_mu_cheng:primary"
+msgid "cz_mu_cheng"
+msgstr "CZ Mu Cheng"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:cz_p-09:primary"
+msgid "cz_p-09"
+msgstr "CZ P-09"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:cz_p-10_c:primary"
+msgid "cz_p-10_c"
+msgstr "CZ P-10 C"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 117
+#. aliases: CZ蝎式冲锋枪
+msgctxt "tag:cz_scorpion_evo_3:primary"
+msgid "cz_scorpion_evo_3"
+msgstr "CZ蝎式EVO3"
+
+#. alias-of: cz_scorpion_evo_3
+#. source: ai
+msgctxt "tag:cz_scorpion_evo_3:alias:1"
+msgid "cz_scorpion_evo_3"
+msgstr "CZ蝎式冲锋枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:cz_shadow_2:primary"
+msgid "cz_shadow_2"
+msgstr "CZ Shadow 2"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cz_sp-01:primary"
+msgid "cz_sp-01"
+msgstr "CZ SP-01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czagi_24:primary"
+msgid "czagi_24"
+msgstr "Czagi"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:czapka:primary"
+msgid "czapka"
+msgstr "帽子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czar_dragon:primary"
+msgid "czar_dragon"
+msgstr "沙皇龙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czarina_ennea:primary"
+msgid "czarina_ennea"
+msgstr "Czarina Ennea"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czarine:primary"
+msgid "czarine"
+msgstr "Czarine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:czarka123:primary"
+msgid "czarka123"
+msgstr "czarka123"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:czarmaze:primary"
+msgid "czarmaze"
+msgstr "czarmaze"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czarny_(arknights):primary"
+msgid "czarny_(arknights)"
+msgstr "Czarny（Arknights）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czawek:primary"
+msgid "czawek"
+msgstr "Czawek"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:czbuff11:primary"
+msgid "czbuff11"
+msgstr "CZBuff11"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czc2079:primary"
+msgid "czc2079"
+msgstr "czc2079"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:czc9q2:primary"
+msgid "czc9q2"
+msgstr "CZC9Q2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:czc_(deko):primary"
+msgid "czc_(deko)"
+msgstr "CZC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czcibor_paleniskos_(arknights):primary"
+msgid "czcibor_paleniskos_(arknights)"
+msgstr "Czcibor Paleniskos（Arknights）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:czcz12321:primary"
+msgid "czcz12321"
+msgstr "czcz12321"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czdrawings8:primary"
+msgid "czdrawings8"
+msgstr "CZDrawings8"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czduf_(mutton):primary"
+msgid "czduf_(mutton)"
+msgstr "czduf"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:czech_army:primary"
+msgid "czech_army"
+msgstr "捷克军队"
+
+#. danbooru-category: 5
+#. taxonomy-id: 5.meta.language.translation
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:czech_audio:primary"
+msgid "czech_audio"
+msgstr "捷克语音频"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.fashion_or_costume_style
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:czech_clothes:primary"
+msgid "czech_clothes"
+msgstr "捷克服"
+
+#. danbooru-category: 5
+#. taxonomy-id: 5.meta.language.translation
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czech_commentary:primary"
+msgid "czech_commentary"
+msgstr "捷克语解说"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:czech_flag:primary"
+msgid "czech_flag"
+msgstr "捷克国旗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 80
+msgctxt "tag:czech_gana:primary"
+msgid "czech_gana"
+msgstr "捷克甘纳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:czech_hedgehog:primary"
+msgid "czech_hedgehog"
+msgstr "捷克刺猬"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:czech_republic:primary"
+msgid "czech_republic"
+msgstr "捷克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:czech_republic_(hetalia):primary"
+msgid "czech_republic_(hetalia)"
+msgstr "捷克 (黑塔利亚)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 捷克共和国
+msgctxt "tag:czech_republic_(kuroussa):primary"
+msgid "czech_republic_(kuroussa)"
+msgstr "捷克共和国（Kuroussa）"
+
+#. alias-of: czech_republic_(kuroussa)
+#. source: ai
+msgctxt "tag:czech_republic_(kuroussa):alias:1"
+msgid "czech_republic_(kuroussa)"
+msgstr "捷克共和国"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.book_paper
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:czech_text:primary"
+msgid "czech_text"
+msgstr "捷克语文本"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: czechcloud
+msgctxt "tag:czechcloud:primary"
+msgid "czechcloud"
+msgstr "捷克云"
+
+#. alias-of: czechcloud
+#. source: ai
+msgctxt "tag:czechcloud:alias:1"
+msgid "czechcloud"
+msgstr "czechcloud"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 波兰球捷克
+msgctxt "tag:czechiaball:primary"
+msgid "czechiaball"
+msgstr "捷克球"
+
+#. alias-of: czechiaball
+#. source: ai
+msgctxt "tag:czechiaball:alias:1"
+msgid "czechiaball"
+msgstr "波兰球捷克"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:czechoslovak_air_force:primary"
+msgid "czechoslovak_air_force"
+msgstr "捷克斯洛伐克空军"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:czechoslovak_army:primary"
+msgid "czechoslovak_army"
+msgstr "捷克斯洛伐克军队"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:czechoslovakia:primary"
+msgid "czechoslovakia"
+msgstr "捷克斯洛伐克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:czechoslovakian_wolfdog_(kemono_friends)_(kitsunetsuki_itsuki):primary"
+msgid "czechoslovakian_wolfdog_(kemono_friends)_(kitsunetsuki_itsuki)"
+msgstr "捷克斯洛伐克狼犬 (兽娘动物园)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czeko:primary"
+msgid "czeko"
+msgstr "Czeko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:czen:primary"
+msgid "czen"
+msgstr "czen"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czene_(tear_ring_saga):primary"
+msgid "czene_(tear_ring_saga)"
+msgstr "塞涅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:czenithia:primary"
+msgid "czenithia"
+msgstr "czenithia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czer0w:primary"
+msgid "czer0w"
+msgstr "czer0w"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 57
+#. aliases: 黑键
+msgctxt "tag:czerny_(arknights):primary"
+msgid "czerny_(arknights)"
+msgstr "黑键（明日方舟）"
+
+#. alias-of: czerny_(arknights)
+#. source: ai
+msgctxt "tag:czerny_(arknights):alias:1"
+msgid "czerny_(arknights)"
+msgstr "黑键"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:czerny_(freeland_tuneseeker)_(arknights):primary"
+msgid "czerny_(freeland_tuneseeker)_(arknights)"
+msgstr "车尔尼（自由风土行者）（明日方舟）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:czero_czero:primary"
+msgid "czero_czero"
+msgstr "CzeroCzero"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czerwik:primary"
+msgid "czerwik"
+msgstr "czerwik"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:czerwonya:primary"
+msgid "czerwonya"
+msgstr "Czerwonya"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:czeslaw_meyer:primary"
+msgid "czeslaw_meyer"
+msgstr "切斯拉夫·迈尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czgj3485:primary"
+msgid "czgj3485"
+msgstr "czgj3485"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:czh5h0ca8gkehoj:primary"
+msgid "czh5h0ca8gkehoj"
+msgstr "CZH5H0CA8GKEHOJ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:czhffrr5ax21300:primary"
+msgid "czhffrr5ax21300"
+msgstr "czhffrr5ax21300"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:czibor_(arknights):primary"
+msgid "czibor_(arknights)"
+msgstr "Czibor"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:czicc-cz1532:primary"
+msgid "czicc-cz1532"
+msgstr "CZICC-CZ1532"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czipo_(honkai:_star_rail):primary"
+msgid "czipo_(honkai:_star_rail)"
+msgstr "Czipo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:czk021:primary"
+msgid "czk021"
+msgstr "CZK021"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czk114:primary"
+msgid "czk114"
+msgstr "czk114"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czmu:primary"
+msgid "czmu"
+msgstr ".cz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czmzsex:primary"
+msgid "czmzsex"
+msgstr "czmzsex"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:czn_radiosonde:primary"
+msgid "czn_radiosonde"
+msgstr "CZN Radiosonde"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czo_b:primary"
+msgid "czo_b"
+msgstr "czo_b"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czohztnoii:primary"
+msgid "czohztnoii"
+msgstr "czohztnoii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czor--t:primary"
+msgid "czor--t"
+msgstr "czor--t"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:czorimu:primary"
+msgid "czorimu"
+msgstr "彩虹"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:czow:primary"
+msgid "czow"
+msgstr "CZOW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czq131:primary"
+msgid "czq131"
+msgstr "czq131"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czrdian:primary"
+msgid "czrdian"
+msgstr "Czrdian"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:czsecretcorner:primary"
+msgid "czsecretcorner"
+msgstr "czsecretcorner"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czslaviona:primary"
+msgid "czslaviona"
+msgstr "Czslaviona"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:czsumi:primary"
+msgid "czsumi"
+msgstr "czsumi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 祖尔康·拉赫
+msgctxt "tag:czulkang_lah:primary"
+msgid "czulkang_lah"
+msgstr "祖尔康拉"
+
+#. alias-of: czulkang_lah
+#. source: ai
+msgctxt "tag:czulkang_lah:alias:1"
+msgid "czulkang_lah"
+msgstr "祖尔康·拉赫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:czva:primary"
+msgid "czva"
+msgstr "CZVA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czwmax:primary"
+msgid "czwmax"
+msgstr "czwmax"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czwwjx:primary"
+msgid "czwwjx"
+msgstr "czwwjx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:czx:primary"
+msgid "czx"
+msgstr "CZX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:czy5201314:primary"
+msgid "czy5201314"
+msgstr "czy5201314"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 282
+#. aliases: CZY
+msgctxt "tag:czy_(2894456992):primary"
+msgid "czy_(2894456992)"
+msgstr "CZY"
+
+#. alias-of: czy_(2894456992)
+#. source: ai
+msgctxt "tag:czy_(2894456992):alias:1"
+msgid "czy_(2894456992)"
+msgstr "CZY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czy_(caiziyou):primary"
+msgid "czy_(caiziyou)"
+msgstr "才子优"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:czyan14:primary"
+msgid "czyan14"
+msgstr "czyan14"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czyjjj:primary"
+msgid "czyjjj"
+msgstr "czyjjj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:czyrd_(cozy):primary"
+msgid "czyrd_(cozy)"
+msgstr "Czyrd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:czyrus_27:primary"
+msgid "czyrus_27"
+msgstr "czyrus_27"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:czyw:primary"
+msgid "czyw"
+msgstr "czyw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:czyw01:primary"
+msgid "czyw01"
+msgstr "czyw01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:czzsghdf:primary"
+msgid "czzsghdf"
+msgstr "czzsghdf"

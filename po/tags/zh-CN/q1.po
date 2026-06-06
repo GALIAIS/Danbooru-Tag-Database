@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:39+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:39+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:q10u:primary"
+msgid "q10u"
+msgstr "q10u"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:q1124025703:primary"
+msgid "q1124025703"
+msgstr "q1124025703"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:q12:primary"
+msgid "q12"
+msgstr "Q12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:q12_flamingo:primary"
+msgid "q12_flamingo"
+msgstr "Q12 Flamingo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:q1398458488:primary"
+msgid "q1398458488"
+msgstr "Q1398458488"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:q1613269124:primary"
+msgid "q1613269124"
+msgstr "Q1613269124"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 112
+msgctxt "tag:q18607:primary"
+msgid "q18607"
+msgstr "q18607"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: Q版角色
+msgctxt "tag:q1_(qvq1539295):primary"
+msgid "q1_(qvq1539295)"
+msgstr "Q1（qvq1539295）"
+
+#. alias-of: q1_(qvq1539295)
+#. source: ai
+msgctxt "tag:q1_(qvq1539295):alias:1"
+msgid "q1_(qvq1539295)"
+msgstr "Q版角色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:q1_(slw):primary"
+msgid "q1_(slw)"
+msgstr "Q1 (SLW)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+#. aliases: 陶埙
+msgctxt "tag:q1_tao_xun:primary"
+msgid "q1_tao_xun"
+msgstr "Q1陶埙"
+
+#. alias-of: q1_tao_xun
+#. source: ai
+msgctxt "tag:q1_tao_xun:alias:1"
+msgid "q1_tao_xun"
+msgstr "陶埙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: q1chini3
+msgctxt "tag:q1chini3:primary"
+msgid "q1chini3"
+msgstr "q1chini3"
+
+#. alias-of: q1chini3
+#. source: ai
+msgctxt "tag:q1chini3:alias:1"
+msgid "q1chini3"
+msgstr "q1chini3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:q1draw:primary"
+msgid "q1draw"
+msgstr "Q1draw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:q1jerkart:primary"
+msgid "q1jerkart"
+msgstr "q1jerkart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:q1modi:primary"
+msgid "q1modi"
+msgstr "q1modi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:q1p0a2l4zm:primary"
+msgid "q1p0a2l4zm"
+msgstr "q1p0a2l4zm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:q1uhl:primary"
+msgid "q1uhl"
+msgstr "q1uhl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:q1w2e3r4_(pixiv_75476659):primary"
+msgid "q1w2e3r4_(pixiv_75476659)"
+msgstr "q1w2e3r4"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 6
+#. aliases: Q1W东海
+msgctxt "tag:q1w_toukai:primary"
+msgid "q1w_toukai"
+msgstr "Q1W Toukai"
+
+#. alias-of: q1w_toukai
+#. source: ai
+msgctxt "tag:q1w_toukai:alias:1"
+msgid "q1w_toukai"
+msgstr "Q1W东海"

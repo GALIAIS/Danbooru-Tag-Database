@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:49+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:49+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xf-09_ares:primary"
+msgid "xf-09_ares"
+msgstr "XF-09 阿瑞斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xf-103:primary"
+msgid "xf-103"
+msgstr "XF-103战斗机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:xf-108:primary"
+msgid "xf-108"
+msgstr "XF-108"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 超巨大胸部
+msgctxt "tag:xf-2xl:primary"
+msgid "xf-2xl"
+msgstr "XF-2XL"
+
+#. alias-of: xf-2xl
+#. source: ai
+msgctxt "tag:xf-2xl:alias:1"
+msgid "xf-2xl"
+msgstr "超巨大胸部"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+#. aliases: 小鬼式战机
+msgctxt "tag:xf-85_goblin:primary"
+msgid "xf-85_goblin"
+msgstr "XF-85 Goblin"
+
+#. alias-of: xf-85_goblin
+#. source: ai
+msgctxt "tag:xf-85_goblin:alias:1"
+msgid "xf-85_goblin"
+msgstr "小鬼式战机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xf10f_jaguar:primary"
+msgid "xf10f_jaguar"
+msgstr "XF10F“Jaguar”战斗机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:xf5f_skyrocket:primary"
+msgid "xf5f_skyrocket"
+msgstr "XF5F Skyrocket"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:xf5u:primary"
+msgid "xf5u"
+msgstr "XF5U"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 乱码标签
+msgctxt "tag:xf8agd4zy61lddf:primary"
+msgid "xf8agd4zy61lddf"
+msgstr "抽象代码"
+
+#. alias-of: xf8agd4zy61lddf
+#. source: ai
+msgctxt "tag:xf8agd4zy61lddf:alias:1"
+msgid "xf8agd4zy61lddf"
+msgstr "乱码标签"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:xf_alice:primary"
+msgid "xf_alice"
+msgstr "XF_Alice"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xfa-24a_apalis:primary"
+msgid "xfa-24a_apalis"
+msgstr "XFA-24A Apalis"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:xfa-27:primary"
+msgid "xfa-27"
+msgstr "XFA-27"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:xfa-36a_game:primary"
+msgid "xfa-36a_game"
+msgstr "XFA-36A游戏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 380
+msgctxt "tag:xfate:primary"
+msgid "xfate"
+msgstr "命运"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xff231:primary"
+msgid "xff231"
+msgstr "xff231"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:xfgs:primary"
+msgid "xfgs"
+msgstr "xfgs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xfirecooler:primary"
+msgid "xfirecooler"
+msgstr "xfirecooler"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:xfiro:primary"
+msgid "xfiro"
+msgstr "xfiro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xfishsouls:primary"
+msgid "xfishsouls"
+msgstr "xfishsouls"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xfisshart:primary"
+msgid "xfisshart"
+msgstr "xfisshart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xfizenn:primary"
+msgid "xfizenn"
+msgstr "xfizenn"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:xfj-01a_shiranui:primary"
+msgid "xfj-01a_shiranui"
+msgstr "XFJ-01A 不知火"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 不知火Cosplay
+msgctxt "tag:xfj-01a_shiranui_(cosplay):primary"
+msgid "xfj-01a_shiranui_(cosplay)"
+msgstr "XFJ-01A 不知火Cosplay"
+
+#. alias-of: xfj-01a_shiranui_(cosplay)
+#. source: ai
+msgctxt "tag:xfj-01a_shiranui_(cosplay):alias:1"
+msgid "xfj-01a_shiranui_(cosplay)"
+msgstr "不知火Cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:xfkart:primary"
+msgid "xfkart"
+msgstr "Xfkart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xflanx:primary"
+msgid "xflanx"
+msgstr "xflanx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:xflyer:primary"
+msgid "xflyer"
+msgstr "Xflyer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xfon_(01170658):primary"
+msgid "xfon_(01170658)"
+msgstr "xfon (01170658)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:xfqn:primary"
+msgid "xfqn"
+msgstr "xfqn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:xfssssssss:primary"
+msgid "xfssssssss"
+msgstr "xfssssssss"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xfv-03_seylen:primary"
+msgid "xfv-03_seylen"
+msgstr "XFV-03 Seylen"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xfv-12:primary"
+msgid "xfv-12"
+msgstr "XFV-12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xfwxwfx:primary"
+msgid "xfwxwfx"
+msgstr "Xfwxwfx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:xfxxxt:primary"
+msgid "xfxxxt"
+msgstr "Xfxxxt"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:xfy-1:primary"
+msgid "xfy-1"
+msgstr "xfy-1"

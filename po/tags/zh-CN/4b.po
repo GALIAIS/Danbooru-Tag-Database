@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:4b:primary"
+msgid "4b"
+msgstr "4b"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 262
+#. aliases: 铅笔
+msgctxt "tag:4b-enpitsu:primary"
+msgid "4b-enpitsu"
+msgstr "4B铅笔"
+
+#. alias-of: 4b-enpitsu
+#. source: ai
+msgctxt "tag:4b-enpitsu:alias:1"
+msgid "4b-enpitsu"
+msgstr "铅笔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:4b11t:primary"
+msgid "4b11t"
+msgstr "4b11t"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:4b_(sabi3238):primary"
+msgid "4b_(sabi3238)"
+msgstr "4b"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:4b_pen:primary"
+msgid "4b_pen"
+msgstr "4B笔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+#. aliases: 像素风
+msgctxt "tag:4b_pixel:primary"
+msgid "4b_pixel"
+msgstr "4B像素"
+
+#. alias-of: 4b_pixel
+#. source: ai
+msgctxt "tag:4b_pixel:alias:1"
+msgid "4b_pixel"
+msgstr "像素风"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:4ba3ki:primary"
+msgid "4ba3ki"
+msgstr "4ba3ki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:4ba_nana:primary"
+msgid "4ba_nana"
+msgstr "4ba_nana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:4back_up:primary"
+msgid "4back_up"
+msgstr "4备份"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:4bangai:primary"
+msgid "4bangai"
+msgstr "4番外"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:4bcip4:primary"
+msgid "4bcip4"
+msgstr "4bcip4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:4bczrq0nvv33260:primary"
+msgid "4bczrq0nvv33260"
+msgstr "4bczrq0nvv33260"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:4beraser:primary"
+msgid "4beraser"
+msgstr "4beraser"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:4bhtm3:primary"
+msgid "4bhtm3"
+msgstr "4bhtm3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:4bk63ppm0p54593:primary"
+msgid "4bk63ppm0p54593"
+msgstr "4bk63ppm0p54593"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:4bkm:primary"
+msgid "4bkm"
+msgstr "4BKM"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:4blood_(vocaloid):primary"
+msgid "4blood_(vocaloid)"
+msgstr "4blood（Vocaloid）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.count.multiple_subjects
+#. safety: sfw
+#. post-count: 44102
+#. aliases: 四男
+msgctxt "tag:4boys:primary"
+msgid "4boys"
+msgstr "四男孩"
+
+#. alias-of: 4boys
+#. source: ai
+msgctxt "tag:4boys:alias:1"
+msgid "4boys"
+msgstr "四男"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:4byssopel4gic:primary"
+msgid "4byssopel4gic"
+msgstr "4byssopel4gic"

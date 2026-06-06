@@ -1,0 +1,640 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:28+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:28+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 105
+msgctxt "tag:iu:primary"
+msgid "iu"
+msgstr "IU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iu-syozann:primary"
+msgid "iu-syozann"
+msgstr "IU-Syozann"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iu15236376:primary"
+msgid "iu15236376"
+msgstr "iu15236376"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iu7snfxz251221:primary"
+msgid "iu7snfxz251221"
+msgstr "iu7snfxz251221"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iu_(_i_u_):primary"
+msgid "iu_(_i_u_)"
+msgstr "IU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:iu_(iuiu1103):primary"
+msgid "iu_(iuiu1103)"
+msgstr "Iu (iuiu1103)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iu_(iyuiyun):primary"
+msgid "iu_(iyuiyun)"
+msgstr "智恩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+#. aliases: 李知恩
+msgctxt "tag:iu_(singer):primary"
+msgid "iu_(singer)"
+msgstr "IU"
+
+#. alias-of: iu_(singer)
+#. source: ai
+msgctxt "tag:iu_(singer):alias:1"
+msgid "iu_(singer)"
+msgstr "李知恩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iu_iba:primary"
+msgid "iu_iba"
+msgstr "iu_iba"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iu_iconattou:primary"
+msgid "iu_iconattou"
+msgstr "IU Iconattou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iu_iu_1u:primary"
+msgid "iu_iu_1u"
+msgstr "IU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iu_l4m:primary"
+msgid "iu_l4m"
+msgstr "IU_L4M"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iu_ti_sk1003:primary"
+msgid "iu_ti_sk1003"
+msgstr "Iu Ti Sk1003"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iubi_(jubilee_2025):primary"
+msgid "iubi_(jubilee_2025)"
+msgstr "Iubi（Jubilee 2025）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:iubworks:primary"
+msgid "iubworks"
+msgstr "iubworks"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:iuchar_(fire_emblem):primary"
+msgid "iuchar_(fire_emblem)"
+msgstr "艾裘"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+#. aliases: 火焰纹章角色
+msgctxt "tag:iucharba_(fire_emblem):primary"
+msgid "iucharba_(fire_emblem)"
+msgstr "伊乌哈尔巴"
+
+#. alias-of: iucharba_(fire_emblem)
+#. source: ai
+msgctxt "tag:iucharba_(fire_emblem):alias:1"
+msgid "iucharba_(fire_emblem)"
+msgstr "火焰纹章角色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iuchi_(absence_chan):primary"
+msgid "iuchi_(absence_chan)"
+msgstr "iuchi（absence_chan）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:iucn_red_list:primary"
+msgid "iucn_red_list"
+msgstr "红色名录"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 笑魔法师
+msgctxt "tag:iucounu_the_laughing_magician:primary"
+msgid "iucounu_the_laughing_magician"
+msgstr "iucounu"
+
+#. alias-of: iucounu_the_laughing_magician
+#. source: ai
+msgctxt "tag:iucounu_the_laughing_magician:alias:1"
+msgid "iucounu_the_laughing_magician"
+msgstr "笑魔法师"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iudex_gundyr:primary"
+msgid "iudex_gundyr"
+msgstr "灰烬审判者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 98
+msgctxt "tag:iue_(pixiv_95802465):primary"
+msgid "iue_(pixiv_95802465)"
+msgstr "伊宇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iufo:primary"
+msgid "iufo"
+msgstr "iufo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iufuvr9:primary"
+msgid "iufuvr9"
+msgstr "IU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iui:primary"
+msgid "iui"
+msgstr "IUI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iui14:primary"
+msgid "iui14"
+msgstr "iui14"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iui_xox:primary"
+msgid "iui_xox"
+msgstr "iui_xox"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iuidd:primary"
+msgid "iuidd"
+msgstr "Iuidd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iuinm:primary"
+msgid "iuinm"
+msgstr "iuinm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iuiu:primary"
+msgid "iuiu"
+msgstr "IiU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iuj_qp:primary"
+msgid "iuj_qp"
+msgstr "iuj_qp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:iukawa_hamosaku:primary"
+msgid "iukawa_hamosaku"
+msgstr "伊宇川羽磨作"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:iuko:primary"
+msgid "iuko"
+msgstr "悠子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iulia_de_dcemone_reincarnati_regis:primary"
+msgid "iulia_de_dcemone_reincarnati_regis"
+msgstr "尤莉亚·德·魔界转生"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:iumi:primary"
+msgid "iumi"
+msgstr "优米"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 373
+msgctxt "tag:iumi_urura:primary"
+msgid "iumi_urura"
+msgstr "伊尤米·乌鲁拉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iumogu_(h17):primary"
+msgid "iumogu_(h17)"
+msgstr "尤莫古"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 185
+msgctxt "tag:iumu:primary"
+msgid "iumu"
+msgstr "幽梦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iun52162491:primary"
+msgid "iun52162491"
+msgstr "iun52162491"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:iun_321:primary"
+msgid "iun_321"
+msgstr "iun_321"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iunarbrew:primary"
+msgid "iunarbrew"
+msgstr "Iunarbrew"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iuncco13_pkmn:primary"
+msgid "iuncco13_pkmn"
+msgstr "Iuncco13"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iunchmenu:primary"
+msgid "iunchmenu"
+msgstr "iunchmenu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iundvolt290:primary"
+msgid "iundvolt290"
+msgstr "iundvolt290"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iunelim:primary"
+msgid "iunelim"
+msgstr "伊莉姆"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: 伊乌尼亚
+msgctxt "tag:iunia_(madoka_magica):primary"
+msgid "iunia_(madoka_magica)"
+msgstr "伊乌尼亚（魔法少女小圆）"
+
+#. alias-of: iunia_(madoka_magica)
+#. source: ai
+msgctxt "tag:iunia_(madoka_magica):alias:1"
+msgid "iunia_(madoka_magica)"
+msgstr "伊乌尼亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:iunnederob:primary"
+msgid "iunnederob"
+msgstr "Iunnederob"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iunnex:primary"
+msgid "iunnex"
+msgstr "iunnex"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2003
+msgctxt "tag:iuno_(wuthering_waves):primary"
+msgid "iuno_(wuthering_waves)"
+msgstr "伊乌诺"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 9
+#. aliases: 伊露娜
+msgctxt "tag:iuno_(wuthering_waves)_(cosplay):primary"
+msgid "iuno_(wuthering_waves)_(cosplay)"
+msgstr "伊露娜Cosplay"
+
+#. alias-of: iuno_(wuthering_waves)_(cosplay)
+#. source: ai
+msgctxt "tag:iuno_(wuthering_waves)_(cosplay):alias:1"
+msgid "iuno_(wuthering_waves)_(cosplay)"
+msgstr "伊露娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:iunsei:primary"
+msgid "iunsei"
+msgstr "幽仙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iupac04:primary"
+msgid "iupac04"
+msgstr "iupac04"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:iur5021:primary"
+msgid "iur5021"
+msgstr "iur5021"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iura5602:primary"
+msgid "iura5602"
+msgstr "iura5602"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iura_(t123123):primary"
+msgid "iura_(t123123)"
+msgstr "IURA"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iura_kei:primary"
+msgid "iura_kei"
+msgstr "井浦庆"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iura_motoko:primary"
+msgid "iura_motoko"
+msgstr "井浦素子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:iura_shuu:primary"
+msgid "iura_shuu"
+msgstr "井浦秀"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iuraimv:primary"
+msgid "iuraimv"
+msgstr "iuraimv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iurawaltz:primary"
+msgid "iurawaltz"
+msgstr "iurawaltz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iuri_(bungakuyomyom):primary"
+msgid "iuri_(bungakuyomyom)"
+msgstr "iuri（bungakuyomyom）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iuria_wolph:primary"
+msgid "iuria_wolph"
+msgstr "Iuria Wolph"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 151
+msgctxt "tag:iuro:primary"
+msgid "iuro"
+msgstr "iuro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 214
+#. aliases: iury_padilha
+msgctxt "tag:iury_padilha:primary"
+msgid "iury_padilha"
+msgstr "尤里帕迪利亚"
+
+#. alias-of: iury_padilha
+#. source: ai
+msgctxt "tag:iury_padilha:alias:1"
+msgid "iury_padilha"
+msgstr "iury_padilha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iusa415:primary"
+msgid "iusa415"
+msgstr "iusa415"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iutoki.:primary"
+msgid "iutoki."
+msgstr "Iutoki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:iutopia:primary"
+msgid "iutopia"
+msgstr "Iutopia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iuu_oy:primary"
+msgid "iuu_oy"
+msgstr "IUU OY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 255
+msgctxt "tag:iuui:primary"
+msgid "iuui"
+msgstr "IUUI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iuuu_ru:primary"
+msgid "iuuu_ru"
+msgstr "Iuuu.ru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iuyitd:primary"
+msgid "iuyitd"
+msgstr "iuyitd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iuyu:primary"
+msgid "iuyu"
+msgstr "iuyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iuyu_(pixiv_32066694):primary"
+msgid "iuyu_(pixiv_32066694)"
+msgstr "iuyu（Pixiv 32066694）"

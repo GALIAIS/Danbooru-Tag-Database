@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2b-chan:primary"
+msgid "2b-chan"
+msgstr "2B酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 180
+msgctxt "tag:2b-ge:primary"
+msgid "2b-ge"
+msgstr "2B"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2b-pencil:primary"
+msgid "2b-pencil"
+msgstr "2B铅笔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2b-takesi:primary"
+msgid "2b-takesi"
+msgstr "2B-Takesi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:2b14_(girls'_frontline):primary"
+msgid "2b14_(girls'_frontline)"
+msgstr "2B14"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:2b14_podnos:primary"
+msgid "2b14_podnos"
+msgstr "2B14迫击炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:2b1_oka:primary"
+msgid "2b1_oka"
+msgstr "2B1 Oka"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2b2t:primary"
+msgid "2b2t"
+msgstr "2b2t"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2b50088740:primary"
+msgid "2b50088740"
+msgstr "2B50088740"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:2b_(ivy_vs_):primary"
+msgid "2b_(ivy_vs_)"
+msgstr "2B（Ivy vs）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11895
+#. aliases: 尼尔
+msgctxt "tag:2b_(nier:automata):primary"
+msgid "2b_(nier:automata)"
+msgstr "2B"
+
+#. alias-of: 2b_(nier:automata)
+#. source: ai
+msgctxt "tag:2b_(nier:automata):alias:1"
+msgid "2b_(nier:automata)"
+msgstr "尼尔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1186
+#. aliases: 2B, 尼尔2B
+msgctxt "tag:2b_(nier:automata)_(cosplay):primary"
+msgid "2b_(nier:automata)_(cosplay)"
+msgstr "2B（尼尔：机械纪元）"
+
+#. alias-of: 2b_(nier:automata)_(cosplay)
+#. source: ai
+msgctxt "tag:2b_(nier:automata)_(cosplay):alias:1"
+msgid "2b_(nier:automata)_(cosplay)"
+msgstr "2B"
+
+#. alias-of: 2b_(nier:automata)_(cosplay)
+#. source: ai
+msgctxt "tag:2b_(nier:automata)_(cosplay):alias:2"
+msgid "2b_(nier:automata)_(cosplay)"
+msgstr "尼尔2B"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:2b_(yorha_unofficial_waterfront_gear)_(nikke):primary"
+msgid "2b_(yorha_unofficial_waterfront_gear)_(nikke)"
+msgstr "2B (尼基)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:2b_enpituu:primary"
+msgid "2b_enpituu"
+msgstr "2B（Enpituu）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:2b_fff:primary"
+msgid "2b_fff"
+msgstr "2B（fff）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2b_rifle:primary"
+msgid "2b_rifle"
+msgstr "2B步枪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2bai:primary"
+msgid "2bai"
+msgstr "2Bai"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2ban-tan:primary"
+msgid "2ban-tan"
+msgstr "2ban-tan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2bargain:primary"
+msgid "2bargain"
+msgstr "2bargain"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2bbong:primary"
+msgid "2bbong"
+msgstr "2bbong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2bc_fire:primary"
+msgid "2bc_fire"
+msgstr "2bc_fire"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:2bee:primary"
+msgid "2bee"
+msgstr "2Bee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2benchuanshaoniao:primary"
+msgid "2benchuanshaoniao"
+msgstr "2benchuanshaoniao"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2bi_gnsn:primary"
+msgid "2bi_gnsn"
+msgstr "2bi_gnsn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2bird_girl:primary"
+msgid "2bird_girl"
+msgstr "鸟女"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:2bls:primary"
+msgid "2bls"
+msgstr "2bls"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2blu:primary"
+msgid "2blu"
+msgstr "2blu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2blxy_0529:primary"
+msgid "2blxy_0529"
+msgstr "2blxy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:2bmm2:primary"
+msgid "2bmm2"
+msgstr "2bmm2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:2bnerikeshi:primary"
+msgid "2bnerikeshi"
+msgstr "2B Nerikeshi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2bnerikeshi2:primary"
+msgid "2bnerikeshi2"
+msgstr "2bnerikeshi2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: NIBOCO 2bo
+msgctxt "tag:2bo_(ni_bo_co):primary"
+msgid "2bo_(ni_bo_co)"
+msgstr "2bo"
+
+#. alias-of: 2bo_(ni_bo_co)
+#. source: ai
+msgctxt "tag:2bo_(ni_bo_co):alias:1"
+msgid "2bo_(ni_bo_co)"
+msgstr "NIBOCO 2bo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2boob2:primary"
+msgid "2boob2"
+msgstr "2boob2"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.count.multiple_subjects
+#. safety: sfw
+#. post-count: 432594
+#. aliases: 两男
+msgctxt "tag:2boys:primary"
+msgid "2boys"
+msgstr "双男"
+
+#. alias-of: 2boys
+#. source: ai
+msgctxt "tag:2boys:alias:1"
+msgid "2boys"
+msgstr "两男"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 69
+msgctxt "tag:2bro.:primary"
+msgid "2bro."
+msgstr "2bro."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2bwolf:primary"
+msgid "2bwolf"
+msgstr "2bwolf"

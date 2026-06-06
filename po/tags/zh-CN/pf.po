@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:38+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:38+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 169
+msgctxt "tag:pf:primary"
+msgid "pf"
+msgstr "侧面"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pf-98:primary"
+msgid "pf-98"
+msgstr "PF-98"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pf-www:primary"
+msgid "pf-www"
+msgstr "pf-www"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pf4nni:primary"
+msgid "pf4nni"
+msgstr "Pf4nni"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pf_cotton:primary"
+msgid "pf_cotton"
+msgstr "PF棉花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:pfallen:primary"
+msgid "pfallen"
+msgstr "Pfallen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 115
+msgctxt "tag:pfalz:primary"
+msgid "pfalz"
+msgstr "Pfalz"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pfannee_(wicked):primary"
+msgid "pfannee_(wicked)"
+msgstr "帕凡妮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pfannkuchenherz:primary"
+msgid "pfannkuchenherz"
+msgstr "Pfannkuchenherz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:pfaxx:primary"
+msgid "pfaxx"
+msgstr "PfAXX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:pfbmp:primary"
+msgid "pfbmp"
+msgstr "pfbmp"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:pfc_cska_moscow:primary"
+msgid "pfc_cska_moscow"
+msgstr "PFC CSKA Moscow"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pfc_kodai:primary"
+msgid "pfc_kodai"
+msgstr "PFC Kodai"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfc_robert_leckie:primary"
+msgid "pfc_robert_leckie"
+msgstr "罗伯特·莱基"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfeilspitze:primary"
+msgid "pfeilspitze"
+msgstr "pfeilspitze"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfemilio:primary"
+msgid "pfemilio"
+msgstr "pfemilio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfews:primary"
+msgid "pfews"
+msgstr "Pfews"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfffffffupple:primary"
+msgid "pfffffffupple"
+msgstr "Pfffffffupple"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfhhypqmoe3292:primary"
+msgid "pfhhypqmoe3292"
+msgstr "pfhhypqmoe3292"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pfhor_(marathon):primary"
+msgid "pfhor_(marathon)"
+msgstr "Pfhor（《Marathon》）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+#. aliases: pfhor主宰
+msgctxt "tag:pfhor_juggernaut:primary"
+msgid "pfhor_juggernaut"
+msgstr "Pfhor 破坏者"
+
+#. alias-of: pfhor_juggernaut
+#. source: ai
+msgctxt "tag:pfhor_juggernaut:alias:1"
+msgid "pfhor_juggernaut"
+msgstr "pfhor主宰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:pfiff:primary"
+msgid "pfiff"
+msgstr "Pfiff"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfilrose_diachronica:primary"
+msgid "pfilrose_diachronica"
+msgstr "Pfilrose Diachronica"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pfipnep:primary"
+msgid "pfipnep"
+msgstr "pfipnep"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:pfirsia_(cougar1404):primary"
+msgid "pfirsia_(cougar1404)"
+msgstr "菲西亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfirst:primary"
+msgid "pfirst"
+msgstr "pfirst"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfishballsq:primary"
+msgid "pfishballsq"
+msgstr "pfishballsq"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:pfizer:primary"
+msgid "pfizer"
+msgstr "辉瑞"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:pfjgxpi:primary"
+msgid "pfjgxpi"
+msgstr "pfjgxpi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:pflamingoart:primary"
+msgid "pflamingoart"
+msgstr "pflamingoart"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 69
+msgctxt "tag:pfle:primary"
+msgid "pfle"
+msgstr "普尔弗雷"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:pflglcht:primary"
+msgid "pflglcht"
+msgstr "Pflglcht"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:pfls-moni:primary"
+msgid "pfls-moni"
+msgstr "pfls-moni"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfolzer:primary"
+msgid "pfolzer"
+msgstr "pfolzer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfpp_0100:primary"
+msgid "pfpp_0100"
+msgstr "PFPP 0100"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:pfppe:primary"
+msgid "pfppe"
+msgstr "pfppe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfquartz:primary"
+msgid "pfquartz"
+msgstr "PF石英"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+#. aliases: pfu
+msgctxt "tag:pfufu:primary"
+msgid "pfufu"
+msgstr "噗嗤笑"
+
+#. alias-of: pfufu
+#. source: ai
+msgctxt "tag:pfufu:alias:1"
+msgid "pfufu"
+msgstr "pfu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfwemalove4ka82:primary"
+msgid "pfwemalove4ka82"
+msgstr "pfwemalove4ka82"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:pfyui_0217:primary"
+msgid "pfyui_0217"
+msgstr "pfyui_0217"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:pfziki:primary"
+msgid "pfziki"
+msgstr "Pfziki"

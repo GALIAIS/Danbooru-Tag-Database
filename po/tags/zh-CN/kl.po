@@ -1,0 +1,3910 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:30+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:30+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kl-alpha:primary"
+msgid "kl-alpha"
+msgstr "KL-Alpha"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:kl-chan:primary"
+msgid "kl-chan"
+msgstr "KL酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kl.star:primary"
+msgid "kl.star"
+msgstr "KL Star"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kl0n_z:primary"
+msgid "kl0n_z"
+msgstr "kl0n_z"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kl1251787363:primary"
+msgid "kl1251787363"
+msgstr "KL1251787363"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:kl39p:primary"
+msgid "kl39p"
+msgstr "kl39p"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:kl4397:primary"
+msgid "kl4397"
+msgstr "KL4397"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:kl501:primary"
+msgid "kl501"
+msgstr "kl501"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kl_(abjecadvent):primary"
+msgid "kl_(abjecadvent)"
+msgstr "kl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 465
+#. aliases: dgzonbi
+msgctxt "tag:kl_(dgzonbi):primary"
+msgid "kl_(dgzonbi)"
+msgstr "迪宗比"
+
+#. alias-of: kl_(dgzonbi)
+#. source: ai
+msgctxt "tag:kl_(dgzonbi):alias:1"
+msgid "kl_(dgzonbi)"
+msgstr "dgzonbi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kl_(kljp):primary"
+msgid "kl_(kljp)"
+msgstr "KL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:kl_(reikishikl):primary"
+msgid "kl_(reikishikl)"
+msgstr "KL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:kl_oekaki:primary"
+msgid "kl_oekaki"
+msgstr "KL Oekaki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:kl_spp:primary"
+msgid "kl_spp"
+msgstr "kl_spp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:kl_yu_bing:primary"
+msgid "kl_yu_bing"
+msgstr "KL于冰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:klaasje_amandou:primary"
+msgid "klaasje_amandou"
+msgstr "Klaasje Amandou"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaatu_(band):primary"
+msgid "klaatu_(band)"
+msgstr "Klaatu（乐队）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaatu_reznikov:primary"
+msgid "klaatu_reznikov"
+msgstr "克拉图·雷兹尼科夫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.state.supernatural_or_possession
+#. safety: mixed
+#. post-count: 3
+msgctxt "tag:klabautermann:primary"
+msgid "klabautermann"
+msgstr "Klabautermann"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 62
+msgctxt "tag:klabisot:primary"
+msgid "klabisot"
+msgstr "Klabisot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:klack_rodyalove:primary"
+msgid "klack_rodyalove"
+msgstr "Klack Rodyalove"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klackirakira:primary"
+msgid "klackirakira"
+msgstr "klackirakira"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:kladd:primary"
+msgid "kladd"
+msgstr "kladd"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:klade:primary"
+msgid "klade"
+msgstr "Klade"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klade250:primary"
+msgid "klade250"
+msgstr "klade250"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:kladenart:primary"
+msgid "kladenart"
+msgstr "Kladenart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kladexart:primary"
+msgid "kladexart"
+msgstr "Kladexart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:klaeia:primary"
+msgid "klaeia"
+msgstr "克莱亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:klaeia_(vtuber):primary"
+msgid "klaeia_(vtuber)"
+msgstr "Klaeia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:klaher_baklaher:primary"
+msgid "klaher_baklaher"
+msgstr "克拉赫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klahomavt:primary"
+msgid "klahomavt"
+msgstr "klahomavt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:klai:primary"
+msgid "klai"
+msgstr "克莱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:klaige_(klaige):primary"
+msgid "klaige_(klaige)"
+msgstr "Klaige"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaiis_(kayden):primary"
+msgid "klaiis_(kayden)"
+msgstr "Klaiis"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klain_(vertigris):primary"
+msgid "klain_(vertigris)"
+msgstr "Klain"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:klain_elder:primary"
+msgid "klain_elder"
+msgstr "Klain Elder"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:klainaal:primary"
+msgid "klainaal"
+msgstr "Klainaal"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:klaintty:primary"
+msgid "klaintty"
+msgstr "Klaintty"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:klaintty_the_kemo:primary"
+msgid "klaintty_the_kemo"
+msgstr "Klaintty the Kemo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaipeda_soldier:primary"
+msgid "klaipeda_soldier"
+msgstr "克莱佩达士兵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klaire_(00niine):primary"
+msgid "klaire_(00niine)"
+msgstr "克莱尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaire_(kaohsiung_light_rail_girls):primary"
+msgid "klaire_(kaohsiung_light_rail_girls)"
+msgstr "克莱尔（高雄轻轨女孩）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 534
+#. aliases: klaius
+msgctxt "tag:klaius:primary"
+msgid "klaius"
+msgstr "克劳斯"
+
+#. alias-of: klaius
+#. source: ai
+msgctxt "tag:klaius:alias:1"
+msgid "klaius"
+msgstr "klaius"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:klaivre_p:primary"
+msgid "klaivre_p"
+msgstr "klaivre_p"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klakao2:primary"
+msgid "klakao2"
+msgstr "Klakao2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:klakmon:primary"
+msgid "klakmon"
+msgstr "klakmon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klam_klam:primary"
+msgid "klam_klam"
+msgstr "Klam Klam"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klamnop:primary"
+msgid "klamnop"
+msgstr "Klamnop"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:klamol:primary"
+msgid "klamol"
+msgstr "克拉莫尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:klamp:primary"
+msgid "klamp"
+msgstr "克兰普"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klamzero:primary"
+msgid "klamzero"
+msgstr "klamzero"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 652
+#. aliases: 克兰
+msgctxt "tag:klan_klein:primary"
+msgid "klan_klein"
+msgstr "克兰·克莱恩"
+
+#. alias-of: klan_klein
+#. source: ai
+msgctxt "tag:klan_klein:alias:1"
+msgid "klan_klein"
+msgstr "克兰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:klan_klein_(cosplay):primary"
+msgid "klan_klein_(cosplay)"
+msgstr "可兰·克莱恩（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:klancain:primary"
+msgid "klancain"
+msgstr "克兰凯恩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 100
+msgctxt "tag:klang:primary"
+msgid "klang"
+msgstr "克朗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klanpaia:primary"
+msgid "klanpaia"
+msgstr "Klanpaia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaoe2015:primary"
+msgid "klaoe2015"
+msgstr "klaoe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klappert_art:primary"
+msgid "klappert_art"
+msgstr "klappert_art"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klaptrap:primary"
+msgid "klaptrap"
+msgstr "Klaptrap"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klar:primary"
+msgid "klar"
+msgstr "克拉尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klar_jezebeth:primary"
+msgid "klar_jezebeth"
+msgstr "klar_jezebeth"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klara_(ginga_eiyuu_densetsu):primary"
+msgid "klara_(ginga_eiyuu_densetsu)"
+msgstr "克拉拉（银河英雄传说）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 978
+#. aliases: 宝可梦克拉拉
+msgctxt "tag:klara_(pokemon):primary"
+msgid "klara_(pokemon)"
+msgstr "克拉拉"
+
+#. alias-of: klara_(pokemon)
+#. source: ai
+msgctxt "tag:klara_(pokemon):alias:1"
+msgid "klara_(pokemon)"
+msgstr "宝可梦克拉拉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 9
+#. aliases: 克拉拉
+msgctxt "tag:klara_(pokemon)_(cosplay):primary"
+msgid "klara_(pokemon)_(cosplay)"
+msgstr "克拉拉（宝可梦）角色扮演"
+
+#. alias-of: klara_(pokemon)_(cosplay)
+#. source: ai
+msgctxt "tag:klara_(pokemon)_(cosplay):alias:1"
+msgid "klara_(pokemon)_(cosplay)"
+msgstr "克拉拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klara_(seraziel):primary"
+msgid "klara_(seraziel)"
+msgstr "克拉拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klara_(wing_of_darkness):primary"
+msgid "klara_(wing_of_darkness)"
+msgstr "克拉拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klara_barbier:primary"
+msgid "klara_barbier"
+msgstr "klara_barbier"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 77
+#. aliases: 克拉拉·查姆伍德
+msgctxt "tag:klara_charmwood:primary"
+msgid "klara_charmwood"
+msgstr "克拉拉"
+
+#. alias-of: klara_charmwood
+#. source: ai
+msgctxt "tag:klara_charmwood:alias:1"
+msgid "klara_charmwood"
+msgstr "克拉拉·查姆伍德"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:klara_charmwood_(1st_costume):primary"
+msgid "klara_charmwood_(1st_costume)"
+msgstr "克拉拉·查姆伍德（第一套服装）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:klara_charmwood_(2nd_costume):primary"
+msgid "klara_charmwood_(2nd_costume)"
+msgstr "克拉拉·查姆伍德 (第二套服装)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 克拉拉
+msgctxt "tag:klara_haas_(basedbinkie):primary"
+msgid "klara_haas_(basedbinkie)"
+msgstr "克拉拉·哈斯"
+
+#. alias-of: klara_haas_(basedbinkie)
+#. source: ai
+msgctxt "tag:klara_haas_(basedbinkie):alias:1"
+msgid "klara_haas_(basedbinkie)"
+msgstr "克拉拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klara_kisenaria:primary"
+msgid "klara_kisenaria"
+msgstr "klara_kisenaria"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:klara_m_ruzhkova:primary"
+msgid "klara_m_ruzhkova"
+msgstr "克拉拉·M·鲁日科娃"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:klara_nevsky:primary"
+msgid "klara_nevsky"
+msgstr "克拉拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klara_prast:primary"
+msgid "klara_prast"
+msgstr "克拉拉·普拉斯特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:klara_sesemann:primary"
+msgid "klara_sesemann"
+msgstr "克拉拉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klara_sesemann_(cosplay):primary"
+msgid "klara_sesemann_(cosplay)"
+msgstr "克拉拉·塞塞曼（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klara_vincent:primary"
+msgid "klara_vincent"
+msgstr "Klara Vincent"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaramask:primary"
+msgid "klaramask"
+msgstr "klaramask"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klarcwithak:primary"
+msgid "klarcwithak"
+msgstr "klarcwithak"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klare_(klarendawn):primary"
+msgid "klare_(klarendawn)"
+msgstr "Klare"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:klarinette_(.hack//):primary"
+msgid "klarinette_(.hack//)"
+msgstr "克拉莉奈特（.hack）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klaringadon:primary"
+msgid "klaringadon"
+msgstr "klaringadon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:klarissa_(madoka_magica):primary"
+msgid "klarissa_(madoka_magica)"
+msgstr "克拉丽莎(魔法少女小圆)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klarissa_frueghel:primary"
+msgid "klarissa_frueghel"
+msgstr "克拉丽莎·弗鲁格尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klarissa_von_richthofen:primary"
+msgid "klarissa_von_richthofen"
+msgstr "克拉丽莎·冯·里希特霍芬"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+#. aliases: 草莓回忆Klarkstella
+msgctxt "tag:klarkstella_(fragaria_memories):primary"
+msgid "klarkstella_(fragaria_memories)"
+msgstr "Klarkstella"
+
+#. alias-of: klarkstella_(fragaria_memories)
+#. source: ai
+msgctxt "tag:klarkstella_(fragaria_memories):alias:1"
+msgid "klarkstella_(fragaria_memories)"
+msgstr "草莓回忆Klarkstella"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:klarogiraffe:primary"
+msgid "klarogiraffe"
+msgstr "Klarogiraffe"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klarwein_(sirius):primary"
+msgid "klarwein_(sirius)"
+msgstr "克拉魏因（天狼星）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 101
+msgctxt "tag:klarwind:primary"
+msgid "klarwind"
+msgstr "克拉温德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 145
+msgctxt "tag:klash:primary"
+msgid "klash"
+msgstr "Klash"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:klashikari:primary"
+msgid "klashikari"
+msgstr "klashikari"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klasky:primary"
+msgid "klasky"
+msgstr "klasky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:klasnyxie:primary"
+msgid "klasnyxie"
+msgstr "klasnyxie"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klasp:primary"
+msgid "klasp"
+msgstr "klasp"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klass:primary"
+msgid "klass"
+msgstr "Klass"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 97
+#. aliases: klasse14
+msgctxt "tag:klasse14:primary"
+msgid "klasse14"
+msgstr "克拉斯14"
+
+#. alias-of: klasse14
+#. source: ai
+msgctxt "tag:klasse14:alias:1"
+msgid "klasse14"
+msgstr "klasse14"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klassin:primary"
+msgid "klassin"
+msgstr "Klassin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klassyarts:primary"
+msgid "klassyarts"
+msgstr "klassyarts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klatrestativ:primary"
+msgid "klatrestativ"
+msgstr "克拉特雷施塔特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 星战克劳德
+msgctxt "tag:klaud_(star_wars):primary"
+msgid "klaud_(star_wars)"
+msgstr "克劳德（星球大战）"
+
+#. alias-of: klaud_(star_wars)
+#. source: ai
+msgctxt "tag:klaud_(star_wars):alias:1"
+msgid "klaud_(star_wars)"
+msgstr "星战克劳德"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:klaud_nine:primary"
+msgid "klaud_nine"
+msgstr "克劳德·奈恩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klaudea_x:primary"
+msgid "klaudea_x"
+msgstr "克劳迪亚X"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 克劳迪娅
+msgctxt "tag:klaudia96art:primary"
+msgid "klaudia96art"
+msgstr "Klaudia96Art"
+
+#. alias-of: klaudia96art
+#. source: ai
+msgctxt "tag:klaudia96art:alias:1"
+msgid "klaudia96art"
+msgstr "克劳迪娅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaudia_(catastropart):primary"
+msgid "klaudia_(catastropart)"
+msgstr "克劳迪娅（Catastropart）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 566
+msgctxt "tag:klaudia_valentz:primary"
+msgid "klaudia_valentz"
+msgstr "克劳迪娅·瓦伦茨"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:klaudia_valentz_(bedtime_memories):primary"
+msgid "klaudia_valentz_(bedtime_memories)"
+msgstr "克劳迪娅·瓦伦茨（Bedtime Memories）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klaudia_valentz_(black_monokini):primary"
+msgid "klaudia_valentz_(black_monokini)"
+msgstr "Klaudia Valentz（黑色单件泳衣）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 13
+#. aliases: 克劳迪娅
+msgctxt "tag:klaudia_valentz_(cosplay):primary"
+msgid "klaudia_valentz_(cosplay)"
+msgstr "角色扮演：克劳迪娅"
+
+#. alias-of: klaudia_valentz_(cosplay)
+#. source: ai
+msgctxt "tag:klaudia_valentz_(cosplay):alias:1"
+msgid "klaudia_valentz_(cosplay)"
+msgstr "克劳迪娅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klaudia_valentz_(elegant_mermaid):primary"
+msgid "klaudia_valentz_(elegant_mermaid)"
+msgstr "Klaudia Valentz（优雅美人鱼）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaudia_valentz_(fragrant_elegance):primary"
+msgid "klaudia_valentz_(fragrant_elegance)"
+msgstr "克劳迪娅·瓦伦茨（Fragrant Elegance）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:klaudia_valentz_(moonlit_beach):primary"
+msgid "klaudia_valentz_(moonlit_beach)"
+msgstr "Klaudia Valentz"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaudia_valentz_(seaside_sapphire):primary"
+msgid "klaudia_valentz_(seaside_sapphire)"
+msgstr "克劳迪娅·瓦伦茨"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaudius_riu:primary"
+msgid "klaudius_riu"
+msgstr "Klaudius Riu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:klaudsanart:primary"
+msgid "klaudsanart"
+msgstr "克劳桑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:klaukezia:primary"
+msgid "klaukezia"
+msgstr "Klaukezia（同人作家）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaulie:primary"
+msgid "klaulie"
+msgstr "Klaulie"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaus's_brother:primary"
+msgid "klaus's_brother"
+msgstr "克劳斯的兄弟"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Klaus
+msgctxt "tag:klaus_(abc):primary"
+msgid "klaus_(abc)"
+msgstr "克劳斯（ABC）"
+
+#. alias-of: klaus_(abc)
+#. source: ai
+msgctxt "tag:klaus_(abc):alias:1"
+msgid "klaus_(abc)"
+msgstr "Klaus"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_(animal_crossing):primary"
+msgid "klaus_(animal_crossing)"
+msgstr "克劳斯（动森）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Klaus
+msgctxt "tag:klaus_(dewprism):primary"
+msgid "klaus_(dewprism)"
+msgstr "克劳斯（Dewprism）"
+
+#. alias-of: klaus_(dewprism)
+#. source: ai
+msgctxt "tag:klaus_(dewprism):alias:1"
+msgid "klaus_(dewprism)"
+msgstr "Klaus"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_(fantasy_life):primary"
+msgid "klaus_(fantasy_life)"
+msgstr "克劳斯"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klaus_(movie):primary"
+msgid "klaus_(movie)"
+msgstr "克劳斯（电影）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_(p&d):primary"
+msgid "klaus_(p&d)"
+msgstr "克劳斯（P&D）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_(professor_layton):primary"
+msgid "klaus_(professor_layton)"
+msgstr "克劳斯（雷顿教授）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:klaus_(spy_kyoushitsu):primary"
+msgid "klaus_(spy_kyoushitsu)"
+msgstr "克劳斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_(stella_glow):primary"
+msgid "klaus_(stella_glow)"
+msgstr "克劳斯（星光幻歌）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_(tenmei_no_conquista):primary"
+msgid "klaus_(tenmei_no_conquista)"
+msgstr "克劳斯（天命的征服者）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_(winx_club):primary"
+msgid "klaus_(winx_club)"
+msgstr "克劳斯（魔法俏佳人）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 50
+#. aliases: 世界弹射物语克劳斯
+msgctxt "tag:klaus_(world_flipper):primary"
+msgid "klaus_(world_flipper)"
+msgstr "克劳斯"
+
+#. alias-of: klaus_(world_flipper)
+#. source: ai
+msgctxt "tag:klaus_(world_flipper):alias:1"
+msgid "klaus_(world_flipper)"
+msgstr "世界弹射物语克劳斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:klaus_(xenoblade):primary"
+msgid "klaus_(xenoblade)"
+msgstr "克劳斯（异度神剑）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_baudelaire:primary"
+msgid "klaus_baudelaire"
+msgstr "克劳斯·波德莱尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaus_grado:primary"
+msgid "klaus_grado"
+msgstr "克劳斯·格拉多"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+#. aliases: 克劳斯
+msgctxt "tag:klaus_hargreeves:primary"
+msgid "klaus_hargreeves"
+msgstr "克劳斯·哈格里夫斯"
+
+#. alias-of: klaus_hargreeves
+#. source: ai
+msgctxt "tag:klaus_hargreeves:alias:1"
+msgid "klaus_hargreeves"
+msgstr "克劳斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klaus_heibler:primary"
+msgid "klaus_heibler"
+msgstr "克劳斯·海布勒"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaus_heinz_von_dem_eberbach:primary"
+msgid "klaus_heinz_von_dem_eberbach"
+msgstr "克劳斯·海因茨·冯·德姆·艾贝巴赫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klaus_heisler:primary"
+msgid "klaus_heisler"
+msgstr "克劳斯·海斯勒"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaus_liebert:primary"
+msgid "klaus_liebert"
+msgstr "克劳斯·利贝尔特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_lunettes:primary"
+msgid "klaus_lunettes"
+msgstr "克劳斯·卢内茨"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_monteiro:primary"
+msgid "klaus_monteiro"
+msgstr "klaus_monteiro"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaus_poppe:primary"
+msgid "klaus_poppe"
+msgstr "克劳斯·波佩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:klaus_reinbach_iii:primary"
+msgid "klaus_reinbach_iii"
+msgstr "克劳斯·莱因巴赫三世"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaus_schwab:primary"
+msgid "klaus_schwab"
+msgstr "克劳斯·施瓦布"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klaus_seishirou:primary"
+msgid "klaus_seishirou"
+msgstr "klaus_seishirou"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_sommerschmitt:primary"
+msgid "klaus_sommerschmitt"
+msgstr "Klaus Sommerschmitt"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaus_theodor:primary"
+msgid "klaus_theodor"
+msgstr "克劳斯·西奥多"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 208
+msgctxt "tag:klaus_von_reinhertz:primary"
+msgid "klaus_von_reinhertz"
+msgstr "克劳斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaus_von_reinhertz_(cosplay):primary"
+msgid "klaus_von_reinhertz_(cosplay)"
+msgstr "克劳斯·冯·莱因赫兹 Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaus_walz:primary"
+msgid "klaus_walz"
+msgstr "克劳斯·瓦尔茨"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:klaus_windamier:primary"
+msgid "klaus_windamier"
+msgstr "克劳斯·温德米尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klausboss:primary"
+msgid "klausboss"
+msgstr "Klausboss"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klausl_aileppoc:primary"
+msgid "klausl_aileppoc"
+msgstr "Klausl Aileppoc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaussaurio:primary"
+msgid "klaussaurio"
+msgstr "克劳萨里奥"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:klausus_(brave_souls):primary"
+msgid "klausus_(brave_souls)"
+msgstr "克劳索斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klauth_(d&d):primary"
+msgid "klauth_(d&d)"
+msgstr "克劳斯（龙与地下城）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klauw22:primary"
+msgid "klauw22"
+msgstr "Klauw22"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klaver:primary"
+msgid "klaver"
+msgstr "克拉弗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klaves:primary"
+msgid "klaves"
+msgstr "克拉维斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klavhula-velicss:primary"
+msgid "klavhula-velicss"
+msgstr "Klavhula Velicss"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 546
+msgctxt "tag:klavier_gavin:primary"
+msgid "klavier_gavin"
+msgstr "克劳恩·伽文"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klavier_gavin_(cosplay):primary"
+msgid "klavier_gavin_(cosplay)"
+msgstr "克拉维尔·加文（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klavisin:primary"
+msgid "klavisin"
+msgstr "Klavisin"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:klawf:primary"
+msgid "klawf"
+msgstr "岩壁蟹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klay_arslan:primary"
+msgid "klay_arslan"
+msgstr "klay_arslan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klay_thompson:primary"
+msgid "klay_thompson"
+msgstr "克莱·汤普森"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klaymen:primary"
+msgid "klaymen"
+msgstr "Klaymen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:klaymoor:primary"
+msgid "klaymoor"
+msgstr "克莱穆尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klaymoor_(mega_man):primary"
+msgid "klaymoor_(mega_man)"
+msgstr "克雷穆尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klayrg:primary"
+msgid "klayrg"
+msgstr "Klayrg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klazyvn:primary"
+msgid "klazyvn"
+msgstr "klazyvn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:kldpxl:primary"
+msgid "kldpxl"
+msgstr "KLD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:kleahvii:primary"
+msgid "kleahvii"
+msgstr "Kleahvii"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.fashion_or_costume_style
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleahvii_(style):primary"
+msgid "kleahvii_(style)"
+msgstr "kleahvii风格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleanisklean:primary"
+msgid "kleanisklean"
+msgstr "kleanisklean"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 103
+msgctxt "tag:kleavor:primary"
+msgid "kleavor"
+msgstr "劈斧螳螂"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleber_(destroyer):primary"
+msgid "kleber_(destroyer)"
+msgstr "克莱伯号（驱逐舰）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klebo_stuff:primary"
+msgid "klebo_stuff"
+msgstr "Klebo同人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:kled:primary"
+msgid "kled"
+msgstr "克烈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:klee-on:primary"
+msgid "klee-on"
+msgstr "可莉联动"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:klee08:primary"
+msgid "klee08"
+msgstr "klee08"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klee9004:primary"
+msgid "klee9004"
+msgstr "klee9004"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 515
+#. aliases: 绽放星光
+msgctxt "tag:klee_(blossoming_starlight)_(genshin_impact):primary"
+msgid "klee_(blossoming_starlight)_(genshin_impact)"
+msgstr "可莉"
+
+#. alias-of: klee_(blossoming_starlight)_(genshin_impact)
+#. source: ai
+msgctxt "tag:klee_(blossoming_starlight)_(genshin_impact):alias:1"
+msgid "klee_(blossoming_starlight)_(genshin_impact)"
+msgstr "绽放星光"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:klee_(genshin_concert)_(genshin_impact):primary"
+msgid "klee_(genshin_concert)_(genshin_impact)"
+msgstr "可莉 (原神音乐会)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7007
+msgctxt "tag:klee_(genshin_impact):primary"
+msgid "klee_(genshin_impact)"
+msgstr "可莉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 147
+#. aliases: 可莉cosplay
+msgctxt "tag:klee_(genshin_impact)_(cosplay):primary"
+msgid "klee_(genshin_impact)_(cosplay)"
+msgstr "可莉(原神)cos"
+
+#. alias-of: klee_(genshin_impact)_(cosplay)
+#. source: ai
+msgctxt "tag:klee_(genshin_impact)_(cosplay):alias:1"
+msgid "klee_(genshin_impact)_(cosplay)"
+msgstr "可莉cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klee_(nestle)_(genshin_impact):primary"
+msgid "klee_(nestle)_(genshin_impact)"
+msgstr "可莉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:klee_(sweets_paradise)_(genshin_impact):primary"
+msgid "klee_(sweets_paradise)_(genshin_impact)"
+msgstr "可莉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:kleeeee..._(meme):primary"
+msgid "kleeeee..._(meme)"
+msgstr "Kleeeee...（梗）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kleeji_x:primary"
+msgid "kleeji_x"
+msgstr "kleeji_x"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:kleene_(eden's_zero):primary"
+msgid "kleene_(eden's_zero)"
+msgstr "克蕾妮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kleenex_(brand):primary"
+msgid "kleenex_(brand)"
+msgstr "Kleenex（品牌）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:kleer_skeleton:primary"
+msgid "kleer_skeleton"
+msgstr "克莱尔骷髅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klef_(k_lef111256):primary"
+msgid "klef_(k_lef111256)"
+msgstr "klef"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 231
+msgctxt "tag:klefki:primary"
+msgid "klefki"
+msgstr "钥圈儿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:klefpto:primary"
+msgid "klefpto"
+msgstr "克莱普托"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 118
+msgctxt "tag:klegsart:primary"
+msgid "klegsart"
+msgstr "klegsart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kleilouu:primary"
+msgid "kleilouu"
+msgstr "Kleilouu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:kleimann:primary"
+msgid "kleimann"
+msgstr "kleimann"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: 残响的克莱恩
+msgctxt "tag:klein_(clan_senki):primary"
+msgid "klein_(clan_senki)"
+msgstr "克莱恩"
+
+#. alias-of: klein_(clan_senki)
+#. source: ai
+msgctxt "tag:klein_(clan_senki):alias:1"
+msgid "klein_(clan_senki)"
+msgstr "残响的克莱恩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klein_(eiyuu_densetsu):primary"
+msgid "klein_(eiyuu_densetsu)"
+msgstr "克莱因（英雄传说）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klein_(famiresu_wo_kyouju_seyo):primary"
+msgid "klein_(famiresu_wo_kyouju_seyo)"
+msgstr "克莱因"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 54
+#. aliases: 克莱因
+msgctxt "tag:klein_(fire_emblem):primary"
+msgid "klein_(fire_emblem)"
+msgstr "克莱因（火焰纹章）"
+
+#. alias-of: klein_(fire_emblem)
+#. source: ai
+msgctxt "tag:klein_(fire_emblem):alias:1"
+msgid "klein_(fire_emblem)"
+msgstr "克莱因"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klein_(fire_emblem)_(cosplay):primary"
+msgid "klein_(fire_emblem)_(cosplay)"
+msgstr "克莱因（火焰纹章）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 162
+msgctxt "tag:klein_(honkai_impact):primary"
+msgid "klein_(honkai_impact)"
+msgstr "克莱因"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klein_(kyuusyohouraiji):primary"
+msgid "klein_(kyuusyohouraiji)"
+msgstr "克莱因"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 165
+#. aliases: Klein
+msgctxt "tag:klein_(sao):primary"
+msgid "klein_(sao)"
+msgstr "克莱因"
+
+#. alias-of: klein_(sao)
+#. source: ai
+msgctxt "tag:klein_(sao):alias:1"
+msgid "klein_(sao)"
+msgstr "Klein"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 52
+#. aliases: 克莱因
+msgctxt "tag:klein_(sao-alo):primary"
+msgid "klein_(sao-alo)"
+msgstr "Klein"
+
+#. alias-of: klein_(sao-alo)
+#. source: ai
+msgctxt "tag:klein_(sao-alo):alias:1"
+msgid "klein_(sao-alo)"
+msgstr "克莱因"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klein_(welcome_to_dreamland):primary"
+msgid "klein_(welcome_to_dreamland)"
+msgstr "克莱因（欢迎来到梦境）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klein_(xhs_95620734021):primary"
+msgid "klein_(xhs_95620734021)"
+msgstr "klein"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.shape_or_mechanical_part
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:klein_bottle:primary"
+msgid "klein_bottle"
+msgstr "克莱因瓶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klein_gally:primary"
+msgid "klein_gally"
+msgstr "克莱因·加利"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:klein_gremory:primary"
+msgid "klein_gremory"
+msgstr "克莱因·格雷莫里"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klein_gremory?:primary"
+msgid "klein_gremory?"
+msgstr "克莱恩·吉蒙里"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klein_kiesling:primary"
+msgid "klein_kiesling"
+msgstr "克莱因·基斯林"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1062
+msgctxt "tag:klein_moretti:primary"
+msgid "klein_moretti"
+msgstr "克莱恩·莫雷蒂"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klein_sandman:primary"
+msgid "klein_sandman"
+msgstr "Klein Sandman"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klein_sieben:primary"
+msgid "klein_sieben"
+msgstr "克莱因·西本"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:klein_voimond:primary"
+msgid "klein_voimond"
+msgstr "克莱因·沃伊蒙德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleinakuta:primary"
+msgid "kleinakuta"
+msgstr "Kleinakuta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kleinastar:primary"
+msgid "kleinastar"
+msgstr "kleinastar"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kleine_(kasugai_(de-tteiu)):primary"
+msgid "kleine_(kasugai_(de-tteiu))"
+msgstr "克莱奈（霞）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:kleine_erdbeere:primary"
+msgid "kleine_erdbeere"
+msgstr "Kleine Erdbeere"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kleine_gurke:primary"
+msgid "kleine_gurke"
+msgstr "kleine_gurke"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleine_kiste_(umamusume):primary"
+msgid "kleine_kiste_(umamusume)"
+msgstr "小箱子（赛马娘）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kleine_meh:primary"
+msgid "kleine_meh"
+msgstr "kleine_meh"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleine_panzerbefehlswagen:primary"
+msgid "kleine_panzerbefehlswagen"
+msgstr "小型坦克指挥车"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kleinerhai1996:primary"
+msgid "kleinerhai1996"
+msgstr "小鲨鱼1996"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleinian:primary"
+msgid "kleinian"
+msgstr "克莱因"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kleinod_(vtuber):primary"
+msgid "kleinod_(vtuber)"
+msgstr "Kleinod（虚拟主播）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:kleins:primary"
+msgid "kleins"
+msgstr "kleins"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: Kleins (eruze98)
+msgctxt "tag:kleins_(eruze98):primary"
+msgid "kleins_(eruze98)"
+msgstr "Kleins"
+
+#. alias-of: kleins_(eruze98)
+#. source: ai
+msgctxt "tag:kleins_(eruze98):alias:1"
+msgid "kleins_(eruze98)"
+msgstr "Kleins (eruze98)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:kleinsk:primary"
+msgid "kleinsk"
+msgstr "kleinsk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kleinz:primary"
+msgid "kleinz"
+msgstr "kleinz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleio:primary"
+msgid "kleio"
+msgstr "克莱欧"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:kleio_(clover_theater):primary"
+msgid "kleio_(clover_theater)"
+msgstr "克莱奥（三叶草剧院）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:kleist_(milihime_taisen):primary"
+msgid "kleist_(milihime_taisen)"
+msgstr "克莱斯特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kleito_(tears_to_tiara_ii):primary"
+msgid "kleito_(tears_to_tiara_ii)"
+msgstr "克莱托"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleitos_(mewniverse):primary"
+msgid "kleitos_(mewniverse)"
+msgstr "梅恩宇宙克雷托斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:kleken_(alchemy_stars):primary"
+msgid "kleken_(alchemy_stars)"
+msgstr "克莱肯（明日方舟）"
+
+#. danbooru-category: 5
+#. taxonomy-id: 5.meta.technical.source_type
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kleki_(medium):primary"
+msgid "kleki_(medium)"
+msgstr "Kleki（媒介）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:klem:primary"
+msgid "klem"
+msgstr "Klem"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klematista:primary"
+msgid "klematista"
+msgstr "Klematista"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klemintta:primary"
+msgid "klemintta"
+msgstr "克莱明塔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klemman:primary"
+msgid "klemman"
+msgstr "klemman"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:klemme:primary"
+msgid "klemme"
+msgstr "克莱梅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klemt_mandra:primary"
+msgid "klemt_mandra"
+msgstr "克莱门特·曼德拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klen_(clevatess):primary"
+msgid "klen_(clevatess)"
+msgstr "克莱恩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klenai:primary"
+msgid "klenai"
+msgstr "klenai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klenda_v:primary"
+msgid "klenda_v"
+msgstr "Klenda_v"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.fantasy_or_sci_fi
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klendathu:primary"
+msgid "klendathu"
+msgstr "克伦达图"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:klenow:primary"
+msgid "klenow"
+msgstr "klenow"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:klenschheim:primary"
+msgid "klenschheim"
+msgstr "克兰施海姆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:klent:primary"
+msgid "klent"
+msgstr "克伦特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:kleo_iv:primary"
+msgid "kleo_iv"
+msgstr "Kleo IV"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kleona_(echocalypse):primary"
+msgid "kleona_(echocalypse)"
+msgstr "克莱奥娜（Echocalypse）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleona_(messifeetpics):primary"
+msgid "kleona_(messifeetpics)"
+msgstr "克莱欧娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 61
+#. aliases: 椰丝糯米糕
+msgctxt "tag:klepon:primary"
+msgid "klepon"
+msgstr "娘惹糕"
+
+#. alias-of: klepon
+#. source: ai
+msgctxt "tag:klepon:alias:1"
+msgid "klepon"
+msgstr "椰丝糯米糕"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 1
+#. aliases: 糯叽叽
+msgctxt "tag:klepon_(food):primary"
+msgid "klepon_(food)"
+msgstr "椰丝糯米团"
+
+#. alias-of: klepon_(food)
+#. source: ai
+msgctxt "tag:klepon_(food):alias:1"
+msgid "klepon_(food)"
+msgstr "糯叽叽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klepto:primary"
+msgid "klepto"
+msgstr "小偷"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleptomori:primary"
+msgid "kleptomori"
+msgstr "偷窃兽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klerent:primary"
+msgid "klerent"
+msgstr "klerent"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 克蕾莎
+msgctxt "tag:klesa:primary"
+msgid "klesa"
+msgstr "克蕾莎"
+
+#. alias-of: klesa
+#. source: ai
+msgctxt "tag:klesa:alias:1"
+msgid "klesa"
+msgstr "克蕾莎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kleshuu:primary"
+msgid "kleshuu"
+msgstr "kleshuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klest:primary"
+msgid "klest"
+msgstr "Klest"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klestil_reina:primary"
+msgid "klestil_reina"
+msgstr "克莱斯蒂尔·蕾娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kleston_marques:primary"
+msgid "kleston_marques"
+msgstr "克莱斯顿·马奎斯"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kletka:primary"
+msgid "kletka"
+msgstr "Kletka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:kleune:primary"
+msgid "kleune"
+msgstr "克勒内"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klevar:primary"
+msgid "klevar"
+msgstr "Klevar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klever:primary"
+msgid "klever"
+msgstr "klever"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:klew:primary"
+msgid "klew"
+msgstr "Klew"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kleya:primary"
+msgid "kleya"
+msgstr "Kleya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:kleymir:primary"
+msgid "kleymir"
+msgstr "Kleymir"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klfanarts:primary"
+msgid "klfanarts"
+msgstr "klfanarts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klg_eat:primary"
+msgid "klg_eat"
+msgstr "klg_eat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klhpyro:primary"
+msgid "klhpyro"
+msgstr "klhpyro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klian:primary"
+msgid "klian"
+msgstr "Klian"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klian_(vtuber):primary"
+msgid "klian_(vtuber)"
+msgstr "Klian（VTuber）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klice:primary"
+msgid "klice"
+msgstr "klice"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klick_tack:primary"
+msgid "klick_tack"
+msgstr "klick_tack"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:klid_(dragon_village):primary"
+msgid "klid_(dragon_village)"
+msgstr "Klid（Dragon Village）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: 克里德
+msgctxt "tag:klid_(executor)_(dragon_village):primary"
+msgid "klid_(executor)_(dragon_village)"
+msgstr "克里德（龙村执行者）"
+
+#. alias-of: klid_(executor)_(dragon_village)
+#. source: ai
+msgctxt "tag:klid_(executor)_(dragon_village):alias:1"
+msgid "klid_(executor)_(dragon_village)"
+msgstr "克里德"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klid_(judge)_(dragon_village):primary"
+msgid "klid_(judge)_(dragon_village)"
+msgstr "克利德（审判）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klid_a:primary"
+msgid "klid_a"
+msgstr "klid_a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klie:primary"
+msgid "klie"
+msgstr "Klie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kliemin_sk:primary"
+msgid "kliemin_sk"
+msgstr "克雷明"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klien2000:primary"
+msgid "klien2000"
+msgstr "klien2000"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:kliff_(fire_emblem):primary"
+msgid "kliff_(fire_emblem)"
+msgstr "克利夫（火焰纹章）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:kliff_undersn:primary"
+msgid "kliff_undersn"
+msgstr "克里夫·安德森"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kliff_undersn_(cosplay):primary"
+msgid "kliff_undersn_(cosplay)"
+msgstr "克里夫·安德森（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:klifflod:primary"
+msgid "klifflod"
+msgstr "Klifflod"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klight:primary"
+msgid "klight"
+msgstr "klight"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klikidemon:primary"
+msgid "klikidemon"
+msgstr "klikidemon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klikli:primary"
+msgid "klikli"
+msgstr "klikli"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klim_(lcshian):primary"
+msgid "klim_(lcshian)"
+msgstr "Klim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klim_by:primary"
+msgid "klim_by"
+msgstr "Klim_by"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:klim_nick:primary"
+msgid "klim_nick"
+msgstr "Klim Nick"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:klima_(ta_ga_tame_no_alchemist):primary"
+msgid "klima_(ta_ga_tame_no_alchemist)"
+msgstr "克里玛（为谁而炼金）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kliment_(genshin_impact):primary"
+msgid "kliment_(genshin_impact)"
+msgstr "克利门特（原神）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 152
+msgctxt "tag:klimspree:primary"
+msgid "klimspree"
+msgstr "klimspree"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klimt_(tensei_shitara_ken_deshita):primary"
+msgid "klimt_(tensei_shitara_ken_deshita)"
+msgstr "Klimt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klimtsonian:primary"
+msgid "klimtsonian"
+msgstr "klimtsonian"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 154
+#. aliases: KLIN
+msgctxt "tag:klin_(girls'_frontline):primary"
+msgid "klin_(girls'_frontline)"
+msgstr "克林"
+
+#. alias-of: klin_(girls'_frontline)
+#. source: ai
+msgctxt "tag:klin_(girls'_frontline):alias:1"
+msgid "klin_(girls'_frontline)"
+msgstr "KLIN"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 少女前线克林
+msgctxt "tag:klin_(girls'_frontline)_(cosplay):primary"
+msgid "klin_(girls'_frontline)_(cosplay)"
+msgstr "Klin（少女前线）Cosplay"
+
+#. alias-of: klin_(girls'_frontline)_(cosplay)
+#. source: ai
+msgctxt "tag:klin_(girls'_frontline)_(cosplay):alias:1"
+msgid "klin_(girls'_frontline)_(cosplay)"
+msgstr "少女前线克林"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klin_(klin5715):primary"
+msgid "klin_(klin5715)"
+msgstr "klin"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:klin_(the_three_crows)_(girls'_frontline):primary"
+msgid "klin_(the_three_crows)_(girls'_frontline)"
+msgstr "克琳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:klin_(waning_winter)_(girls'_frontline):primary"
+msgid "klin_(waning_winter)_(girls'_frontline)"
+msgstr "克琳（残冬）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klinad:primary"
+msgid "klinad"
+msgstr "克林纳德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:klinck_foster:primary"
+msgid "klinck_foster"
+msgstr "klinck foster"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klingklangyaoi:primary"
+msgid "klingklangyaoi"
+msgstr "klingklangyaoi"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klingon:primary"
+msgid "klingon"
+msgstr "克林贡人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klingsor:primary"
+msgid "klingsor"
+msgstr "klingsor"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 140
+msgctxt "tag:klink:primary"
+msgid "klink"
+msgstr "klink"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klinka:primary"
+msgid "klinka"
+msgstr "Klinka"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 138
+#. aliases: 齿轮组
+msgctxt "tag:klinklang:primary"
+msgid "klinklang"
+msgstr "齿轮怪"
+
+#. alias-of: klinklang
+#. source: ai
+msgctxt "tag:klinklang:alias:1"
+msgid "klinklang"
+msgstr "齿轮组"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klinko:primary"
+msgid "klinko"
+msgstr "林可"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klinsy:primary"
+msgid "klinsy"
+msgstr "klinsy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:klint_van_zieks:primary"
+msgid "klint_van_zieks"
+msgstr "克林特·凡·齐克斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:klionheartart:primary"
+msgid "klionheartart"
+msgstr "Klionheartart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:kliored:primary"
+msgid "kliored"
+msgstr "Kliored"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kliory_draw:primary"
+msgid "kliory_draw"
+msgstr "kliory_draw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klipdas:primary"
+msgid "klipdas"
+msgstr "克里普达斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klippaur:primary"
+msgid "klippaur"
+msgstr "klippaur"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 猫耳娘
+msgctxt "tag:klivaaa:primary"
+msgid "klivaaa"
+msgstr "克里瓦"
+
+#. alias-of: klivaaa
+#. source: ai
+msgctxt "tag:klivaaa:alias:1"
+msgid "klivaaa"
+msgstr "猫耳娘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:klixxxx:primary"
+msgid "klixxxx"
+msgstr "klixxxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:kliz2ka3:primary"
+msgid "kliz2ka3"
+msgstr "kliz2ka3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kljc93:primary"
+msgid "kljc93"
+msgstr "KLJC93"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kljgdoe:primary"
+msgid "kljgdoe"
+msgstr "kljgdoe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klk_mb:primary"
+msgid "klk_mb"
+msgstr "klk_mb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klk_sr:primary"
+msgid "klk_sr"
+msgstr "Kill la Kill SR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:klklmomo2245:primary"
+msgid "klklmomo2245"
+msgstr "klklmomo2245"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klli_048:primary"
+msgid "klli_048"
+msgstr "klli_048"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:kllmsshyd:primary"
+msgid "kllmsshyd"
+msgstr "kllmsshyd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kllpk:primary"
+msgid "kllpk"
+msgstr "kllpk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:kllsiren:primary"
+msgid "kllsiren"
+msgstr "KLLSiren"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klm:primary"
+msgid "klm"
+msgstr "KLM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klm066052:primary"
+msgid "klm066052"
+msgstr "Klm066052"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klmi_chroma:primary"
+msgid "klmi_chroma"
+msgstr "Klmi Chroma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klmmox:primary"
+msgid "klmmox"
+msgstr "klmmox"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klmts_yr:primary"
+msgid "klmts_yr"
+msgstr "klmts_yr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klmutie:primary"
+msgid "klmutie"
+msgstr "Klmutie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klmyt524:primary"
+msgid "klmyt524"
+msgstr "klmyt524"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klng-knight:primary"
+msgid "klng-knight"
+msgstr "Klng骑士"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klngclawth0rne:primary"
+msgid "klngclawth0rne"
+msgstr "Klngclawth0rne"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klnk:primary"
+msgid "klnk"
+msgstr "Klnk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klo_(rekzahar):primary"
+msgid "klo_(rekzahar)"
+msgstr "klo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kloa_(onigensou):primary"
+msgid "kloa_(onigensou)"
+msgstr "Kloa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kloa_(virtuareal):primary"
+msgid "kloa_(virtuareal)"
+msgstr "克洛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1168
+#. aliases: 爪子
+msgctxt "tag:kloah:primary"
+msgid "kloah"
+msgstr "爪"
+
+#. alias-of: kloah
+#. source: ai
+msgctxt "tag:kloah:alias:1"
+msgid "kloah"
+msgstr "爪子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kloak:primary"
+msgid "kloak"
+msgstr "kloak"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:kloan:primary"
+msgid "kloan"
+msgstr "克洛安"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kloar:primary"
+msgid "kloar"
+msgstr "kloar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloartz:primary"
+msgid "kloartz"
+msgstr "kloartz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klobstrosity:primary"
+msgid "klobstrosity"
+msgstr "Klobstrosity"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klobuk_(headwear):primary"
+msgid "klobuk_(headwear)"
+msgstr "圆顶小帽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klockey:primary"
+msgid "klockey"
+msgstr "klockey"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klocko:primary"
+msgid "klocko"
+msgstr "Klocko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klockoart:primary"
+msgid "klockoart"
+msgstr "klockoart"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Klodoa
+msgctxt "tag:klodoa_(fairy_tail):primary"
+msgid "klodoa_(fairy_tail)"
+msgstr "克罗多亚"
+
+#. alias-of: klodoa_(fairy_tail)
+#. source: ai
+msgctxt "tag:klodoa_(fairy_tail):alias:1"
+msgid "klodoa_(fairy_tail)"
+msgstr "Klodoa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klodwig_art:primary"
+msgid "klodwig_art"
+msgstr "Klodwig Art"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kloe_kroc:primary"
+msgid "kloe_kroc"
+msgstr "Kloe Kroc"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 性感航空
+msgctxt "tag:kloe_kubicek_(sexy_airlines):primary"
+msgid "kloe_kubicek_(sexy_airlines)"
+msgstr "Kloe Kubicek"
+
+#. alias-of: kloe_kubicek_(sexy_airlines)
+#. source: ai
+msgctxt "tag:kloe_kubicek_(sexy_airlines):alias:1"
+msgid "kloe_kubicek_(sexy_airlines)"
+msgstr "性感航空"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kloe_mone:primary"
+msgid "kloe_mone"
+msgstr "克洛艾·莫内"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 146
+msgctxt "tag:kloe_rinz:primary"
+msgid "kloe_rinz"
+msgstr "克洛艾·林茨"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloe_rinz_(cosplay):primary"
+msgid "kloe_rinz_(cosplay)"
+msgstr "克洛伊·林兹（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloel01:primary"
+msgid "kloel01"
+msgstr "kloel01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloffein:primary"
+msgid "kloffein"
+msgstr "克洛芬"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloglog:primary"
+msgid "kloglog"
+msgstr "克洛格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kloin-db17:primary"
+msgid "kloin-db17"
+msgstr "kloin-db17"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:kloir:primary"
+msgid "kloir"
+msgstr "围栏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kloki_(jester_u):primary"
+msgid "kloki_(jester_u)"
+msgstr "Kloki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klomi_noah:primary"
+msgid "klomi_noah"
+msgstr "克洛米·诺亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klompi:primary"
+msgid "klompi"
+msgstr "克隆皮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:klon:primary"
+msgid "klon"
+msgstr "KLON"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:klonartdotcom:primary"
+msgid "klonartdotcom"
+msgstr "KlonartDotCom"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:klone_(j.roswel):primary"
+msgid "klone_(j.roswel)"
+msgstr "克隆体"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klone_spinel:primary"
+msgid "klone_spinel"
+msgstr "克隆史匹奈尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klonny:primary"
+msgid "klonny"
+msgstr "克隆尼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 295
+#. aliases: 风之克罗诺亚
+msgctxt "tag:klonoa:primary"
+msgid "klonoa"
+msgstr "克罗诺亚"
+
+#. alias-of: klonoa
+#. source: ai
+msgctxt "tag:klonoa:alias:1"
+msgid "klonoa"
+msgstr "风之克罗诺亚"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:klonoa_(cosplay):primary"
+msgid "klonoa_(cosplay)"
+msgstr "风之克罗诺亚（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klonter:primary"
+msgid "klonter"
+msgstr "Klonter"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloobergoober:primary"
+msgid "kloobergoober"
+msgstr "Kloobergoober"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloode:primary"
+msgid "kloode"
+msgstr "kloode"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:kloodelikestod1:primary"
+msgid "kloodelikestod1"
+msgstr "克鲁德利克斯托德1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klooudiie:primary"
+msgid "klooudiie"
+msgstr "klooudiie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klooxm33:primary"
+msgid "klooxm33"
+msgstr "klooxm33"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 223
+msgctxt "tag:klopsiak:primary"
+msgid "klopsiak"
+msgstr "克洛普夏克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klor:primary"
+msgid "klor"
+msgstr "Klor"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klorineh:primary"
+msgid "klorineh"
+msgstr "klorineh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klorineveni4-5c2e:primary"
+msgid "klorineveni4-5c2e"
+msgstr "klorineveni4-5c2e"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klorrox:primary"
+msgid "klorrox"
+msgstr "Klorrox"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klose_ludwig:primary"
+msgid "klose_ludwig"
+msgstr "克洛泽·路德维希"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:klosekkj:primary"
+msgid "klosekkj"
+msgstr "klosekkj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klostars:primary"
+msgid "klostars"
+msgstr "Klostars"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 克洛斯特
+msgctxt "tag:kloster:primary"
+msgid "kloster"
+msgstr "克洛斯特"
+
+#. alias-of: kloster
+#. source: ai
+msgctxt "tag:kloster:alias:1"
+msgid "kloster"
+msgstr "克洛斯特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klosterion:primary"
+msgid "klosterion"
+msgstr "克洛斯特里昂"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klothys_(mtg):primary"
+msgid "klothys_(mtg)"
+msgstr "克罗希丝"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:klottinen:primary"
+msgid "klottinen"
+msgstr "克洛蒂宁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kloudmutt:primary"
+msgid "kloudmutt"
+msgstr "Kloudmutt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kloudraws:primary"
+msgid "kloudraws"
+msgstr "Kloudraws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloudyi:primary"
+msgid "kloudyi"
+msgstr "克劳迪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klova_126:primary"
+msgid "klova_126"
+msgstr "klova_126"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloves_ny:primary"
+msgid "kloves_ny"
+msgstr "kloves_ny"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klowee423615:primary"
+msgid "klowee423615"
+msgstr "克洛伊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klowncar:primary"
+msgid "klowncar"
+msgstr "klowncar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:klowncel:primary"
+msgid "klowncel"
+msgstr "克劳恩塞尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kloysius:primary"
+msgid "kloysius"
+msgstr "kloysius"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kloz:primary"
+msgid "kloz"
+msgstr "Kloz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 66
+msgctxt "tag:klq_gm:primary"
+msgid "klq_gm"
+msgstr "KLQ GM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:klrs_lri1r:primary"
+msgid "klrs_lri1r"
+msgstr "klrs_lri1r"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klrusjio:primary"
+msgid "klrusjio"
+msgstr "klrusjio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klrw:primary"
+msgid "klrw"
+msgstr "KLRW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kltstea:primary"
+msgid "kltstea"
+msgstr "KLTstea"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klttty:primary"
+msgid "klttty"
+msgstr "klttty"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klubba:primary"
+msgid "klubba"
+msgstr "克鲁巴"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kludsy:primary"
+msgid "kludsy"
+msgstr "kludsy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kluelesskay:primary"
+msgid "kluelesskay"
+msgstr "kluelesskay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kluen_1:primary"
+msgid "kluen_1"
+msgstr "Kluen"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klug_(lucid_stargazer)_(puyopuyo):primary"
+msgid "klug_(lucid_stargazer)_(puyopuyo)"
+msgstr "克鲁格（Lucid Stargazer）（噗哟噗哟）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 205
+#. aliases: PuyoPuyo克鲁格
+msgctxt "tag:klug_(puyopuyo):primary"
+msgid "klug_(puyopuyo)"
+msgstr "克鲁格"
+
+#. alias-of: klug_(puyopuyo)
+#. source: ai
+msgctxt "tag:klug_(puyopuyo):alias:1"
+msgid "klug_(puyopuyo)"
+msgstr "PuyoPuyo克鲁格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:kluger_lx:primary"
+msgid "kluger_lx"
+msgstr "Kluger LX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klugheit:primary"
+msgid "klugheit"
+msgstr "Klugheit"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kluiyu:primary"
+msgid "kluiyu"
+msgstr "kluiyu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+#. aliases: 可露凯
+msgctxt "tag:klukai_(astral_luminous)_(girls'_frontline_2):primary"
+msgid "klukai_(astral_luminous)_(girls'_frontline_2)"
+msgstr "可露凯（少女前线2）"
+
+#. alias-of: klukai_(astral_luminous)_(girls'_frontline_2)
+#. source: ai
+msgctxt "tag:klukai_(astral_luminous)_(girls'_frontline_2):alias:1"
+msgid "klukai_(astral_luminous)_(girls'_frontline_2)"
+msgstr "可露凯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 169
+msgctxt "tag:klukai_(cerulean_breaker)_(girls'_frontline_2):primary"
+msgid "klukai_(cerulean_breaker)_(girls'_frontline_2)"
+msgstr "克鲁凯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 935
+#. aliases: 少女前线2
+msgctxt "tag:klukai_(girls'_frontline_2):primary"
+msgid "klukai_(girls'_frontline_2)"
+msgstr "可露凯"
+
+#. alias-of: klukai_(girls'_frontline_2)
+#. source: ai
+msgctxt "tag:klukai_(girls'_frontline_2):alias:1"
+msgid "klukai_(girls'_frontline_2)"
+msgstr "少女前线2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+#. aliases: Indigo Oath
+msgctxt "tag:klukai_(indigo_oath)_(girls'_frontline_2):primary"
+msgid "klukai_(indigo_oath)_(girls'_frontline_2)"
+msgstr "klukai"
+
+#. alias-of: klukai_(indigo_oath)_(girls'_frontline_2)
+#. source: ai
+msgctxt "tag:klukai_(indigo_oath)_(girls'_frontline_2):alias:1"
+msgid "klukai_(indigo_oath)_(girls'_frontline_2)"
+msgstr "Indigo Oath"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 183
+msgctxt "tag:klukai_(speed_star)_(girls'_frontline_2):primary"
+msgid "klukai_(speed_star)_(girls'_frontline_2)"
+msgstr "克鲁凯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:kluke:primary"
+msgid "kluke"
+msgstr "克鲁克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:kluke_yuu:primary"
+msgid "kluke_yuu"
+msgstr "kluke_yuu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klukin:primary"
+msgid "klukin"
+msgstr "klukin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klukwa:primary"
+msgid "klukwa"
+msgstr "Klukwa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klume_(klumescribbles):primary"
+msgid "klume_(klumescribbles)"
+msgstr "Klume"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klump:primary"
+msgid "klump"
+msgstr "克朗普"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klumpmolch:primary"
+msgid "klumpmolch"
+msgstr "Klumpmolch"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klunatic:primary"
+msgid "klunatic"
+msgstr "Klunatic"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:klungo_(banjo-kazooie):primary"
+msgid "klungo_(banjo-kazooie)"
+msgstr "克伦戈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klunsgod:primary"
+msgid "klunsgod"
+msgstr "klunsgod"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klur_arts:primary"
+msgid "klur_arts"
+msgstr "Klur"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kluri_(epic_seven):primary"
+msgid "kluri_(epic_seven)"
+msgstr "Kluri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klutswszvkghpgm:primary"
+msgid "klutswszvkghpgm"
+msgstr "klutswszvkghpgm"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.age_stage
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klutz_(pokemon):primary"
+msgid "klutz_(pokemon)"
+msgstr "笨拙（宝可梦特性）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klutzytomb:primary"
+msgid "klutzytomb"
+msgstr "笨拙坟墓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 100
+msgctxt "tag:kluverdesigns:primary"
+msgid "kluverdesigns"
+msgstr "Kluverdesigns"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:kluyten:primary"
+msgid "kluyten"
+msgstr "Kluyten"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klxv:primary"
+msgid "klxv"
+msgstr "klxv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klyckyl:primary"
+msgid "klyckyl"
+msgstr "klyckyl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klye1024:primary"
+msgid "klye1024"
+msgstr "klye1024"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klyn:primary"
+msgid "klyn"
+msgstr "klyn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:klynnart:primary"
+msgid "klynnart"
+msgstr "klynnart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:klyptokicks:primary"
+msgid "klyptokicks"
+msgstr "Klyptokicks"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:klythedoll:primary"
+msgid "klythedoll"
+msgstr "Klythedoll"

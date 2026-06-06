@@ -1,0 +1,1789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:26+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:26+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gw000n:primary"
+msgid "gw000n"
+msgstr "GW000N"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:gw4ll1:primary"
+msgid "gw4ll1"
+msgstr "GW4LL1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gw8a9s:primary"
+msgid "gw8a9s"
+msgstr "gw8a9s"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gw_lei_(lainlei):primary"
+msgid "gw_lei_(lainlei)"
+msgstr "gw_lei"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gw_panther:primary"
+msgid "gw_panther"
+msgstr "GW Panther"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gw_tiger_17_(panzer_waltz):primary"
+msgid "gw_tiger_17_(panzer_waltz)"
+msgstr "虎式17（Panzer Waltz）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwaaa_4649:primary"
+msgid "gwaaa_4649"
+msgstr "gwaaa_4649"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwaden:primary"
+msgid "gwaden"
+msgstr "GWADEN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwaeam:primary"
+msgid "gwaeam"
+msgstr "gwaeam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwaegi:primary"
+msgid "gwaegi"
+msgstr "Gwaegi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gwaeji:primary"
+msgid "gwaeji"
+msgstr "gwaeji"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:gwaeng-i-bap_(oxalis_2ho):primary"
+msgid "gwaeng-i-bap_(oxalis_2ho)"
+msgstr "gwaeng-i-bap（oxalis 2ho）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwagamnyeo:primary"
+msgid "gwagamnyeo"
+msgstr "gwagamnyeo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwagdupal19299:primary"
+msgid "gwagdupal19299"
+msgstr "Gwagdupal19299"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:gwagwagwa:primary"
+msgid "gwagwagwa"
+msgstr "gwagwagwa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:gwahaeyo:primary"
+msgid "gwahaeyo"
+msgstr "Gwahaeyo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: 巨鹰
+msgctxt "tag:gwaihir:primary"
+msgid "gwaihir"
+msgstr "风王"
+
+#. alias-of: gwaihir
+#. source: ai
+msgctxt "tag:gwaihir:alias:1"
+msgid "gwaihir"
+msgstr "巨鹰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:gwail524:primary"
+msgid "gwail524"
+msgstr "gwail524"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:gwain_saga:primary"
+msgid "gwain_saga"
+msgstr "Gwain Saga"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwajang:primary"
+msgid "gwajang"
+msgstr "gwajang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:gwak12081227:primary"
+msgid "gwak12081227"
+msgstr "gwak12081227"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwak_jae-hyeong:primary"
+msgid "gwak_jae-hyeong"
+msgstr "Gwak Jae-hyeong"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:gwak_jun-hyeong:primary"
+msgid "gwak_jun-hyeong"
+msgstr "gwak jun-hyeong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwakcheol:primary"
+msgid "gwakcheol"
+msgstr "gwakcheol"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gwakchili:primary"
+msgid "gwakchili"
+msgstr "gwakchili"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gwaksunpal:primary"
+msgid "gwaksunpal"
+msgstr "gwaksunpal"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 格瓦尔
+msgctxt "tag:gwalchavad:primary"
+msgid "gwalchavad"
+msgstr "格瓦尔哈瓦德"
+
+#. alias-of: gwalchavad
+#. source: ai
+msgctxt "tag:gwalchavad:alias:1"
+msgid "gwalchavad"
+msgstr "格瓦尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwalopog97805:primary"
+msgid "gwalopog97805"
+msgstr "Gwalopog"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwamang:primary"
+msgid "gwamang"
+msgstr "gwamang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwamgi_owen:primary"
+msgid "gwamgi_owen"
+msgstr "gwamgi_owen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 211
+msgctxt "tag:gwan-e:primary"
+msgid "gwan-e"
+msgstr "关叶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwanahda:primary"
+msgid "gwanahda"
+msgstr "gwanahda"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:gwanak:primary"
+msgid "gwanak"
+msgstr "gwanak"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwang-beom_kho:primary"
+msgid "gwang-beom_kho"
+msgstr "Gwang-Beom Kho"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwang-seop_han:primary"
+msgid "gwang-seop_han"
+msgstr "韩光燮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwangbu_(van60187029):primary"
+msgid "gwangbu_(van60187029)"
+msgstr "gwangbu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:gwangc:primary"
+msgid "gwangc"
+msgstr "gwangc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwangchi:primary"
+msgid "gwangchi"
+msgstr "gwangchi"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwanggo?_mojori_ssibeomeogeo_julge:primary"
+msgid "gwanggo?_mojori_ssibeomeogeo_julge"
+msgstr "广告？我会把聚在一起的都给你吃掉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gwanghabseong:primary"
+msgid "gwanghabseong"
+msgstr "广合同星"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwangji:primary"
+msgid "gwangji"
+msgstr "光智"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwangmin_choi:primary"
+msgid "gwangmin_choi"
+msgstr "崔光民"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwangpyo:primary"
+msgid "gwangpyo"
+msgstr "光彪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwangsa1:primary"
+msgid "gwangsa1"
+msgstr "Gwangsa1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwangsik-owo:primary"
+msgid "gwangsik-owo"
+msgstr "Gwangsik"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:gwangvt:primary"
+msgid "gwangvt"
+msgstr "gwangvt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:gwanlamcha:primary"
+msgid "gwanlamcha"
+msgstr "官蓝茶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwanlija_(saibai_shounen):primary"
+msgid "gwanlija_(saibai_shounen)"
+msgstr "Gwanlija（Saibai Shounen）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwanrija13:primary"
+msgid "gwanrija13"
+msgstr "gwanrija13"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gwanwoo:primary"
+msgid "gwanwoo"
+msgstr "gwanwoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwanziat:primary"
+msgid "gwanziat"
+msgstr "gwanziat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 183
+msgctxt "tag:gwao_(_ul_13):primary"
+msgid "gwao_(_ul_13)"
+msgstr "未知"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwappa:primary"
+msgid "gwappa"
+msgstr "gwappa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwasabi1987:primary"
+msgid "gwasabi1987"
+msgstr "gwasabi1987"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwataku2:primary"
+msgid "gwataku2"
+msgstr "gwataku2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwatt:primary"
+msgid "gwatt"
+msgstr "gwatt"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:gwave:primary"
+msgid "gwave"
+msgstr "Gwave"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 165
+msgctxt "tag:gwayo:primary"
+msgid "gwayo"
+msgstr "gwayo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwayomi:primary"
+msgid "gwayomi"
+msgstr "gwayomi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:gwazine:primary"
+msgid "gwazine"
+msgstr "格瓦金"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwe:primary"
+msgid "gwe"
+msgstr "GWE"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 161
+msgctxt "tag:gwechul:primary"
+msgid "gwechul"
+msgstr "Gwechul"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2216
+#. aliases: Gweda
+msgctxt "tag:gweda:primary"
+msgid "gweda"
+msgstr "瓜达"
+
+#. alias-of: gweda
+#. source: ai
+msgctxt "tag:gweda:alias:1"
+msgid "gweda"
+msgstr "Gweda"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwedo:primary"
+msgid "gwedo"
+msgstr "Gwedo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:gwedo_(pinibell):primary"
+msgid "gwedo_(pinibell)"
+msgstr "gwedo (pinibell)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:gwedo_metaphor:primary"
+msgid "gwedo_metaphor"
+msgstr "gwedo metaphor"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gweelok:primary"
+msgid "gweelok"
+msgstr "Gweelok"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gweeseek:primary"
+msgid "gweeseek"
+msgstr "格威西克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwei:primary"
+msgid "gwei"
+msgstr "gwei"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwei_(vtuber):primary"
+msgid "gwei_(vtuber)"
+msgstr "Gwei（VTuber）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 20
+#. aliases: Prywinko格薇尔达
+msgctxt "tag:gwelda_(prywinko):primary"
+msgid "gwelda_(prywinko)"
+msgstr "格薇尔达（Prywinko）"
+
+#. alias-of: gwelda_(prywinko)
+#. source: ai
+msgctxt "tag:gwelda_(prywinko):alias:1"
+msgid "gwelda_(prywinko)"
+msgstr "Prywinko格薇尔达"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:gwelu_os_gar:primary"
+msgid "gwelu_os_gar"
+msgstr "Gwel Os Gar"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:gwelu_os_gar_(1st_costume):primary"
+msgid "gwelu_os_gar_(1st_costume)"
+msgstr "Gwelü Os Gar 1st Costume"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwelu_os_gar_(2nd_costume):primary"
+msgid "gwelu_os_gar_(2nd_costume)"
+msgstr "Gwelu Os Gar（第二套装）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwelu_os_gar_(3rd_costume):primary"
+msgid "gwelu_os_gar_(3rd_costume)"
+msgstr "Gwelu Os Gar（第3套服装）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwem:primary"
+msgid "gwem"
+msgstr "Gwem"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwemkka:primary"
+msgid "gwemkka"
+msgstr "gwemkka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:gwen414:primary"
+msgid "gwen414"
+msgstr "Gwen414"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwen_(animal_crossing):primary"
+msgid "gwen_(animal_crossing)"
+msgstr "格温（动物森友会）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Gwen
+msgctxt "tag:gwen_(camp_camp):primary"
+msgid "gwen_(camp_camp)"
+msgstr "格温（Camp Camp）"
+
+#. alias-of: gwen_(camp_camp)
+#. source: ai
+msgctxt "tag:gwen_(camp_camp):alias:1"
+msgid "gwen_(camp_camp)"
+msgstr "Gwen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:gwen_(g90z):primary"
+msgid "gwen_(g90z)"
+msgstr "格温"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwen_(girlsgogames):primary"
+msgid "gwen_(girlsgogames)"
+msgstr "格温（GirlsGoGames）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gwen_(guild_wars):primary"
+msgid "gwen_(guild_wars)"
+msgstr "格温（激战）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwen_(gurimjang):primary"
+msgid "gwen_(gurimjang)"
+msgstr "格温（Gurimjang）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1571
+#. aliases: 格温(英雄联盟)
+msgctxt "tag:gwen_(league_of_legends):primary"
+msgid "gwen_(league_of_legends)"
+msgstr "格温"
+
+#. alias-of: gwen_(league_of_legends)
+#. source: ai
+msgctxt "tag:gwen_(league_of_legends):alias:1"
+msgid "gwen_(league_of_legends)"
+msgstr "格温(英雄联盟)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:gwen_(league_of_legends)_(cosplay):primary"
+msgid "gwen_(league_of_legends)_(cosplay)"
+msgstr "格温 (英雄联盟) (Cosplay)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwen_(sanguine_rose):primary"
+msgid "gwen_(sanguine_rose)"
+msgstr "格温（Sanguine Rose）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 108
+#. aliases: Gwen
+msgctxt "tag:gwen_(total_drama):primary"
+msgid "gwen_(total_drama)"
+msgstr "格温"
+
+#. alias-of: gwen_(total_drama)
+#. source: ai
+msgctxt "tag:gwen_(total_drama):alias:1"
+msgid "gwen_(total_drama)"
+msgstr "Gwen"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwen_(toukiden):primary"
+msgid "gwen_(toukiden)"
+msgstr "格温（讨鬼传）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gwen_darcy:primary"
+msgid "gwen_darcy"
+msgstr "格温·达西"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwen_ling:primary"
+msgid "gwen_ling"
+msgstr "Gwen Ling"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gwen_orange:primary"
+msgid "gwen_orange"
+msgstr "Gwen Orange"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwen_pullan:primary"
+msgid "gwen_pullan"
+msgstr "格温·普拉恩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1428
+#. aliases: 格温
+msgctxt "tag:gwen_stacy:primary"
+msgid "gwen_stacy"
+msgstr "格温·史黛西"
+
+#. alias-of: gwen_stacy
+#. source: ai
+msgctxt "tag:gwen_stacy:alias:1"
+msgid "gwen_stacy"
+msgstr "格温"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwen_stephanie:primary"
+msgid "gwen_stephanie"
+msgstr "Gwen Stephanie"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 584
+#. aliases: 格温·田尼森
+msgctxt "tag:gwen_tennyson:primary"
+msgid "gwen_tennyson"
+msgstr "格温"
+
+#. alias-of: gwen_tennyson
+#. source: ai
+msgctxt "tag:gwen_tennyson:alias:1"
+msgid "gwen_tennyson"
+msgstr "格温·田尼森"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 11
+#. aliases: 格温
+msgctxt "tag:gwen_tennyson_(cosplay):primary"
+msgid "gwen_tennyson_(cosplay)"
+msgstr "格温·田尼森（Cosplay）"
+
+#. alias-of: gwen_tennyson_(cosplay)
+#. source: ai
+msgctxt "tag:gwen_tennyson_(cosplay):alias:1"
+msgid "gwen_tennyson_(cosplay)"
+msgstr "格温"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.age_or_body_variant
+#. safety: mixed
+#. post-count: 43
+msgctxt "tag:gwen_tennyson_(future):primary"
+msgid "gwen_tennyson_(future)"
+msgstr "格温·天能(未来)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwen_the_innocent:primary"
+msgid "gwen_the_innocent"
+msgstr "格温"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:gwen_zalameda:primary"
+msgid "gwen_zalameda"
+msgstr "Gwen Zalameda"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwenda_(justadrian):primary"
+msgid "gwenda_(justadrian)"
+msgstr "格温达（JustAdrian）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwendal_von_voltaire:primary"
+msgid "gwendal_von_voltaire"
+msgstr "格温达尔·冯·伏尔泰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwendolyn_(bloons):primary"
+msgid "gwendolyn_(bloons)"
+msgstr "格温多琳（Bloons）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:gwendolyn_(cliffpadfoot):primary"
+msgid "gwendolyn_(cliffpadfoot)"
+msgstr "格温多琳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwendolyn_(ether_core):primary"
+msgid "gwendolyn_(ether_core)"
+msgstr "格温多琳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:gwendolyn_(fire_emblem):primary"
+msgid "gwendolyn_(fire_emblem)"
+msgstr "Gwendolyn"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 火焰纹章格温多琳
+msgctxt "tag:gwendolyn_(fire_emblem)_(cosplay):primary"
+msgid "gwendolyn_(fire_emblem)_(cosplay)"
+msgstr "格温多琳（《火焰之纹章》cosplay）"
+
+#. alias-of: gwendolyn_(fire_emblem)_(cosplay)
+#. source: ai
+msgctxt "tag:gwendolyn_(fire_emblem)_(cosplay):alias:1"
+msgid "gwendolyn_(fire_emblem)_(cosplay)"
+msgstr "火焰纹章格温多琳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 590
+msgctxt "tag:gwendolyn_(odin_sphere):primary"
+msgid "gwendolyn_(odin_sphere)"
+msgstr "格温多琳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwendolyn_(odin_sphere)_(cosplay):primary"
+msgid "gwendolyn_(odin_sphere)_(cosplay)"
+msgstr "格温多琳（《奥丁领域》）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwendolyn_clawthorne:primary"
+msgid "gwendolyn_clawthorne"
+msgstr "格温多琳·克劳索恩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwendolyn_de_rolo:primary"
+msgid "gwendolyn_de_rolo"
+msgstr "格温多琳·德·罗洛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwendolyn_price:primary"
+msgid "gwendolyn_price"
+msgstr "格温多琳·普赖斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:gwendolynstore:primary"
+msgid "gwendolynstore"
+msgstr "GwendolynStore"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwendraeth:primary"
+msgid "gwendraeth"
+msgstr "gwendraeth"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gweneira_(vtuber):primary"
+msgid "gweneira_(vtuber)"
+msgstr "格温妮拉（VTuber）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:gwenervi:primary"
+msgid "gwenervi"
+msgstr "gwenervi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 公主格温妮
+msgctxt "tag:gwenevere_(princess_gwenevere_and_the_jewel_riders):primary"
+msgid "gwenevere_(princess_gwenevere_and_the_jewel_riders)"
+msgstr "格温妮芙（公主格温妮芙与宝石骑士）"
+
+#. alias-of: gwenevere_(princess_gwenevere_and_the_jewel_riders)
+#. source: ai
+msgctxt "tag:gwenevere_(princess_gwenevere_and_the_jewel_riders):alias:1"
+msgid "gwenevere_(princess_gwenevere_and_the_jewel_riders)"
+msgstr "公主格温妮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:gwenhwymawr_(aster_tatariqus):primary"
+msgid "gwenhwymawr_(aster_tatariqus)"
+msgstr "温·玛维尔（Aster Tatariqus）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:gweni:primary"
+msgid "gweni"
+msgstr "gweni"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gweniig:primary"
+msgid "gweniig"
+msgstr "Gweniig"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gwenimaru:primary"
+msgid "gwenimaru"
+msgstr "Gwenimaru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwenivere_(vtuber):primary"
+msgid "gwenivere_(vtuber)"
+msgstr "Gwenivere（VTuber）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwenmaiden:primary"
+msgid "gwenmaiden"
+msgstr "gwenmaiden"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwennvt:primary"
+msgid "gwennvt"
+msgstr "gwennvt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwenny:primary"
+msgid "gwenny"
+msgstr "Gwenny"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwenog_jones:primary"
+msgid "gwenog_jones"
+msgstr "格温诺·琼斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwenoile:primary"
+msgid "gwenoile"
+msgstr "gwenoile"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:gwenom:primary"
+msgid "gwenom"
+msgstr "格温毒液"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwenoral:primary"
+msgid "gwenoral"
+msgstr "gwenoral"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwenore1940:primary"
+msgid "gwenore1940"
+msgstr "Gwenore1940"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 187
+#. aliases: 格温
+msgctxt "tag:gwenpool:primary"
+msgid "gwenpool"
+msgstr "格温普尔"
+
+#. alias-of: gwenpool
+#. source: ai
+msgctxt "tag:gwenpool:alias:1"
+msgid "gwenpool"
+msgstr "格温"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwenpool_(cosplay):primary"
+msgid "gwenpool_(cosplay)"
+msgstr "格温侍Cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:gwensoftpinktoes:primary"
+msgid "gwensoftpinktoes"
+msgstr "GwenSoftPinkToes"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwensupp:primary"
+msgid "gwensupp"
+msgstr "GwenSupp"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 116
+#. aliases: 巫师之昆特牌
+msgctxt "tag:gwent_(game):primary"
+msgid "gwent_(game)"
+msgstr "昆特牌"
+
+#. alias-of: gwent_(game)
+#. source: ai
+msgctxt "tag:gwent_(game):alias:1"
+msgid "gwent_(game)"
+msgstr "巫师之昆特牌"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:gwenyee:primary"
+msgid "gwenyee"
+msgstr "Gwenyee"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwenyu_shizen:primary"
+msgid "gwenyu_shizen"
+msgstr "Gwenyu Shizen"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:gwenyvere_(malberrybush):primary"
+msgid "gwenyvere_(malberrybush)"
+msgstr "gwenyvere"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:gweon_jun_young:primary"
+msgid "gweon_jun_young"
+msgstr "gweon_jun_young"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:gwess:primary"
+msgid "gwess"
+msgstr "gwess"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwft30:primary"
+msgid "gwft30"
+msgstr "gwft30"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gwi-ma_(kpop_demon_hunters):primary"
+msgid "gwi-ma_(kpop_demon_hunters)"
+msgstr "鬼魔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:gwi_dong_nyang:primary"
+msgid "gwi_dong_nyang"
+msgstr "Gwi Dong Nyang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwiblet:primary"
+msgid "gwiblet"
+msgstr "Gwiblet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:gwiga0:primary"
+msgid "gwiga0"
+msgstr "gwiga0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:gwillarmy:primary"
+msgid "gwillarmy"
+msgstr "gwillarmy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwilym:primary"
+msgid "gwilym"
+msgstr "Gwilym"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwimi339454:primary"
+msgid "gwimi339454"
+msgstr "gwimi339454"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gwin_evans:primary"
+msgid "gwin_evans"
+msgstr "格温·埃文斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:gwinbee:primary"
+msgid "gwinbee"
+msgstr "Gwinbee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:gwindows22:primary"
+msgid "gwindows22"
+msgstr "gwindows22"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gwine_55:primary"
+msgid "gwine_55"
+msgstr "gwine_55"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwingbunny:primary"
+msgid "gwingbunny"
+msgstr "gwingbunny"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:gwinggwing:primary"
+msgid "gwinggwing"
+msgstr "gwinggwing"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwingwin:primary"
+msgid "gwingwin"
+msgstr "gwingwin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:gwinshin:primary"
+msgid "gwinshin"
+msgstr "gwinshin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwio:primary"
+msgid "gwio"
+msgstr "Gwio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwiram:primary"
+msgid "gwiram"
+msgstr "gwiram"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwj05089:primary"
+msgid "gwj05089"
+msgstr "gwj05089"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gwjs555:primary"
+msgid "gwjs555"
+msgstr "gwjs555"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwntgyu:primary"
+msgid "gwntgyu"
+msgstr "gwntgyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwo-kah:primary"
+msgid "gwo-kah"
+msgstr "Gwo-kah"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwok_hiujin:primary"
+msgid "gwok_hiujin"
+msgstr "Gwok Hiujin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwollu:primary"
+msgid "gwollu"
+msgstr "瓜卢"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwon:primary"
+msgid "gwon"
+msgstr "Gwon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwon_tae-young:primary"
+msgid "gwon_tae-young"
+msgstr "权泰英"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gwonam:primary"
+msgid "gwonam"
+msgstr "权南"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:gwongiyeon67479:primary"
+msgid "gwongiyeon67479"
+msgstr "gwongiyeon67479"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:gwonhu_(pjj910):primary"
+msgid "gwonhu_(pjj910)"
+msgstr "权虎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwonjune:primary"
+msgid "gwonjune"
+msgstr "gwonjune"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:gwonminchang_(pedestrianium):primary"
+msgid "gwonminchang_(pedestrianium)"
+msgstr "gwonminchang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwonnam:primary"
+msgid "gwonnam"
+msgstr "gwonnam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwormmyy:primary"
+msgid "gwormmyy"
+msgstr "gwormmyy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwp002:primary"
+msgid "gwp002"
+msgstr "gwp002"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gwrrr:primary"
+msgid "gwrrr"
+msgstr "gwrrr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:gwsscz:primary"
+msgid "gwsscz"
+msgstr "gwsscz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:gwvyhfodjflq0ie:primary"
+msgid "gwvyhfodjflq0ie"
+msgstr "随机字符串"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:gwyber_(final_fantasy):primary"
+msgid "gwyber_(final_fantasy)"
+msgstr "Gwyber（最终幻想）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+#. aliases: gwylan
+msgctxt "tag:gwylan_(degrees_of_lewdity):primary"
+msgid "gwylan_(degrees_of_lewdity)"
+msgstr "格薇兰（淫堕之阶）"
+
+#. alias-of: gwylan_(degrees_of_lewdity)
+#. source: ai
+msgctxt "tag:gwylan_(degrees_of_lewdity):alias:1"
+msgid "gwylan_(degrees_of_lewdity)"
+msgstr "gwylan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:gwylan_(female)_(degrees_of_lewdity):primary"
+msgid "gwylan_(female)_(degrees_of_lewdity)"
+msgstr "格温"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+#. aliases: 盖兰男
+msgctxt "tag:gwylan_(male)_(degrees_of_lewdity):primary"
+msgid "gwylan_(male)_(degrees_of_lewdity)"
+msgstr "盖兰（男）（骚度）"
+
+#. alias-of: gwylan_(male)_(degrees_of_lewdity)
+#. source: ai
+msgctxt "tag:gwylan_(male)_(degrees_of_lewdity):alias:1"
+msgid "gwylan_(male)_(degrees_of_lewdity)"
+msgstr "盖兰男"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwylljun:primary"
+msgid "gwylljun"
+msgstr "gwylljun"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwyn_(dark_deity):primary"
+msgid "gwyn_(dark_deity)"
+msgstr "Gwyn（黑暗神祇）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gwyn_(gyds8335):primary"
+msgid "gwyn_(gyds8335)"
+msgstr "Gwyn"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:gwyn_(sait0moriyama):primary"
+msgid "gwyn_(sait0moriyama)"
+msgstr "Gwyn"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwyn_(the_bordello):primary"
+msgid "gwyn_(the_bordello)"
+msgstr "Gwyn (The Bordello)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwyn_grosvenor:primary"
+msgid "gwyn_grosvenor"
+msgstr "格温·格罗夫纳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:gwyn_lord_of_cinder:primary"
+msgid "gwyn_lord_of_cinder"
+msgstr "薪王葛温"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:gwyn_lord_of_sunlight:primary"
+msgid "gwyn_lord_of_sunlight"
+msgstr "太阳王葛温"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:gwyn_rtrd:primary"
+msgid "gwyn_rtrd"
+msgstr "Gwyn Rtrd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:gwyndolindo:primary"
+msgid "gwyndolindo"
+msgstr "Gwyndolindo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwynelle_tovera:primary"
+msgid "gwynelle_tovera"
+msgstr "Gwynelle Tovera"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:gwyneth_(afk):primary"
+msgid "gwyneth_(afk)"
+msgstr "格温妮丝（AFK）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwyneth_(keenh):primary"
+msgid "gwyneth_(keenh)"
+msgstr "格温妮丝"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwyneth_(pride_of_eden):primary"
+msgid "gwyneth_(pride_of_eden)"
+msgstr "格温妮丝（伊甸园之骄傲）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:gwyneth_claremont:primary"
+msgid "gwyneth_claremont"
+msgstr "gwyneth_claremont"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwynevere_(mudanbinglaopodeai):primary"
+msgid "gwynevere_(mudanbinglaopodeai)"
+msgstr "葛温艾薇雅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwynn_(destiny_rising):primary"
+msgid "gwynn_(destiny_rising)"
+msgstr "Gwynn（Destiny Rising）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1598
+msgctxt "tag:gwynn_(pokemon):primary"
+msgid "gwynn_(pokemon)"
+msgstr "格温(宝可梦)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 11
+#. aliases: 宝可梦格温
+msgctxt "tag:gwynn_(pokemon)_(cosplay):primary"
+msgid "gwynn_(pokemon)_(cosplay)"
+msgstr "格温（宝可梦）（Cosplay）"
+
+#. alias-of: gwynn_(pokemon)_(cosplay)
+#. source: ai
+msgctxt "tag:gwynn_(pokemon)_(cosplay):alias:1"
+msgid "gwynn_(pokemon)_(cosplay)"
+msgstr "宝可梦格温"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:gwynne_(granblue_fantasy):primary"
+msgid "gwynne_(granblue_fantasy)"
+msgstr "格温"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gwynne_(sakura_fantasy):primary"
+msgid "gwynne_(sakura_fantasy)"
+msgstr "格温"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwynni:primary"
+msgid "gwynni"
+msgstr "格温妮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gwynnnnnnn:primary"
+msgid "gwynnnnnnn"
+msgstr "Gwynnnnnnn"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gwynplaine_(the_man_who_laughs):primary"
+msgid "gwynplaine_(the_man_who_laughs)"
+msgstr "格温普兰（《笑面人》）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:gwynwevere_(the_consort):primary"
+msgid "gwynwevere_(the_consort)"
+msgstr "格温维弗尔（the_consort）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gwynwithnoe:primary"
+msgid "gwynwithnoe"
+msgstr "Gwyn"

@@ -1,0 +1,820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:47+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:47+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: UFO
+msgctxt "tag:uf-0_(ultra_series):primary"
+msgid "uf-0_(ultra_series)"
+msgstr "UF-0（奥特系列）"
+
+#. alias-of: uf-0_(ultra_series)
+#. source: ai
+msgctxt "tag:uf-0_(ultra_series):alias:1"
+msgid "uf-0_(ultra_series)"
+msgstr "UFO"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+#. aliases: 绝地潜兵UF-16
+msgctxt "tag:uf-16_inspector_(helldivers):primary"
+msgid "uf-16_inspector_(helldivers)"
+msgstr "UF-16检查员"
+
+#. alias-of: uf-16_inspector_(helldivers)
+#. source: ai
+msgctxt "tag:uf-16_inspector_(helldivers):alias:1"
+msgid "uf-16_inspector_(helldivers)"
+msgstr "绝地潜兵UF-16"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:uf34a:primary"
+msgid "uf34a"
+msgstr "UF34A"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uf61169:primary"
+msgid "uf61169"
+msgstr "uf61169"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:uf_(bukurote):primary"
+msgid "uf_(bukurote)"
+msgstr "UF"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uf_hil:primary"
+msgid "uf_hil"
+msgstr "UF Hil"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ufaa_(stvpvd):primary"
+msgid "ufaa_(stvpvd)"
+msgstr "Ufaa（STVPVD）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufairah_(genshin_impact):primary"
+msgid "ufairah_(genshin_impact)"
+msgstr "尤菲拉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ufaru:primary"
+msgid "ufaru"
+msgstr "Ufaru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ufbiomass:primary"
+msgid "ufbiomass"
+msgstr "ufbiomass"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ufbs-010_heimdall:primary"
+msgid "ufbs-010_heimdall"
+msgstr "Heimdall"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ufc_(food_brand):primary"
+msgid "ufc_(food_brand)"
+msgstr "UFC（食品品牌）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ufda9028:primary"
+msgid "ufda9028"
+msgstr "ufda9028"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ufdjcalr:primary"
+msgid "ufdjcalr"
+msgstr "ufdjcalr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ufficiale1st:primary"
+msgid "ufficiale1st"
+msgstr "ufficiale1st"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:uffie:primary"
+msgid "uffie"
+msgstr "Uffie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufifififr673:primary"
+msgid "ufifififr673"
+msgstr "ufifififr673"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 84
+msgctxt "tag:ufkqz:primary"
+msgid "ufkqz"
+msgstr "ufkqz"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3679
+#. aliases: UFO
+msgctxt "tag:ufo:primary"
+msgid "ufo"
+msgstr "飞碟"
+
+#. alias-of: ufo
+#. source: ai
+msgctxt "tag:ufo:alias:1"
+msgid "ufo"
+msgstr "UFO"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ufo-co:primary"
+msgid "ufo-co"
+msgstr "UFO社"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufo0917119:primary"
+msgid "ufo0917119"
+msgstr "UFO0917119"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufo2853:primary"
+msgid "ufo2853"
+msgstr "ufo2853"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ufo:_a_day_in_the_life:primary"
+msgid "ufo:_a_day_in_the_life"
+msgstr "UFO：日常生活"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ufo_(1970_tv_series):primary"
+msgid "ufo_(1970_tv_series)"
+msgstr "UFO（1970年电视剧）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+#. aliases: 不明飞行物
+msgctxt "tag:ufo_(23494318):primary"
+msgid "ufo_(23494318)"
+msgstr "UFO"
+
+#. alias-of: ufo_(23494318)
+#. source: ai
+msgctxt "tag:ufo_(23494318):alias:1"
+msgid "ufo_(23494318)"
+msgstr "不明飞行物"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ufo_(among_us):primary"
+msgid "ufo_(among_us)"
+msgstr "UFO（Among Us）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 124
+msgctxt "tag:ufo_(kirby):primary"
+msgid "ufo_(kirby)"
+msgstr "UFO"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+#. aliases: 不明飞行物
+msgctxt "tag:ufo_(live-action_series):primary"
+msgid "ufo_(live-action_series)"
+msgstr "UFO（真人剧集）"
+
+#. alias-of: ufo_(live-action_series)
+#. source: ai
+msgctxt "tag:ufo_(live-action_series):alias:1"
+msgid "ufo_(live-action_series)"
+msgstr "不明飞行物"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 飞碟
+msgctxt "tag:ufo_(mdcf5324):primary"
+msgid "ufo_(mdcf5324)"
+msgstr "UFO"
+
+#. alias-of: ufo_(mdcf5324)
+#. source: ai
+msgctxt "tag:ufo_(mdcf5324):alias:1"
+msgid "ufo_(mdcf5324)"
+msgstr "飞碟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufo_(nmgk464):primary"
+msgid "ufo_(nmgk464)"
+msgstr "UFO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: UFO
+msgctxt "tag:ufo_(tenpa_nekoge):primary"
+msgid "ufo_(tenpa_nekoge)"
+msgstr "UFO（天罚猫ge）"
+
+#. alias-of: ufo_(tenpa_nekoge)
+#. source: ai
+msgctxt "tag:ufo_(tenpa_nekoge):alias:1"
+msgid "ufo_(tenpa_nekoge)"
+msgstr "UFO"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufo_50:primary"
+msgid "ufo_50"
+msgstr "UFO 50"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufo_99:primary"
+msgid "ufo_99"
+msgstr "UFO"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ufo_day:primary"
+msgid "ufo_day"
+msgstr "UFO之日"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ufo_earrings:primary"
+msgid "ufo_earrings"
+msgstr "UFO耳环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 126
+#. aliases: 飞碟发饰
+msgctxt "tag:ufo_hair_ornament:primary"
+msgid "ufo_hair_ornament"
+msgstr "UFO发饰"
+
+#. alias-of: ufo_hair_ornament
+#. source: ai
+msgctxt "tag:ufo_hair_ornament:alias:1"
+msgid "ufo_hair_ornament"
+msgstr "飞碟发饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 1
+#. aliases: 飞碟帽
+msgctxt "tag:ufo_hat:primary"
+msgid "ufo_hat"
+msgstr "UFO帽"
+
+#. alias-of: ufo_hat
+#. source: ai
+msgctxt "tag:ufo_hat:alias:1"
+msgid "ufo_hat"
+msgstr "飞碟帽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufo_himawari:primary"
+msgid "ufo_himawari"
+msgstr "UFO向日葵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+#. aliases: 飞碟卡比
+msgctxt "tag:ufo_kirby:primary"
+msgid "ufo_kirby"
+msgstr "UFO卡比"
+
+#. alias-of: ufo_kirby
+#. source: ai
+msgctxt "tag:ufo_kirby:alias:1"
+msgid "ufo_kirby"
+msgstr "飞碟卡比"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:ufo_koikoi:primary"
+msgid "ufo_koikoi"
+msgstr "UFO来来"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ufo_leia:primary"
+msgid "ufo_leia"
+msgstr "UFO Leia"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufo_ni_tsukamatta_kodomo-tachi:primary"
+msgid "ufo_ni_tsukamatta_kodomo-tachi"
+msgstr "被UFO抓走的孩子们"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ufo_no_11:primary"
+msgid "ufo_no_11"
+msgstr "UFO No.11"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.decor.ornament_or_decoration
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ufo_ornament:primary"
+msgid "ufo_ornament"
+msgstr "UFO装饰"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 47
+#. aliases: UFO公主, 瓦尔基里
+msgctxt "tag:ufo_princess_valkyrie:primary"
+msgid "ufo_princess_valkyrie"
+msgstr "UFO公主瓦尔基里"
+
+#. alias-of: ufo_princess_valkyrie
+#. source: ai
+msgctxt "tag:ufo_princess_valkyrie:alias:1"
+msgid "ufo_princess_valkyrie"
+msgstr "UFO公主"
+
+#. alias-of: ufo_princess_valkyrie
+#. source: ai
+msgctxt "tag:ufo_princess_valkyrie:alias:2"
+msgid "ufo_princess_valkyrie"
+msgstr "瓦尔基里"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ufo_print:primary"
+msgid "ufo_print"
+msgstr "UFO印花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.bag
+#. safety: sfw
+#. post-count: 1
+#. aliases: 飞碟包
+msgctxt "tag:ufo_purse:primary"
+msgid "ufo_purse"
+msgstr "UFO包"
+
+#. alias-of: ufo_purse
+#. source: ai
+msgctxt "tag:ufo_purse:alias:1"
+msgid "ufo_purse"
+msgstr "飞碟包"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 201
+#. aliases: 格兰迪萨
+msgctxt "tag:ufo_robo_grendizer:primary"
+msgid "ufo_robo_grendizer"
+msgstr "UFO格兰迪萨"
+
+#. alias-of: ufo_robo_grendizer
+#. source: ai
+msgctxt "tag:ufo_robo_grendizer:alias:1"
+msgid "ufo_robo_grendizer"
+msgstr "格兰迪萨"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ufo_senshi_dai_apolon:primary"
+msgid "ufo_senshi_dai_apolon"
+msgstr "UFO战士大阿波罗"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.skirt_dress_bottom
+#. safety: sfw
+#. post-count: 374
+#. aliases: 飞碟裙
+msgctxt "tag:ufo_skirt:primary"
+msgid "ufo_skirt"
+msgstr "UFO裙"
+
+#. alias-of: ufo_skirt
+#. source: ai
+msgctxt "tag:ufo_skirt:alias:1"
+msgid "ufo_skirt"
+msgstr "飞碟裙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:ufo_sw:primary"
+msgid "ufo_sw"
+msgstr "UFO_SW"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ufo_turtle:primary"
+msgid "ufo_turtle"
+msgstr "UFO龟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ufo_zattau4:primary"
+msgid "ufo_zattau4"
+msgstr "ufo杂谈4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ufoapproached:primary"
+msgid "ufoapproached"
+msgstr "UFO接近"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufoberet:primary"
+msgid "ufoberet"
+msgstr "ufoberet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufocookie:primary"
+msgid "ufocookie"
+msgstr "ufocookie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufohamster:primary"
+msgid "ufohamster"
+msgstr "ufohamster"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ufojellies:primary"
+msgid "ufojellies"
+msgstr "ufojellies"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:ufoliving:primary"
+msgid "ufoliving"
+msgstr "UFO生活"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufolliegy:primary"
+msgid "ufolliegy"
+msgstr "ufolliegy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufolove0:primary"
+msgid "ufolove0"
+msgstr "ufolove0"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ufoman:primary"
+msgid "ufoman"
+msgstr "UFO人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:ufomelet_et:primary"
+msgid "ufomelet_et"
+msgstr "UFO煎蛋卷"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ufooooooooi:primary"
+msgid "ufooooooooi"
+msgstr "ufooooooooi"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: nsfw
+#. post-count: 5
+msgctxt "tag:ufoporno:primary"
+msgid "ufoporno"
+msgstr "UFO色情"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uforoadtrip:primary"
+msgid "uforoadtrip"
+msgstr "uforoadtrip"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uforoid:primary"
+msgid "uforoid"
+msgstr "uforoid"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+#. aliases: UFO震撼
+msgctxt "tag:ufoshock:primary"
+msgid "ufoshock"
+msgstr "UFO冲击"
+
+#. alias-of: ufoshock
+#. source: ai
+msgctxt "tag:ufoshock:alias:1"
+msgid "ufoshock"
+msgstr "UFO震撼"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 145
+msgctxt "tag:ufotable:primary"
+msgid "ufotable"
+msgstr "ufotable"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ufotchi:primary"
+msgid "ufotchi"
+msgstr "Ufotchi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ufotomorrow:primary"
+msgid "ufotomorrow"
+msgstr "ufotomorrow"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:ufotram:primary"
+msgid "ufotram"
+msgstr "ufotram"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ufourty:primary"
+msgid "ufourty"
+msgstr "ufourty"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ufri_asquis:primary"
+msgid "ufri_asquis"
+msgstr "Ufri Asquis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ufs333:primary"
+msgid "ufs333"
+msgstr "UFS333"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ufu_(kktosite):primary"
+msgid "ufu_(kktosite)"
+msgstr "ufu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufu_(vn0328yk):primary"
+msgid "ufu_(vn0328yk)"
+msgstr "乌芙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+#. aliases: 蓬松
+msgctxt "tag:ufu_fluffy:primary"
+msgid "ufu_fluffy"
+msgstr "毛绒绒"
+
+#. alias-of: ufu_fluffy
+#. source: ai
+msgctxt "tag:ufu_fluffy:alias:1"
+msgid "ufu_fluffy"
+msgstr "蓬松"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ufufuahaha_okg:primary"
+msgid "ufufuahaha_okg"
+msgstr "ufufuahaha_okg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufufunofu-ymhknu:primary"
+msgid "ufufunofu-ymhknu"
+msgstr "ufufunofu-ymhknu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ufufup:primary"
+msgid "ufufup"
+msgstr "Ufufup"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:ufufuto:primary"
+msgid "ufufuto"
+msgstr "噗啾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ufumayo:primary"
+msgid "ufumayo"
+msgstr "Ufumayo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ufupuri:primary"
+msgid "ufupuri"
+msgstr "乌夫普里"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ufuto:primary"
+msgid "ufuto"
+msgstr "乌夫托"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ufxy894g:primary"
+msgid "ufxy894g"
+msgstr "ufxy894g"

@@ -1,0 +1,3629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:44+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:44+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+#. aliases: sq
+msgctxt "tag:sq:primary"
+msgid "sq"
+msgstr "SQ"
+
+#. alias-of: sq
+#. source: ai
+msgctxt "tag:sq:alias:1"
+msgid "sq"
+msgstr "sq"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 299
+#. aliases: Gnosia SQ
+msgctxt "tag:sq_(gnosia):primary"
+msgid "sq_(gnosia)"
+msgstr "SQ（Gnosia）"
+
+#. alias-of: sq_(gnosia)
+#. source: ai
+msgctxt "tag:sq_(gnosia):alias:1"
+msgid "sq_(gnosia)"
+msgstr "Gnosia SQ"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sq_(gnosia)_(cosplay):primary"
+msgid "sq_(gnosia)_(cosplay)"
+msgstr "SQ（Gnosia）Cosplay"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 129
+msgctxt "tag:sq_(series):primary"
+msgid "sq_(series)"
+msgstr "SQ系列"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:sq_(su_qing):primary"
+msgid "sq_(su_qing)"
+msgstr "苏青"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sq_5be:primary"
+msgid "sq_5be"
+msgstr "SQ_5BE"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqaceborks:primary"
+msgid "sqaceborks"
+msgstr "太空狗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sqakakuru:primary"
+msgid "sqakakuru"
+msgstr "sqakakuru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sqala:primary"
+msgid "sqala"
+msgstr "Sqala"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sqamt_0029:primary"
+msgid "sqamt_0029"
+msgstr "sqamt 0029"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:sqbillfish:primary"
+msgid "sqbillfish"
+msgstr "sqbillfish"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqbr:primary"
+msgid "sqbr"
+msgstr "sqbr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqd_1022:primary"
+msgid "sqd_1022"
+msgstr "sqd_1022"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqee_(select-citron):primary"
+msgid "sqee_(select-citron)"
+msgstr "Select-Citron"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqee_(squeeze):primary"
+msgid "sqee_(squeeze)"
+msgstr "Sqee（Squeeze）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 9
+#. aliases: SQUARE ENIX
+msgctxt "tag:sqex:primary"
+msgid "sqex"
+msgstr "Square Enix"
+
+#. alias-of: sqex
+#. source: ai
+msgctxt "tag:sqex:alias:1"
+msgid "sqex"
+msgstr "SQUARE ENIX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:sqh510:primary"
+msgid "sqh510"
+msgstr "sqh510"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqhkxzuaawhuvco:primary"
+msgid "sqhkxzuaawhuvco"
+msgstr "sqhkxzuaawhuvco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sqi0h:primary"
+msgid "sqi0h"
+msgstr "sqi0h"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sqi_ub0:primary"
+msgid "sqi_ub0"
+msgstr "sqi_ub0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqibbert:primary"
+msgid "sqibbert"
+msgstr "斯奎伯特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqidey:primary"
+msgid "sqidey"
+msgstr "斯奎迪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sqinozomi:primary"
+msgid "sqinozomi"
+msgstr "sqinozomi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:sqkloal4aju57ow:primary"
+msgid "sqkloal4aju57ow"
+msgstr "sqkloal4aju57ow"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sqkysama02:primary"
+msgid "sqkysama02"
+msgstr "sqkysama02"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.book_paper
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:sql:primary"
+msgid "sql"
+msgstr "SQL"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.book_paper
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sql_(programming_language):primary"
+msgid "sql_(programming_language)"
+msgstr "SQL（结构化查询语言）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:sqla:primary"
+msgid "sqla"
+msgstr "SQLA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 139
+msgctxt "tag:sqloveraven:primary"
+msgid "sqloveraven"
+msgstr "sqloveraven"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sqme:primary"
+msgid "sqme"
+msgstr "SQME"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sqolsu:primary"
+msgid "sqolsu"
+msgstr "sqolsu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqoon:primary"
+msgid "sqoon"
+msgstr "Sqoon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqootshy:primary"
+msgid "sqootshy"
+msgstr "Sqootshy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:sqq:primary"
+msgid "sqq"
+msgstr "SQQ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:sqqccca:primary"
+msgid "sqqccca"
+msgstr "sqqccca"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqqjzpm:primary"
+msgid "sqqjzpm"
+msgstr "sqqjzpm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqrt_100:primary"
+msgid "sqrt_100"
+msgstr "sqrt_100"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqry8:primary"
+msgid "sqry8"
+msgstr "sqry8"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqs:primary"
+msgid "sqs"
+msgstr "sqs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:sqshysiin:primary"
+msgid "sqshysiin"
+msgstr "Sqshysiin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:sqtaya1:primary"
+msgid "sqtaya1"
+msgstr "Sqtaya1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:squ15:primary"
+msgid "squ15"
+msgstr "squ15"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squad_(game):primary"
+msgid "squad_(game)"
+msgstr "《Squad》游戏"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squad_busters:primary"
+msgid "squad_busters"
+msgstr "Squad Busters"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squadron:primary"
+msgid "squadron"
+msgstr "中队"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:squaerart:primary"
+msgid "squaerart"
+msgstr "Squaerart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squaffle:primary"
+msgid "squaffle"
+msgstr "斯夸弗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 76
+msgctxt "tag:squaffle1:primary"
+msgid "squaffle1"
+msgstr "squaffle1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squaggies:primary"
+msgid "squaggies"
+msgstr "Squaggies"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squale_mille_kadlecek:primary"
+msgid "squale_mille_kadlecek"
+msgstr "Squale Mille Kadlecek"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:squalid114617:primary"
+msgid "squalid114617"
+msgstr "Squalid114617"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 2
+#. aliases: 斯考尔·莱昂哈特
+msgctxt "tag:squall:primary"
+msgid "squall"
+msgstr "Squall"
+
+#. alias-of: squall
+#. source: ai
+msgctxt "tag:squall:alias:1"
+msgid "squall"
+msgstr "斯考尔·莱昂哈特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squall_(great-vacation):primary"
+msgid "squall_(great-vacation)"
+msgstr "Squall（great-vacation）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2043
+#. aliases: 斯考尔
+msgctxt "tag:squall_leonhart:primary"
+msgid "squall_leonhart"
+msgstr "斯考尔·莱昂哈特"
+
+#. alias-of: squall_leonhart
+#. source: ai
+msgctxt "tag:squall_leonhart:alias:1"
+msgid "squall_leonhart"
+msgstr "斯考尔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 24
+#. aliases: 斯考尔（Cosplay）
+msgctxt "tag:squall_leonhart_(cosplay):primary"
+msgid "squall_leonhart_(cosplay)"
+msgstr "斯考尔·里昂哈特（Cosplay）"
+
+#. alias-of: squall_leonhart_(cosplay)
+#. source: ai
+msgctxt "tag:squall_leonhart_(cosplay):alias:1"
+msgid "squall_leonhart_(cosplay)"
+msgstr "斯考尔（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squall_meusel:primary"
+msgid "squall_meusel"
+msgstr "Squall Meusel"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squall_rusty:primary"
+msgid "squall_rusty"
+msgstr "Squall Rusty"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 65
+msgctxt "tag:squallea:primary"
+msgid "squallea"
+msgstr "Squallea"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:squallpion:primary"
+msgid "squallpion"
+msgstr "squallpion"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 80
+msgctxt "tag:squalo:primary"
+msgid "squalo"
+msgstr "斯夸罗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squama:primary"
+msgid "squama"
+msgstr "鳞片"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squardo:primary"
+msgid "squardo"
+msgstr "squardo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 5.meta.technical.aspect_ratio
+#. safety: sfw
+#. post-count: 1179
+msgctxt "tag:square:primary"
+msgid "square"
+msgstr "方形"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.neckwear
+#. safety: sfw
+#. post-count: 2787
+#. aliases: 方形领带
+msgctxt "tag:square-end_necktie:primary"
+msgid "square-end_necktie"
+msgstr "平角领带"
+
+#. alias-of: square-end_necktie
+#. source: ai
+msgctxt "tag:square-end_necktie:alias:1"
+msgid "square-end_necktie"
+msgstr "方形领带"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.legwear
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:square-leg:primary"
+msgid "square-leg"
+msgstr "方格袜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.eyes.pupil.pupil_design
+#. safety: sfw
+#. post-count: 3
+#. aliases: 方瞳
+msgctxt "tag:square-shaped_pupils:primary"
+msgid "square-shaped_pupils"
+msgstr "方形瞳孔"
+
+#. alias-of: square-shaped_pupils
+#. source: ai
+msgctxt "tag:square-shaped_pupils:alias:1"
+msgid "square-shaped_pupils"
+msgstr "方瞳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:square-w:primary"
+msgid "square-w"
+msgstr "square-w"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:square0507:primary"
+msgid "square0507"
+msgstr "square0507"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:square_(company):primary"
+msgid "square_(company)"
+msgstr "Square公司"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:square_(lianqianqianoo):primary"
+msgid "square_(lianqianqianoo)"
+msgstr "Square"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:square_(ole_tower):primary"
+msgid "square_(ole_tower)"
+msgstr "Square（OLE塔）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Shape Island, 方形小岛
+msgctxt "tag:square_(shape_island):primary"
+msgid "square_(shape_island)"
+msgstr "Square（Shape Island）"
+
+#. alias-of: square_(shape_island)
+#. source: ai
+msgctxt "tag:square_(shape_island):alias:1"
+msgid "square_(shape_island)"
+msgstr "Shape Island"
+
+#. alias-of: square_(shape_island)
+#. source: ai
+msgctxt "tag:square_(shape_island):alias:2"
+msgid "square_(shape_island)"
+msgstr "方形小岛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:square_(we_become_what_we_behold):primary"
+msgid "square_(we_become_what_we_behold)"
+msgstr "Square（We Become What We Behold）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.layout.paneling
+#. safety: sfw
+#. post-count: 4263
+msgctxt "tag:square_4koma:primary"
+msgid "square_4koma"
+msgstr "方形四格"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:square_brooch:primary"
+msgid "square_brooch"
+msgstr "方形胸针"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:square_bun:primary"
+msgid "square_bun"
+msgstr "方形面包"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.decorative_object
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:square_clock:primary"
+msgid "square_clock"
+msgstr "方形时钟"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 1022
+msgctxt "tag:square_enix:primary"
+msgid "square_enix"
+msgstr "史艾"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.eyes.shape.eye_shape
+#. safety: sfw
+#. post-count: 180
+#. aliases: 方形眼
+msgctxt "tag:square_eyes:primary"
+msgid "square_eyes"
+msgstr "方眼"
+
+#. alias-of: square_eyes
+#. source: ai
+msgctxt "tag:square_eyes:alias:1"
+msgid "square_eyes"
+msgstr "方形眼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:square_face:primary"
+msgid "square_face"
+msgstr "方脸"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:square_hair_ornament:primary"
+msgid "square_hair_ornament"
+msgstr "方形发饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:square_hat:primary"
+msgid "square_hat"
+msgstr "方形帽子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:square_head:primary"
+msgid "square_head"
+msgstr "方头"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:square_icecube:primary"
+msgid "square_icecube"
+msgstr "方形冰块"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:square_jawline:primary"
+msgid "square_jawline"
+msgstr "方下巴"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.string_or_fastener
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:square_knot:primary"
+msgid "square_knot"
+msgstr "方形结"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vtuber_agency
+#. safety: sfw
+#. post-count: 130
+msgctxt "tag:square_live:primary"
+msgid "square_live"
+msgstr "Square Live"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 3
+#. aliases: 方块项链
+msgctxt "tag:square_necklace:primary"
+msgid "square_necklace"
+msgstr "方形项链"
+
+#. alias-of: square_necklace
+#. source: ai
+msgctxt "tag:square_necklace:alias:1"
+msgid "square_necklace"
+msgstr "方块项链"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.fit_and_opening
+#. safety: mixed
+#. post-count: 2720
+#. aliases: 方领口
+msgctxt "tag:square_neckline:primary"
+msgid "square_neckline"
+msgstr "方领"
+
+#. alias-of: square_neckline
+#. source: ai
+msgctxt "tag:square_neckline:alias:1"
+msgid "square_neckline"
+msgstr "方领口"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:square_nun_(diva):primary"
+msgid "square_nun_(diva)"
+msgstr "方块修女"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.shape_or_mechanical_part
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:square_o-ring:primary"
+msgid "square_o-ring"
+msgstr "方形O圈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:square_of_light:primary"
+msgid "square_of_light"
+msgstr "square_of_light"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.exposure.partial_nudity
+#. safety: nsfw
+#. post-count: 3
+msgctxt "tag:square_pasties:primary"
+msgid "square_pasties"
+msgstr "方形乳贴"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.container
+#. safety: sfw
+#. post-count: 4
+#. aliases: 方形盘子
+msgctxt "tag:square_plate:primary"
+msgid "square_plate"
+msgstr "方盘"
+
+#. alias-of: square_plate
+#. source: ai
+msgctxt "tag:square_plate:alias:1"
+msgid "square_plate"
+msgstr "方形盘子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:square_print:primary"
+msgid "square_print"
+msgstr "方形印花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.eyes.pupil.pupil_design
+#. safety: sfw
+#. post-count: 1191
+#. aliases: 方瞳
+msgctxt "tag:square_pupils:primary"
+msgid "square_pupils"
+msgstr "方形瞳孔"
+
+#. alias-of: square_pupils
+#. source: ai
+msgctxt "tag:square_pupils:alias:1"
+msgid "square_pupils"
+msgstr "方瞳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.skin.skin_marking
+#. safety: sfw
+#. post-count: 106
+msgctxt "tag:square_tattoo:primary"
+msgid "square_tattoo"
+msgstr "方形纹身"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:square_warbler:primary"
+msgid "square_warbler"
+msgstr "方莺"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squareanon:primary"
+msgid "squareanon"
+msgstr "squareanon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:squarecloud7310:primary"
+msgid "squarecloud7310"
+msgstr "squarecloud7310"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squaredmich:primary"
+msgid "squaredmich"
+msgstr "Squaredmich"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squaredriceball:primary"
+msgid "squaredriceball"
+msgstr "Squaredriceball"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squarepeg3d:primary"
+msgid "squarepeg3d"
+msgstr "SquarePeg3D"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squarepusher:primary"
+msgid "squarepusher"
+msgstr "Squarepusher"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squareroot1548:primary"
+msgid "squareroot1548"
+msgstr "Squareroot1548"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squarerootofdestiny:primary"
+msgid "squarerootofdestiny"
+msgstr "Square Root of Destiny"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:squares_(puyopuyo):primary"
+msgid "squares_(puyopuyo)"
+msgstr "方块"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squaretimber:primary"
+msgid "squaretimber"
+msgstr "squaretimber"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squaretires:primary"
+msgid "squaretires"
+msgstr "squaretires"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+#. aliases: SquareVR
+msgctxt "tag:squarevr:primary"
+msgid "squarevr"
+msgstr "方形VR"
+
+#. alias-of: squarevr
+#. source: ai
+msgctxt "tag:squarevr:alias:1"
+msgid "squarevr"
+msgstr "SquareVR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: squareyebrow
+msgctxt "tag:squareyebrow:primary"
+msgid "squareyebrow"
+msgstr "squareyebrow"
+
+#. alias-of: squareyebrow
+#. source: ai
+msgctxt "tag:squareyebrow:alias:1"
+msgid "squareyebrow"
+msgstr "squareyebrow"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 165
+msgctxt "tag:squash:primary"
+msgid "squash"
+msgstr "南瓜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:squash_(plants_vs._zombies):primary"
+msgid "squash_(plants_vs._zombies)"
+msgstr "倭瓜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+#. aliases: 仙境传说
+msgctxt "tag:squash_(ragnarok_online):primary"
+msgid "squash_(ragnarok_online)"
+msgstr "斯夸什"
+
+#. alias-of: squash_(ragnarok_online)
+#. source: ai
+msgctxt "tag:squash_(ragnarok_online):alias:1"
+msgid "squash_(ragnarok_online)"
+msgstr "仙境传说"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.plant
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:squash_blossom:primary"
+msgid "squash_blossom"
+msgstr "squash_blossom"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squashedtogoo:primary"
+msgid "squashedtogoo"
+msgstr "SquashedToGoo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:squashini:primary"
+msgid "squashini"
+msgstr "南瓜先生"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:squashoo:primary"
+msgid "squashoo"
+msgstr "squashoo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.posture.kneeling_squatting
+#. safety: sfw
+#. post-count: 229
+#. aliases: 下蹲
+msgctxt "tag:squat_(exercise):primary"
+msgid "squat_(exercise)"
+msgstr "深蹲"
+
+#. alias-of: squat_(exercise)
+#. source: ai
+msgctxt "tag:squat_(exercise):alias:1"
+msgid "squat_(exercise)"
+msgstr "下蹲"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.furniture
+#. safety: sfw
+#. post-count: 778
+#. aliases: 蹲厕
+msgctxt "tag:squat_toilet:primary"
+msgid "squat_toilet"
+msgstr "蹲便器"
+
+#. alias-of: squat_toilet
+#. source: ai
+msgctxt "tag:squat_toilet:alias:1"
+msgid "squat_toilet"
+msgstr "蹲厕"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squatina_caprium:primary"
+msgid "squatina_caprium"
+msgstr "squatina_caprium"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squats_(warhammer_40k):primary"
+msgid "squats_(warhammer_40k)"
+msgstr "蹲姿（战锤40K）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squatterloki:primary"
+msgid "squatterloki"
+msgstr "squatterloki"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.posture.kneeling_squatting
+#. safety: sfw
+#. post-count: 117703
+#. aliases: 蹲下
+msgctxt "tag:squatting:primary"
+msgid "squatting"
+msgstr "蹲姿"
+
+#. alias-of: squatting
+#. source: ai
+msgctxt "tag:squatting:alias:1"
+msgid "squatting"
+msgstr "蹲下"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.posture.kneeling_squatting
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:squatting_bunny_girl_pose_(han-0v0):primary"
+msgid "squatting_bunny_girl_pose_(han-0v0)"
+msgstr "蹲兔女郎姿势"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.act.penetrative_sex
+#. safety: nsfw
+#. post-count: 10761
+#. aliases: 蹲骑乘位
+msgctxt "tag:squatting_cowgirl_position:primary"
+msgid "squatting_cowgirl_position"
+msgstr "蹲姿女上位"
+
+#. alias-of: squatting_cowgirl_position
+#. source: ai
+msgctxt "tag:squatting_cowgirl_position:alias:1"
+msgid "squatting_cowgirl_position"
+msgstr "蹲骑乘位"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_contact_or_support
+#. safety: mixed
+#. post-count: 57
+msgctxt "tag:squatting_on_person:primary"
+msgid "squatting_on_person"
+msgstr "蹲在人身上"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.posture.kneeling_squatting
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squatting_over:primary"
+msgid "squatting_over"
+msgstr "蹲坐"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.posture.kneeling_squatting
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:squatting_v_pose_(han-0v0):primary"
+msgid "squatting_v_pose_(han-0v0)"
+msgstr "蹲V字姿势"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 74
+msgctxt "tag:squawkabilly:primary"
+msgid "squawkabilly"
+msgstr "怒鹦哥"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:squawkabilly_(blue):primary"
+msgid "squawkabilly_(blue)"
+msgstr "喇叭雀（蓝色）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:squawkabilly_(green):primary"
+msgid "squawkabilly_(green)"
+msgstr "绿色聒噪鸟"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:squawkabilly_(white):primary"
+msgid "squawkabilly_(white)"
+msgstr "鸣鸣仔(白)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:squawkabilly_(yellow):primary"
+msgid "squawkabilly_(yellow)"
+msgstr "聒噪鸟(黄)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squawking_stick:primary"
+msgid "squawking_stick"
+msgstr "Squawking Stick"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:squawks:primary"
+msgid "squawks"
+msgstr "呱呱叫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squawks_(vliegmans):primary"
+msgid "squawks_(vliegmans)"
+msgstr "Squawks (Vliegmans)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 569
+msgctxt "tag:squchan:primary"
+msgid "squchan"
+msgstr "斯奎酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:squead_t:primary"
+msgid "squead_t"
+msgstr "Squead T"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squeak_(brawl_stars):primary"
+msgid "squeak_(brawl_stars)"
+msgstr "Squeak（荒野乱斗）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squeak_(housepets!):primary"
+msgid "squeak_(housepets!)"
+msgstr "Squeak（Housepets!）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squeak_(kirby):primary"
+msgid "squeak_(kirby)"
+msgstr "squeak（星之卡比）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squeak_(merc_storia):primary"
+msgid "squeak_(merc_storia)"
+msgstr "吱吱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squeak_(wario's_woods):primary"
+msgid "squeak_(wario's_woods)"
+msgstr "Squeak（瓦里奥森林）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:squeak_wlr1:primary"
+msgid "squeak_wlr1"
+msgstr "squeak_wlr1"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:squeakers:primary"
+msgid "squeakers"
+msgstr "口哨声"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squeaknight:primary"
+msgid "squeaknight"
+msgstr "Squeaknight"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:squeaky_(artist):primary"
+msgid "squeaky_(artist)"
+msgstr "squeaky"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squeaky_(vtuber):primary"
+msgid "squeaky_(vtuber)"
+msgstr "Squeaky（VTuber）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squeaky_(wordgirl):primary"
+msgid "squeaky_(wordgirl)"
+msgstr "Squeaky（WordGirl）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squeaky_hammer_machine:primary"
+msgid "squeaky_hammer_machine"
+msgstr "尖叫锤机器"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squeakychimp:primary"
+msgid "squeakychimp"
+msgstr "SqueakyChimp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squeakykins:primary"
+msgid "squeakykins"
+msgstr "Squeakykins"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.reaction.comic_or_exaggerated_reaction
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:squeal:primary"
+msgid "squeal"
+msgstr "尖叫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squealer:primary"
+msgid "squealer"
+msgstr "尖叫者"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.emotion.negative_emotion
+#. safety: sfw
+#. post-count: 15429
+msgctxt "tag:squeans:primary"
+msgid "squeans"
+msgstr "尖叫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.reaction.comic_or_exaggerated_reaction
+#. safety: sfw
+#. post-count: 35
+#. aliases: 捏脸
+msgctxt "tag:squee:primary"
+msgid "squee"
+msgstr "挤压脸"
+
+#. alias-of: squee
+#. source: ai
+msgctxt "tag:squee:alias:1"
+msgid "squee"
+msgstr "捏脸"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squee!:primary"
+msgid "squee!"
+msgstr "Squee!"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 4
+msgctxt "tag:squee-g:primary"
+msgid "squee-g"
+msgstr "Squee-G"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+#. aliases: Squeedge怪
+msgctxt "tag:squeedgemonster:primary"
+msgid "squeedgemonster"
+msgstr "Squeedge怪物"
+
+#. alias-of: squeedgemonster
+#. source: ai
+msgctxt "tag:squeedgemonster:alias:1"
+msgid "squeedgemonster"
+msgstr "Squeedge怪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:squeegee:primary"
+msgid "squeegee"
+msgstr "刮水板"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squeegeee:primary"
+msgid "squeegeee"
+msgstr "橡胶刮刀"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:squeegool:primary"
+msgid "squeegool"
+msgstr "squeegool"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.emotion.positive_emotion
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:squeeing:primary"
+msgid "squeeing"
+msgstr "激动尖叫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squeekersere:primary"
+msgid "squeekersere"
+msgstr "Squeekersere"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squeeloid:primary"
+msgid "squeeloid"
+msgstr "squeeloid"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squeenz_sqz:primary"
+msgid "squeenz_sqz"
+msgstr "squeenz_sqz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squeeshy:primary"
+msgid "squeeshy"
+msgstr "Squeeshy"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squeez:primary"
+msgid "squeez"
+msgstr "Squeez"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squeez_(artist):primary"
+msgid "squeez_(artist)"
+msgstr "Squeez"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squeez_z:primary"
+msgid "squeez_z"
+msgstr "Squeez Z"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 623
+#. aliases: squeezable
+msgctxt "tag:squeezable_(squeezabledraws):primary"
+msgid "squeezable_(squeezabledraws)"
+msgstr "Squeezable画师"
+
+#. alias-of: squeezable_(squeezabledraws)
+#. source: ai
+msgctxt "tag:squeezable_(squeezabledraws):alias:1"
+msgid "squeezable_(squeezabledraws)"
+msgstr "squeezable"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squeeze_(handy_manny):primary"
+msgid "squeeze_(handy_manny)"
+msgstr "Squeeze（嗨嗨工具箱）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squeeze_(vtuber):primary"
+msgid "squeeze_(vtuber)"
+msgstr "Squeeze（VTuber）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.container
+#. safety: sfw
+#. post-count: 306
+#. aliases: 挤瓶
+msgctxt "tag:squeeze_bottle:primary"
+msgid "squeeze_bottle"
+msgstr "挤压瓶"
+
+#. alias-of: squeeze_bottle
+#. source: ai
+msgctxt "tag:squeeze_bottle:alias:1"
+msgid "squeeze_bottle"
+msgstr "挤瓶"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.container
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:squeeze_tube:primary"
+msgid "squeeze_tube"
+msgstr "软管"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squeezebox:primary"
+msgid "squeezebox"
+msgstr "手风琴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squeezeplay_(transformers):primary"
+msgid "squeezeplay_(transformers)"
+msgstr "Squeezeplay（变形金刚）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:squeezer_(splatoon):primary"
+msgid "squeezer_(splatoon)"
+msgstr "Squeezer"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.interaction.physical_interaction
+#. safety: mixed
+#. post-count: 1098
+#. aliases: 挤压动作
+msgctxt "tag:squeezing:primary"
+msgid "squeezing"
+msgstr "挤压"
+
+#. alias-of: squeezing
+#. source: ai
+msgctxt "tag:squeezing:alias:1"
+msgid "squeezing"
+msgstr "挤压动作"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_contact_or_support
+#. safety: mixed
+#. post-count: 274
+msgctxt "tag:squeezing_cheeks:primary"
+msgid "squeezing_cheeks"
+msgstr "捏脸颊"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.body.explicit_genitalia
+#. safety: nsfw
+#. post-count: 2
+msgctxt "tag:squeezing_clitoris:primary"
+msgid "squeezing_clitoris"
+msgstr "挤压阴蒂"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_manipulation
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:squeezing_hair:primary"
+msgid "squeezing_hair"
+msgstr "挤压头发"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.body.explicit_genitalia
+#. safety: nsfw
+#. post-count: 288
+msgctxt "tag:squeezing_testicles:primary"
+msgid "squeezing_testicles"
+msgstr "捏睾丸"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_manipulation
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squeezing_thighs:primary"
+msgid "squeezing_thighs"
+msgstr "挤压大腿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:squemezzo:primary"
+msgid "squemezzo"
+msgstr "Squemezzo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:squibby:primary"
+msgid "squibby"
+msgstr "Squibby"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:squibizill:primary"
+msgid "squibizill"
+msgstr "Squibizill"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squibnibs:primary"
+msgid "squibnibs"
+msgstr "squibnibs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squibsart:primary"
+msgid "squibsart"
+msgstr "Squibsart"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 2671
+#. aliases: 乌贼
+msgctxt "tag:squid:primary"
+msgid "squid"
+msgstr "鱿鱼"
+
+#. alias-of: squid
+#. source: ai
+msgctxt "tag:squid:alias:1"
+msgid "squid"
+msgstr "乌贼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squid-class_(gundam):primary"
+msgid "squid-class_(gundam)"
+msgstr "Gundam 章鱼级"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squid-in-a-jar:primary"
+msgid "squid-in-a-jar"
+msgstr "Squid in a Jar"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:squid-shaped_pillow:primary"
+msgid "squid-shaped_pillow"
+msgstr "乌贼形枕头"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squid1216:primary"
+msgid "squid1216"
+msgstr "鱿鱼1216"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squid2012:primary"
+msgid "squid2012"
+msgstr "squid2012"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:squid2corn:primary"
+msgid "squid2corn"
+msgstr "squid2corn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squid_(851302776):primary"
+msgid "squid_(851302776)"
+msgstr "squid"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:squid_(minecraft):primary"
+msgid "squid_(minecraft)"
+msgstr "鱿鱼(我的世界)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:squid_(pixiv_27814354):primary"
+msgid "squid_(pixiv_27814354)"
+msgstr "squid"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squid_(sonic_frontiers):primary"
+msgid "squid_(sonic_frontiers)"
+msgstr "鱿鱼（索尼克未知边境）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:squid_0930:primary"
+msgid "squid_0930"
+msgstr "乌贼0930"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:squid_balm:primary"
+msgid "squid_balm"
+msgstr "鱿鱼药膏"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:squid_baron:primary"
+msgid "squid_baron"
+msgstr "鱿鱼男爵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:squid_beakon_(splatoon):primary"
+msgid "squid_beakon_(splatoon)"
+msgstr "乌贼信标"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squid_black:primary"
+msgid "squid_black"
+msgstr "squid_black"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 2
+#. aliases: 鱿骨不滑
+msgctxt "tag:squid_bone_unslips_(splatoon):primary"
+msgid "squid_bone_unslips_(splatoon)"
+msgstr "鱿骨不滑服"
+
+#. alias-of: squid_bone_unslips_(splatoon)
+#. source: ai
+msgctxt "tag:squid_bone_unslips_(splatoon):alias:1"
+msgid "squid_bone_unslips_(splatoon)"
+msgstr "鱿骨不滑"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:squid_boy:primary"
+msgid "squid_boy"
+msgstr "鱿鱼男孩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squid_bumper_(splatoon):primary"
+msgid "squid_bumper_(splatoon)"
+msgstr "《Splatoon》鱿鱼保险杠"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.traditional_wear
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:squid_costume:primary"
+msgid "squid_costume"
+msgstr "鱿鱼装"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squid_craft_games:primary"
+msgid "squid_craft_games"
+msgstr "Squid Craft Games"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.eyewear
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squid_facemask_(splatoon):primary"
+msgid "squid_facemask_(splatoon)"
+msgstr "《Splatoon》鱿鱼面罩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squid_fish:primary"
+msgid "squid_fish"
+msgstr "squid_fish"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 760
+msgctxt "tag:squid_game:primary"
+msgid "squid_game"
+msgstr "鱿鱼游戏"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squid_games_(meme):primary"
+msgid "squid_games_(meme)"
+msgstr "鱿鱼游戏（梗）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 372
+#. aliases: 乌贼娘
+msgctxt "tag:squid_girl:primary"
+msgid "squid_girl"
+msgstr "鱿鱼娘"
+
+#. alias-of: squid_girl
+#. source: ai
+msgctxt "tag:squid_girl:alias:1"
+msgid "squid_girl"
+msgstr "乌贼娘"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:squid_hair_ornament:primary"
+msgid "squid_hair_ornament"
+msgstr "鱿鱼发饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 277
+msgctxt "tag:squid_hat:primary"
+msgid "squid_hat"
+msgstr "鱿鱼帽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squid_ikaaa:primary"
+msgid "squid_ikaaa"
+msgstr "squid_ikaaa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:squid_ink_cookie:primary"
+msgid "squid_ink_cookie"
+msgstr "墨鱼仔饼干"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squid_ink_cookie_(aurora_dreams):primary"
+msgid "squid_ink_cookie_(aurora_dreams)"
+msgstr "Squid Ink Cookie（Aurora Dreams）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 鱿鱼墨饼干
+msgctxt "tag:squid_ink_cookie_(cosplay):primary"
+msgid "squid_ink_cookie_(cosplay)"
+msgstr "墨鱼汁饼干（Cosplay）"
+
+#. alias-of: squid_ink_cookie_(cosplay)
+#. source: ai
+msgctxt "tag:squid_ink_cookie_(cosplay):alias:1"
+msgid "squid_ink_cookie_(cosplay)"
+msgstr "鱿鱼墨饼干"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:squid_jt:primary"
+msgid "squid_jt"
+msgstr "squid_jt"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squid_kid:primary"
+msgid "squid_kid"
+msgstr "Squid Kid"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:squid_neetommy:primary"
+msgid "squid_neetommy"
+msgstr "鱿鱼尼奥米"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.posture.dynamic_motion
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:squid_pose:primary"
+msgid "squid_pose"
+msgstr "鱿鱼姿势"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:squid_print:primary"
+msgid "squid_print"
+msgstr "鱿鱼印花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squid_puke:primary"
+msgid "squid_puke"
+msgstr "乌贼呕吐"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 4
+#. aliases: 炸鱿鱼圈
+msgctxt "tag:squid_ring:primary"
+msgid "squid_ring"
+msgstr "鱿鱼圈"
+
+#. alias-of: squid_ring
+#. source: ai
+msgctxt "tag:squid_ring:alias:1"
+msgid "squid_ring"
+msgstr "炸鱿鱼圈"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.fetish.bdsm_power
+#. safety: nsfw
+#. post-count: 17
+msgctxt "tag:squid_slave_helmet:primary"
+msgid "squid_slave_helmet"
+msgstr "鱿鱼奴隶头盔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squid_smith:primary"
+msgid "squid_smith"
+msgstr "squid_smith"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 3
+#. aliases: squid spike
+msgctxt "tag:squid_spike:primary"
+msgid "squid_spike"
+msgstr "乌贼刺"
+
+#. alias-of: squid_spike
+#. source: ai
+msgctxt "tag:squid_spike:alias:1"
+msgid "squid_spike"
+msgstr "squid spike"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.skin.skin_marking
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squid_tattoo:primary"
+msgid "squid_tattoo"
+msgstr "乌贼纹身"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squidapple:primary"
+msgid "squidapple"
+msgstr "乌贼苹果"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squidbeak_shield_(splatoon):primary"
+msgid "squidbeak_shield_(splatoon)"
+msgstr "鱿鱼喙盾（斯普拉遁）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 1179
+msgctxt "tag:squidbeak_splatoon:primary"
+msgid "squidbeak_splatoon"
+msgstr "鱿鱼信标"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidcada_(rain_world):primary"
+msgid "squidcada_(rain_world)"
+msgstr "Squidcada（Rain World）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squidcap:primary"
+msgid "squidcap"
+msgstr "鱿鱼帽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidd:primary"
+msgid "squidd"
+msgstr "Squidd"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squiddicus:primary"
+msgid "squiddicus"
+msgstr "squiddicus"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squiddle:primary"
+msgid "squiddle"
+msgstr "小鱿鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squiddlykiti:primary"
+msgid "squiddlykiti"
+msgstr "squiddlykiti"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:squiddo:primary"
+msgid "squiddo"
+msgstr "鱿鱼人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squiddy_t:primary"
+msgid "squiddy_t"
+msgstr "squiddy_t"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squiddyswimming:primary"
+msgid "squiddyswimming"
+msgstr "squiddyswimming"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidguu:primary"
+msgid "squidguu"
+msgstr "Squidguu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 乌贼星
+msgctxt "tag:squidina_star:primary"
+msgid "squidina_star"
+msgstr "Squidina Star"
+
+#. alias-of: squidina_star
+#. source: ai
+msgctxt "tag:squidina_star:alias:1"
+msgid "squidina_star"
+msgstr "乌贼星"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidinajar:primary"
+msgid "squidinajar"
+msgstr "squidinajar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidk2:primary"
+msgid "squidk2"
+msgstr "鱿鱼K"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:squidkid528:primary"
+msgid "squidkid528"
+msgstr "squidkid528"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:squidkid_jr.:primary"
+msgid "squidkid_jr."
+msgstr "Squidkid Jr."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidman.exe_(artist):primary"
+msgid "squidman.exe_(artist)"
+msgstr "squidman.exe"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidman_(alicesoft):primary"
+msgid "squidman_(alicesoft)"
+msgstr "鱿鱼人（AliceSoft）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:squidmiku:primary"
+msgid "squidmiku"
+msgstr "鱿鱼初音"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidol:primary"
+msgid "squidol"
+msgstr "鱿鱼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squidol_girl:primary"
+msgid "squidol_girl"
+msgstr "鱿鱼娘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidolphin:primary"
+msgid "squidolphin"
+msgstr "鱿鱼豚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: squidshark
+msgctxt "tag:squidshark_(subnautica):primary"
+msgid "squidshark_(subnautica)"
+msgstr "鱿鲨"
+
+#. alias-of: squidshark_(subnautica)
+#. source: ai
+msgctxt "tag:squidshark_(subnautica):alias:1"
+msgid "squidshark_(subnautica)"
+msgstr "squidshark"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 116
+msgctxt "tag:squidsmith:primary"
+msgid "squidsmith"
+msgstr "squidsmith"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squidsmith_(shantae):primary"
+msgid "squidsmith_(shantae)"
+msgstr "Squidsmith（Shantae）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidsplosion:primary"
+msgid "squidsplosion"
+msgstr "squidsplosion"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squidsquadfan:primary"
+msgid "squidsquadfan"
+msgstr "Squidsquadfan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squidudon12:primary"
+msgid "squidudon12"
+msgstr "squidudon12"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squidward's_suicide_(creepypasta):primary"
+msgid "squidward's_suicide_(creepypasta)"
+msgstr "Squidward's Suicide（Creepypasta）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squidward_listening_to_music_in_bed_(meme):primary"
+msgid "squidward_listening_to_music_in_bed_(meme)"
+msgstr "章鱼哥在床上听音乐（梗）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:squidward_looking_out_the_window_(meme):primary"
+msgid "squidward_looking_out_the_window_(meme)"
+msgstr "望窗章鱼哥"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 167
+#. aliases: 章鱼, 触手
+msgctxt "tag:squidward_tentacles:primary"
+msgid "squidward_tentacles"
+msgstr "章鱼哥"
+
+#. alias-of: squidward_tentacles
+#. source: ai
+msgctxt "tag:squidward_tentacles:alias:1"
+msgid "squidward_tentacles"
+msgstr "章鱼"
+
+#. alias-of: squidward_tentacles
+#. source: ai
+msgctxt "tag:squidward_tentacles:alias:2"
+msgid "squidward_tentacles"
+msgstr "触手"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:squidward_tentacles_(cosplay):primary"
+msgid "squidward_tentacles_(cosplay)"
+msgstr "章鱼哥Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squidzilla:primary"
+msgid "squidzilla"
+msgstr "Squidzilla"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squier_51:primary"
+msgid "squier_51"
+msgstr "Squier 51 吉他"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.brand_or_merchandise_item
+#. safety: sfw
+#. post-count: 2
+#. aliases: 吉他
+msgctxt "tag:squier_super-sonic:primary"
+msgid "squier_super-sonic"
+msgstr "Squier Super-Sonic"
+
+#. alias-of: squier_super-sonic
+#. source: ai
+msgctxt "tag:squier_super-sonic:alias:1"
+msgid "squier_super-sonic"
+msgstr "吉他"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 115
+#. aliases: squiffer
+msgctxt "tag:squiffer_(splatoon):primary"
+msgid "squiffer_(splatoon)"
+msgstr "鱿鱼喷枪"
+
+#. alias-of: squiffer_(splatoon)
+#. source: ai
+msgctxt "tag:squiffer_(splatoon):alias:1"
+msgid "squiffer_(splatoon)"
+msgstr "squiffer"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:squig:primary"
+msgid "squig"
+msgstr "Squig"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 蜷曲体
+msgctxt "tag:squig_(among_us):primary"
+msgid "squig_(among_us)"
+msgstr "Squig（Among Us）"
+
+#. alias-of: squig_(among_us)
+#. source: ai
+msgctxt "tag:squig_(among_us):alias:1"
+msgid "squig_(among_us)"
+msgstr "蜷曲体"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:squig_(warhammer):primary"
+msgid "squig_(warhammer)"
+msgstr "《战锤》Squig"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squigdraws:primary"
+msgid "squigdraws"
+msgstr "squigdraws"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.background.background_pattern
+#. safety: sfw
+#. post-count: 22519
+#. aliases: 曲线条
+msgctxt "tag:squiggle:primary"
+msgid "squiggle"
+msgstr "波浪纹"
+
+#. alias-of: squiggle
+#. source: ai
+msgctxt "tag:squiggle:alias:1"
+msgid "squiggle"
+msgstr "曲线条"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.eyes.state.eye_state
+#. safety: sfw
+#. post-count: 281
+#. aliases: 眩晕眼
+msgctxt "tag:squiggle_eyes:primary"
+msgid "squiggle_eyes"
+msgstr "螺旋眼"
+
+#. alias-of: squiggle_eyes
+#. source: ai
+msgctxt "tag:squiggle_eyes:alias:1"
+msgid "squiggle_eyes"
+msgstr "眩晕眼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: generation_loss
+msgctxt "tag:squiggles_(generation_loss):primary"
+msgid "squiggles_(generation_loss)"
+msgstr "squiggles"
+
+#. alias-of: squiggles_(generation_loss)
+#. source: ai
+msgctxt "tag:squiggles_(generation_loss):alias:1"
+msgid "squiggles_(generation_loss)"
+msgstr "generation_loss"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:squigglesfc:primary"
+msgid "squigglesfc"
+msgstr "squigglesfc"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: 小鱿鱼
+msgctxt "tag:squiglet:primary"
+msgid "squiglet"
+msgstr "小乌贼"
+
+#. alias-of: squiglet
+#. source: ai
+msgctxt "tag:squiglet:alias:1"
+msgid "squiglet"
+msgstr "小鱿鱼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 720
+#. aliases: squigly
+msgctxt "tag:squigly_(skullgirls):primary"
+msgid "squigly_(skullgirls)"
+msgstr "斯奎格利"
+
+#. alias-of: squigly_(skullgirls)
+#. source: ai
+msgctxt "tag:squigly_(skullgirls):alias:1"
+msgid "squigly_(skullgirls)"
+msgstr "squigly"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+#. aliases: 斯奎格利Cos
+msgctxt "tag:squigly_(skullgirls)_(cosplay):primary"
+msgid "squigly_(skullgirls)_(cosplay)"
+msgstr "斯奎格利（骷髅女孩）Cosplay"
+
+#. alias-of: squigly_(skullgirls)_(cosplay)
+#. source: ai
+msgctxt "tag:squigly_(skullgirls)_(cosplay):alias:1"
+msgid "squigly_(skullgirls)_(cosplay)"
+msgstr "斯奎格利Cos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:squii_(lewdishsnail):primary"
+msgid "squii_(lewdishsnail)"
+msgstr "squii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squiibs:primary"
+msgid "squiibs"
+msgstr "Squiibs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squiishnsfw:primary"
+msgid "squiishnsfw"
+msgstr "squiishnsfw"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: squilla
+msgctxt "tag:squilla_(space_harrier):primary"
+msgid "squilla_(space_harrier)"
+msgstr "Squilla（Space Harrier）"
+
+#. alias-of: squilla_(space_harrier)
+#. source: ai
+msgctxt "tag:squilla_(space_harrier):alias:1"
+msgid "squilla_(space_harrier)"
+msgstr "squilla"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squilliam_fancyson:primary"
+msgid "squilliam_fancyson"
+msgstr "斯奎利亚姆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squimshi:primary"
+msgid "squimshi"
+msgstr "squimshi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:squinkybink:primary"
+msgid "squinkybink"
+msgstr "squinkybink"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.eyes.state.eye_state
+#. safety: sfw
+#. post-count: 2342
+msgctxt "tag:squinting:primary"
+msgid "squinting"
+msgstr "眯眼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squinty003:primary"
+msgid "squinty003"
+msgstr "Squinty003"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squinty_(cyancapsule):primary"
+msgid "squinty_(cyancapsule)"
+msgstr "Squinty"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squira130:primary"
+msgid "squira130"
+msgstr "squira130"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:squire_(fft):primary"
+msgid "squire_(fft)"
+msgstr "骑士候补"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squire_(pixiv_fantasia_last_saga):primary"
+msgid "squire_(pixiv_fantasia_last_saga)"
+msgstr "侍从（Pixiv Fantasia Last Saga）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squire_(tree_of_savior):primary"
+msgid "squire_(tree_of_savior)"
+msgstr "侍从"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squire_trelawney:primary"
+msgid "squire_trelawney"
+msgstr "斯奎尔·特里劳尼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.posture.dynamic_motion
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squirm:primary"
+msgid "squirm"
+msgstr "扭动"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:squirmimi:primary"
+msgid "squirmimi"
+msgstr "Squirmimi"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.posture.dynamic_motion
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:squirming:primary"
+msgid "squirming"
+msgstr "蠕动"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:squirmles:primary"
+msgid "squirmles"
+msgstr "扭扭虫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirms_d_worms:primary"
+msgid "squirms_d_worms"
+msgstr "squirms_d_worms"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squirnail:primary"
+msgid "squirnail"
+msgstr "松鼠螺"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirock:primary"
+msgid "squirock"
+msgstr "squirock"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:squirps:primary"
+msgid "squirps"
+msgstr "斯奎普斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 3874
+msgctxt "tag:squirrel:primary"
+msgid "squirrel"
+msgstr "松鼠"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squirrel.:primary"
+msgid "squirrel."
+msgstr "松鼠"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirrel3d:primary"
+msgid "squirrel3d"
+msgstr "Squirrel3D"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squirrel_(eur2y):primary"
+msgid "squirrel_(eur2y)"
+msgstr "松鼠"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 65
+msgctxt "tag:squirrel_(jjjjmmn_err):primary"
+msgid "squirrel_(jjjjmmn_err)"
+msgstr "松鼠"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squirrel_and_hedgehog:primary"
+msgid "squirrel_and_hedgehog"
+msgstr "《松鼠与刺猬》"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.age_stage
+#. safety: sfw
+#. post-count: 209
+#. aliases: 松鼠男孩
+msgctxt "tag:squirrel_boy:primary"
+msgid "squirrel_boy"
+msgstr "松鼠少年"
+
+#. alias-of: squirrel_boy
+#. source: ai
+msgctxt "tag:squirrel_boy:alias:1"
+msgid "squirrel_boy"
+msgstr "松鼠男孩"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirrel_boy_(series):primary"
+msgid "squirrel_boy_(series)"
+msgstr "松鼠小子（系列）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.fashion_or_costume_style
+#. safety: sfw
+#. post-count: 67
+#. aliases: 松鼠服装
+msgctxt "tag:squirrel_costume:primary"
+msgid "squirrel_costume"
+msgstr "松鼠装"
+
+#. alias-of: squirrel_costume
+#. source: ai
+msgctxt "tag:squirrel_costume:alias:1"
+msgid "squirrel_costume"
+msgstr "松鼠服装"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 6032
+#. aliases: 松鼠耳朵
+msgctxt "tag:squirrel_ears:primary"
+msgid "squirrel_ears"
+msgstr "松鼠耳"
+
+#. alias-of: squirrel_ears
+#. source: ai
+msgctxt "tag:squirrel_ears:alias:1"
+msgid "squirrel_ears"
+msgstr "松鼠耳朵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:squirrel_fish:primary"
+msgid "squirrel_fish"
+msgstr "松鼠鱼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 10
+msgctxt "tag:squirrel_fish_(genshin_impact):primary"
+msgid "squirrel_fish_(genshin_impact)"
+msgstr "《原神》·松鼠鱼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:squirrel_fish_(the_tale_of_food):primary"
+msgid "squirrel_fish_(the_tale_of_food)"
+msgstr "松鼠鱼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.gender_presentation
+#. safety: sfw
+#. post-count: 5228
+msgctxt "tag:squirrel_girl:primary"
+msgid "squirrel_girl"
+msgstr "松鼠女孩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirrel_girl_(cheerful_dragoness)_(marvel):primary"
+msgid "squirrel_girl_(cheerful_dragoness)_(marvel)"
+msgstr "松鼠女"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 672
+#. aliases: 松鼠女
+msgctxt "tag:squirrel_girl_(marvel):primary"
+msgid "squirrel_girl_(marvel)"
+msgstr "松鼠女孩"
+
+#. alias-of: squirrel_girl_(marvel)
+#. source: ai
+msgctxt "tag:squirrel_girl_(marvel):alias:1"
+msgid "squirrel_girl_(marvel)"
+msgstr "松鼠女"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 8
+#. aliases: 漫威松鼠女cos
+msgctxt "tag:squirrel_girl_(marvel)_(cosplay):primary"
+msgid "squirrel_girl_(marvel)_(cosplay)"
+msgstr "松鼠女孩（漫威）cosplay"
+
+#. alias-of: squirrel_girl_(marvel)_(cosplay)
+#. source: ai
+msgctxt "tag:squirrel_girl_(marvel)_(cosplay):alias:1"
+msgid "squirrel_girl_(marvel)_(cosplay)"
+msgstr "漫威松鼠女cos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:squirrel_girl_(sunshine_squirrel)_(marvel):primary"
+msgid "squirrel_girl_(sunshine_squirrel)_(marvel)"
+msgstr "松鼠女孩（阳光松鼠）（漫威）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+#. aliases: 漫威
+msgctxt "tag:squirrel_girl_(symbiote_squirrel)_(marvel):primary"
+msgid "squirrel_girl_(symbiote_squirrel)_(marvel)"
+msgstr "松鼠女"
+
+#. alias-of: squirrel_girl_(symbiote_squirrel)_(marvel)
+#. source: ai
+msgctxt "tag:squirrel_girl_(symbiote_squirrel)_(marvel):alias:1"
+msgid "squirrel_girl_(symbiote_squirrel)_(marvel)"
+msgstr "漫威"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirrel_girl_(tinsel_tail)_(marvel):primary"
+msgid "squirrel_girl_(tinsel_tail)_(marvel)"
+msgstr "松鼠女孩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 松鼠女
+msgctxt "tag:squirrel_girl_(turbo_tailwind)_(marvel):primary"
+msgid "squirrel_girl_(turbo_tailwind)_(marvel)"
+msgstr "松鼠女孩"
+
+#. alias-of: squirrel_girl_(turbo_tailwind)_(marvel)
+#. source: ai
+msgctxt "tag:squirrel_girl_(turbo_tailwind)_(marvel):alias:1"
+msgid "squirrel_girl_(turbo_tailwind)_(marvel)"
+msgstr "松鼠女"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 89
+msgctxt "tag:squirrel_girl_(yuuhagi_(amaretto-no-natsu)):primary"
+msgid "squirrel_girl_(yuuhagi_(amaretto-no-natsu))"
+msgstr "松鼠女孩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squirrel_glider_(kemono_friends):primary"
+msgid "squirrel_glider_(kemono_friends)"
+msgstr "鼯鼠（兽娘朋友）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squirrel_hat:primary"
+msgid "squirrel_hat"
+msgstr "松鼠帽"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:squirrel_hood:primary"
+msgid "squirrel_hood"
+msgstr "松鼠兜帽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirrel_hsieh:primary"
+msgid "squirrel_hsieh"
+msgstr "Squirrel Hsieh"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:squirrel_print:primary"
+msgid "squirrel_print"
+msgstr "松鼠印花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squirrel_quill:primary"
+msgid "squirrel_quill"
+msgstr "松鼠羽管"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 5653
+msgctxt "tag:squirrel_tail:primary"
+msgid "squirrel_tail"
+msgstr "松鼠尾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:squirrelhollow:primary"
+msgid "squirrelhollow"
+msgstr "squirrelhollow"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirrelpaste:primary"
+msgid "squirrelpaste"
+msgstr "squirrelpaste"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:squirrelstar:primary"
+msgid "squirrelstar"
+msgstr "SquirrelStar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirreltastrophe:primary"
+msgid "squirreltastrophe"
+msgstr "squirreltastrophe"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squirt_(bastion):primary"
+msgid "squirt_(bastion)"
+msgstr "Squirt（Bastion）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 小海龟（海底总动员）
+msgctxt "tag:squirt_(finding_nemo):primary"
+msgid "squirt_(finding_nemo)"
+msgstr "Squirt（海底总动员）"
+
+#. alias-of: squirt_(finding_nemo)
+#. source: ai
+msgctxt "tag:squirt_(finding_nemo):alias:1"
+msgid "squirt_(finding_nemo)"
+msgstr "小海龟（海底总动员）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.container
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:squirt_bottle_(pokemon):primary"
+msgid "squirt_bottle_(pokemon)"
+msgstr "喷水瓶（宝可梦）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.fetish.sex_toy
+#. safety: nsfw
+#. post-count: 77
+#. aliases: 喷水振动棒
+msgctxt "tag:squirting_dildo:primary"
+msgid "squirting_dildo"
+msgstr "喷水假阳具"
+
+#. alias-of: squirting_dildo
+#. source: ai
+msgctxt "tag:squirting_dildo:alias:1"
+msgid "squirting_dildo"
+msgstr "喷水振动棒"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.effect.material.liquid_or_material_state
+#. safety: mixed
+#. post-count: 231
+#. aliases: 溅射
+msgctxt "tag:squirting_liquid:primary"
+msgid "squirting_liquid"
+msgstr "喷溅液体"
+
+#. alias-of: squirting_liquid
+#. source: ai
+msgctxt "tag:squirting_liquid:alias:1"
+msgid "squirting_liquid"
+msgstr "溅射"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2232
+msgctxt "tag:squirtle:primary"
+msgid "squirtle"
+msgstr "杰尼龟"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 2
+#. aliases: 杰尼龟
+msgctxt "tag:squirtle_(3rd_anniversary):primary"
+msgid "squirtle_(3rd_anniversary)"
+msgstr "杰尼龟（3周年）"
+
+#. alias-of: squirtle_(3rd_anniversary)
+#. source: ai
+msgctxt "tag:squirtle_(3rd_anniversary):alias:1"
+msgid "squirtle_(3rd_anniversary)"
+msgstr "杰尼龟"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:squirtle_(cosplay):primary"
+msgid "squirtle_(cosplay)"
+msgstr "杰尼龟 Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirtle_(itou_life):primary"
+msgid "squirtle_(itou_life)"
+msgstr "杰尼龟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squirtle_e:primary"
+msgid "squirtle_e"
+msgstr "杰尼龟E"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:squirtle_squad:primary"
+msgid "squirtle_squad"
+msgstr "杰尼龟小队"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squirtle_squad_(cosplay):primary"
+msgid "squirtle_squad_(cosplay)"
+msgstr "杰尼龟小队Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:squirtletwo:primary"
+msgid "squirtletwo"
+msgstr "杰尼龟二"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squish_(artist):primary"
+msgid "squish_(artist)"
+msgstr "Squish"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squish_(harasho):primary"
+msgid "squish_(harasho)"
+msgstr "挤压（Harasho）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:squish_meister:primary"
+msgid "squish_meister"
+msgstr "squish_meister"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squish_that_cat_(meme):primary"
+msgid "squish_that_cat_(meme)"
+msgstr "捏猫（梗）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:squished_squidward_face_(meme):primary"
+msgid "squished_squidward_face_(meme)"
+msgstr "挤压后的章鱼哥脸（梗）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:squishhee:primary"
+msgid "squishhee"
+msgstr "Squishhee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squishier:primary"
+msgid "squishier"
+msgstr "更软"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:squishilicious:primary"
+msgid "squishilicious"
+msgstr "Squishilicious"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.body_contact_or_support
+#. safety: mixed
+#. post-count: 471
+#. aliases: 压缩
+msgctxt "tag:squishing:primary"
+msgid "squishing"
+msgstr "挤压"
+
+#. alias-of: squishing
+#. source: ai
+msgctxt "tag:squishing:alias:1"
+msgid "squishing"
+msgstr "压缩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squishka_(katputze):primary"
+msgid "squishka_(katputze)"
+msgstr "squishka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:squishlewds:primary"
+msgid "squishlewds"
+msgstr "挤挤乐"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:squishmallows:primary"
+msgid "squishmallows"
+msgstr "Squishmallows"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squishmyberries:primary"
+msgid "squishmyberries"
+msgstr "Squishmyberries"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 232
+#. aliases: 梦魔
+msgctxt "tag:squishsuccubus:primary"
+msgid "squishsuccubus"
+msgstr "软魅魔"
+
+#. alias-of: squishsuccubus
+#. source: ai
+msgctxt "tag:squishsuccubus:alias:1"
+msgid "squishsuccubus"
+msgstr "梦魔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:squishy_(houndeater):primary"
+msgid "squishy_(houndeater)"
+msgstr "史奎希"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:squishy_(kirby):primary"
+msgid "squishy_(kirby)"
+msgstr "Q弹（星之卡比）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squishy_(squishers):primary"
+msgid "squishy_(squishers)"
+msgstr "Squishy（Squishers）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squishy_bloom:primary"
+msgid "squishy_bloom"
+msgstr "Squishy Bloom"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squishy_doodles:primary"
+msgid "squishy_doodles"
+msgstr "squishy_doodles"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:squishy_guts:primary"
+msgid "squishy_guts"
+msgstr "Squishy Guts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:squishy_maine:primary"
+msgid "squishy_maine"
+msgstr "squishy_maine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:squishybolts:primary"
+msgid "squishybolts"
+msgstr "Squishybolts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squishydoom:primary"
+msgid "squishydoom"
+msgstr "Squishydoom"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squishylama:primary"
+msgid "squishylama"
+msgstr "squishylama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squishylaser:primary"
+msgid "squishylaser"
+msgstr "squishylaser"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squishysquids:primary"
+msgid "squishysquids"
+msgstr "SquishySquids"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: 大腿肉感, squirchythighs
+msgctxt "tag:squishythighs:primary"
+msgid "squishythighs"
+msgstr "肉感大腿"
+
+#. alias-of: squishythighs
+#. source: ai
+msgctxt "tag:squishythighs:alias:1"
+msgid "squishythighs"
+msgstr "大腿肉感"
+
+#. alias-of: squishythighs
+#. source: ai
+msgctxt "tag:squishythighs:alias:2"
+msgid "squishythighs"
+msgstr "squirchythighs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squisyathera13:primary"
+msgid "squisyathera13"
+msgstr "squisyathera13"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squizoon:primary"
+msgid "squizoon"
+msgstr "Squizoon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squizxy:primary"
+msgid "squizxy"
+msgstr "squizxy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:squizzard_(omori):primary"
+msgid "squizzard_(omori)"
+msgstr "Squizzard（OMORI）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squking:primary"
+msgid "squking"
+msgstr "尖叫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squking_(character):primary"
+msgid "squking_(character)"
+msgstr "Squking"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squooshi:primary"
+msgid "squooshi"
+msgstr "Squooshi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:squr11608:primary"
+msgid "squr11608"
+msgstr "squr11608"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:squs9u:primary"
+msgid "squs9u"
+msgstr "Squs9u"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:squtho_(crave_saga):primary"
+msgid "squtho_(crave_saga)"
+msgstr "Squtho（Crave Saga）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqwek:primary"
+msgid "sqwek"
+msgstr "Sqwek"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqwern:primary"
+msgid "sqwern"
+msgstr "Sqwern"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqwidcat_(vtuber):primary"
+msgid "sqwidcat_(vtuber)"
+msgstr "SquidCat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqwigeon:primary"
+msgid "sqwigeon"
+msgstr "sqwigeon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sqwunx:primary"
+msgid "sqwunx"
+msgstr "SQWUNX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqyt:primary"
+msgid "sqyt"
+msgstr "sqyt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:sqyyd:primary"
+msgid "sqyyd"
+msgstr "sqyyd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sqyyy:primary"
+msgid "sqyyy"
+msgstr "sqyyy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sqzxuemiao:primary"
+msgid "sqzxuemiao"
+msgstr "sqzxuemiao"

@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:29+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:29+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:jl:primary"
+msgid "jl"
+msgstr "jl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jl-diaz:primary"
+msgid "jl-diaz"
+msgstr "jl-diaz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jl12e13:primary"
+msgid "jl12e13"
+msgstr "jl12e13"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jl_(chadarnook):primary"
+msgid "jl_(chadarnook)"
+msgstr "JL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:jl_seiko:primary"
+msgid "jl_seiko"
+msgstr "JL Seiko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 267
+#. aliases: 晒黑
+msgctxt "tag:jl_tan:primary"
+msgid "jl_tan"
+msgstr "棕肤"
+
+#. alias-of: jl_tan
+#. source: ai
+msgctxt "tag:jl_tan:alias:1"
+msgid "jl_tan"
+msgstr "晒黑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:jlacroixxx:primary"
+msgid "jlacroixxx"
+msgstr "jlacroixxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:jlawrence_art:primary"
+msgid "jlawrence_art"
+msgstr "jlawrence_art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:jlbluess:primary"
+msgid "jlbluess"
+msgstr "JLBluess"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jlc171:primary"
+msgid "jlc171"
+msgstr "jlc171"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:jldescs65:primary"
+msgid "jldescs65"
+msgstr "jldescs65"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jleolvleyr:primary"
+msgid "jleolvleyr"
+msgstr "Jleolvleyr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jlerz1:primary"
+msgid "jlerz1"
+msgstr "jlerz1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jlgarcia_art:primary"
+msgid "jlgarcia_art"
+msgstr "jlgarcia_art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jlgatsby:primary"
+msgid "jlgatsby"
+msgstr "JL Gatsby"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:jliaan:primary"
+msgid "jliaan"
+msgstr "Jliaan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jlien:primary"
+msgid "jlien"
+msgstr "Jlien"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 66
+msgctxt "tag:jlien-:primary"
+msgid "jlien-"
+msgstr "J-Lien"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jlin:primary"
+msgid "jlin"
+msgstr "J·林"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:jlist:primary"
+msgid "jlist"
+msgstr "JLIST"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:jljarx:primary"
+msgid "jljarx"
+msgstr "JLjarx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jljunlan:primary"
+msgid "jljunlan"
+msgstr "jljunlan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:jlm_(tc0658):primary"
+msgid "jlm_(tc0658)"
+msgstr "JLM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:jlmeyer:primary"
+msgid "jlmeyer"
+msgstr "jlmeyer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:jloid:primary"
+msgid "jloid"
+msgstr "jloid"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jloky:primary"
+msgid "jloky"
+msgstr "Jloky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:jlopjlop:primary"
+msgid "jlopjlop"
+msgstr "jlopjlop"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:jltv:primary"
+msgid "jltv"
+msgstr "联合轻型战术车辆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:jlullaby:primary"
+msgid "jlullaby"
+msgstr "jlullaby"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:jlxy0907:primary"
+msgid "jlxy0907"
+msgstr "JLXY0907"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:jlyamlc:primary"
+msgid "jlyamlc"
+msgstr "jlyamlc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:jlypih:primary"
+msgid "jlypih"
+msgstr "jlypih"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jlzeta:primary"
+msgid "jlzeta"
+msgstr "jlzeta"

@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:23+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:23+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dv9l:primary"
+msgid "dv9l"
+msgstr "dv9l"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dv_defender:primary"
+msgid "dv_defender"
+msgstr "DV Defender"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:dva:primary"
+msgid "dva"
+msgstr "D.Va"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dva_(cosplay):primary"
+msgid "dva_(cosplay)"
+msgstr "D.Va（角色扮演）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 128
+msgctxt "tag:dvach-tan:primary"
+msgid "dvach-tan"
+msgstr "双叶娘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvainessa_faj:primary"
+msgid "dvainessa_faj"
+msgstr "dvainessa_faj"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 237
+#. aliases: Dvalin
+msgctxt "tag:dvalin_(genshin_impact):primary"
+msgid "dvalin_(genshin_impact)"
+msgstr "特瓦林"
+
+#. alias-of: dvalin_(genshin_impact)
+#. source: ai
+msgctxt "tag:dvalin_(genshin_impact):alias:1"
+msgid "dvalin_(genshin_impact)"
+msgstr "Dvalin"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dvalin_(genshin_impact)_(cosplay):primary"
+msgid "dvalin_(genshin_impact)_(cosplay)"
+msgstr "特瓦林（原神）角色扮演"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvalinn_gulliver:primary"
+msgid "dvalinn_gulliver"
+msgstr "德瓦林·格列佛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dvampiresmile:primary"
+msgid "dvampiresmile"
+msgstr "吸血鬼微笑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:dvb:primary"
+msgid "dvb"
+msgstr "DVB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:dvc_oldone:primary"
+msgid "dvc_oldone"
+msgstr "DVC Oldone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvcttape:primary"
+msgid "dvcttape"
+msgstr "dvcttape"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:dvd_(character):primary"
+msgid "dvd_(character)"
+msgstr "DVD（角色）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvd_(kakuri):primary"
+msgid "dvd_(kakuri)"
+msgstr "DVD（Kakuri）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.media.cover_or_physical_release
+#. safety: sfw
+#. post-count: 152
+msgctxt "tag:dvd_(object):primary"
+msgid "dvd_(object)"
+msgstr "DVD光盘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: DVD1013
+msgctxt "tag:dvd_1013:primary"
+msgid "dvd_1013"
+msgstr "DVD 1013"
+
+#. alias-of: dvd_1013
+#. source: ai
+msgctxt "tag:dvd_1013:alias:1"
+msgid "dvd_1013"
+msgstr "DVD1013"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.container
+#. safety: sfw
+#. post-count: 361
+#. aliases: DVD盒子
+msgctxt "tag:dvd_case:primary"
+msgid "dvd_case"
+msgstr "DVD盒"
+
+#. alias-of: dvd_case
+#. source: ai
+msgctxt "tag:dvd_case:alias:1"
+msgid "dvd_case"
+msgstr "DVD盒子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.media.cover_or_physical_release
+#. safety: sfw
+#. post-count: 1433
+msgctxt "tag:dvd_cover:primary"
+msgid "dvd_cover"
+msgstr "DVD封面"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.media.cover_or_physical_release
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvd_extra:primary"
+msgid "dvd_extra"
+msgstr "DVD特典"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 697
+#. aliases: DVD标识
+msgctxt "tag:dvd_logo:primary"
+msgid "dvd_logo"
+msgstr "DVD标志"
+
+#. alias-of: dvd_logo
+#. source: ai
+msgctxt "tag:dvd_logo:alias:1"
+msgid "dvd_logo"
+msgstr "DVD标识"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:dvd_player:primary"
+msgid "dvd_player"
+msgstr "DVD播放器"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 79
+msgctxt "tag:dvdarts:primary"
+msgid "dvdarts"
+msgstr "dvdarts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dvdchan:primary"
+msgid "dvdchan"
+msgstr "DVD 酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvdddv:primary"
+msgid "dvdddv"
+msgstr "dvdddv"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 97
+#. aliases: DVD meme
+msgctxt "tag:dvddvd_(meme):primary"
+msgid "dvddvd_(meme)"
+msgstr "DVD模因"
+
+#. alias-of: dvddvd_(meme)
+#. source: ai
+msgctxt "tag:dvddvd_(meme):alias:1"
+msgid "dvddvd_(meme)"
+msgstr "DVD meme"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dvdice:primary"
+msgid "dvdice"
+msgstr "dvdice"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:dvdraw:primary"
+msgid "dvdraw"
+msgstr "D.V.画"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvenadsat_apostolov_(1892):primary"
+msgid "dvenadsat_apostolov_(1892)"
+msgstr "十二使徒号（1892）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dvendvendven:primary"
+msgid "dvendvendven"
+msgstr "dvendvendven"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dvergr:primary"
+msgid "dvergr"
+msgstr "侏儒族"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:dvermayo:primary"
+msgid "dvermayo"
+msgstr "dvermayo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dviasta:primary"
+msgid "dviasta"
+msgstr "Dviasta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dviii:primary"
+msgid "dviii"
+msgstr "DVIII"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvinchy_1:primary"
+msgid "dvinchy_1"
+msgstr "Dvinchy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dvirfederacia:primary"
+msgid "dvirfederacia"
+msgstr "Dvir Federacia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dvkxwj:primary"
+msgid "dvkxwj"
+msgstr "dvkxwj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvlam:primary"
+msgid "dvlam"
+msgstr "dvlam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:dvleo:primary"
+msgid "dvleo"
+msgstr "dvleo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:dvljoe:primary"
+msgid "dvljoe"
+msgstr "dvljoe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dvmogorgon:primary"
+msgid "dvmogorgon"
+msgstr "DVMorgon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dvn_888:primary"
+msgid "dvn_888"
+msgstr "dvn_888"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:dvomil:primary"
+msgid "dvomil"
+msgstr "dvomil"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dvonrock1:primary"
+msgid "dvonrock1"
+msgstr "Dvonrock1"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: Dvorak
+msgctxt "tag:dvorak_(genshin_impact):primary"
+msgid "dvorak_(genshin_impact)"
+msgstr "Dvorak（原神）"
+
+#. alias-of: dvorak_(genshin_impact)
+#. source: ai
+msgctxt "tag:dvorak_(genshin_impact):alias:1"
+msgid "dvorak_(genshin_impact)"
+msgstr "Dvorak"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:dvqjo:primary"
+msgid "dvqjo"
+msgstr "DVQJO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvrk90:primary"
+msgid "dvrk90"
+msgstr "dvrk90"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:dvrtrblhr:primary"
+msgid "dvrtrblhr"
+msgstr "DVRTRBLHR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dvrugxs:primary"
+msgid "dvrugxs"
+msgstr "dvrugxs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvrvla:primary"
+msgid "dvrvla"
+msgstr "dvrvla"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dvwbz1109:primary"
+msgid "dvwbz1109"
+msgstr "dvwbz1109"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dvwn21:primary"
+msgid "dvwn21"
+msgstr "dvwn21"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dvwwy:primary"
+msgid "dvwwy"
+msgstr "dvwwy"

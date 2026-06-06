@@ -1,0 +1,1221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:41+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:41+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd-w:primary"
+msgid "sd-w"
+msgstr "SD-W"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+#. aliases: 伊诺
+msgctxt "tag:sd0_ino:primary"
+msgid "sd0_ino"
+msgstr "SD版伊诺"
+
+#. alias-of: sd0_ino
+#. source: ai
+msgctxt "tag:sd0_ino:alias:1"
+msgid "sd0_ino"
+msgstr "伊诺"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd101h00:primary"
+msgid "sd101h00"
+msgstr "sd101h00"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:sd1988122:primary"
+msgid "sd1988122"
+msgstr "sd1988122"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 79
+msgctxt "tag:sd2190392804:primary"
+msgid "sd2190392804"
+msgstr "SD2190392804"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:sd2_dsotm:primary"
+msgid "sd2_dsotm"
+msgstr "SD2 DSOTM"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:sd3m_pupphead:primary"
+msgid "sd3m_pupphead"
+msgstr "SD3M PuppHead"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:sd4869:primary"
+msgid "sd4869"
+msgstr "SD4869"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: SD绘画
+msgctxt "tag:sd_(ayatakasd):primary"
+msgid "sd_(ayatakasd)"
+msgstr "SD（Ayataka）"
+
+#. alias-of: sd_(ayatakasd)
+#. source: ai
+msgctxt "tag:sd_(ayatakasd):alias:1"
+msgid "sd_(ayatakasd)"
+msgstr "SD绘画"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sd_(s-di):primary"
+msgid "sd_(s-di)"
+msgstr "SD系列"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:sd_(sdgu):primary"
+msgid "sd_(sdgu)"
+msgstr "SD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sd_annii:primary"
+msgid "sd_annii"
+msgstr "sd_annii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: SD安妮
+msgctxt "tag:sd_anniinsfw:primary"
+msgid "sd_anniinsfw"
+msgstr "SD安妮"
+
+#. alias-of: sd_anniinsfw
+#. source: ai
+msgctxt "tag:sd_anniinsfw:alias:1"
+msgid "sd_anniinsfw"
+msgstr "SD安妮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 144
+msgctxt "tag:sd_bigpie:primary"
+msgid "sd_bigpie"
+msgstr "SD BigPie"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:sd_card:primary"
+msgid "sd_card"
+msgstr "SD卡"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:sd_command_chronicles:primary"
+msgid "sd_command_chronicles"
+msgstr "SD指令编年史"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd_command_chronicles_iii:_super_g-arms:primary"
+msgid "sd_command_chronicles_iii:_super_g-arms"
+msgstr "SD高达外传III：超级G-阿姆斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:sd_dja:primary"
+msgid "sd_dja"
+msgstr "SD-DJA"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1570
+msgctxt "tag:sd_gundam:primary"
+msgid "sd_gundam"
+msgstr "SD高达"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd_gundam:_g-arms:primary"
+msgid "sd_gundam:_g-arms"
+msgstr "SD高达：G-阿姆斯"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:sd_gundam_battle_alliance:primary"
+msgid "sd_gundam_battle_alliance"
+msgstr "SD高达：激斗联盟"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sd_gundam_cross_silhouette:primary"
+msgid "sd_gundam_cross_silhouette"
+msgstr "SD高达 Cross Silhouette"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:sd_gundam_force:primary"
+msgid "sd_gundam_force"
+msgstr "SD高达Force"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd_gundam_force_emaki_musharetsuden:primary"
+msgid "sd_gundam_force_emaki_musharetsuden"
+msgstr "SD高达 FORCE 绘卷 武将烈传"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 157
+msgctxt "tag:sd_gundam_g_generation:primary"
+msgid "sd_gundam_g_generation"
+msgstr "SD高达G世纪"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 111
+msgctxt "tag:sd_gundam_g_generation_original:primary"
+msgid "sd_gundam_g_generation_original"
+msgstr "SD高达G世代原创"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 112
+msgctxt "tag:sd_gundam_gaiden:primary"
+msgid "sd_gundam_gaiden"
+msgstr "SD高达外传"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+#. aliases: SD高达
+msgctxt "tag:sd_gundam_gx:primary"
+msgid "sd_gundam_gx"
+msgstr "SD高达 GX"
+
+#. alias-of: sd_gundam_gx
+#. source: ai
+msgctxt "tag:sd_gundam_gx:alias:1"
+msgid "sd_gundam_gx"
+msgstr "SD高达"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd_gundam_jikuuden:primary"
+msgid "sd_gundam_jikuuden"
+msgstr "SD高达 时空传"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:sd_gundam_musha_maruden:primary"
+msgid "sd_gundam_musha_maruden"
+msgstr "SD高达武者丸传"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:sd_gundam_online:primary"
+msgid "sd_gundam_online"
+msgstr "SD高达OL"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:sd_gundam_sangokuden:primary"
+msgid "sd_gundam_sangokuden"
+msgstr "SD高达三国传"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sd_gundam_ultimate_battle:primary"
+msgid "sd_gundam_ultimate_battle"
+msgstr "SD高达 Ultimate Battle"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sd_gundam_world:primary"
+msgid "sd_gundam_world"
+msgstr "SD高达世界"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:sd_gundam_world:_the_legend_of_dragon_knight:primary"
+msgid "sd_gundam_world:_the_legend_of_dragon_knight"
+msgstr "SD高达世界：龙骑士传说"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:sd_gundam_world_heroes:primary"
+msgid "sd_gundam_world_heroes"
+msgstr "SD高达世界：骑士英雄"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd_gundam_world_heroes:_kirihagane_monogatari:primary"
+msgid "sd_gundam_world_heroes:_kirihagane_monogatari"
+msgstr "SD高达世界 英雄传：Kirihagane物语"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 25
+#. aliases: SD高达三国传
+msgctxt "tag:sd_gundam_world_sangoku_soketsuden:primary"
+msgid "sd_gundam_world_sangoku_soketsuden"
+msgstr "SD高达世界 三国创杰传"
+
+#. alias-of: sd_gundam_world_sangoku_soketsuden
+#. source: ai
+msgctxt "tag:sd_gundam_world_sangoku_soketsuden:alias:1"
+msgid "sd_gundam_world_sangoku_soketsuden"
+msgstr "SD高达三国传"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd_hero_soukessen:_taose!_aku_no_gundan:primary"
+msgid "sd_hero_soukessen:_taose!_aku_no_gundan"
+msgstr "SD英雄总决战：打倒！恶之军团"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.style.signature_style
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:sd_pink:primary"
+msgid "sd_pink"
+msgstr "SD粉色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 220
+#. aliases: 计划B
+msgctxt "tag:sd_planb:primary"
+msgid "sd_planb"
+msgstr "SD计划B"
+
+#. alias-of: sd_planb
+#. source: ai
+msgctxt "tag:sd_planb:alias:1"
+msgid "sd_planb"
+msgstr "计划B"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd_rkgk_hr:primary"
+msgid "sd_rkgk_hr"
+msgstr "SD RKGK 高清"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 95
+#. aliases: Q版战国
+msgctxt "tag:sd_sengokuden:primary"
+msgid "sd_sengokuden"
+msgstr "SD战国传"
+
+#. alias-of: sd_sengokuden
+#. source: ai
+msgctxt "tag:sd_sengokuden:alias:1"
+msgid "sd_sengokuden"
+msgstr "Q版战国"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:sd_supa:primary"
+msgid "sd_supa"
+msgstr "SD Supa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sd_ttochi:primary"
+msgid "sd_ttochi"
+msgstr "sd_ttochi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:sdaki:primary"
+msgid "sdaki"
+msgstr "Q版脚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdaki_(artist):primary"
+msgid "sdaki_(artist)"
+msgstr "sdaki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sdamhp:primary"
+msgid "sdamhp"
+msgstr "SDAMHP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sdani:primary"
+msgid "sdani"
+msgstr "sdani"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:sdayy:primary"
+msgid "sdayy"
+msgstr "sdayy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sdbhkbakuf:primary"
+msgid "sdbhkbakuf"
+msgstr "sdbhkbakuf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:sdd:primary"
+msgid "sdd"
+msgstr "SDD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:sdd13lr:primary"
+msgid "sdd13lr"
+msgstr "SDD13LR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:sddfsdfq:primary"
+msgid "sddfsdfq"
+msgstr "sddfsdfq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sde_ritsuu:primary"
+msgid "sde_ritsuu"
+msgstr "Ritsuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdemchn49:primary"
+msgid "sdemchn49"
+msgstr "sdemchn49"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sdeoggye:primary"
+msgid "sdeoggye"
+msgstr "sdeoggye"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdesf:primary"
+msgid "sdesf"
+msgstr "sdesf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdesireai:primary"
+msgid "sdesireai"
+msgstr "sdesireai"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 234
+#. aliases: Macross
+msgctxt "tag:sdf-1:primary"
+msgid "sdf-1"
+msgstr "SDF-1"
+
+#. alias-of: sdf-1
+#. source: ai
+msgctxt "tag:sdf-1:alias:1"
+msgid "sdf-1"
+msgstr "Macross"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: SDF-2
+msgctxt "tag:sdf-2_megaroad-01:primary"
+msgid "sdf-2_megaroad-01"
+msgstr "SDF-2 Megaroad-01"
+
+#. alias-of: sdf-2_megaroad-01
+#. source: ai
+msgctxt "tag:sdf-2_megaroad-01:alias:1"
+msgid "sdf-2_megaroad-01"
+msgstr "SDF-2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdf-3:primary"
+msgid "sdf-3"
+msgstr "SDF-3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sdf_(pixiv_22645843):primary"
+msgid "sdf_(pixiv_22645843)"
+msgstr "SDF (Pixiv 22645843)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdfsss396356:primary"
+msgid "sdfsss396356"
+msgstr "sdfsss396356"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 82
+msgctxt "tag:sdftehn:primary"
+msgid "sdftehn"
+msgstr "SDFtehn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdg_423:primary"
+msgid "sdg_423"
+msgstr "Sdg 423"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdgshimakaze:primary"
+msgid "sdgshimakaze"
+msgstr "岛风SD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sdgy7757:primary"
+msgid "sdgy7757"
+msgstr "sdgy7757"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:sdhh:primary"
+msgid "sdhh"
+msgstr "SDHH"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:sdhjjjd:primary"
+msgid "sdhjjjd"
+msgstr "sdhjjjd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sdk:primary"
+msgid "sdk"
+msgstr "SDK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:sdkafka:primary"
+msgid "sdkafka"
+msgstr "卡夫卡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sdkaruka:primary"
+msgid "sdkaruka"
+msgstr "SDKaruka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdkb:primary"
+msgid "sdkb"
+msgstr "SDKB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:sdkfz221:primary"
+msgid "sdkfz221"
+msgstr "SdKfz 221"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sdkfz_10:primary"
+msgid "sdkfz_10"
+msgstr "SdKfz 10半履带车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sdkfz_11:primary"
+msgid "sdkfz_11"
+msgstr "SdKfz 11半履带车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 10
+#. aliases: 山猫
+msgctxt "tag:sdkfz_123_luchs:primary"
+msgid "sdkfz_123_luchs"
+msgstr "Sd.Kfz.123 山猫装甲侦察车"
+
+#. alias-of: sdkfz_123_luchs
+#. source: ai
+msgctxt "tag:sdkfz_123_luchs:alias:1"
+msgid "sdkfz_123_luchs"
+msgstr "山猫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sdkfz_135:primary"
+msgid "sdkfz_135"
+msgstr "Sd.Kfz.135"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdkfz_140/1:primary"
+msgid "sdkfz_140/1"
+msgstr "SdKfz 140/1装甲车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+#. aliases: 自行火炮
+msgctxt "tag:sdkfz_165_hummel:primary"
+msgid "sdkfz_165_hummel"
+msgstr "野蜂自行火炮"
+
+#. alias-of: sdkfz_165_hummel
+#. source: ai
+msgctxt "tag:sdkfz_165_hummel:alias:1"
+msgid "sdkfz_165_hummel"
+msgstr "自行火炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:sdkfz_222:primary"
+msgid "sdkfz_222"
+msgstr "SDKFZ 222"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 1
+#. aliases: Sd.Kfz.223拟人
+msgctxt "tag:sdkfz_223_(personification):primary"
+msgid "sdkfz_223_(personification)"
+msgstr "Sd.Kfz.223（拟人）"
+
+#. alias-of: sdkfz_223_(personification)
+#. source: ai
+msgctxt "tag:sdkfz_223_(personification):alias:1"
+msgid "sdkfz_223_(personification)"
+msgstr "Sd.Kfz.223拟人"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sdkfz_231:primary"
+msgid "sdkfz_231"
+msgstr "SdKfz 231"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+#. aliases: 八轮装甲车
+msgctxt "tag:sdkfz_232:primary"
+msgid "sdkfz_232"
+msgstr "Sd.Kfz. 232"
+
+#. alias-of: sdkfz_232
+#. source: ai
+msgctxt "tag:sdkfz_232:alias:1"
+msgid "sdkfz_232"
+msgstr "八轮装甲车"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdkfz_232_(personification):primary"
+msgid "sdkfz_232_(personification)"
+msgstr "Sd.Kfz.232（拟人）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdkfz_233:primary"
+msgid "sdkfz_233"
+msgstr "SdKfz 233装甲车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:sdkfz_234:primary"
+msgid "sdkfz_234"
+msgstr "SD.Kfz. 234装甲车"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sdkfz_234_puma_(ash_arms):primary"
+msgid "sdkfz_234_puma_(ash_arms)"
+msgstr "Sd.Kfz. 234 Puma（Ash Arms）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdkfz_234_puma_(daebom):primary"
+msgid "sdkfz_234_puma_(daebom)"
+msgstr "Sd.Kfz.234 Puma（Daebom）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:sdkfz_250:primary"
+msgid "sdkfz_250"
+msgstr "sd.kfz.250装甲车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:sdkfz_251:primary"
+msgid "sdkfz_251"
+msgstr "Sd.Kfz.251"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdkfz_251_(personification):primary"
+msgid "sdkfz_251_(personification)"
+msgstr "Sd.Kfz.251（拟人）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdkfz_254:primary"
+msgid "sdkfz_254"
+msgstr "SdKfz 254装甲车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdkfz_301:primary"
+msgid "sdkfz_301"
+msgstr "SdKfz 301装甲车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sdkfz_7:primary"
+msgid "sdkfz_7"
+msgstr "SdKfz 7半履带车"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:sdkfz_9:primary"
+msgid "sdkfz_9"
+msgstr "Sd.Kfz. 9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:sdksdk_34:primary"
+msgid "sdksdk_34"
+msgstr "sdksdk_34"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdktifkgyp:primary"
+msgid "sdktifkgyp"
+msgstr "SDKTIFKGYP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdl:primary"
+msgid "sdl"
+msgstr "SDL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdlee5959:primary"
+msgid "sdlee5959"
+msgstr "sdlee5959"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdmeimi:primary"
+msgid "sdmeimi"
+msgstr "sdmeimi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdmhkshk:primary"
+msgid "sdmhkshk"
+msgstr "sdmhkshk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdmmrkw:primary"
+msgid "sdmmrkw"
+msgstr "sdmmrkw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sdmsadism:primary"
+msgid "sdmsadism"
+msgstr "调教"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdmty:primary"
+msgid "sdmty"
+msgstr "sdmty"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdnshaori:primary"
+msgid "sdnshaori"
+msgstr "沙乃诗织"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sdnz_noin:primary"
+msgid "sdnz_noin"
+msgstr "SDNZ NoIn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sdoodlio:primary"
+msgid "sdoodlio"
+msgstr "Sdoodlio"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.mobile_gacha
+#. safety: sfw
+#. post-count: 353
+#. aliases: Sdorica
+msgctxt "tag:sdorica:primary"
+msgid "sdorica"
+msgstr "沙杜拉"
+
+#. alias-of: sdorica
+#. source: ai
+msgctxt "tag:sdorica:alias:1"
+msgid "sdorica"
+msgstr "Sdorica"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sdorica0127:primary"
+msgid "sdorica0127"
+msgstr "sdorica0127"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdown:primary"
+msgid "sdown"
+msgstr "sdown"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:sdp-1_stampede_valkyrie:primary"
+msgid "sdp-1_stampede_valkyrie"
+msgstr "Sdp-1 Stampede Valkyrie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:sdqg:primary"
+msgid "sdqg"
+msgstr "SDQG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:sdr1989:primary"
+msgid "sdr1989"
+msgstr "SDR1989"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdr6coyote:primary"
+msgid "sdr6coyote"
+msgstr "sdr6coyote"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:sdrangers:primary"
+msgid "sdrangers"
+msgstr "sdrangers"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: SDRegret
+msgctxt "tag:sdregret:primary"
+msgid "sdregret"
+msgstr "SDRegret"
+
+#. alias-of: sdregret
+#. source: ai
+msgctxt "tag:sdregret:alias:1"
+msgid "sdregret"
+msgstr "SDRegret"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:sdrzkaige:primary"
+msgid "sdrzkaige"
+msgstr "sdrzkaige"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sds3456:primary"
+msgid "sds3456"
+msgstr "SDS3456"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sds_(sds_jmsn):primary"
+msgid "sds_(sds_jmsn)"
+msgstr "SDS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sds_koutou:primary"
+msgid "sds_koutou"
+msgstr "叩头"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:sdsbtfl:primary"
+msgid "sdsbtfl"
+msgstr "用户 sdsbtfl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdshamshel:primary"
+msgid "sdshamshel"
+msgstr "Shamshel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdtlm99697:primary"
+msgid "sdtlm99697"
+msgstr "sdtlm99697"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdto10:primary"
+msgid "sdto10"
+msgstr "SDTO10"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sduniverse:primary"
+msgid "sduniverse"
+msgstr "SD Universe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:sdvoit:primary"
+msgid "sdvoit"
+msgstr "SDVOIT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sdw0101:primary"
+msgid "sdw0101"
+msgstr "sdw0101"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdwan_(artist):primary"
+msgid "sdwan_(artist)"
+msgstr "sdwan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 87
+#. aliases: SD翅膀
+msgctxt "tag:sdwing:primary"
+msgid "sdwing"
+msgstr "SD翼"
+
+#. alias-of: sdwing
+#. source: ai
+msgctxt "tag:sdwing:alias:1"
+msgid "sdwing"
+msgstr "SD翅膀"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sdyoui:primary"
+msgid "sdyoui"
+msgstr "SD妖精"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 277
+#. aliases: 稻妻
+msgctxt "tag:sdz_(inazuma):primary"
+msgid "sdz_(inazuma)"
+msgstr "雷电"
+
+#. alias-of: sdz_(inazuma)
+#. source: ai
+msgctxt "tag:sdz_(inazuma):alias:1"
+msgid "sdz_(inazuma)"
+msgstr "稻妻"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sdz_inzmk:primary"
+msgid "sdz_inzmk"
+msgstr "sdz_inzmk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:sdzo:primary"
+msgid "sdzo"
+msgstr "sdzo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:sdzy97510:primary"
+msgid "sdzy97510"
+msgstr "sdzy97510"

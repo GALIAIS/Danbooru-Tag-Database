@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:29+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:29+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:jf:primary"
+msgid "jf"
+msgstr "JF"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jf-10:primary"
+msgid "jf-10"
+msgstr "JF-10"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 8
+#. aliases: JF-17
+msgctxt "tag:jf-17_thunder:primary"
+msgid "jf-17_thunder"
+msgstr "JF-17雷电战斗机"
+
+#. alias-of: jf-17_thunder
+#. source: ai
+msgctxt "tag:jf-17_thunder:alias:1"
+msgid "jf-17_thunder"
+msgstr "JF-17"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:jf32o:primary"
+msgid "jf32o"
+msgstr "jf32o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:jf5437:primary"
+msgid "jf5437"
+msgstr "jf5437"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jf731:primary"
+msgid "jf731"
+msgstr "jf731"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jf_(jfonly):primary"
+msgid "jf_(jfonly)"
+msgstr "jfonly"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:jf_illustration:primary"
+msgid "jf_illustration"
+msgstr "插画"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jfbmbkdn:primary"
+msgid "jfbmbkdn"
+msgstr "jfbmbkdn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jfbz:primary"
+msgid "jfbz"
+msgstr "JFBZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jfe11st36:primary"
+msgid "jfe11st36"
+msgstr "jfe11st36"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jferrellanimates:primary"
+msgid "jferrellanimates"
+msgstr "JFerrellAnimates"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jffba64972qlgp:primary"
+msgid "jffba64972qlgp"
+msgstr "jffba64972qlgp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jfffe20:primary"
+msgid "jfffe20"
+msgstr "Jfffe20"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:jficbcpcr6eyujo:primary"
+msgid "jficbcpcr6eyujo"
+msgstr "jficbcpcr6eyujo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:jfifwebp:primary"
+msgid "jfifwebp"
+msgstr "JFIF/WEBP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 242
+msgctxt "tag:jfjf:primary"
+msgid "jfjf"
+msgstr "未知标签"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jflaxman:primary"
+msgid "jflaxman"
+msgstr "J·弗拉克斯曼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:jfliesenborghs:primary"
+msgid "jfliesenborghs"
+msgstr "jfliesenborghs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jfo3f:primary"
+msgid "jfo3f"
+msgstr "jfo3f"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:jfoliveras:primary"
+msgid "jfoliveras"
+msgstr "JF Oliveras"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jfornes74:primary"
+msgid "jfornes74"
+msgstr "Jfornes74"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:jfps9911:primary"
+msgid "jfps9911"
+msgstr "jfps9911"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:jfr3ow:primary"
+msgid "jfr3ow"
+msgstr "jfr3ow"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 143
+msgctxt "tag:jfzm001:primary"
+msgid "jfzm001"
+msgstr "jfzm001"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:jfzy020416:primary"
+msgid "jfzy020416"
+msgstr "jfzy020416"

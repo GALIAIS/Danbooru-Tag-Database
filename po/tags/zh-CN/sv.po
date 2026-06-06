@@ -1,0 +1,1375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:45+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:45+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 153
+msgctxt "tag:sv-001_(metal_slug):primary"
+msgid "sv-001_(metal_slug)"
+msgstr "SV-001"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:sv-262:primary"
+msgid "sv-262"
+msgstr "SV-262"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sv-303:primary"
+msgid "sv-303"
+msgstr "SV-303"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:sv-51:primary"
+msgid "sv-51"
+msgstr "SV-51"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 105
+#. aliases: SV-98狙击步枪
+msgctxt "tag:sv-98:primary"
+msgid "sv-98"
+msgstr "SV-98"
+
+#. alias-of: sv-98
+#. source: ai
+msgctxt "tag:sv-98:alias:1"
+msgid "sv-98"
+msgstr "SV-98狙击步枪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 321
+msgctxt "tag:sv-98_(girls'_frontline):primary"
+msgid "sv-98_(girls'_frontline)"
+msgstr "SV-98(少女前线)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 5
+#. aliases: SV-98
+msgctxt "tag:sv-98_(girls'_frontline)_(cosplay):primary"
+msgid "sv-98_(girls'_frontline)_(cosplay)"
+msgstr "SV-98（少女前线）角色扮演"
+
+#. alias-of: sv-98_(girls'_frontline)_(cosplay)
+#. source: ai
+msgctxt "tag:sv-98_(girls'_frontline)_(cosplay):alias:1"
+msgid "sv-98_(girls'_frontline)_(cosplay)"
+msgstr "SV-98"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 117
+#. aliases: SV-98（改三）
+msgctxt "tag:sv-98_(mod3)_(girls'_frontline):primary"
+msgid "sv-98_(mod3)_(girls'_frontline)"
+msgstr "SV-98 改3"
+
+#. alias-of: sv-98_(mod3)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:sv-98_(mod3)_(girls'_frontline):alias:1"
+msgid "sv-98_(mod3)_(girls'_frontline)"
+msgstr "SV-98（改三）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+#. aliases: 少前SV-98
+msgctxt "tag:sv-98_(pierce_your_heart!)_(girls'_frontline):primary"
+msgid "sv-98_(pierce_your_heart!)_(girls'_frontline)"
+msgstr "SV-98（穿透你的心！）（少女前线）"
+
+#. alias-of: sv-98_(pierce_your_heart!)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:sv-98_(pierce_your_heart!)_(girls'_frontline):alias:1"
+msgid "sv-98_(pierce_your_heart!)_(girls'_frontline)"
+msgstr "少前SV-98"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:sv-98_(waitress)_(girls'_frontline):primary"
+msgid "sv-98_(waitress)_(girls'_frontline)"
+msgstr "SV-98(女仆装)(少女前线)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sv-camel:primary"
+msgid "sv-camel"
+msgstr "SV-骆驼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:sv2_misuzu_sv2:primary"
+msgid "sv2_misuzu_sv2"
+msgstr "sv2美铃"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sv5fasc8fc0moux:primary"
+msgid "sv5fasc8fc0moux"
+msgstr "sv5fasc8fc0moux"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sv800:primary"
+msgid "sv800"
+msgstr "SV800"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sv_grart:primary"
+msgid "sv_grart"
+msgstr "sv_grart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sv_rj:primary"
+msgid "sv_rj"
+msgstr "SV RJ"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sv_werder_bremen:primary"
+msgid "sv_werder_bremen"
+msgstr "云达不莱梅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:svacob:primary"
+msgid "svacob"
+msgstr "Svacob"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:svafrlami_(age_of_ishtaria):primary"
+msgid "svafrlami_(age_of_ishtaria)"
+msgstr "斯瓦弗拉米（Age of Ishtaria）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svaha_(granblue_fantasy):primary"
+msgid "svaha_(granblue_fantasy)"
+msgstr "斯瓦哈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:svala_(hanakanaa):primary"
+msgid "svala_(hanakanaa)"
+msgstr "Svala"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svalbard_raichou:primary"
+msgid "svalbard_raichou"
+msgstr "svalbard_raichou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svalbaru:primary"
+msgid "svalbaru"
+msgstr "svalbaru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:svalinn_(crave_saga):primary"
+msgid "svalinn_(crave_saga)"
+msgstr "Svalinn（Crave Saga）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:svalinn_muspelsson:primary"
+msgid "svalinn_muspelsson"
+msgstr "斯瓦林·穆斯贝尔森"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svana:primary"
+msgid "svana"
+msgstr "Svana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svanas:primary"
+msgid "svanas"
+msgstr "Svanas"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svanhild:primary"
+msgid "svanhild"
+msgstr "斯万希尔德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svaniel_lpf:primary"
+msgid "svaniel_lpf"
+msgstr "Svaniel LPF"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:svanna_(hakubaku):primary"
+msgid "svanna_(hakubaku)"
+msgstr "Svanna（Hakubaku）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svarbhanu_(ff14):primary"
+msgid "svarbhanu_(ff14)"
+msgstr "Svarbhanu（FF14）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svari_the_fox:primary"
+msgid "svari_the_fox"
+msgstr "Svari狐狸"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 129
+#. aliases: 史瓦罗(崩坏星穹铁道)
+msgctxt "tag:svarog_(honkai:_star_rail):primary"
+msgid "svarog_(honkai:_star_rail)"
+msgstr "史瓦罗"
+
+#. alias-of: svarog_(honkai:_star_rail)
+#. source: ai
+msgctxt "tag:svarog_(honkai:_star_rail):alias:1"
+msgid "svarog_(honkai:_star_rail)"
+msgstr "史瓦罗(崩坏星穹铁道)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:svarog_(honkai:_star_rail)_(cosplay):primary"
+msgid "svarog_(honkai:_star_rail)_(cosplay)"
+msgstr "斯瓦罗格（崩坏：星穹铁道）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svarog_(kamihime_project):primary"
+msgid "svarog_(kamihime_project)"
+msgstr "斯瓦罗格"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svarog_aesfrost:primary"
+msgid "svarog_aesfrost"
+msgstr "斯瓦罗格"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.brand_or_merchandise_item
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:svarog_heavy_industries:primary"
+msgid "svarog_heavy_industries"
+msgstr "Svarog重工业"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 154
+msgctxt "tag:svartlilja_(vrchat):primary"
+msgid "svartlilja_(vrchat)"
+msgstr "斯瓦特莉莉娅(VRChat)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 暗黒莉莉亚
+msgctxt "tag:svartlilja_(vrchat)_(cosplay):primary"
+msgid "svartlilja_(vrchat)_(cosplay)"
+msgstr "Svartlilja（VRChat）（角色扮演）"
+
+#. alias-of: svartlilja_(vrchat)_(cosplay)
+#. source: ai
+msgctxt "tag:svartlilja_(vrchat)_(cosplay):alias:1"
+msgid "svartlilja_(vrchat)_(cosplay)"
+msgstr "暗黒莉莉亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svartya:primary"
+msgid "svartya"
+msgstr "svartya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svarzye:primary"
+msgid "svarzye"
+msgstr "斯瓦尔兹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svatoslav:primary"
+msgid "svatoslav"
+msgstr "svatoslav"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 198
+#. aliases: 混乱
+msgctxt "tag:svc_chaos:primary"
+msgid "svc_chaos"
+msgstr "混沌"
+
+#. alias-of: svc_chaos
+#. source: ai
+msgctxt "tag:svc_chaos:alias:1"
+msgid "svc_chaos"
+msgstr "混乱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:svch_(girls'_frontline):primary"
+msgid "svch_(girls'_frontline)"
+msgstr "SVCh"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:svch_(scarlet_night_huntress)_(girls'_frontline):primary"
+msgid "svch_(scarlet_night_huntress)_(girls'_frontline)"
+msgstr "SVCh（绯夜猎手）（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svctory:primary"
+msgid "svctory"
+msgstr "SVCTORY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svd:primary"
+msgid "svd"
+msgstr "SVD"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:svd_(camellia's_vigil)_(girls'_frontline):primary"
+msgid "svd_(camellia's_vigil)_(girls'_frontline)"
+msgstr "SVD"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 482
+#. aliases: SVD, 少女前线
+msgctxt "tag:svd_(girls'_frontline):primary"
+msgid "svd_(girls'_frontline)"
+msgstr "SVD(少女前线)"
+
+#. alias-of: svd_(girls'_frontline)
+#. source: ai
+msgctxt "tag:svd_(girls'_frontline):alias:1"
+msgid "svd_(girls'_frontline)"
+msgstr "SVD"
+
+#. alias-of: svd_(girls'_frontline)
+#. source: ai
+msgctxt "tag:svd_(girls'_frontline):alias:2"
+msgid "svd_(girls'_frontline)"
+msgstr "少女前线"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svd_(girls'_frontline)_(cosplay):primary"
+msgid "svd_(girls'_frontline)_(cosplay)"
+msgstr "SVD（少女前线）（角色扮演）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:svd_(winter_fairy)_(girls'_frontline):primary"
+msgid "svd_(winter_fairy)_(girls'_frontline)"
+msgstr "SVD (冬天的妖精) (少女前线)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svdpony:primary"
+msgid "svdpony"
+msgstr "svdpony"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svea_wary:primary"
+msgid "svea_wary"
+msgstr "斯维娅·韦里"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sveasouls:primary"
+msgid "sveasouls"
+msgstr "sveasouls"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sveid:primary"
+msgid "sveid"
+msgstr "sveid"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:svelgr_(hre):primary"
+msgid "svelgr_(hre)"
+msgstr "Svelgr (HRE)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svelien:primary"
+msgid "svelien"
+msgstr "svelien"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:svellamushire:primary"
+msgid "svellamushire"
+msgstr "svellamushire"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sveltefleuve:primary"
+msgid "sveltefleuve"
+msgstr "Sveltefleuve"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:sven_(another_eidos):primary"
+msgid "sven_(another_eidos)"
+msgstr "斯文（Another Eidos）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:sven_(dota):primary"
+msgid "sven_(dota)"
+msgstr "斯温（Dota）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sven_(dota)_(cosplay):primary"
+msgid "sven_(dota)_(cosplay)"
+msgstr "Sven（Dota）（角色扮演）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:sven_(frozen):primary"
+msgid "sven_(frozen)"
+msgstr "斯温（冰雪奇缘）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: Frozen
+msgctxt "tag:sven_(frozen)_(cosplay):primary"
+msgid "sven_(frozen)_(cosplay)"
+msgstr "Sven（冰雪奇缘）Cosplay"
+
+#. alias-of: sven_(frozen)_(cosplay)
+#. source: ai
+msgctxt "tag:sven_(frozen)_(cosplay):alias:1"
+msgid "sven_(frozen)_(cosplay)"
+msgstr "Frozen"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:sven_(gyee):primary"
+msgid "sven_(gyee)"
+msgstr "Sven（解神者）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sven_(pewdiepie):primary"
+msgid "sven_(pewdiepie)"
+msgstr "斯文（PewDiePie）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sven_(pokemon):primary"
+msgid "sven_(pokemon)"
+msgstr "斯文（宝可梦）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sven_(skyrim):primary"
+msgid "sven_(skyrim)"
+msgstr "斯文（上古卷轴）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:sven_(svenners):primary"
+msgid "sven_(svenners)"
+msgstr "斯文"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sven_(voltron):primary"
+msgid "sven_(voltron)"
+msgstr "斯文（Voltron）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:sven_(world_flipper):primary"
+msgid "sven_(world_flipper)"
+msgstr "斯文"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sven_(world_flipper)_(cosplay):primary"
+msgid "sven_(world_flipper)_(cosplay)"
+msgstr "Sven（World Flipper）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sven_anger:primary"
+msgid "sven_anger"
+msgstr "斯文·安格尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:sven_cal_bayan:primary"
+msgid "sven_cal_bayan"
+msgstr "斯温·卡尔·巴扬"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sven_cioffari:primary"
+msgid "sven_cioffari"
+msgstr "Sven Cioffari"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:sven_from_oz:primary"
+msgid "sven_from_oz"
+msgstr "斯文（奥兹）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:sven_hoek:primary"
+msgid "sven_hoek"
+msgstr "sven_hoek"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:sven_hoffmann:primary"
+msgid "sven_hoffmann"
+msgstr "Sven Hoffmann"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sven_stoffels:primary"
+msgid "sven_stoffels"
+msgstr "Sven Stoffels"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:sven_svensson:primary"
+msgid "sven_svensson"
+msgstr "Sven Svensson"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:sven_vollfied:primary"
+msgid "sven_vollfied"
+msgstr "斯文·沃尔菲德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svenat:primary"
+msgid "svenat"
+msgstr "Svenat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:svenojilasity:primary"
+msgid "svenojilasity"
+msgstr "Svenojilasity"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svenpai:primary"
+msgid "svenpai"
+msgstr "Svenpai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svenskpojk:primary"
+msgid "svenskpojk"
+msgstr "svenskpojk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:sverhnovapony:primary"
+msgid "sverhnovapony"
+msgstr "Sverhnovapony"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:sverige_(ship):primary"
+msgid "sverige_(ship)"
+msgstr "Sverige号（船）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.traditional_wear
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:sverigedrakten:primary"
+msgid "sverigedrakten"
+msgstr "瑞典传统服饰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 184
+msgctxt "tag:svet_yomi:primary"
+msgid "svet_yomi"
+msgstr "斯维特·由美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sveta_(boma_naraka_sura):primary"
+msgid "sveta_(boma_naraka_sura)"
+msgstr "斯维塔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:sveta_(golden_sun):primary"
+msgid "sveta_(golden_sun)"
+msgstr "斯维塔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 斯维塔
+msgctxt "tag:sveta_(shy):primary"
+msgid "sveta_(shy)"
+msgstr "sveta"
+
+#. alias-of: sveta_(shy)
+#. source: ai
+msgctxt "tag:sveta_(shy):alias:1"
+msgid "sveta_(shy)"
+msgstr "斯维塔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:sveta_shubina:primary"
+msgid "sveta_shubina"
+msgstr "斯维塔·舒比娜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svetla_(lost_technology):primary"
+msgid "svetla_(lost_technology)"
+msgstr "斯维特拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svetla_(silverfox442):primary"
+msgid "svetla_(silverfox442)"
+msgstr "Svetla（silverfox442）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:svetlana_(arknights):primary"
+msgid "svetlana_(arknights)"
+msgstr "斯韦特兰娜（明日方舟）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svetlana_(iggybomb):primary"
+msgid "svetlana_(iggybomb)"
+msgstr "斯维特拉娜（iggybomb）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:svetlana_(project_luminasys):primary"
+msgid "svetlana_(project_luminasys)"
+msgstr "斯维特兰娜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svetlana_moroznikova:primary"
+msgid "svetlana_moroznikova"
+msgstr "斯维特拉娜·莫罗兹尼科娃"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:svetlana_nestrovna_sorokina:primary"
+msgid "svetlana_nestrovna_sorokina"
+msgstr "斯韦特兰娜·涅斯特罗夫娜·索罗金娜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:svetlana_samsonov:primary"
+msgid "svetlana_samsonov"
+msgstr "斯韦特兰娜·萨姆索诺娃"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+#. aliases: svetlana_tigai
+msgctxt "tag:svetlana_tigai:primary"
+msgid "svetlana_tigai"
+msgstr "斯维特兰娜·蒂盖"
+
+#. alias-of: svetlana_tigai
+#. source: ai
+msgctxt "tag:svetlana_tigai:alias:1"
+msgid "svetlana_tigai"
+msgstr "svetlana_tigai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svetlonoc:primary"
+msgid "svetlonoc"
+msgstr "夜光"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svetlyypie:primary"
+msgid "svetlyypie"
+msgstr "svetlyypie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svetoch_levin:primary"
+msgid "svetoch_levin"
+msgstr "斯维托奇·列文"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svetty-art:primary"
+msgid "svetty-art"
+msgstr "svetty-art"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:svia_(sword_girls):primary"
+msgid "svia_(sword_girls)"
+msgstr "斯维亚（Sword Girls）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svia_(zettai_meikyuu_himitsu_no_oyayubi-hime):primary"
+msgid "svia_(zettai_meikyuu_himitsu_no_oyayubi-hime)"
+msgstr "斯维亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:sviatoslav_vovk:primary"
+msgid "sviatoslav_vovk"
+msgstr "斯维亚托斯拉夫·沃夫克"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svickova:primary"
+msgid "svickova"
+msgstr "斯维奇科娃炖牛肉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svidjay:primary"
+msgid "svidjay"
+msgstr "svidjay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sviellya:primary"
+msgid "sviellya"
+msgstr "斯维利亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:sviggum:primary"
+msgid "sviggum"
+msgstr "Sviggum"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svikey02:primary"
+msgid "svikey02"
+msgstr "svikey02"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:svin_glascheit:primary"
+msgid "svin_glascheit"
+msgstr "Svin Glascheit"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svinnoyg:primary"
+msgid "svinnoyg"
+msgstr "Svinnoyg"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:svinorezka:primary"
+msgid "svinorezka"
+msgstr "斯维诺列兹卡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:svioress:primary"
+msgid "svioress"
+msgstr "Svioress"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:svirepy_(azur_lane):primary"
+msgid "svirepy_(azur_lane)"
+msgstr "Svirepy（碧蓝航线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:svirepy_(rebellious_artist)_(azur_lane):primary"
+msgid "svirepy_(rebellious_artist)_(azur_lane)"
+msgstr "Svirepy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:sviuivs:primary"
+msgid "sviuivs"
+msgstr "sviuivs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svjdm5mwe0vhpsf:primary"
+msgid "svjdm5mwe0vhpsf"
+msgstr "svjdm5mwe0vhpsf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:svkhaiminh:primary"
+msgid "svkhaiminh"
+msgstr "svkhaiminh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svladcjellis:primary"
+msgid "svladcjellis"
+msgstr "svladcjellis"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svlk-14s:primary"
+msgid "svlk-14s"
+msgstr "SVLK-14S"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:svlt:primary"
+msgid "svlt"
+msgstr "svlt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svmin:primary"
+msgid "svmin"
+msgstr "Svmin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svn777svn:primary"
+msgid "svn777svn"
+msgstr "svn777svn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svnnnne:primary"
+msgid "svnnnne"
+msgstr "svnnnne"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svnnyangel:primary"
+msgid "svnnyangel"
+msgstr "svnnyangel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:svnnydraw:primary"
+msgid "svnnydraw"
+msgstr "Svnnydraw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svnnyrises:primary"
+msgid "svnnyrises"
+msgstr "Svnnyrises"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svnoclip:primary"
+msgid "svnoclip"
+msgstr "SVNoclip"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svnthsun:primary"
+msgid "svnthsun"
+msgstr "svnthsun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svnx:primary"
+msgid "svnx"
+msgstr "svnx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:svoidist:primary"
+msgid "svoidist"
+msgstr "Svoidist"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:svol:primary"
+msgid "svol"
+msgstr "svol"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svorcina:primary"
+msgid "svorcina"
+msgstr "svorcina"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:svplay:primary"
+msgid "svplay"
+msgstr "SVPlay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svrt-degraded:primary"
+msgid "svrt-degraded"
+msgstr "低画质"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svs0_s0_a:primary"
+msgid "svs0_s0_a"
+msgstr "svs0_s0_a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:svs0_s0_s:primary"
+msgid "svs0_s0_s"
+msgstr "svs0_s0_s"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:svt-38:primary"
+msgid "svt-38"
+msgstr "SVT-38"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+#. aliases: SVT38
+msgctxt "tag:svt-38_(girls'_frontline):primary"
+msgid "svt-38_(girls'_frontline)"
+msgstr "SVT-38"
+
+#. alias-of: svt-38_(girls'_frontline)
+#. source: ai
+msgctxt "tag:svt-38_(girls'_frontline):alias:1"
+msgid "svt-38_(girls'_frontline)"
+msgstr "SVT38"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:svt-40:primary"
+msgid "svt-40"
+msgstr "SVT-40步枪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:svtcool:primary"
+msgid "svtcool"
+msgstr "SVTCOOL"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:svu_(girls'_frontline)_(j_adsen):primary"
+msgid "svu_(girls'_frontline)_(j_adsen)"
+msgstr "SVU（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svuirlithii:primary"
+msgid "svuirlithii"
+msgstr "svuirlithii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svv1m:primary"
+msgid "svv1m"
+msgstr "svv1m"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:svv_art:primary"
+msgid "svv_art"
+msgstr "SVV Art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 143
+msgctxt "tag:svveetberry:primary"
+msgid "svveetberry"
+msgstr "svveetberry"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svveetlovey:primary"
+msgid "svveetlovey"
+msgstr "svveetlovey"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:svvshi:primary"
+msgid "svvshi"
+msgstr "Svvshi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:svvvesha:primary"
+msgid "svvvesha"
+msgstr "svvvesha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svxlua:primary"
+msgid "svxlua"
+msgstr "svxlua"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:svxxx_0:primary"
+msgid "svxxx_0"
+msgstr "Svxxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:svyatogor_miller:primary"
+msgid "svyatogor_miller"
+msgstr "斯维亚托戈尔·米勒"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 艾丽莎
+msgctxt "tag:svz_eliza:primary"
+msgid "svz_eliza"
+msgstr "SVZ艾丽莎"
+
+#. alias-of: svz_eliza
+#. source: ai
+msgctxt "tag:svz_eliza:alias:1"
+msgid "svz_eliza"
+msgstr "艾丽莎"

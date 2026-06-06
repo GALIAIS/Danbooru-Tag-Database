@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:29+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:29+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:jv:primary"
+msgid "jv"
+msgstr "JV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:jv0202021:primary"
+msgid "jv0202021"
+msgstr "JV0202021"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:jv_ion:primary"
+msgid "jv_ion"
+msgstr "jv_ion"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:jvc:primary"
+msgid "jvc"
+msgstr "JVC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:jvc_artz:primary"
+msgid "jvc_artz"
+msgstr "JVC Artz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:jvco_arts:primary"
+msgid "jvco_arts"
+msgstr "jvco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jvet4227:primary"
+msgid "jvet4227"
+msgstr "Jvet4227"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:jvhamkuro:primary"
+msgid "jvhamkuro"
+msgstr "jvhamkuro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jvhg7723:primary"
+msgid "jvhg7723"
+msgstr "jvhg7723"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:jviq95:primary"
+msgid "jviq95"
+msgstr "JVIQ95"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:jvivid:primary"
+msgid "jvivid"
+msgstr "JVivid"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:jvkillustrations:primary"
+msgid "jvkillustrations"
+msgstr "JV Illustrations"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jvlychee:primary"
+msgid "jvlychee"
+msgstr "jvlychee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jvmathi:primary"
+msgid "jvmathi"
+msgstr "jvmathi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 214
+#. aliases: 日本女孩
+msgctxt "tag:jvn:primary"
+msgid "jvn"
+msgstr "日本女性"
+
+#. alias-of: jvn
+#. source: ai
+msgctxt "tag:jvn:alias:1"
+msgid "jvn"
+msgstr "日本女孩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:jvne_ee:primary"
+msgid "jvne_ee"
+msgstr "Jvne_EE"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jvnesprout:primary"
+msgid "jvnesprout"
+msgstr "jvnesprout"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:jvyuu:primary"
+msgid "jvyuu"
+msgstr "Jvyuu"

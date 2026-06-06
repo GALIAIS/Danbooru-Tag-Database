@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:35+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:35+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mv100:primary"
+msgid "mv100"
+msgstr "mv100"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mv1oykfqvq75966:primary"
+msgid "mv1oykfqvq75966"
+msgstr "mv1oykfqvq75966"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mv7dczvtgp2496:primary"
+msgid "mv7dczvtgp2496"
+msgstr "mv7dczvtgp2496"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: pixiv_2399055
+msgctxt "tag:mv_(pixiv_2399055):primary"
+msgid "mv_(pixiv_2399055)"
+msgstr "mv"
+
+#. alias-of: mv_(pixiv_2399055)
+#. source: ai
+msgctxt "tag:mv_(pixiv_2399055):alias:1"
+msgid "mv_(pixiv_2399055)"
+msgstr "pixiv_2399055"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 26
+#. aliases: MV飞船
+msgctxt "tag:mv_(spacecraft):primary"
+msgid "mv_(spacecraft)"
+msgstr "MV (飞船)"
+
+#. alias-of: mv_(spacecraft)
+#. source: ai
+msgctxt "tag:mv_(spacecraft):alias:1"
+msgid "mv_(spacecraft)"
+msgstr "MV飞船"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:mv_agusta_(manufacturer):primary"
+msgid "mv_agusta_(manufacturer)"
+msgstr "奥古斯塔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mv_agusta_dragster:primary"
+msgid "mv_agusta_dragster"
+msgstr "MV Agusta Dragster"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mv_agusta_f4:primary"
+msgid "mv_agusta_f4"
+msgstr "MV 阿古斯塔 F4"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mv_agusta_superveloce:primary"
+msgid "mv_agusta_superveloce"
+msgstr "MV Agusta Superveloce"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mv_augusta_turismo_veloce:primary"
+msgid "mv_augusta_turismo_veloce"
+msgstr "MV Agusta Turismo Veloce"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:mv_pxn:primary"
+msgid "mv_pxn"
+msgstr "MV PXN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mvalentinus:primary"
+msgid "mvalentinus"
+msgstr "mvalentinus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mvbvsh:primary"
+msgid "mvbvsh"
+msgstr "mvbvsh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mvca2375:primary"
+msgid "mvca2375"
+msgstr "mvca2375"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:mvd:primary"
+msgid "mvd"
+msgstr "MVD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mvhorror:primary"
+msgid "mvhorror"
+msgstr "MV恐怖"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mvhtmv:primary"
+msgid "mvhtmv"
+msgstr "MVHTMV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mvj6fvnqpt89508:primary"
+msgid "mvj6fvnqpt89508"
+msgstr "mvj6fvnqpt89508"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mvksdgvksymgw:primary"
+msgid "mvksdgvksymgw"
+msgstr "mvksdgvksymgw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mvlli:primary"
+msgid "mvlli"
+msgstr "mvlli"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mvls_7:primary"
+msgid "mvls_7"
+msgstr "mvls_7"
+
+#. danbooru-category: 0
+#. taxonomy-id: 5.meta.event.challenge_or_celebration
+#. safety: sfw
+#. post-count: 312
+#. aliases: 最有价值选手
+msgctxt "tag:mvp:primary"
+msgid "mvp"
+msgstr "MVP"
+
+#. alias-of: mvp
+#. source: ai
+msgctxt "tag:mvp:alias:1"
+msgid "mvp"
+msgstr "最有价值选手"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:mvrl:primary"
+msgid "mvrl"
+msgstr "MVRL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mvrleson:primary"
+msgid "mvrleson"
+msgstr "mvrleson"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mvtchayam:primary"
+msgid "mvtchayam"
+msgstr "mvtchayam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mvthwus:primary"
+msgid "mvthwus"
+msgstr "Mvthwus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:mvua3435:primary"
+msgid "mvua3435"
+msgstr "mvua3435"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 603
+msgctxt "tag:mvv:primary"
+msgid "mvv"
+msgstr "多视图"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mvvy2832:primary"
+msgid "mvvy2832"
+msgstr "mvvy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mvwaifus:primary"
+msgid "mvwaifus"
+msgstr "MV老婆"

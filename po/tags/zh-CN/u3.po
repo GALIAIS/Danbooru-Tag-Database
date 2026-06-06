@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:47+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:47+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:u315ygmmm:primary"
+msgid "u315ygmmm"
+msgstr "占位符"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 387
+#. aliases: U35, 小于35
+msgctxt "tag:u35:primary"
+msgid "u35"
+msgstr "35岁以下"
+
+#. alias-of: u35
+#. source: ai
+msgctxt "tag:u35:alias:1"
+msgid "u35"
+msgstr "U35"
+
+#. alias-of: u35
+#. source: ai
+msgctxt "tag:u35:alias:2"
+msgid "u35"
+msgstr "小于35"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:u369:primary"
+msgid "u369"
+msgstr "u369"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:u37777123:primary"
+msgid "u37777123"
+msgstr "u37777123"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:u3_(ibara):primary"
+msgid "u3_(ibara)"
+msgstr "U3(荆)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:u3_(pixiv832164):primary"
+msgid "u3_(pixiv832164)"
+msgstr "u3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:u3_8x:primary"
+msgid "u3_8x"
+msgstr "u3_8x"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:u3n17:primary"
+msgid "u3n17"
+msgstr "u3n17"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:u3pxx:primary"
+msgid "u3pxx"
+msgstr "u3pxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:u3su2:primary"
+msgid "u3su2"
+msgstr "u3su2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:u3u0420:primary"
+msgid "u3u0420"
+msgstr "u3u0420"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:u3u_hahah:primary"
+msgid "u3u_hahah"
+msgstr "u3u_hahah"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:u3u_q:primary"
+msgid "u3u_q"
+msgstr "u3u_q"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:u3u_sinclair:primary"
+msgid "u3u_sinclair"
+msgstr "U3U Sinclair"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:u3yu:primary"
+msgid "u3yu"
+msgstr "u3yu"

@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:24+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:24+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:f2000_(girls'_frontline):primary"
+msgid "f2000_(girls'_frontline)"
+msgstr "F2000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:f20210401:primary"
+msgid "f20210401"
+msgstr "f20210401"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:f203_dragon_ii:primary"
+msgid "f203_dragon_ii"
+msgstr "F203 Dragon II"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 62
+msgctxt "tag:f20_(funimaru):primary"
+msgid "f20_(funimaru)"
+msgstr "F20"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:f20_(user_svag4353):primary"
+msgid "f20_(user_svag4353)"
+msgstr "F20"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:f25f:primary"
+msgid "f25f"
+msgstr "F25F"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:f28-t10:primary"
+msgid "f28-t10"
+msgstr "F28-T10"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: F2, Crash Fever F2
+msgctxt "tag:f2_(crash_fever):primary"
+msgid "f2_(crash_fever)"
+msgstr "F2（Crash Fever）"
+
+#. alias-of: f2_(crash_fever)
+#. source: ai
+msgctxt "tag:f2_(crash_fever):alias:1"
+msgid "f2_(crash_fever)"
+msgstr "F2"
+
+#. alias-of: f2_(crash_fever)
+#. source: ai
+msgctxt "tag:f2_(crash_fever):alias:2"
+msgid "f2_(crash_fever)"
+msgstr "Crash Fever F2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:f2_(fnf0023):primary"
+msgid "f2_(fnf0023)"
+msgstr "F2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:f2_(yuuki610709):primary"
+msgid "f2_(yuuki610709)"
+msgstr "F2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:f2a:primary"
+msgid "f2a"
+msgstr "F2A"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:f2a400:primary"
+msgid "f2a400"
+msgstr "f2a400"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:f2a_buffalo:primary"
+msgid "f2a_buffalo"
+msgstr "F2A水牛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:f2d:primary"
+msgid "f2d"
+msgstr "F2D"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:f2h_banshee:primary"
+msgid "f2h_banshee"
+msgstr "F2H女妖"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:f2wvae:primary"
+msgid "f2wvae"
+msgstr "f2wvae"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:f2y_sea_dart:primary"
+msgid "f2y_sea_dart"
+msgstr "F2Y海标枪"

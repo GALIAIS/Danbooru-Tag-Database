@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:47+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:47+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tp:primary"
+msgid "tp"
+msgstr "TP"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tp-82:primary"
+msgid "tp-82"
+msgstr "TP-82手枪/生存枪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tp-9:primary"
+msgid "tp-9"
+msgstr "TP-9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:tp10:primary"
+msgid "tp10"
+msgstr "tp10"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:tp65pxu4:primary"
+msgid "tp65pxu4"
+msgstr "tp65pxu4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tp6vul3vm06:primary"
+msgid "tp6vul3vm06"
+msgstr "tp6vul3vm06"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:tp82n1r:primary"
+msgid "tp82n1r"
+msgstr "tp82n1r"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tp8306902797463:primary"
+msgid "tp8306902797463"
+msgstr "TP83"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:tp_(86_-eighty-six-):primary"
+msgid "tp_(86_-eighty-six-)"
+msgstr "TP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 126
+msgctxt "tag:tp_(kido_94):primary"
+msgid "tp_(kido_94)"
+msgstr "TP"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:tp_bon:primary"
+msgid "tp_bon"
+msgstr "TP Bon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tp_isme:primary"
+msgid "tp_isme"
+msgstr "tp_isme"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tp_mk:primary"
+msgid "tp_mk"
+msgstr "tp_mk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 595
+msgctxt "tag:tp_p_pt:primary"
+msgid "tp_p_pt"
+msgstr "特殊癖好"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tp_sakura:primary"
+msgid "tp_sakura"
+msgstr "TP樱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:tp_tof:primary"
+msgid "tp_tof"
+msgstr "tp_tof"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:tpa_ezreal:primary"
+msgid "tpa_ezreal"
+msgstr "TPA伊泽瑞尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tpa_mundo:primary"
+msgid "tpa_mundo"
+msgstr "TPA蒙多"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tpa_nunu:primary"
+msgid "tpa_nunu"
+msgstr "tpa_nunu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tpa_orianna:primary"
+msgid "tpa_orianna"
+msgstr "奥莉安娜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tpa_shen:primary"
+msgid "tpa_shen"
+msgstr "慎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tpa_willump:primary"
+msgid "tpa_willump"
+msgstr "维鲁姆普"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:tpamjdsta_(usatokurasu):primary"
+msgid "tpamjdsta_(usatokurasu)"
+msgstr "tpamjdsta（兎とクラス）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpaper825:primary"
+msgid "tpaper825"
+msgstr "tpaper825"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpasterelix:primary"
+msgid "tpasterelix"
+msgstr "Tpasterelix"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpax4828:primary"
+msgid "tpax4828"
+msgstr "tpax4828"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:tpcg4852:primary"
+msgid "tpcg4852"
+msgstr "TPCG4852"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpchk:primary"
+msgid "tpchk"
+msgstr "画师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tpgjmww_0359:primary"
+msgid "tpgjmww_0359"
+msgstr "TPGJMWW 0359"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:tpgphqymbipcvua:primary"
+msgid "tpgphqymbipcvua"
+msgstr "tpgphqymbipcvua"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:tphageru:primary"
+msgid "tphageru"
+msgstr "tphageru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 115
+msgctxt "tag:tpi_ri:primary"
+msgid "tpi_ri"
+msgstr "tpi_ri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:tpicm:primary"
+msgid "tpicm"
+msgstr "TPICM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:tpiola:primary"
+msgid "tpiola"
+msgstr "特皮奥拉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:tpip_(aixuan):primary"
+msgid "tpip_(aixuan)"
+msgstr "tpip"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tpitchart:primary"
+msgid "tpitchart"
+msgstr "tpitchart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpjmwtmdumdm2:primary"
+msgid "tpjmwtmdumdm2"
+msgstr "tpjmwtmdumdm2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpking:primary"
+msgid "tpking"
+msgstr "TPKing"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tpknnts:primary"
+msgid "tpknnts"
+msgstr "tpknnts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tpm:primary"
+msgid "tpm"
+msgstr "tpm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:tpn.nonna:primary"
+msgid "tpn.nonna"
+msgstr "TPN诺娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:tpnatta09:primary"
+msgid "tpnatta09"
+msgstr "tpnatta09"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpok:primary"
+msgid "tpok"
+msgstr "tpok"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpok_ptp:primary"
+msgid "tpok_ptp"
+msgstr "Tpok_ptp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpon:primary"
+msgid "tpon"
+msgstr "tpon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpot:primary"
+msgid "tpot"
+msgstr "tpot"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpp_(tkotu):primary"
+msgid "tpp_(tkotu)"
+msgstr "TPP（TKOTU）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:tppiiiiqqt:primary"
+msgid "tppiiiiqqt"
+msgstr "tppiiiiqqt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:tppo:primary"
+msgid "tppo"
+msgstr "TPPO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:tppqqq7:primary"
+msgid "tppqqq7"
+msgstr "TPP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:tpq1228:primary"
+msgid "tpq1228"
+msgstr "tpq1228"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:tpqmsrp:primary"
+msgid "tpqmsrp"
+msgstr "TPQMSRP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tprbr:primary"
+msgid "tprbr"
+msgstr "tprbr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:tproject09:primary"
+msgid "tproject09"
+msgstr "T项目09"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:tps_(cardiac_arrest)_(girls'_frontline):primary"
+msgid "tps_(cardiac_arrest)_(girls'_frontline)"
+msgstr "TPS（心搏骤停）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:tps_(girls'_frontline):primary"
+msgid "tps_(girls'_frontline)"
+msgstr "少女前线TPS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:tpt3p:primary"
+msgid "tpt3p"
+msgstr "tpt3p"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:tptgdt:primary"
+msgid "tptgdt"
+msgstr "tptgdt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:tptkdtkakftp:primary"
+msgid "tptkdtkakftp"
+msgstr "tptkdtkakftp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpuvhhgs5vjcrqp:primary"
+msgid "tpuvhhgs5vjcrqp"
+msgstr "tpuvhhgs5vjcrqp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpv90996007:primary"
+msgid "tpv90996007"
+msgstr "tpv90996007"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tpxvpfajrdma:primary"
+msgid "tpxvpfajrdma"
+msgstr "Tpxvpfajrdma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:tpz:primary"
+msgid "tpz"
+msgstr "TPZ"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tpz_fuchs:primary"
+msgid "tpz_fuchs"
+msgstr "TPZ狐式装甲车"

@@ -1,0 +1,3545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:38+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:38+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ov-10_bronco:primary"
+msgid "ov-10_bronco"
+msgstr "OV-10 Bronco"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ova_(manga):primary"
+msgid "ova_(manga)"
+msgstr "OVA（漫画）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ovake77:primary"
+msgid "ovake77"
+msgstr "Ovake77"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.shape_or_mechanical_part
+#. safety: sfw
+#. post-count: 119
+msgctxt "tag:oval:primary"
+msgid "oval"
+msgstr "椭圆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:oval_1ce:primary"
+msgid "oval_1ce"
+msgstr "Oval Ice"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.background.background_pattern
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:oval_background:primary"
+msgid "oval_background"
+msgstr "椭圆背景"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:oval_blue:primary"
+msgid "oval_blue"
+msgstr "椭圆形蓝眼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.background.background_pattern
+#. safety: sfw
+#. post-count: 395
+#. aliases: 椭圆框
+msgctxt "tag:oval_border:primary"
+msgid "oval_border"
+msgstr "椭圆边框"
+
+#. alias-of: oval_border
+#. source: ai
+msgctxt "tag:oval_border:alias:1"
+msgid "oval_border"
+msgstr "椭圆框"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oval_load_(pso2):primary"
+msgid "oval_load_(pso2)"
+msgstr "Oval Load"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.indoor_public
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oval_office:primary"
+msgid "oval_office"
+msgstr "椭圆形办公室"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.furniture
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovalia_chair:primary"
+msgid "ovalia_chair"
+msgstr "椭圆椅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ovalimbus:primary"
+msgid "ovalimbus"
+msgstr "Ovalimbus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ovama:primary"
+msgid "ovama"
+msgstr "ovama"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 43
+#. aliases: 奥梵
+msgctxt "tag:ovan_(.hack//):primary"
+msgid "ovan_(.hack//)"
+msgstr "奥梵 (.hack//)"
+
+#. alias-of: ovan_(.hack//)
+#. source: ai
+msgctxt "tag:ovan_(.hack//):alias:1"
+msgid "ovan_(.hack//)"
+msgstr "奥梵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.anatomy.anatomical_detail
+#. safety: mixed
+#. post-count: 551
+msgctxt "tag:ovaries:primary"
+msgid "ovaries"
+msgstr "卵巢"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ovarydestroyer:primary"
+msgid "ovarydestroyer"
+msgstr "卵巢毁灭者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 115
+msgctxt "tag:ovasayuri:primary"
+msgid "ovasayuri"
+msgstr "奥瓦萨尤里"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ovation_guitar:primary"
+msgid "ovation_guitar"
+msgstr "Ovation吉他"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovbm_art:primary"
+msgid "ovbm_art"
+msgstr "OVBM Art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ove3:primary"
+msgid "ove3"
+msgstr "ove3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ove_(user_vcdx4582):primary"
+msgid "ove_(user_vcdx4582)"
+msgstr "ove_(user_vcdx4582)"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ove_generation:primary"
+msgid "ove_generation"
+msgstr "Ove Generation"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oveexx:primary"
+msgid "oveexx"
+msgstr "oveexx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:oveipo:primary"
+msgid "oveipo"
+msgstr "Oveipo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 160
+msgctxt "tag:ovelia_atkascha:primary"
+msgid "ovelia_atkascha"
+msgstr "奥薇莉亚·阿特卡夏"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovelia_valentine:primary"
+msgid "ovelia_valentine"
+msgstr "奥维莉亚·瓦伦丁"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 1119
+#. aliases: 烤炉
+msgctxt "tag:oven:primary"
+msgid "oven"
+msgstr "烤箱"
+
+#. alias-of: oven
+#. source: ai
+msgctxt "tag:oven:alias:1"
+msgid "oven"
+msgstr "烤炉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oven_girl_(ho-uja):primary"
+msgid "oven_girl_(ho-uja)"
+msgstr "烤箱少女"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.architecture
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:oven_interior:primary"
+msgid "oven_interior"
+msgstr "烤箱内部"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oven_mit_(arby's):primary"
+msgid "oven_mit_(arby's)"
+msgstr "Oven Mitt"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.gloves
+#. safety: sfw
+#. post-count: 2322
+#. aliases: 隔热手套
+msgctxt "tag:oven_mitts:primary"
+msgid "oven_mitts"
+msgstr "烤箱手套"
+
+#. alias-of: oven_mitts
+#. source: ai
+msgctxt "tag:oven_mitts:alias:1"
+msgid "oven_mitts"
+msgstr "隔热手套"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oveni_the_cat:primary"
+msgid "oveni_the_cat"
+msgstr "奥维尼猫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovenmeister:primary"
+msgid "ovenmeister"
+msgstr "ovenmeister"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ovens:primary"
+msgid "ovens"
+msgstr "ovens"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:over!_(vocaloid):primary"
+msgid "over!_(vocaloid)"
+msgstr "Over!"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-10_(mega_man):primary"
+msgid "over-10_(mega_man)"
+msgstr "Over-10"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:over-1_(mega_man):primary"
+msgid "over-1_(mega_man)"
+msgstr "Over-1(洛克人)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-2_spec2_(mega_man):primary"
+msgid "over-2_spec2_(mega_man)"
+msgstr "Over-2 Spec2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-3_spec2_(mega_man):primary"
+msgid "over-3_spec2_(mega_man)"
+msgstr "超越3-Spec2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-4_spec2_(mega_man):primary"
+msgid "over-4_spec2_(mega_man)"
+msgstr "超越4-Spec2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-5_spec2_(mega_man):primary"
+msgid "over-5_spec2_(mega_man)"
+msgstr "超越5-Spec2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-6_(mega_man):primary"
+msgid "over-6_(mega_man)"
+msgstr "超越6号"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-7_(mega_man):primary"
+msgid "over-7_(mega_man)"
+msgstr "超越7号"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-8_(mega_man):primary"
+msgid "over-8_(mega_man)"
+msgstr "超越8号"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-9_(mega_man):primary"
+msgid "over-9_(mega_man)"
+msgstr "超越9号"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-d_(mega_man):primary"
+msgid "over-d_(mega_man)"
+msgstr "超越D"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over-drive-sound:primary"
+msgid "over-drive-sound"
+msgstr "Over-Drive Sound"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over-game:primary"
+msgid "over-game"
+msgstr "over-game"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.legwear
+#. safety: sfw
+#. post-count: 9551
+#. aliases: 过膝高筒袜
+msgctxt "tag:over-kneehighs:primary"
+msgid "over-kneehighs"
+msgstr "过膝袜"
+
+#. alias-of: over-kneehighs
+#. source: ai
+msgctxt "tag:over-kneehighs:alias:1"
+msgid "over-kneehighs"
+msgstr "过膝高筒袜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.eyewear
+#. safety: sfw
+#. post-count: 4649
+msgctxt "tag:over-rim_eyewear:primary"
+msgid "over-rim_eyewear"
+msgstr "架眼镜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-run_(transformers):primary"
+msgid "over-run_(transformers)"
+msgstr "越跑"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over-z_(mega_man):primary"
+msgid "over-z_(mega_man)"
+msgstr "超越Z"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:over.on:primary"
+msgid "over.on"
+msgstr "over.on"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over2721:primary"
+msgid "over2721"
+msgstr "Over2721"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:over3010:primary"
+msgid "over3010"
+msgstr "over3010"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:over3ea:primary"
+msgid "over3ea"
+msgstr "over3ea"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over_(275487823):primary"
+msgid "over_(275487823)"
+msgstr "over"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:over_(bobobo-bo_bo-bobo):primary"
+msgid "over_(bobobo-bo_bo-bobo)"
+msgstr "奥佛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:over_9999:primary"
+msgid "over_9999"
+msgstr "over_9999"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:over_drive_(pixiv_60291824):primary"
+msgid "over_drive_(pixiv_60291824)"
+msgstr "Over Drive"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:over_flag:primary"
+msgid "over_flag"
+msgstr "Over Flag"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:over_flow99:primary"
+msgid "over_flow99"
+msgstr "Over Flow99"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:over_go_au:primary"
+msgid "over_go_au"
+msgstr "over_go_au"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:over_image:primary"
+msgid "over_image"
+msgstr "Over Image"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over_iris_wonderworld:primary"
+msgid "over_iris_wonderworld"
+msgstr "Over Iris Wonderworld"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:over_justice:primary"
+msgid "over_justice"
+msgstr "Over Justice"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+#. aliases: 超越正义
+msgctxt "tag:over_justice_(cosplay):primary"
+msgid "over_justice_(cosplay)"
+msgstr "Over Justice Cosplay"
+
+#. alias-of: over_justice_(cosplay)
+#. source: ai
+msgctxt "tag:over_justice_(cosplay):alias:1"
+msgid "over_justice_(cosplay)"
+msgstr "超越正义"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over_knight_blazer:primary"
+msgid "over_knight_blazer"
+msgstr "Over Knight Blazer"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:over_myself_(idolmaster):primary"
+msgid "over_myself_(idolmaster)"
+msgstr "Over Myself（偶像大师）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over_obi:primary"
+msgid "over_obi"
+msgstr "Over Obi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:over_of_(1216ggxx):primary"
+msgid "over_of_(1216ggxx)"
+msgstr "OVER OF（1216GGXX）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:over_over_(love_live!):primary"
+msgid "over_over_(love_live!)"
+msgstr "Over Over（Love Live!）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:over_rad_squad!!_(project_sekai):primary"
+msgid "over_rad_squad!!_(project_sekai)"
+msgstr "超光速小队！！（世界计划）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.camera.view_direction
+#. safety: sfw
+#. post-count: 16036
+#. aliases: 过肩
+msgctxt "tag:over_shoulder:primary"
+msgid "over_shoulder"
+msgstr "过肩镜头"
+
+#. alias-of: over_shoulder
+#. source: ai
+msgctxt "tag:over_shoulder:alias:1"
+msgid "over_shoulder"
+msgstr "过肩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:over_st1:primary"
+msgid "over_st1"
+msgstr "over_st1"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:over_taker_(elsword):primary"
+msgid "over_taker_(elsword)"
+msgstr "Over Taker（艾尔之光）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over_te:primary"
+msgid "over_te"
+msgstr "Over Te"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.legwear
+#. safety: sfw
+#. post-count: 63
+#. aliases: 过膝袜
+msgctxt "tag:over_the_collar_(idolmaster):primary"
+msgid "over_the_collar_(idolmaster)"
+msgstr "过膝袜（偶像大师）"
+
+#. alias-of: over_the_collar_(idolmaster)
+#. source: ai
+msgctxt "tag:over_the_collar_(idolmaster):alias:1"
+msgid "over_the_collar_(idolmaster)"
+msgstr "过膝袜"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over_the_developed_eden:primary"
+msgid "over_the_developed_eden"
+msgstr "Over the Developed Eden"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:over_the_garden_wall:primary"
+msgid "over_the_garden_wall"
+msgstr "花园墙外"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:over_the_hedge:primary"
+msgid "over_the_hedge"
+msgstr "篱笆墙外"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 6
+#. aliases: NIKKE:胜利女神
+msgctxt "tag:over_the_horizon_(nikke):primary"
+msgid "over_the_horizon_(nikke)"
+msgstr "《胜利女神：妮姬》中的《Over the Horizon》"
+
+#. alias-of: over_the_horizon_(nikke)
+#. source: ai
+msgctxt "tag:over_the_horizon_(nikke):alias:1"
+msgid "over_the_horizon_(nikke)"
+msgstr "NIKKE:胜利女神"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.legwear
+#. safety: sfw
+#. post-count: 903
+#. aliases: 过膝袜
+msgctxt "tag:over_the_knee:primary"
+msgid "over_the_knee"
+msgstr "过膝"
+
+#. alias-of: over_the_knee
+#. source: ai
+msgctxt "tag:over_the_knee:alias:1"
+msgid "over_the_knee"
+msgstr "过膝袜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.fetish.bondage_restraint
+#. safety: nsfw
+#. post-count: 820
+msgctxt "tag:over_the_mouth_gag:primary"
+msgid "over_the_mouth_gag"
+msgstr "口塞"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.fetish.bdsm_power
+#. safety: nsfw
+#. post-count: 621
+msgctxt "tag:over_the_nose_gag:primary"
+msgid "over_the_nose_gag"
+msgstr "鼻部口塞"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:over_the_wall:primary"
+msgid "over_the_wall"
+msgstr "越过墙壁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:over_wassyoi:primary"
+msgid "over_wassyoi"
+msgstr "Over Wassyoi"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.water_or_sky
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:over_water:primary"
+msgid "over_water"
+msgstr "水面上方"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:over_x6:primary"
+msgid "over_x6"
+msgstr "over_x6"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 98
+msgctxt "tag:over_zenith:primary"
+msgid "over_zenith"
+msgstr "巅峰之上"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overactive_overachiever:primary"
+msgid "overactive_overachiever"
+msgstr "过度活跃的成就者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overall-picture-7542:primary"
+msgid "overall-picture-7542"
+msgstr "overall-picture-7542"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 4
+msgctxt "tag:overall_leotard:primary"
+msgid "overall_leotard"
+msgstr "连体紧身衣"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.pants_shorts
+#. safety: sfw
+#. post-count: 3553
+msgctxt "tag:overall_shorts:primary"
+msgid "overall_shorts"
+msgstr "背带短裤"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.skirt_dress_bottom
+#. safety: sfw
+#. post-count: 1493
+#. aliases: 背带裙
+msgctxt "tag:overall_skirt:primary"
+msgid "overall_skirt"
+msgstr "工装裙"
+
+#. alias-of: overall_skirt
+#. source: ai
+msgctxt "tag:overall_skirt:alias:1"
+msgid "overall_skirt"
+msgstr "背带裙"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.pants_shorts
+#. safety: sfw
+#. post-count: 30430
+msgctxt "tag:overalls:primary"
+msgid "overalls"
+msgstr "背带裤"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.lift_or_removed
+#. safety: mixed
+#. post-count: 18
+msgctxt "tag:overalls_aside:primary"
+msgid "overalls_aside"
+msgstr "背带裤（侧面）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.lift_or_removed
+#. safety: mixed
+#. post-count: 6
+msgctxt "tag:overalls_partially_removed:primary"
+msgid "overalls_partially_removed"
+msgstr "背带裤半脱"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.lift_or_removed
+#. safety: mixed
+#. post-count: 100
+#. aliases: 背带裤下拉
+msgctxt "tag:overalls_pull:primary"
+msgid "overalls_pull"
+msgstr "吊带裤下拉"
+
+#. alias-of: overalls_pull
+#. source: ai
+msgctxt "tag:overalls_pull:alias:1"
+msgid "overalls_pull"
+msgstr "背带裤下拉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.lift_or_removed
+#. safety: mixed
+#. post-count: 41
+msgctxt "tag:overalls_removed:primary"
+msgid "overalls_removed"
+msgstr "脱掉背带裤"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.lift_or_removed
+#. safety: mixed
+#. post-count: 22
+msgctxt "tag:overalls_rolled_up:primary"
+msgid "overalls_rolled_up"
+msgstr "卷起的背带裤"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:overallsandfunnyhats:primary"
+msgid "overallsandfunnyhats"
+msgstr "工装裤与滑稽帽子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:overarc:primary"
+msgid "overarc"
+msgstr "overarc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overart_t:primary"
+msgid "overart_t"
+msgstr "overart_t"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overarts_(jusoverart):primary"
+msgid "overarts_(jusoverart)"
+msgstr "Overarts"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:overbite:primary"
+msgid "overbite"
+msgstr "龅牙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overbite_(transformers):primary"
+msgid "overbite_(transformers)"
+msgstr "Overbite（变形金刚）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overblaze:primary"
+msgid "overblaze"
+msgstr "overblaze"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.state.supernatural_or_possession
+#. safety: mixed
+#. post-count: 89
+msgctxt "tag:overblot:primary"
+msgid "overblot"
+msgstr "过墨"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overblow4161:primary"
+msgid "overblow4161"
+msgstr "Overblow4161"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:overboard:primary"
+msgid "overboard"
+msgstr "overboard"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.build.body_build
+#. safety: sfw
+#. post-count: 1
+#. aliases: 过肩
+msgctxt "tag:overbody:primary"
+msgid "overbody"
+msgstr "全身"
+
+#. alias-of: overbody
+#. source: ai
+msgctxt "tag:overbody:alias:1"
+msgid "overbody"
+msgstr "过肩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:overbored_454:primary"
+msgid "overbored_454"
+msgstr "overbored_454"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overburningsea:primary"
+msgid "overburningsea"
+msgstr "Overburningsea"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 1
+msgctxt "tag:overbust:primary"
+msgid "overbust"
+msgstr "胸部包覆式"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.environment.weather
+#. safety: sfw
+#. post-count: 3998
+msgctxt "tag:overcast:primary"
+msgid "overcast"
+msgstr "阴天"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.color.palette
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:overcast_monochrome_(idolmaster):primary"
+msgid "overcast_monochrome_(idolmaster)"
+msgstr "阴天黑白（偶像大师）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overclockwise:primary"
+msgid "overclockwise"
+msgstr "超频"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:overcloud:primary"
+msgid "overcloud"
+msgstr "Overcloud"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.outerwear
+#. safety: sfw
+#. post-count: 2209
+msgctxt "tag:overcoat:primary"
+msgid "overcoat"
+msgstr "大衣"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.theme.symbolic_or_abstract_theme
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:overcome_one's_limits_(project_sekai):primary"
+msgid "overcome_one's_limits_(project_sekai)"
+msgstr "超越极限"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:overcooked:primary"
+msgid "overcooked"
+msgstr "煮过头"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overcrow_yt:primary"
+msgid "overcrow_yt"
+msgstr "Overcrow_yt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:overday:primary"
+msgid "overday"
+msgstr "overday"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overdiorose:primary"
+msgid "overdiorose"
+msgstr "Overdiorose"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.event.threat_failure_or_death
+#. safety: mixed
+#. post-count: 26
+msgctxt "tag:overdose:primary"
+msgid "overdose"
+msgstr "过量"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 过量
+msgctxt "tag:overdose_(guilty_crown):primary"
+msgid "overdose_(guilty_crown)"
+msgstr "Overdose（罪恶王冠）"
+
+#. alias-of: overdose_(guilty_crown)
+#. source: ai
+msgctxt "tag:overdose_(guilty_crown):alias:1"
+msgid "overdose_(guilty_crown)"
+msgstr "过量"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:overdose_(natori):primary"
+msgid "overdose_(natori)"
+msgstr "过量"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overdoseday16:primary"
+msgid "overdoseday16"
+msgstr "overdoseday16"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.makeup.cosmetic_makeup
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:overdrawn_eyeliner:primary"
+msgid "overdrawn_eyeliner"
+msgstr "过浓眼线"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:overdrive_(iosys):primary"
+msgid "overdrive_(iosys)"
+msgstr "超载（IOSYS）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overdrive_(manga):primary"
+msgid "overdrive_(manga)"
+msgstr "超速"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overdrive_(tws):primary"
+msgid "overdrive_(tws)"
+msgstr "Overdrive"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 过载
+msgctxt "tag:overdrive_(yu-gi-oh!):primary"
+msgid "overdrive_(yu-gi-oh!)"
+msgstr "Overdrive（游戏王）"
+
+#. alias-of: overdrive_(yu-gi-oh!)
+#. source: ai
+msgctxt "tag:overdrive_(yu-gi-oh!):alias:1"
+msgid "overdrive_(yu-gi-oh!)"
+msgstr "过载"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:overdrive_octane:primary"
+msgid "overdrive_octane"
+msgstr "过载八度"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:overdrive_ostrich_(mega_man):primary"
+msgid "overdrive_ostrich_(mega_man)"
+msgstr "超速鸵鸟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overdueyao:primary"
+msgid "overdueyao"
+msgstr "逾期遥"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.daily_activity
+#. safety: sfw
+#. post-count: 144
+#. aliases: 吃撑
+msgctxt "tag:overeating:primary"
+msgid "overeating"
+msgstr "暴食"
+
+#. alias-of: overeating
+#. source: ai
+msgctxt "tag:overeating:alias:1"
+msgid "overeating"
+msgstr "吃撑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overestimated10:primary"
+msgid "overestimated10"
+msgstr "overestimated10"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:overethe:primary"
+msgid "overethe"
+msgstr "Overethe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:overexciteddragon:primary"
+msgid "overexciteddragon"
+msgstr "overexciteddragon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 过爆恶魔
+msgctxt "tag:overexposed_demon_(hazbin_hotel):primary"
+msgid "overexposed_demon_(hazbin_hotel)"
+msgstr "过曝恶魔（地狱客栈）"
+
+#. alias-of: overexposed_demon_(hazbin_hotel)
+#. source: ai
+msgctxt "tag:overexposed_demon_(hazbin_hotel):alias:1"
+msgid "overexposed_demon_(hazbin_hotel)"
+msgstr "过爆恶魔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.postprocess.image_effect
+#. safety: sfw
+#. post-count: 643
+#. aliases: 曝光过度
+msgctxt "tag:overexposure:primary"
+msgid "overexposure"
+msgstr "过曝"
+
+#. alias-of: overexposure
+#. source: ai
+msgctxt "tag:overexposure:alias:1"
+msgid "overexposure"
+msgstr "曝光过度"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overezeggs:primary"
+msgid "overezeggs"
+msgstr "Overezeggs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overfix:primary"
+msgid "overfix"
+msgstr "Overfix"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:overfloater_horizon:primary"
+msgid "overfloater_horizon"
+msgstr "overfloater_horizon"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:overflow!_(ensemble_stars!):primary"
+msgid "overflow!_(ensemble_stars!)"
+msgstr "Overflow"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: nsfw
+#. post-count: 12
+msgctxt "tag:overflow_(hentai):primary"
+msgid "overflow_(hentai)"
+msgstr "溢出"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overflow_(reverseblue):primary"
+msgid "overflow_(reverseblue)"
+msgstr "溢流"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.effect.material.liquid_or_material_state
+#. safety: mixed
+#. post-count: 269
+msgctxt "tag:overflowing:primary"
+msgid "overflowing"
+msgstr "溢出"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.indoor_private
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:overflowing_bath:primary"
+msgid "overflowing_bath"
+msgstr "溢出的浴缸"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:overflowing_crimson:primary"
+msgid "overflowing_crimson"
+msgstr "溢出的深红"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:overfly1112:primary"
+msgid "overfly1112"
+msgstr "Overfly1112"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:overgank:primary"
+msgid "overgank"
+msgstr "过度Gank"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overgrow_(pokemon):primary"
+msgid "overgrow_(pokemon)"
+msgstr "茂盛（《宝可梦》）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.plant
+#. safety: sfw
+#. post-count: 3366
+msgctxt "tag:overgrown:primary"
+msgid "overgrown"
+msgstr "蔓生"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overgrown_(winterhyorei):primary"
+msgid "overgrown_(winterhyorei)"
+msgstr "Overgrown"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:overgrown_bastion:primary"
+msgid "overgrown_bastion"
+msgstr "过度生长的堡垒"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:overgrown_rover:primary"
+msgid "overgrown_rover"
+msgstr "overgrown rover"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+#. aliases: 疯长
+msgctxt "tag:overgrowth:primary"
+msgid "overgrowth"
+msgstr "过度生长"
+
+#. alias-of: overgrowth
+#. source: ai
+msgctxt "tag:overgrowth:alias:1"
+msgid "overgrowth"
+msgstr "疯长"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 123
+#. aliases: 死柄木弔
+msgctxt "tag:overhaul_(boku_no_hero_academia):primary"
+msgid "overhaul_(boku_no_hero_academia)"
+msgstr "治崎廻"
+
+#. alias-of: overhaul_(boku_no_hero_academia)
+#. source: ai
+msgctxt "tag:overhaul_(boku_no_hero_academia):alias:1"
+msgid "overhaul_(boku_no_hero_academia)"
+msgstr "死柄木弔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.barrier_or_surface
+#. safety: sfw
+#. post-count: 65
+msgctxt "tag:overhead_door:primary"
+msgid "overhead_door"
+msgstr "卷帘门"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 74
+msgctxt "tag:overhead_lights:primary"
+msgid "overhead_lights"
+msgstr "顶灯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.outdoor_urban
+#. safety: sfw
+#. post-count: 586
+msgctxt "tag:overhead_line:primary"
+msgid "overhead_line"
+msgstr "架空线"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.social_or_intentional_action
+#. safety: mixed
+#. post-count: 9
+msgctxt "tag:overhead_prayer_(runescape):primary"
+msgid "overhead_prayer_(runescape)"
+msgstr "头顶祈祷（RuneScape）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.combat_action
+#. safety: sfw
+#. post-count: 149
+#. aliases: 头顶挥动
+msgctxt "tag:overhead_swing:primary"
+msgid "overhead_swing"
+msgstr "过顶挥击"
+
+#. alias-of: overhead_swing
+#. source: ai
+msgctxt "tag:overhead_swing:alias:1"
+msgid "overhead_swing"
+msgstr "头顶挥动"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.social_or_intentional_action
+#. safety: mixed
+#. post-count: 2
+msgctxt "tag:overhearing:primary"
+msgid "overhearing"
+msgstr "偷听"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 4
+msgctxt "tag:overheat_(pokemon):primary"
+msgid "overheat_(pokemon)"
+msgstr "《宝可梦》中的“过热”"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.mobile_gacha
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:overhit:primary"
+msgid "overhit"
+msgstr "Overhit"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vtuber_agency
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:overidea:primary"
+msgid "overidea"
+msgstr "Overidea"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overijssel:primary"
+msgid "overijssel"
+msgstr "上艾瑟尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 63
+msgctxt "tag:overine19:primary"
+msgid "overine19"
+msgstr "overine19"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:overjav:primary"
+msgid "overjav"
+msgstr "overjav"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overkast_vizualz:primary"
+msgid "overkast_vizualz"
+msgstr "Overkast Vizualz"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overkill_(band):primary"
+msgid "overkill_(band)"
+msgstr "Overkill乐队"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vtuber_agency
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:overkill_(mori_calliope):primary"
+msgid "overkill_(mori_calliope)"
+msgstr "Overkill"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overkill_(transformers):primary"
+msgid "overkill_(transformers)"
+msgstr "Overkill（变形金刚）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+#. aliases: Overkilling Machine
+msgctxt "tag:overkilling_machine_(dragon_quest):primary"
+msgid "overkilling_machine_(dragon_quest)"
+msgstr "过杀机"
+
+#. alias-of: overkilling_machine_(dragon_quest)
+#. source: ai
+msgctxt "tag:overkilling_machine_(dragon_quest):alias:1"
+msgid "overkilling_machine_(dragon_quest)"
+msgstr "Overkilling Machine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overkrine:primary"
+msgid "overkrine"
+msgstr "overkrine"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:overlap_bunko:primary"
+msgid "overlap_bunko"
+msgstr "Overlap Bunko"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.layout.paneling
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:overlapped_images:primary"
+msgid "overlapped_images"
+msgstr "重叠图像"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.book_paper
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:overlapping_speech_bubbles:primary"
+msgid "overlapping_speech_bubbles"
+msgstr "重叠对话气泡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:overlay_(0verray):primary"
+msgid "overlay_(0verray)"
+msgstr "Overlay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overlay_eater:primary"
+msgid "overlay_eater"
+msgstr "叠层吞噬者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overlay_owl:primary"
+msgid "overlay_owl"
+msgstr "overlay_owl"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: nsfw
+#. post-count: 21
+#. aliases: 过度色情
+msgctxt "tag:overlewd:primary"
+msgid "overlewd"
+msgstr "过度色情"
+
+#. alias-of: overlewd
+#. source: ai
+msgctxt "tag:overlewd:alias:1"
+msgid "overlewd"
+msgstr "过度色情"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.lighting.light_quality
+#. safety: sfw
+#. post-count: 177
+#. aliases: 强光
+msgctxt "tag:overlighting:primary"
+msgid "overlighting"
+msgstr "过曝"
+
+#. alias-of: overlighting
+#. source: ai
+msgctxt "tag:overlighting:alias:1"
+msgid "overlighting"
+msgstr "强光"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.makeup.cosmetic_makeup
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:overlined_lipstick:primary"
+msgid "overlined_lipstick"
+msgstr "超出唇线口红"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:overload_(armada):primary"
+msgid "overload_(armada)"
+msgstr "超载（Armada）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:overload_(nuhoangxitray):primary"
+msgid "overload_(nuhoangxitray)"
+msgstr "Overload"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overload_(transformers):primary"
+msgid "overload_(transformers)"
+msgstr "超载"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overload_fusion:primary"
+msgid "overload_fusion"
+msgstr "超载融合"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:overlong12:primary"
+msgid "overlong12"
+msgstr "overlong12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overloots:primary"
+msgid "overloots"
+msgstr "Overloots"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:overlord_(arpg):primary"
+msgid "overlord_(arpg)"
+msgstr "Overlord（ARPG）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:overlord_(bad_end_theater):primary"
+msgid "overlord_(bad_end_theater)"
+msgstr "魔王（Bad End Theater）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:overlord_(character):primary"
+msgid "overlord_(character)"
+msgstr "Overlord（角色）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 骨王Cosplay
+msgctxt "tag:overlord_(character)_(cosplay):primary"
+msgid "overlord_(character)_(cosplay)"
+msgstr "骨王（Cosplay）"
+
+#. alias-of: overlord_(character)_(cosplay)
+#. source: ai
+msgctxt "tag:overlord_(character)_(cosplay):alias:1"
+msgid "overlord_(character)_(cosplay)"
+msgstr "骨王Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:overlord_(idw):primary"
+msgid "overlord_(idw)"
+msgstr "霸主(IDW)"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3343
+#. aliases: Overlord
+msgctxt "tag:overlord_(maruyama):primary"
+msgid "overlord_(maruyama)"
+msgstr "不死者之王"
+
+#. alias-of: overlord_(maruyama)
+#. source: ai
+msgctxt "tag:overlord_(maruyama):alias:1"
+msgid "overlord_(maruyama)"
+msgstr "Overlord"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 111
+msgctxt "tag:overlord_(overlord80000):primary"
+msgid "overlord_(overlord80000)"
+msgstr "霸主"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:overlord_(overwatch):primary"
+msgid "overlord_(overwatch)"
+msgstr "霸主（守望先锋）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 8
+msgctxt "tag:overlord_(starcraft):primary"
+msgid "overlord_(starcraft)"
+msgstr "《星际争霸》主宰者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:overlord_(transformers):primary"
+msgid "overlord_(transformers)"
+msgstr "至尊（变形金刚）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overlord_-escape_from_nazarick-:primary"
+msgid "overlord_-escape_from_nazarick-"
+msgstr "《OVERLORD：逃离纳萨力克》"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overlord_2_(arpg):primary"
+msgid "overlord_2_(arpg)"
+msgstr "《OVERLORD 2（ARPG）》"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overlord_bob:primary"
+msgid "overlord_bob"
+msgstr "魔王鲍勃"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:overlord_dog:primary"
+msgid "overlord_dog"
+msgstr "魔王犬"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 164
+msgctxt "tag:overlord_jc:primary"
+msgid "overlord_jc"
+msgstr "吉尔克尼弗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:overlord_m:primary"
+msgid "overlord_m"
+msgstr "Overlord M"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overlord_of_the_boilerbilges:primary"
+msgid "overlord_of_the_boilerbilges"
+msgstr "overlord of the boilerbilges"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:overlorder_(splatoon):primary"
+msgid "overlorder_(splatoon)"
+msgstr "Overlorder（斯普拉遁）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overlordmymy:primary"
+msgid "overlordmymy"
+msgstr "overlordmymy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overlordneon:primary"
+msgid "overlordneon"
+msgstr "overlordneon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overlordskeith:primary"
+msgid "overlordskeith"
+msgstr "霸主基思"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:overly_attached_girlfriend_(meme):primary"
+msgid "overly_attached_girlfriend_(meme)"
+msgstr "过度依恋女友（网络梗）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:overm00n:primary"
+msgid "overm00n"
+msgstr "Overmoon"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.gender_presentation
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:overman:primary"
+msgid "overman"
+msgstr "超人"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 313
+#. aliases: 盖纳
+msgctxt "tag:overman_king_gainer:primary"
+msgid "overman_king_gainer"
+msgstr "超人王盖纳"
+
+#. alias-of: overman_king_gainer
+#. source: ai
+msgctxt "tag:overman_king_gainer:alias:1"
+msgid "overman_king_gainer"
+msgstr "盖纳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overmephisto:primary"
+msgid "overmephisto"
+msgstr "Overmephisto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overmikii:primary"
+msgid "overmikii"
+msgstr "overmikii"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 69
+msgctxt "tag:overmind_(dungeon_and_fighter):primary"
+msgid "overmind_(dungeon_and_fighter)"
+msgstr "奥兹玛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:overmind_(elsword):primary"
+msgid "overmind_(elsword)"
+msgstr "超越者（Elsword）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:overmind_(starcraft):primary"
+msgid "overmind_(starcraft)"
+msgstr "主宰（星际争霸）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:overmoon:primary"
+msgid "overmoon"
+msgstr "满月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+#. aliases: 留宿
+msgctxt "tag:overnight:primary"
+msgid "overnight"
+msgstr "通宵"
+
+#. alias-of: overnight
+#. source: ai
+msgctxt "tag:overnight:alias:1"
+msgid "overnight"
+msgstr "留宿"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.structure.architecture
+#. safety: sfw
+#. post-count: 346
+#. aliases: 立交桥
+msgctxt "tag:overpass:primary"
+msgid "overpass"
+msgstr "天桥"
+
+#. alias-of: overpass
+#. source: ai
+msgctxt "tag:overpass:alias:1"
+msgid "overpass"
+msgstr "立交桥"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.theme.symbolic_or_abstract_theme
+#. safety: sfw
+#. post-count: 73
+msgctxt "tag:overpowering:primary"
+msgid "overpowering"
+msgstr "压倒性"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overq:primary"
+msgid "overq"
+msgstr "OverQ"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:overqwil:primary"
+msgid "overqwil"
+msgstr "幽尾玄鱼"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 168
+msgctxt "tag:override_(synthesizer_v):primary"
+msgid "override_(synthesizer_v)"
+msgstr "覆写-SV"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:override_(transformers):primary"
+msgid "override_(transformers)"
+msgstr "Override（变形金刚）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overroid:primary"
+msgid "overroid"
+msgstr "Overroid"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:oversaltedcat:primary"
+msgid "oversaltedcat"
+msgstr "过咸猫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:overseas_utau:primary"
+msgid "overseas_utau"
+msgstr "海外UTAU"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overseer_(bug_fables):primary"
+msgid "overseer_(bug_fables)"
+msgstr "Overseer（Bug Fables）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:overseer_(helldivers):primary"
+msgid "overseer_(helldivers)"
+msgstr "监督者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:overseer_(rain_world):primary"
+msgid "overseer_(rain_world)"
+msgstr "Overseer（雨世界）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oversheep:primary"
+msgid "oversheep"
+msgstr "Oversheep"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.outerwear
+#. safety: sfw
+#. post-count: 150
+#. aliases: 罩衫
+msgctxt "tag:overshirt:primary"
+msgid "overshirt"
+msgstr "外衬衫"
+
+#. alias-of: overshirt
+#. source: ai
+msgctxt "tag:overshirt:alias:1"
+msgid "overshirt"
+msgstr "罩衫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 4300
+#. aliases: 大动物
+msgctxt "tag:oversized_animal:primary"
+msgid "oversized_animal"
+msgstr "巨型动物"
+
+#. alias-of: oversized_animal
+#. source: ai
+msgctxt "tag:oversized_animal:alias:1"
+msgid "oversized_animal"
+msgstr "大动物"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.waist_belt_sash
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oversized_armband:primary"
+msgid "oversized_armband"
+msgstr "超大臂章"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.bag
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:oversized_backpack:primary"
+msgid "oversized_backpack"
+msgstr "超大背包"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oversized_bangle:primary"
+msgid "oversized_bangle"
+msgstr "超大手镯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.waist_belt_sash
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:oversized_belt:primary"
+msgid "oversized_belt"
+msgstr "超大腰带"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.breast.breast_size_shape
+#. safety: sfw
+#. post-count: 1605
+#. aliases: 大胸
+msgctxt "tag:oversized_breast_cup:primary"
+msgid "oversized_breast_cup"
+msgstr "巨乳"
+
+#. alias-of: oversized_breast_cup
+#. source: ai
+msgctxt "tag:oversized_breast_cup:alias:1"
+msgid "oversized_breast_cup"
+msgstr "大胸"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 319
+#. aliases: 巨大昆虫
+msgctxt "tag:oversized_bug:primary"
+msgid "oversized_bug"
+msgstr "超大虫子"
+
+#. alias-of: oversized_bug
+#. source: ai
+msgctxt "tag:oversized_bug:alias:1"
+msgid "oversized_bug"
+msgstr "巨大昆虫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oversized_camera:primary"
+msgid "oversized_camera"
+msgstr "巨型相机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.outerwear
+#. safety: sfw
+#. post-count: 1
+#. aliases: 大斗篷
+msgctxt "tag:oversized_cape:primary"
+msgid "oversized_cape"
+msgstr "超大斗篷"
+
+#. alias-of: oversized_cape
+#. source: ai
+msgctxt "tag:oversized_cape:alias:1"
+msgid "oversized_cape"
+msgstr "大斗篷"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oversized_chopsticks:primary"
+msgid "oversized_chopsticks"
+msgstr "超大筷子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.decorative_object
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oversized_clock:primary"
+msgid "oversized_clock"
+msgstr "超大时钟"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.fit_and_opening
+#. safety: mixed
+#. post-count: 17135
+#. aliases: 宽大衣物
+msgctxt "tag:oversized_clothes:primary"
+msgid "oversized_clothes"
+msgstr "宽松衣物"
+
+#. alias-of: oversized_clothes
+#. source: ai
+msgctxt "tag:oversized_clothes:alias:1"
+msgid "oversized_clothes"
+msgstr "宽大衣物"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.outerwear
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oversized_coat:primary"
+msgid "oversized_coat"
+msgstr "超大外套"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oversized_cocktail_pick:primary"
+msgid "oversized_cocktail_pick"
+msgstr "超大鸡尾酒签"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 7
+#. aliases: 巨型皇冠
+msgctxt "tag:oversized_crown:primary"
+msgid "oversized_crown"
+msgstr "超大皇冠"
+
+#. alias-of: oversized_crown
+#. source: ai
+msgctxt "tag:oversized_crown:alias:1"
+msgid "oversized_crown"
+msgstr "巨型皇冠"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.dress
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:oversized_dress:primary"
+msgid "oversized_dress"
+msgstr "宽松连衣裙"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oversized_ear:primary"
+msgid "oversized_ear"
+msgstr "大耳朵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oversized_earring:primary"
+msgid "oversized_earring"
+msgstr "超大耳环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.eyewear
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:oversized_eyewear:primary"
+msgid "oversized_eyewear"
+msgstr "大号眼镜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.plant
+#. safety: sfw
+#. post-count: 648
+#. aliases: 大花
+msgctxt "tag:oversized_flower:primary"
+msgid "oversized_flower"
+msgstr "超大花"
+
+#. alias-of: oversized_flower
+#. source: ai
+msgctxt "tag:oversized_flower:alias:1"
+msgid "oversized_flower"
+msgstr "大花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 3199
+#. aliases: 巨型食物
+msgctxt "tag:oversized_food:primary"
+msgid "oversized_food"
+msgstr "超大食物"
+
+#. alias-of: oversized_food
+#. source: ai
+msgctxt "tag:oversized_food:alias:1"
+msgid "oversized_food"
+msgstr "巨型食物"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.footwear
+#. safety: sfw
+#. post-count: 96
+#. aliases: 大鞋
+msgctxt "tag:oversized_footwear:primary"
+msgid "oversized_footwear"
+msgstr "大码鞋"
+
+#. alias-of: oversized_footwear
+#. source: ai
+msgctxt "tag:oversized_footwear:alias:1"
+msgid "oversized_footwear"
+msgstr "大鞋"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.limb.limbs_hands_feet
+#. safety: sfw
+#. post-count: 885
+#. aliases: 粗壮前臂
+msgctxt "tag:oversized_forearms:primary"
+msgid "oversized_forearms"
+msgstr "前臂粗壮"
+
+#. alias-of: oversized_forearms
+#. source: ai
+msgctxt "tag:oversized_forearms:alias:1"
+msgid "oversized_forearms"
+msgstr "粗壮前臂"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 113
+#. aliases: 巨叉
+msgctxt "tag:oversized_fork:primary"
+msgid "oversized_fork"
+msgstr "大叉子"
+
+#. alias-of: oversized_fork
+#. source: ai
+msgctxt "tag:oversized_fork:alias:1"
+msgid "oversized_fork"
+msgstr "巨叉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.gloves
+#. safety: sfw
+#. post-count: 48
+#. aliases: 大号手套
+msgctxt "tag:oversized_gloves:primary"
+msgid "oversized_gloves"
+msgstr "超大手套"
+
+#. alias-of: oversized_gloves
+#. source: ai
+msgctxt "tag:oversized_gloves:alias:1"
+msgid "oversized_gloves"
+msgstr "大号手套"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 262
+msgctxt "tag:oversized_hat:primary"
+msgid "oversized_hat"
+msgstr "大帽子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.outerwear
+#. safety: sfw
+#. post-count: 440
+#. aliases: 大号夹克
+msgctxt "tag:oversized_jacket:primary"
+msgid "oversized_jacket"
+msgstr "宽松外套"
+
+#. alias-of: oversized_jacket
+#. source: ai
+msgctxt "tag:oversized_jacket:alias:1"
+msgid "oversized_jacket"
+msgstr "大号夹克"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oversized_knife:primary"
+msgid "oversized_knife"
+msgstr "超大刀"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.proportion.body_proportion
+#. safety: sfw
+#. post-count: 1329
+#. aliases: 巨大四肢
+msgctxt "tag:oversized_limbs:primary"
+msgid "oversized_limbs"
+msgstr "夸张四肢"
+
+#. alias-of: oversized_limbs
+#. source: ai
+msgctxt "tag:oversized_limbs:alias:1"
+msgid "oversized_limbs"
+msgstr "巨大四肢"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.focus.object_focus
+#. safety: sfw
+#. post-count: 13478
+#. aliases: 巨大物体
+msgctxt "tag:oversized_object:primary"
+msgid "oversized_object"
+msgstr "超大物体"
+
+#. alias-of: oversized_object
+#. source: ai
+msgctxt "tag:oversized_object:alias:1"
+msgid "oversized_object"
+msgstr "巨大物体"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.pants_shorts
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:oversized_pants:primary"
+msgid "oversized_pants"
+msgstr "宽松裤子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.plant
+#. safety: sfw
+#. post-count: 198
+#. aliases: 巨型植物
+msgctxt "tag:oversized_plant:primary"
+msgid "oversized_plant"
+msgstr "巨大植物"
+
+#. alias-of: oversized_plant
+#. source: ai
+msgctxt "tag:oversized_plant:alias:1"
+msgid "oversized_plant"
+msgstr "巨型植物"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.plant
+#. safety: sfw
+#. post-count: 3
+#. aliases: 超大南瓜
+msgctxt "tag:oversized_pumpkin:primary"
+msgid "oversized_pumpkin"
+msgstr "巨型南瓜"
+
+#. alias-of: oversized_pumpkin
+#. source: ai
+msgctxt "tag:oversized_pumpkin:alias:1"
+msgid "oversized_pumpkin"
+msgstr "超大南瓜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.inner_top
+#. safety: sfw
+#. post-count: 5904
+#. aliases: 大号衬衫
+msgctxt "tag:oversized_shirt:primary"
+msgid "oversized_shirt"
+msgstr "宽松衬衫"
+
+#. alias-of: oversized_shirt
+#. source: ai
+msgctxt "tag:oversized_shirt:alias:1"
+msgid "oversized_shirt"
+msgstr "大号衬衫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.footwear
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:oversized_shoes:primary"
+msgid "oversized_shoes"
+msgstr "大号鞋子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.skirt_dress_bottom
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oversized_skirt:primary"
+msgid "oversized_skirt"
+msgstr "超大裙子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:oversized_sleeve_lab_coat_kawaii_puniru:primary"
+msgid "oversized_sleeve_lab_coat_kawaii_puniru"
+msgstr "超大袖实验室白大褂可爱噗捏露"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 70
+#. aliases: 大蜘蛛
+msgctxt "tag:oversized_spider:primary"
+msgid "oversized_spider"
+msgstr "巨型蜘蛛"
+
+#. alias-of: oversized_spider
+#. source: ai
+msgctxt "tag:oversized_spider:alias:1"
+msgid "oversized_spider"
+msgstr "大蜘蛛"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 230
+#. aliases: 大勺子
+msgctxt "tag:oversized_spoon:primary"
+msgid "oversized_spoon"
+msgstr "超大勺子"
+
+#. alias-of: oversized_spoon
+#. source: ai
+msgctxt "tag:oversized_spoon:alias:1"
+msgid "oversized_spoon"
+msgstr "大勺子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.outerwear
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oversized_suit:primary"
+msgid "oversized_suit"
+msgstr "过大西装"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.outerwear
+#. safety: sfw
+#. post-count: 167
+#. aliases: 大毛衣
+msgctxt "tag:oversized_sweater:primary"
+msgid "oversized_sweater"
+msgstr "宽松毛衣"
+
+#. alias-of: oversized_sweater
+#. source: ai
+msgctxt "tag:oversized_sweater:alias:1"
+msgid "oversized_sweater"
+msgstr "大毛衣"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.animal.animal_ears_tail
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:oversized_tail:primary"
+msgid "oversized_tail"
+msgstr "超大尾巴"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.inner_top
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oversized_tank-top:primary"
+msgid "oversized_tank-top"
+msgstr "超大背心"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.legwear
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oversized_thighhighs:primary"
+msgid "oversized_thighhighs"
+msgstr "过大过膝袜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 2
+#. aliases: 巨型搅拌器
+msgctxt "tag:oversized_whisk:primary"
+msgid "oversized_whisk"
+msgstr "大号打蛋器"
+
+#. alias-of: oversized_whisk
+#. source: ai
+msgctxt "tag:oversized_whisk:alias:1"
+msgid "oversized_whisk"
+msgstr "巨型搅拌器"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.nonhuman.horns_wings_scales
+#. safety: sfw
+#. post-count: 2922
+#. aliases: 巨型翅膀
+msgctxt "tag:oversized_wings:primary"
+msgid "oversized_wings"
+msgstr "大翅膀"
+
+#. alias-of: oversized_wings
+#. source: ai
+msgctxt "tag:oversized_wings:alias:1"
+msgid "oversized_wings"
+msgstr "巨型翅膀"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.detail.functional_detail
+#. safety: sfw
+#. post-count: 304
+#. aliases: 大拉链
+msgctxt "tag:oversized_zipper:primary"
+msgid "oversized_zipper"
+msgstr "超大拉链"
+
+#. alias-of: oversized_zipper
+#. source: ai
+msgctxt "tag:oversized_zipper:alias:1"
+msgid "oversized_zipper"
+msgstr "大拉链"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.lower.skirt_dress_bottom
+#. safety: sfw
+#. post-count: 6185
+#. aliases: 外裙
+msgctxt "tag:overskirt:primary"
+msgid "overskirt"
+msgstr "罩裙"
+
+#. alias-of: overskirt
+#. source: ai
+msgctxt "tag:overskirt:alias:1"
+msgid "overskirt"
+msgstr "外裙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 217
+#. aliases: 睡懒觉
+msgctxt "tag:oversleep:primary"
+msgid "oversleep"
+msgstr "睡过头"
+
+#. alias-of: oversleep
+#. source: ai
+msgctxt "tag:oversleep:alias:1"
+msgid "oversleep"
+msgstr "睡懒觉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:oversleep0503:primary"
+msgid "oversleep0503"
+msgstr "oversleep0503"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:oversleepergirl:primary"
+msgid "oversleepergirl"
+msgstr "oversleepergirl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overslept_(huazang646):primary"
+msgid "overslept_(huazang646)"
+msgstr "overslept_(huazang646)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.posture.kneeling_squatting
+#. safety: sfw
+#. post-count: 70
+msgctxt "tag:oversplit:primary"
+msgid "oversplit"
+msgstr "过度劈叉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:overtack2:primary"
+msgid "overtack2"
+msgstr "overtack2"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:overtake!:primary"
+msgid "overtake!"
+msgstr "超车!"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overtex_qoatlus:primary"
+msgid "overtex_qoatlus"
+msgstr "Overtex Qoatlus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overthink_(yimna2303):primary"
+msgid "overthink_(yimna2303)"
+msgstr "overthink_(yimna2303)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.mental.thought_or_imagination
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overthinking:primary"
+msgid "overthinking"
+msgstr "过度思考"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:overtime:primary"
+msgid "overtime"
+msgstr "overtime"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:overtimeboo_(zenless_zone_zero):primary"
+msgid "overtimeboo_(zenless_zone_zero)"
+msgstr "加班布（绝区零）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:overtoad:primary"
+msgid "overtoad"
+msgstr "Overtoad"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:overturn:primary"
+msgid "overturn"
+msgstr "推翻"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overturned_boat:primary"
+msgid "overturned_boat"
+msgstr "翻倒的船"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:overturned_car:primary"
+msgid "overturned_car"
+msgstr "翻倒的车"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:overused23:primary"
+msgid "overused23"
+msgstr "过气标签"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 19036
+#. aliases: 守望
+msgctxt "tag:overwatch:primary"
+msgid "overwatch"
+msgstr "守望先锋"
+
+#. alias-of: overwatch
+#. source: ai
+msgctxt "tag:overwatch:alias:1"
+msgid "overwatch"
+msgstr "守望"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: Overwatch
+msgctxt "tag:overwatch:_mission_xxx:primary"
+msgid "overwatch:_mission_xxx"
+msgstr "Overwatch: Mission XXX"
+
+#. alias-of: overwatch:_mission_xxx
+#. source: ai
+msgctxt "tag:overwatch:_mission_xxx:alias:1"
+msgid "overwatch:_mission_xxx"
+msgstr "Overwatch"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 145
+msgctxt "tag:overwatch_(logo):primary"
+msgid "overwatch_(logo)"
+msgstr "守望先锋标志"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 14471
+#. aliases: 守望, OW
+msgctxt "tag:overwatch_1:primary"
+msgid "overwatch_1"
+msgstr "守望先锋"
+
+#. alias-of: overwatch_1
+#. source: ai
+msgctxt "tag:overwatch_1:alias:1"
+msgid "overwatch_1"
+msgstr "守望"
+
+#. alias-of: overwatch_1
+#. source: ai
+msgctxt "tag:overwatch_1:alias:2"
+msgid "overwatch_1"
+msgstr "OW"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1384
+#. aliases: OW2
+msgctxt "tag:overwatch_2:primary"
+msgid "overwatch_2"
+msgstr "守望先锋2"
+
+#. alias-of: overwatch_2
+#. source: ai
+msgctxt "tag:overwatch_2:alias:1"
+msgid "overwatch_2"
+msgstr "OW2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:overwatch_2_d.va:primary"
+msgid "overwatch_2_d.va"
+msgstr "D.Va (守望先锋2)"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overwatch_apex:primary"
+msgid "overwatch_apex"
+msgstr "守望先锋_Apex"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 7
+#. aliases: OWL
+msgctxt "tag:overwatch_esports:primary"
+msgid "overwatch_esports"
+msgstr "守望先锋电竞"
+
+#. alias-of: overwatch_esports
+#. source: ai
+msgctxt "tag:overwatch_esports:alias:1"
+msgid "overwatch_esports"
+msgstr "OWL"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:overwatch_league:primary"
+msgid "overwatch_league"
+msgstr "守望先锋联赛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 暴雪宅
+msgctxt "tag:overwatch_otaku:primary"
+msgid "overwatch_otaku"
+msgstr "overwatch_otaku"
+
+#. alias-of: overwatch_otaku
+#. source: ai
+msgctxt "tag:overwatch_otaku:alias:1"
+msgid "overwatch_otaku"
+msgstr "暴雪宅"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:overwatch_standard_issue_pulse_rifle:primary"
+msgid "overwatch_standard_issue_pulse_rifle"
+msgstr "守望先锋标准版脉冲步枪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overwatch_standard_issue_pulse_rifle_(girls'_frontline)_(kion-kun):primary"
+msgid "overwatch_standard_issue_pulse_rifle_(girls'_frontline)_(kion-kun)"
+msgstr "守望标准型脉冲步枪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overwazzizzi:primary"
+msgid "overwazzizzi"
+msgstr "Overwazzizzi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overworked_(yu-gi-oh!):primary"
+msgid "overworked_(yu-gi-oh!)"
+msgstr "过劳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: nsfw
+#. post-count: 2
+#. aliases: 劳累缺爱
+msgctxt "tag:overworked_and_underfucked_(meme):primary"
+msgid "overworked_and_underfucked_(meme)"
+msgstr "工作过度且性欲未得到满足(梗)"
+
+#. alias-of: overworked_and_underfucked_(meme)
+#. source: ai
+msgctxt "tag:overworked_and_underfucked_(meme):alias:1"
+msgid "overworked_and_underfucked_(meme)"
+msgstr "劳累缺爱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:overworld_(2bovertheworld):primary"
+msgid "overworld_(2bovertheworld)"
+msgstr "overworld_(2bovertheworld)"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 3
+msgctxt "tag:overwrite_(novel):primary"
+msgid "overwrite_(novel)"
+msgstr "Overwrite（小说）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:overwrite_(vocaloid):primary"
+msgid "overwrite_(vocaloid)"
+msgstr "覆写"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.effect.digital.digital_effect
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:overwritten_text:primary"
+msgid "overwritten_text"
+msgstr "被覆盖的文字"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oveserrantes:primary"
+msgid "oveserrantes"
+msgstr "Oveserrantes"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ovexxxxx:primary"
+msgid "ovexxxxx"
+msgstr "ovexxxxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ovfr_p:primary"
+msgid "ovfr_p"
+msgstr "ovfr_p"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovicopter:primary"
+msgid "ovicopter"
+msgstr "Ovicopter"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: nhaliz
+msgctxt "tag:ovilia_(nhaliz):primary"
+msgid "ovilia_(nhaliz)"
+msgstr "ovilia"
+
+#. alias-of: ovilia_(nhaliz)
+#. source: ai
+msgctxt "tag:ovilia_(nhaliz):alias:1"
+msgid "ovilia_(nhaliz)"
+msgstr "nhaliz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovilierdl:primary"
+msgid "ovilierdl"
+msgstr "ovilierdl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ovino_mancer:primary"
+msgid "ovino_mancer"
+msgstr "Ovino Mancer"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oviraptor:primary"
+msgid "oviraptor"
+msgstr "窃蛋龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 绵羊座
+msgctxt "tag:ovis_aries:primary"
+msgid "ovis_aries"
+msgstr "Ovis Aries"
+
+#. alias-of: ovis_aries
+#. source: ai
+msgctxt "tag:ovis_aries:alias:1"
+msgid "ovis_aries"
+msgstr "绵羊座"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oviser:primary"
+msgid "oviser"
+msgstr "oviser"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovisseu:primary"
+msgid "ovisseu"
+msgstr "ovisseu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ovjang:primary"
+msgid "ovjang"
+msgstr "Ovjang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovk_eto10:primary"
+msgid "ovk_eto10"
+msgstr "ovk_eto10"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovlibiate:primary"
+msgid "ovlibiate"
+msgstr "Ovlibiate"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ovo:primary"
+msgid "ovo"
+msgstr "Ovo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ovo5922:primary"
+msgid "ovo5922"
+msgstr "ovo5922"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovo999c:primary"
+msgid "ovo999c"
+msgstr "ovo999c"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovo_(cirque_du_soleil):primary"
+msgid "ovo_(cirque_du_soleil)"
+msgstr "《OVO》（太阳马戏团）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovo_(kulogo):primary"
+msgid "ovo_(kulogo)"
+msgstr "ovo (kulogo)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ovo_(pixiv_92145224):primary"
+msgid "ovo_(pixiv_92145224)"
+msgstr "OVO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ovo_(user_fkke4228):primary"
+msgid "ovo_(user_fkke4228)"
+msgstr "OVO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ovo_03177:primary"
+msgid "ovo_03177"
+msgstr "OVO_03177"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ovo_2525rr:primary"
+msgid "ovo_2525rr"
+msgstr "OVO_2525RR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ovo_2g:primary"
+msgid "ovo_2g"
+msgstr "OVO 2G"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ovo_cheese2:primary"
+msgid "ovo_cheese2"
+msgstr "ovo_cheese2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovo_chongqing:primary"
+msgid "ovo_chongqing"
+msgstr "ovo重庆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ovo_orng:primary"
+msgid "ovo_orng"
+msgstr "ovo_orng"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovo_semi:primary"
+msgid "ovo_semi"
+msgstr "OVO半"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovo_weiai_gan_nonghuo_ban:primary"
+msgid "ovo_weiai_gan_nonghuo_ban"
+msgstr "ovo_为爱干农活版"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovobbb:primary"
+msgid "ovobbb"
+msgstr "ovobbb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovoewe:primary"
+msgid "ovoewe"
+msgstr "ovoewe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovoin6ja6amf1oo:primary"
+msgid "ovoin6ja6amf1oo"
+msgstr "ovoin6ja6amf1oo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ovolinyu:primary"
+msgid "ovolinyu"
+msgstr "Ovolinyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:ovolo123:primary"
+msgid "ovolo123"
+msgstr "ovolo123"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovomaltine:primary"
+msgid "ovomaltine"
+msgstr "阿华田"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:ovomorph:primary"
+msgid "ovomorph"
+msgstr "异形卵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ovonabeta_go:primary"
+msgid "ovonabeta_go"
+msgstr "ovonabeta_go"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:ovos:primary"
+msgid "ovos"
+msgstr "ovos"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:ovosaki:primary"
+msgid "ovosaki"
+msgstr "ovosaki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovoshchnoy:primary"
+msgid "ovoshchnoy"
+msgstr "ovoshchnoy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ovosou_fanfriot:primary"
+msgid "ovosou_fanfriot"
+msgstr "Ovosou Fanfriot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ovotheartist_(kidddovo):primary"
+msgid "ovotheartist_(kidddovo)"
+msgstr "ovotheartist"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ovovo_(pixiv_68194084):primary"
+msgid "ovovo_(pixiv_68194084)"
+msgstr "OVOVO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovowww:primary"
+msgid "ovowww"
+msgstr "ovowww"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ovoxxx:primary"
+msgid "ovoxxx"
+msgstr "ovoxxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ovrinrin:primary"
+msgid "ovrinrin"
+msgstr "ovrinrin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ovrperi:primary"
+msgid "ovrperi"
+msgstr "ovrperi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ovrtmoon67:primary"
+msgid "ovrtmoon67"
+msgstr "Ovrtmoon67"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ovsosito:primary"
+msgid "ovsosito"
+msgstr "Ovsosito"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.age_stage
+#. safety: sfw
+#. post-count: 80
+msgctxt "tag:ovulation:primary"
+msgid "ovulation"
+msgstr "排卵期"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.biological_specimen
+#. safety: mixed
+#. post-count: 4386
+#. aliases: 卵
+msgctxt "tag:ovum:primary"
+msgid "ovum"
+msgstr "卵子"
+
+#. alias-of: ovum
+#. source: ai
+msgctxt "tag:ovum:alias:1"
+msgid "ovum"
+msgstr "卵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.eyes.pupil.pupil_design
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovum-shaped_pupils:primary"
+msgid "ovum-shaped_pupils"
+msgstr "卵形瞳孔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.biological_specimen
+#. safety: mixed
+#. post-count: 587
+#. aliases: 带心蛋
+msgctxt "tag:ovum_with_heart:primary"
+msgid "ovum_with_heart"
+msgstr "心形蛋"
+
+#. alias-of: ovum_with_heart
+#. source: ai
+msgctxt "tag:ovum_with_heart:alias:1"
+msgid "ovum_with_heart"
+msgstr "带心蛋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovuwm3o:primary"
+msgid "ovuwm3o"
+msgstr "Ovuwm3o"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovvu:primary"
+msgid "ovvu"
+msgstr "Ovvu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ovvvo_(bb12bear):primary"
+msgid "ovvvo_(bb12bear)"
+msgstr "Ovvvo (BB12Bear)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ovxyw:primary"
+msgid "ovxyw"
+msgstr "OVXYW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ovytia-art:primary"
+msgid "ovytia-art"
+msgstr "Ovytia-art"

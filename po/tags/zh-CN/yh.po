@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:50+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:50+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yh:primary"
+msgid "yh"
+msgstr "yh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:yh114019:primary"
+msgid "yh114019"
+msgstr "yh114019"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yh632346465:primary"
+msgid "yh632346465"
+msgstr "yh632346465"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yh6_wjou:primary"
+msgid "yh6_wjou"
+msgstr "yh6_wjou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yh7765_nn:primary"
+msgid "yh7765_nn"
+msgstr "Yh7765 Nn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:yh8mp:primary"
+msgid "yh8mp"
+msgstr "YH8MP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yh_0876:primary"
+msgid "yh_0876"
+msgstr "YH-0876"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:yh_c:primary"
+msgid "yh_c"
+msgstr "YH_C"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+#. aliases: 睡眠
+msgctxt "tag:yh_sleeping:primary"
+msgid "yh_sleeping"
+msgstr "睡觉"
+
+#. alias-of: yh_sleeping
+#. source: ai
+msgctxt "tag:yh_sleeping:alias:1"
+msgid "yh_sleeping"
+msgstr "睡眠"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:yhan_(wuthering_waves):primary"
+msgid "yhan_(wuthering_waves)"
+msgstr "Yhan (鸣潮)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhantou:primary"
+msgid "yhantou"
+msgstr "亚汉头"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yharim:primary"
+msgid "yharim"
+msgstr "Yharim"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:yharnam:primary"
+msgid "yharnam"
+msgstr "雅南"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+#. aliases: Phtumerian Queen
+msgctxt "tag:yharnam_phtumerian_queen:primary"
+msgid "yharnam_phtumerian_queen"
+msgstr "亚南血族女王"
+
+#. alias-of: yharnam_phtumerian_queen
+#. source: ai
+msgctxt "tag:yharnam_phtumerian_queen:alias:1"
+msgid "yharnam_phtumerian_queen"
+msgstr "Phtumerian Queen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:yharnams_finest:primary"
+msgid "yharnams_finest"
+msgstr "yharnams_finest"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yharnin:primary"
+msgid "yharnin"
+msgstr "Yharnin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:yharon:primary"
+msgid "yharon"
+msgstr "Yharon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yhdama:primary"
+msgid "yhdama"
+msgstr "yhdama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:yhell_b:primary"
+msgid "yhell_b"
+msgstr "Yhell_B"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:yhemo:primary"
+msgid "yhemo"
+msgstr "Yhemo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:yhhexileproject:primary"
+msgid "yhhexileproject"
+msgstr "YHHExileProject"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+#. aliases: 光束机枪
+msgctxt "tag:yhi_yf-mg100_(gundam):primary"
+msgid "yhi_yf-mg100_(gundam)"
+msgstr "YF-MG100"
+
+#. alias-of: yhi_yf-mg100_(gundam)
+#. source: ai
+msgctxt "tag:yhi_yf-mg100_(gundam):alias:1"
+msgid "yhi_yf-mg100_(gundam)"
+msgstr "光束机枪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:yhighron:primary"
+msgid "yhighron"
+msgstr "yhighron"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yhin:primary"
+msgid "yhin"
+msgstr "Yhin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhinne:primary"
+msgid "yhinne"
+msgstr "Yhinne"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhmk7448:primary"
+msgid "yhmk7448"
+msgstr "yhmk7448"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yhmy:primary"
+msgid "yhmy"
+msgstr "YHMY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:yhn_(yesp4483):primary"
+msgid "yhn_(yesp4483)"
+msgstr "YHN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhn_mlml:primary"
+msgid "yhn_mlml"
+msgstr "YHN MLML"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:yhnb_19_(twitter):primary"
+msgid "yhnb_19_(twitter)"
+msgstr "yhnb_19"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yhoba96:primary"
+msgid "yhoba96"
+msgstr "yhoba96"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:yhogila-q:primary"
+msgid "yhogila-q"
+msgstr "约吉拉Q"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhokosai:primary"
+msgid "yhokosai"
+msgstr "yhokosai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhorey:primary"
+msgid "yhorey"
+msgstr "Yhorey"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:yhorm's_great_machete:primary"
+msgid "yhorm's_great_machete"
+msgstr "大柴刀"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:yhorm_the_giant:primary"
+msgid "yhorm_the_giant"
+msgstr "巨人尤姆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhot45:primary"
+msgid "yhot45"
+msgstr "yhot45"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhoukka:primary"
+msgid "yhoukka"
+msgstr "yhoukka"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhoundeh_(kamigami_battles):primary"
+msgid "yhoundeh_(kamigami_battles)"
+msgstr "耶洪德"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhp0ne2fzj865:primary"
+msgid "yhp0ne2fzj865"
+msgstr "yhp0ne2fzj865"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhr05:primary"
+msgid "yhr05"
+msgstr "yhr05"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:yhr_409:primary"
+msgid "yhr_409"
+msgstr "yhr_409"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yhroa:primary"
+msgid "yhroa"
+msgstr "yhroa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:yhs040626:primary"
+msgid "yhs040626"
+msgstr "yhs040626"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:yhsg:primary"
+msgid "yhsg"
+msgstr "yhsg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yhsvideo:primary"
+msgid "yhsvideo"
+msgstr "yhsvideo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:yhuang1378:primary"
+msgid "yhuang1378"
+msgstr "yhuang1378"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 61
+#. aliases: Yhun
+msgctxt "tag:yhun-chan_(kame_(3t)):primary"
+msgid "yhun-chan_(kame_(3t))"
+msgstr "Yhun-chan"
+
+#. alias-of: yhun-chan_(kame_(3t))
+#. source: ai
+msgctxt "tag:yhun-chan_(kame_(3t)):alias:1"
+msgid "yhun-chan_(kame_(3t))"
+msgstr "Yhun"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhun_ah-ran:primary"
+msgid "yhun_ah-ran"
+msgstr "尹荷蓝"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yhun_ah-rin:primary"
+msgid "yhun_ah-rin"
+msgstr "yhun_ah-rin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yhuntamam:primary"
+msgid "yhuntamam"
+msgstr "yhuntamam"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:yhvh_(megami_tensei):primary"
+msgid "yhvh_(megami_tensei)"
+msgstr "YHWH"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 132
+msgctxt "tag:yhwach:primary"
+msgid "yhwach"
+msgstr "友哈巴赫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhwach_(cosplay):primary"
+msgid "yhwach_(cosplay)"
+msgstr "友哈巴赫（角色扮演）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:yhwcomeback:primary"
+msgid "yhwcomeback"
+msgstr "yhwcomeback"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:yhx5f2kuond0ddi:primary"
+msgid "yhx5f2kuond0ddi"
+msgstr "yhx5f2kuond0ddi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yhxiaoyu:primary"
+msgid "yhxiaoyu"
+msgstr "yhxiaoyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yhye_yohaye:primary"
+msgid "yhye_yohaye"
+msgstr "Yhye Yohaye"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:yhyh:primary"
+msgid "yhyh"
+msgstr "YHYH"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yhykurama:primary"
+msgid "yhykurama"
+msgstr "yhykurama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yhyn:primary"
+msgid "yhyn"
+msgstr "yhyn"

@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:40+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:40+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:rj-dx:primary"
+msgid "rj-dx"
+msgstr "RJ-DX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rj00322:primary"
+msgid "rj00322"
+msgstr "rj00322"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:rj91026205:primary"
+msgid "rj91026205"
+msgstr "rj91026205"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: BT21 RJ
+msgctxt "tag:rj_(bt21):primary"
+msgid "rj_(bt21)"
+msgstr "RJ"
+
+#. alias-of: rj_(bt21)
+#. source: ai
+msgctxt "tag:rj_(bt21):alias:1"
+msgid "rj_(bt21)"
+msgstr "BT21 RJ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:rj_(coeurdemetale):primary"
+msgid "rj_(coeurdemetale)"
+msgstr "RJ (coeurdemetale)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 121
+msgctxt "tag:rj_(lingshih10):primary"
+msgid "rj_(lingshih10)"
+msgstr "rj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rj_(pixiv120112148):primary"
+msgid "rj_(pixiv120112148)"
+msgstr "RJ (pixiv120112148)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rj_(xree):primary"
+msgid "rj_(xree)"
+msgstr "RJ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:rj_balbuena:primary"
+msgid "rj_balbuena"
+msgstr "RJ Balbuena"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rj_barrett:primary"
+msgid "rj_barrett"
+msgstr "RJ·巴雷特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:rj_edward_(artist):primary"
+msgid "rj_edward_(artist)"
+msgstr "rj_edward"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:rj_octr:primary"
+msgid "rj_octr"
+msgstr "RJ OCTR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rj_uzz:primary"
+msgid "rj_uzz"
+msgstr "RJ UZZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:rj_xiii:primary"
+msgid "rj_xiii"
+msgstr "RJ-XIII"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rjackson244:primary"
+msgid "rjackson244"
+msgstr "rjackson244"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rjamal:primary"
+msgid "rjamal"
+msgstr "rjamal"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:rjamez-the-v:primary"
+msgid "rjamez-the-v"
+msgstr "rjamez-the-v"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:rjay_(rjay_owo):primary"
+msgid "rjay_(rjay_owo)"
+msgstr "rjay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:rjduf666:primary"
+msgid "rjduf666"
+msgstr "rjduf666"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:rjehf:primary"
+msgid "rjehf"
+msgstr "rjehf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:rjfqoszm1212:primary"
+msgid "rjfqoszm1212"
+msgstr "rjfqoszm1212"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rjgamesandcrafts:primary"
+msgid "rjgamesandcrafts"
+msgstr "RJ游戏与手工艺"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:rjh5820:primary"
+msgid "rjh5820"
+msgstr "rjh5820"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rjjc:primary"
+msgid "rjjc"
+msgstr "RJJC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rjkun:primary"
+msgid "rjkun"
+msgstr "rjkun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rjnf4437:primary"
+msgid "rjnf4437"
+msgstr "rjnf4437"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:rjngo:primary"
+msgid "rjngo"
+msgstr "RJNGO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rjp_(jashinhunter):primary"
+msgid "rjp_(jashinhunter)"
+msgstr "RJP (jashinhunter)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rjrcvd:primary"
+msgid "rjrcvd"
+msgstr "RJ标记"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:rjsin:primary"
+msgid "rjsin"
+msgstr "rjsin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 86
+msgctxt "tag:rjsn:primary"
+msgid "rjsn"
+msgstr "现实"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rjtdvkj1:primary"
+msgid "rjtdvkj1"
+msgstr "rjtdvkj1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rjumei_jp:primary"
+msgid "rjumei_jp"
+msgstr "rjumei_jp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:rjun:primary"
+msgid "rjun"
+msgstr "rjun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+#. aliases: rjun
+msgctxt "tag:rjun1431:primary"
+msgid "rjun1431"
+msgstr "Rjun"
+
+#. alias-of: rjun1431
+#. source: ai
+msgctxt "tag:rjun1431:alias:1"
+msgid "rjun1431"
+msgstr "rjun"

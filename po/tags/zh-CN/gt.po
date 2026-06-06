@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:26+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:26+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:gt-apex:primary"
+msgid "gt-apex"
+msgstr "GT Apex"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:gt-girl:primary"
+msgid "gt-girl"
+msgstr "GT女孩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 4
+msgctxt "tag:gt-mu:primary"
+msgid "gt-mu"
+msgstr "GT-Mu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gt0126_03:primary"
+msgid "gt0126_03"
+msgstr "gt0126_03"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gt44039:primary"
+msgid "gt44039"
+msgstr "gt44039"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gt4oo:primary"
+msgid "gt4oo"
+msgstr "gt4oo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gt5e6z:primary"
+msgid "gt5e6z"
+msgstr "gt5e6z"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gt667:primary"
+msgid "gt667"
+msgstr "GT667"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:gt_(acidhead_gt):primary"
+msgid "gt_(acidhead_gt)"
+msgstr "GT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:gt_(geta):primary"
+msgid "gt_(geta)"
+msgstr "GT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:gt_(inesperados2013):primary"
+msgid "gt_(inesperados2013)"
+msgstr "GT（INESPERADOS2013）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gt_39:primary"
+msgid "gt_39"
+msgstr "GT-39"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gt_advance_(series):primary"
+msgid "gt_advance_(series)"
+msgstr "GT Advance系列"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gt_advance_2:_rally_racing:primary"
+msgid "gt_advance_2:_rally_racing"
+msgstr "GT Advance 2：Rally Racing"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gt_animates:primary"
+msgid "gt_animates"
+msgstr "GT Animates"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gt_by_citroen:primary"
+msgid "gt_by_citroen"
+msgstr "雪铁龙 GT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:gt_dune:primary"
+msgid "gt_dune"
+msgstr "GT沙丘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:gt_majoyan:primary"
+msgid "gt_majoyan"
+msgstr "GT Majoyan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:gt_ojisan:primary"
+msgid "gt_ojisan"
+msgstr "GT大叔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gt_rabbit_020:primary"
+msgid "gt_rabbit_020"
+msgstr "GT兔020"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gt_robo:primary"
+msgid "gt_robo"
+msgstr "GT机器人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:gt_shoukyou:primary"
+msgid "gt_shoukyou"
+msgstr "GT圣教"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gt_uo4:primary"
+msgid "gt_uo4"
+msgstr "Gt Uo4"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 4
+#. aliases: GT美洲赛
+msgctxt "tag:gt_world_challenge_america:primary"
+msgid "gt_world_challenge_america"
+msgstr "GT世界挑战赛美国站"
+
+#. alias-of: gt_world_challenge_america
+#. source: ai
+msgctxt "tag:gt_world_challenge_america:alias:1"
+msgid "gt_world_challenge_america"
+msgstr "GT美洲赛"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:gt_world_challenge_europe:primary"
+msgid "gt_world_challenge_europe"
+msgstr "GT世界挑战赛欧洲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtalk-tan:primary"
+msgid "gtalk-tan"
+msgstr "GTalk娘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtamei11:primary"
+msgid "gtamei11"
+msgstr "GTAMEI11"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtaro05:primary"
+msgid "gtaro05"
+msgstr "Gtaro05"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:gtbowl:primary"
+msgid "gtbowl"
+msgstr "gtbowl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtc9dcj:primary"
+msgid "gtc9dcj"
+msgstr "gtc9dcj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:gtcockroach:primary"
+msgid "gtcockroach"
+msgstr "GT蟑螂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:gtcpst:primary"
+msgid "gtcpst"
+msgstr "GTCPST"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:gtd-carthage:primary"
+msgid "gtd-carthage"
+msgstr "gtd-carthage"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gteu_01:primary"
+msgid "gteu_01"
+msgstr "gteu_01"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gtf-11:primary"
+msgid "gtf-11"
+msgstr "gtf-11"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 8
+#. aliases: 滚出去
+msgctxt "tag:gtfo_my_house_(meme):primary"
+msgid "gtfo_my_house_(meme)"
+msgstr "GTFO我的家（梗）"
+
+#. alias-of: gtfo_my_house_(meme)
+#. source: ai
+msgctxt "tag:gtfo_my_house_(meme):alias:1"
+msgid "gtfo_my_house_(meme)"
+msgstr "滚出去"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtfolingling:primary"
+msgid "gtfolingling"
+msgstr "GTFO零零"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:gtfrog9999:primary"
+msgid "gtfrog9999"
+msgstr "GTFrog9999"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:gthlart:primary"
+msgid "gthlart"
+msgstr "gthlart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gtianart:primary"
+msgid "gtianart"
+msgstr "gtianart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gtjedah:primary"
+msgid "gtjedah"
+msgstr "gtjedah"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gtkamenozoki:primary"
+msgid "gtkamenozoki"
+msgstr "gtkamenozoki"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtkbooru:primary"
+msgid "gtkbooru"
+msgstr "GTK图站"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:gtke5753c:primary"
+msgid "gtke5753c"
+msgstr "GTKE"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtktk:primary"
+msgid "gtktk"
+msgstr "GTKTK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gtkw0820:primary"
+msgid "gtkw0820"
+msgstr "gtkw0820"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:gtlz:primary"
+msgid "gtlz"
+msgstr "GTLZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gtm31779:primary"
+msgid "gtm31779"
+msgstr "gtm31779"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtm_mk3_ritter_jet:primary"
+msgid "gtm_mk3_ritter_jet"
+msgstr "GTM Mk3 Ritter Jet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:gtmd0gjamw:primary"
+msgid "gtmd0gjamw"
+msgstr "gtmd0gjamw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gtmt_heaven:primary"
+msgid "gtmt_heaven"
+msgstr "GTMT Heaven"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtn35:primary"
+msgid "gtn35"
+msgstr "GTN35"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtn_(gorugora):primary"
+msgid "gtn_(gorugora)"
+msgstr "Gorugora"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gtnsnin99:primary"
+msgid "gtnsnin99"
+msgstr "gtnsnin99"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gto_receptionist_uniform:primary"
+msgid "gto_receptionist_uniform"
+msgstr "GTO接待员制服"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:gtolin_chang:primary"
+msgid "gtolin_chang"
+msgstr "Gtolin Chang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gtortoise:primary"
+msgid "gtortoise"
+msgstr "gtortoise"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:gtower:primary"
+msgid "gtower"
+msgstr "GTower"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gtpsl:primary"
+msgid "gtpsl"
+msgstr "GTPSL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gtr34rv:primary"
+msgid "gtr34rv"
+msgstr "GTR34RV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtr_hui:primary"
+msgid "gtr_hui"
+msgstr "GTR Hui"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtrn22:primary"
+msgid "gtrn22"
+msgstr "gtrn22"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gtrvariedades:primary"
+msgid "gtrvariedades"
+msgstr "GTRVARIEDADES"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gts:primary"
+msgid "gts"
+msgstr "GTS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:gts_mmnn:primary"
+msgid "gts_mmnn"
+msgstr "gts_mmnn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:gtscasey:primary"
+msgid "gtscasey"
+msgstr "gtscasey"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 106
+msgctxt "tag:gtsleep1200:primary"
+msgid "gtsleep1200"
+msgstr "gtsleep1200"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtsrak:primary"
+msgid "gtsrak"
+msgstr "Gtsrak"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtstmtsm:primary"
+msgid "gtstmtsm"
+msgstr "GTSTMTSM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtsuri1:primary"
+msgid "gtsuri1"
+msgstr "gtsuri1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtth:primary"
+msgid "gtth"
+msgstr "gtth"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gttl0l7hl667579:primary"
+msgid "gttl0l7hl667579"
+msgstr "gttl0l7hl667579"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:gttomato_25638425:primary"
+msgid "gttomato_25638425"
+msgstr "gttomato_25638425"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gttslver:primary"
+msgid "gttslver"
+msgstr "gttslver"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtubuuuuu:primary"
+msgid "gtubuuuuu"
+msgstr "gtubuuuuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 245
+#. aliases: 高达独角兽
+msgctxt "tag:gtunver:primary"
+msgid "gtunver"
+msgstr "独角兽高达"
+
+#. alias-of: gtunver
+#. source: ai
+msgctxt "tag:gtunver:alias:1"
+msgid "gtunver"
+msgstr "高达独角兽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:gtuz:primary"
+msgid "gtuz"
+msgstr "gtuz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtx16500:primary"
+msgid "gtx16500"
+msgstr "gtx16500"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:gtyu_cb:primary"
+msgid "gtyu_cb"
+msgstr "Gtyu CB"

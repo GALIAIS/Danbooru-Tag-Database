@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:32+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:32+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 豆丁
+msgctxt "tag:m9-chi:primary"
+msgid "m9-chi"
+msgstr "小不点"
+
+#. alias-of: m9-chi
+#. source: ai
+msgctxt "tag:m9-chi:alias:1"
+msgid "m9-chi"
+msgstr "豆丁"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 13
+msgctxt "tag:m90:primary"
+msgid "m90"
+msgstr "M90"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m901:primary"
+msgid "m901"
+msgstr "M901"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:m93r_rei:primary"
+msgid "m93r_rei"
+msgstr "m93r_rei"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:m950a_(ace_on_duty)_(girls'_frontline):primary"
+msgid "m950a_(ace_on_duty)_(girls'_frontline)"
+msgstr "M950A（值班王牌）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:m950a_(concert_diva!)_(girls'_frontline):primary"
+msgid "m950a_(concert_diva!)_(girls'_frontline)"
+msgstr "M950A"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 368
+#. aliases: M950A
+msgctxt "tag:m950a_(girls'_frontline):primary"
+msgid "m950a_(girls'_frontline)"
+msgstr "M950A（少女前线）"
+
+#. alias-of: m950a_(girls'_frontline)
+#. source: ai
+msgctxt "tag:m950a_(girls'_frontline):alias:1"
+msgid "m950a_(girls'_frontline)"
+msgstr "M950A"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 5
+#. aliases: M950A
+msgctxt "tag:m950a_(girls'_frontline)_(cosplay):primary"
+msgid "m950a_(girls'_frontline)_(cosplay)"
+msgstr "M950A（少女前线）（Cosplay）"
+
+#. alias-of: m950a_(girls'_frontline)_(cosplay)
+#. source: ai
+msgctxt "tag:m950a_(girls'_frontline)_(cosplay):alias:1"
+msgid "m950a_(girls'_frontline)_(cosplay)"
+msgstr "M950A"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+#. aliases: 头崩症候群, 少女前线
+msgctxt "tag:m950a_(headbanger_syndrome)_(girls'_frontline):primary"
+msgid "m950a_(headbanger_syndrome)_(girls'_frontline)"
+msgstr "M950A（Headbanger Syndrome）（少女前线）"
+
+#. alias-of: m950a_(headbanger_syndrome)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:m950a_(headbanger_syndrome)_(girls'_frontline):alias:1"
+msgid "m950a_(headbanger_syndrome)_(girls'_frontline)"
+msgstr "头崩症候群"
+
+#. alias-of: m950a_(headbanger_syndrome)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:m950a_(headbanger_syndrome)_(girls'_frontline):alias:2"
+msgid "m950a_(headbanger_syndrome)_(girls'_frontline)"
+msgstr "少女前线"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:m950a_(home_ec_training)_(girls'_frontline):primary"
+msgid "m950a_(home_ec_training)_(girls'_frontline)"
+msgstr "M950A（家政训练）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:m950a_(mod3)_(girls'_frontline):primary"
+msgid "m950a_(mod3)_(girls'_frontline)"
+msgstr "M950A（MOD3）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:m950a_(the_elegance_of_tea_is_undefeated_by_the_snow)_(girls'_frontline):primary"
+msgid "m950a_(the_elegance_of_tea_is_undefeated_by_the_snow)_(girls'_frontline)"
+msgstr "M950A（The Elegance of Tea Is Undefeated by the Snow）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+#. aliases: M950A（少女前线）
+msgctxt "tag:m950a_(the_warbler_and_the_rose)_(girls'_frontline):primary"
+msgid "m950a_(the_warbler_and_the_rose)_(girls'_frontline)"
+msgstr "M950A"
+
+#. alias-of: m950a_(the_warbler_and_the_rose)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:m950a_(the_warbler_and_the_rose)_(girls'_frontline):alias:1"
+msgid "m950a_(the_warbler_and_the_rose)_(girls'_frontline)"
+msgstr "M950A（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:m9865074674044:primary"
+msgid "m9865074674044"
+msgstr "m9865074674044"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:m9999:primary"
+msgid "m9999"
+msgstr "M9999"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:m99_(cyclamen)_(girls'_frontline):primary"
+msgid "m99_(cyclamen)_(girls'_frontline)"
+msgstr "M99 (Cyclamen) (Girls' Frontline)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:m99_(drumrolls_when_the_curtain_rises)_(girls'_frontline):primary"
+msgid "m99_(drumrolls_when_the_curtain_rises)_(girls'_frontline)"
+msgstr "M99"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 133
+#. aliases: M99(少女前线)
+msgctxt "tag:m99_(girls'_frontline):primary"
+msgid "m99_(girls'_frontline)"
+msgstr "M99"
+
+#. alias-of: m99_(girls'_frontline)
+#. source: ai
+msgctxt "tag:m99_(girls'_frontline):alias:1"
+msgid "m99_(girls'_frontline)"
+msgstr "M99(少女前线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:m99_(rabbit_squad)_(girls'_frontline):primary"
+msgid "m99_(rabbit_squad)_(girls'_frontline)"
+msgstr "M99(少女前线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:m99_(white_rabbit_summer_banquet)_(girls'_frontline):primary"
+msgid "m99_(white_rabbit_summer_banquet)_(girls'_frontline)"
+msgstr "M99（白兔夏宴）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:m9_(bayonet):primary"
+msgid "m9_(bayonet)"
+msgstr "M9刺刀"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+#. aliases: 少女前线M9
+msgctxt "tag:m9_(girls'_frontline):primary"
+msgid "m9_(girls'_frontline)"
+msgstr "M9"
+
+#. alias-of: m9_(girls'_frontline)
+#. source: ai
+msgctxt "tag:m9_(girls'_frontline):alias:1"
+msgid "m9_(girls'_frontline)"
+msgstr "少女前线M9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:m9_(sekai):primary"
+msgid "m9_(sekai)"
+msgstr "M9（sekai）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:m9_2mm:primary"
+msgid "m9_2mm"
+msgstr "M9 2mm"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:m9_gernsback:primary"
+msgid "m9_gernsback"
+msgstr "M9盖恩斯巴克"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m9_gernsback_(cosplay):primary"
+msgid "m9_gernsback_(cosplay)"
+msgstr "M9格恩斯贝克（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:m9_mukyuu:primary"
+msgid "m9_mukyuu"
+msgstr "m9_mukyuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m9_owo:primary"
+msgid "m9_owo"
+msgstr "m9_owo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:m9_uwu:primary"
+msgid "m9_uwu"
+msgstr "m9_uwu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:m9charlie:primary"
+msgid "m9charlie"
+msgstr "M9 Charlie"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:m9d_falke:primary"
+msgid "m9d_falke"
+msgstr "M9D Falke"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m9ltka:primary"
+msgid "m9ltka"
+msgstr "M9ltka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:m9m9ra:primary"
+msgid "m9m9ra"
+msgstr "M9M9RA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 83
+msgctxt "tag:m9nokuro:primary"
+msgid "m9nokuro"
+msgstr "m9nokuro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:m9wupk:primary"
+msgid "m9wupk"
+msgstr "m9wupk"

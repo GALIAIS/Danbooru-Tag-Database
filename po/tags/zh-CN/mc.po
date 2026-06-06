@@ -1,0 +1,2597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:33+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:33+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mc'wally:primary"
+msgid "mc'wally"
+msgstr "mc'wally"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:mc-4:primary"
+msgid "mc-4"
+msgstr "MC-4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mc-ash-tray:primary"
+msgid "mc-ash-tray"
+msgstr "MC-烟灰缸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:mc-sm:primary"
+msgid "mc-sm"
+msgstr "MC-SM"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mc.200_saetta:primary"
+msgid "mc.200_saetta"
+msgstr "MC.200 Saetta"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mc.202_folgore:primary"
+msgid "mc.202_folgore"
+msgstr "MC.202闪电"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mc.202_folgore_(personification):primary"
+msgid "mc.202_folgore_(personification)"
+msgstr "MC.202闪电（拟人化）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mc.205_veltro:primary"
+msgid "mc.205_veltro"
+msgstr "MC.205 Veltro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc.johnnn:primary"
+msgid "mc.johnnn"
+msgstr "mc.johnnn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mc00:primary"
+msgid "mc00"
+msgstr "MC00"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc00f:primary"
+msgid "mc00f"
+msgstr "mc00f"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mc0o5:primary"
+msgid "mc0o5"
+msgstr "mc0o5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mc2_pf:primary"
+msgid "mc2_pf"
+msgstr "mc2_pf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc5jcmrn:primary"
+msgid "mc5jcmrn"
+msgstr "mc5jcmrn"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc80a_star_cruiser:primary"
+msgid "mc80a_star_cruiser"
+msgstr "MC80A星际巡洋舰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc83xj:primary"
+msgid "mc83xj"
+msgstr "mc83xj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:mc_(k0111s):primary"
+msgid "mc_(k0111s)"
+msgstr "mc"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mc_(nekopara_-_catboys_paradise):primary"
+msgid "mc_(nekopara_-_catboys_paradise)"
+msgstr "主角"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 21
+#. aliases: 主角, 主人公
+msgctxt "tag:mc_(obey_me!):primary"
+msgid "mc_(obey_me!)"
+msgstr "主人（Obey Me!）"
+
+#. alias-of: mc_(obey_me!)
+#. source: ai
+msgctxt "tag:mc_(obey_me!):alias:1"
+msgid "mc_(obey_me!)"
+msgstr "主角"
+
+#. alias-of: mc_(obey_me!)
+#. source: ai
+msgctxt "tag:mc_(obey_me!):alias:2"
+msgid "mc_(obey_me!)"
+msgstr "主人公"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc_(ysb2057):primary"
+msgid "mc_(ysb2057)"
+msgstr "MC(YSB2057)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc_1960_xx:primary"
+msgid "mc_1960_xx"
+msgstr "MC_1960_XX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc_898:primary"
+msgid "mc_898"
+msgstr "mc_898"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 368
+msgctxt "tag:mc_axis:primary"
+msgid "mc_axis"
+msgstr "MC轴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mc_ballyhoo:primary"
+msgid "mc_ballyhoo"
+msgstr "MC Ballyhoo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mc_bat_commander:primary"
+msgid "mc_bat_commander"
+msgstr "MC 蝙蝠指挥官"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mc_bork:primary"
+msgid "mc_bork"
+msgstr "MC Bork"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:mc_championship:primary"
+msgid "mc_championship"
+msgstr "MC锦标赛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:mc_copycat:primary"
+msgid "mc_copycat"
+msgstr "MC复制猫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:mc_dumb:primary"
+msgid "mc_dumb"
+msgstr "笨蛋主角"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc_emi:primary"
+msgid "mc_emi"
+msgstr "MC Emi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mc_f_167:primary"
+msgid "mc_f_167"
+msgstr "MC_F167"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mc_gakuen:primary"
+msgid "mc_gakuen"
+msgstr "MC学园"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mc_hammer:primary"
+msgid "mc_hammer"
+msgstr "MC Hammer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:mc_kawaii:primary"
+msgid "mc_kawaii"
+msgstr "MC可爱"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc_laren:primary"
+msgid "mc_laren"
+msgstr "McLaren"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mc_macchi:primary"
+msgid "mc_macchi"
+msgstr "mc_macchi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc_mya:primary"
+msgid "mc_mya"
+msgstr "MC Mya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:mc_pyth:primary"
+msgid "mc_pyth"
+msgstr "mc_pyth"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mc_ride:primary"
+msgid "mc_ride"
+msgstr "MC Ride"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc_saad:primary"
+msgid "mc_saad"
+msgstr "mc_saad"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc_seabura:primary"
+msgid "mc_seabura"
+msgstr "MC Seabura"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mc_serginho:primary"
+msgid "mc_serginho"
+msgstr "MC Serginho"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mc_sledge:primary"
+msgid "mc_sledge"
+msgstr "MC Sledge"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mc_staff:primary"
+msgid "mc_staff"
+msgstr "MC Staff"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mc_tamago:primary"
+msgid "mc_tamago"
+msgstr "mc_tamago"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mc_tomcat:primary"
+msgid "mc_tomcat"
+msgstr "mc_tomcat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 91
+msgctxt "tag:mca_(dessert_candy):primary"
+msgid "mca_(dessert_candy)"
+msgstr "甜点糖果"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcad:primary"
+msgid "mcad"
+msgstr "MCAD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcad_love:primary"
+msgid "mcad_love"
+msgstr "MCAD Love"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcafe:primary"
+msgid "mcafe"
+msgstr "mcafe"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mcafee:primary"
+msgid "mcafee"
+msgstr "McAfee"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcalpine_toni_strauss:primary"
+msgid "mcalpine_toni_strauss"
+msgstr "McAlpine Toni Strauss"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:mcan:primary"
+msgid "mcan"
+msgstr "MCAN"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcanime:primary"
+msgid "mcanime"
+msgstr "MC Anime"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcapriglioneart:primary"
+msgid "mcapriglioneart"
+msgstr "mcapriglioneart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:mcarkp_ff:primary"
+msgid "mcarkp_ff"
+msgstr "MCARKP_FF"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:mcarson:primary"
+msgid "mcarson"
+msgstr "McArson"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:mcarthur1010:primary"
+msgid "mcarthur1010"
+msgstr "mcarthur1010"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcartiie:primary"
+msgid "mcartiie"
+msgstr "mcartiie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcashe:primary"
+msgid "mcashe"
+msgstr "MCashe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:mcaster:primary"
+msgid "mcaster"
+msgstr "mcaster"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcauley-art:primary"
+msgid "mcauley-art"
+msgstr "McAuley Art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcavoy29:primary"
+msgid "mcavoy29"
+msgstr "McAvoy29"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcb_(mcb8_9):primary"
+msgid "mcb_(mcb8_9)"
+msgstr "MCB"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcbain_(eiyuu_densetsu):primary"
+msgid "mcbain_(eiyuu_densetsu)"
+msgstr "麦贝恩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mcbcrella:primary"
+msgid "mcbcrella"
+msgstr "Mcbcrella"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mcbess:primary"
+msgid "mcbess"
+msgstr "mcbess"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.fashion_or_costume_style
+#. safety: sfw
+#. post-count: 112
+msgctxt "tag:mcbling:primary"
+msgid "mcbling"
+msgstr "MCbling"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcbound:primary"
+msgid "mcbound"
+msgstr "mcbound"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 195
+msgctxt "tag:mcbox:primary"
+msgid "mcbox"
+msgstr "mcbox"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 103
+msgctxt "tag:mcbuckwheat:primary"
+msgid "mcbuckwheat"
+msgstr "mcbuckwheat"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:mcburn:primary"
+msgid "mcburn"
+msgstr "麦克本"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mcc-cookie:primary"
+msgid "mcc-cookie"
+msgstr "MCC Cookie"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcc_island:primary"
+msgid "mcc_island"
+msgstr "MCC岛屿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:mcc_msbt:primary"
+msgid "mcc_msbt"
+msgstr "MCC MSBT"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.act.breast_or_thigh_sex
+#. safety: nsfw
+#. post-count: 1
+msgctxt "tag:mcc_threesome:primary"
+msgid "mcc_threesome"
+msgstr "MCC三人行"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:mccall_(azur_lane):primary"
+msgid "mccall_(azur_lane)"
+msgstr "麦考尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mccall_(blue_oath):primary"
+msgid "mccall_(blue_oath)"
+msgstr "麦考尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mccaofficial:primary"
+msgid "mccaofficial"
+msgstr "MCCA官方"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mccb:primary"
+msgid "mccb"
+msgstr "MCCB"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcccm615:primary"
+msgid "mcccm615"
+msgstr "mcccm615"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 129
+msgctxt "tag:mccheese:primary"
+msgid "mccheese"
+msgstr "麦当劳奶酪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcclane0523:primary"
+msgid "mcclane0523"
+msgstr "mcclane0523"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mccloud_(mgpp8282):primary"
+msgid "mccloud_(mgpp8282)"
+msgstr "Mccloud"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: McCoggins
+msgctxt "tag:mccoggins:primary"
+msgid "mccoggins"
+msgstr "McCoggins"
+
+#. alias-of: mccoggins
+#. source: ai
+msgctxt "tag:mccoggins:alias:1"
+msgid "mccoggins"
+msgstr "McCoggins"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mccopperario:primary"
+msgid "mccopperario"
+msgstr "mcopperario"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Area 88 McCoy
+msgctxt "tag:mccoy_(area_88):primary"
+msgid "mccoy_(area_88)"
+msgstr "McCoy"
+
+#. alias-of: mccoy_(area_88)
+#. source: ai
+msgctxt "tag:mccoy_(area_88):alias:1"
+msgid "mccoy_(area_88)"
+msgstr "Area 88 McCoy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mccraeiscook2017205:primary"
+msgid "mccraeiscook2017205"
+msgstr "mccraeiscook2017205"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mccrane:primary"
+msgid "mccrane"
+msgstr "Mccrane"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mccree626:primary"
+msgid "mccree626"
+msgstr "Mccree626"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mccullin_(project_moon):primary"
+msgid "mccullin_(project_moon)"
+msgstr "MCCULLIN（Project Moon）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mccum69:primary"
+msgid "mccum69"
+msgstr "Mccum69"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mccy:primary"
+msgid "mccy"
+msgstr "mccy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcd4423:primary"
+msgid "mcd4423"
+msgstr "MCD4423"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.act.breast_or_thigh_sex
+#. safety: nsfw
+#. post-count: 1
+msgctxt "tag:mcd_threesome:primary"
+msgid "mcd_threesome"
+msgstr "MCD三人行"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mcdid_studio:primary"
+msgid "mcdid_studio"
+msgstr "MCDID工作室"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcdkt:primary"
+msgid "mcdkt"
+msgstr "mcdkt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 262
+msgctxt "tag:mcdobo:primary"
+msgid "mcdobo"
+msgstr "麦多博"
+
+#. danbooru-category: 3
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 4337
+#. aliases: M记
+msgctxt "tag:mcdonald's:primary"
+msgid "mcdonald's"
+msgstr "麦当劳"
+
+#. alias-of: mcdonald's
+#. source: ai
+msgctxt "tag:mcdonald's:alias:1"
+msgid "mcdonald's"
+msgstr "M记"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcdonald's_ceo_tries_the_big_arch_(meme):primary"
+msgid "mcdonald's_ceo_tries_the_big_arch_(meme)"
+msgstr "麦当劳CEO试吃巨无霸（梗）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 7
+#. aliases: 薯饼梗
+msgctxt "tag:mcdonald's_hash_brown_template_(meme):primary"
+msgid "mcdonald's_hash_brown_template_(meme)"
+msgstr "麦当劳薯饼模板（梗）"
+
+#. alias-of: mcdonald's_hash_brown_template_(meme)
+#. source: ai
+msgctxt "tag:mcdonald's_hash_brown_template_(meme):alias:1"
+msgid "mcdonald's_hash_brown_template_(meme)"
+msgstr "薯饼梗"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.holiday_or_festival
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcdonald's_spring_love:primary"
+msgid "mcdonald's_spring_love"
+msgstr "麦当劳春季活动"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcdonell_douglas:primary"
+msgid "mcdonell_douglas"
+msgstr "麦道公司"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcdonkies:primary"
+msgid "mcdonkies"
+msgstr "McDonkies"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcdougal_(bunny_black):primary"
+msgid "mcdougal_(bunny_black)"
+msgstr "麦克杜格尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mcdougal_(madoka_magica):primary"
+msgid "mcdougal_(madoka_magica)"
+msgstr "麦克道格尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcdowell0311:primary"
+msgid "mcdowell0311"
+msgstr "mcdowell0311"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcdownroad:primary"
+msgid "mcdownroad"
+msgstr "mcdownroad"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcdrawanime:primary"
+msgid "mcdrawanime"
+msgstr "McDrawAnime"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcdroid:primary"
+msgid "mcdroid"
+msgstr "mcdroid"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcduckillustration:primary"
+msgid "mcduckillustration"
+msgstr "McDuckIllustration"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mceastnight:primary"
+msgid "mceastnight"
+msgstr "mceastnight"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:mcenroe:primary"
+msgid "mcenroe"
+msgstr "McENROE"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcentire_(seelow1945):primary"
+msgid "mcentire_(seelow1945)"
+msgstr "MCEntire"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcff:primary"
+msgid "mcff"
+msgstr "MCFF"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mcflarey:primary"
+msgid "mcflarey"
+msgstr "mcflarey"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:mcfli:primary"
+msgid "mcfli"
+msgstr "MCFli"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:mcflurry:primary"
+msgid "mcflurry"
+msgstr "麦旋风"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:mcfly_(yakami):primary"
+msgid "mcfly_(yakami)"
+msgstr "麦克弗莱 (八神)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcflyy:primary"
+msgid "mcflyy"
+msgstr "mcflyy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcfoxlevy:primary"
+msgid "mcfoxlevy"
+msgstr "McFoxLevy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcfrick:primary"
+msgid "mcfrick"
+msgstr "McFrick"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcfrog:primary"
+msgid "mcfrog"
+msgstr "MC蛙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:mcg6:primary"
+msgid "mcg6"
+msgstr "mcg6"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mcgillis_bauduin:primary"
+msgid "mcgillis_bauduin"
+msgstr "麦吉利斯·博杜安"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 65
+msgctxt "tag:mcgillis_fareed:primary"
+msgid "mcgillis_fareed"
+msgstr "McGillis Fareed"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 141
+msgctxt "tag:mcgmark:primary"
+msgid "mcgmark"
+msgstr "mcgmark"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcgold_riery:primary"
+msgid "mcgold_riery"
+msgstr "McGold Riery"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcgooen:primary"
+msgid "mcgooen"
+msgstr "mcgooen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcgovernarts:primary"
+msgid "mcgovernarts"
+msgstr "McGovernArts"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:mcgrand:primary"
+msgid "mcgrand"
+msgstr "mcgrand"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcgrath_(path_to_nowhere):primary"
+msgid "mcgrath_(path_to_nowhere)"
+msgstr "麦格拉思"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcguinnessjohn:primary"
+msgid "mcguinnessjohn"
+msgstr "约翰·麦吉尼斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 570
+msgctxt "tag:mcgunngu:primary"
+msgid "mcgunngu"
+msgstr "mcgunngu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcgurn_(age_of_ishtaria):primary"
+msgid "mcgurn_(age_of_ishtaria)"
+msgstr "麦格恩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcguruguru:primary"
+msgid "mcguruguru"
+msgstr "mcguruguru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcguy_(one_piece):primary"
+msgid "mcguy_(one_piece)"
+msgstr "麦哲伦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mch9illus:primary"
+msgid "mch9illus"
+msgstr "mch9illus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mch_k0:primary"
+msgid "mch_k0"
+msgstr "MCH_K0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mch_m0n0:primary"
+msgid "mch_m0n0"
+msgstr "mch_m0n0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mchan12rin25:primary"
+msgid "mchan12rin25"
+msgstr "mchan12rin25"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mchang2312:primary"
+msgid "mchang2312"
+msgstr "mchang2312"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mchelique:primary"
+msgid "mchelique"
+msgstr "mchelique"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mchemroo:primary"
+msgid "mchemroo"
+msgstr "Mchemroo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:mchi:primary"
+msgid "mchi"
+msgstr "MCHI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 62
+msgctxt "tag:mchi125:primary"
+msgid "mchi125"
+msgstr "mchi125"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mchi_(mchi03):primary"
+msgid "mchi_(mchi03)"
+msgstr "MCHI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mchi_38:primary"
+msgid "mchi_38"
+msgstr "MChi38"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mchi_mha:primary"
+msgid "mchi_mha"
+msgstr "mchi_mha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 114
+msgctxt "tag:mchiefy:primary"
+msgid "mchiefy"
+msgstr "mchiefy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:mchii0:primary"
+msgid "mchii0"
+msgstr "Mchii0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:mcho_cry:primary"
+msgid "mcho_cry"
+msgstr "mcho_cry"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:mcho_u:primary"
+msgid "mcho_u"
+msgstr "mcho_u"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mchoi141:primary"
+msgid "mchoi141"
+msgstr "mchoi141"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:mchonmchon:primary"
+msgid "mchonmchon"
+msgstr "MCHONMCHON"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mchu088:primary"
+msgid "mchu088"
+msgstr "mchu088"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 70
+msgctxt "tag:mcic0:primary"
+msgid "mcic0"
+msgstr "MCIC0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcice_draws:primary"
+msgid "mcice_draws"
+msgstr "mcice_draws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mcintosh_draws:primary"
+msgid "mcintosh_draws"
+msgstr "mcintosh_draws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcjay4ll:primary"
+msgid "mcjay4ll"
+msgstr "mcjay4ll"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcjn_jazzy:primary"
+msgid "mcjn_jazzy"
+msgstr "McjnJazzy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:mcjoajoa:primary"
+msgid "mcjoajoa"
+msgstr "MCJoajoa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mck28:primary"
+msgid "mck28"
+msgstr "MCK28"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mck443:primary"
+msgid "mck443"
+msgstr "MCK443"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mck_(tomato213):primary"
+msgid "mck_(tomato213)"
+msgstr "MCK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mckcfan:primary"
+msgid "mckcfan"
+msgstr "mckcfan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mckee_(arknights):primary"
+msgid "mckee_(arknights)"
+msgstr "麦基"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mckenzie_h:primary"
+msgid "mckenzie_h"
+msgstr "McKenzie H"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mckeyes:primary"
+msgid "mckeyes"
+msgstr "mckeyes"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:mcking:primary"
+msgid "mcking"
+msgstr "MCKing"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mckinley:primary"
+msgid "mckinley"
+msgstr "mckinley"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mckinley_(daiteikoku):primary"
+msgid "mckinley_(daiteikoku)"
+msgstr "麦金利"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 麦金莱（升级英雄）
+msgctxt "tag:mckinley_(escalation_heroines):primary"
+msgid "mckinley_(escalation_heroines)"
+msgstr "麦金利"
+
+#. alias-of: mckinley_(escalation_heroines)
+#. source: ai
+msgctxt "tag:mckinley_(escalation_heroines):alias:1"
+msgid "mckinley_(escalation_heroines)"
+msgstr "麦金莱（升级英雄）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mckinley_(one_piece):primary"
+msgid "mckinley_(one_piece)"
+msgstr "麦金利（海贼王）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mckkghst:primary"
+msgid "mckkghst"
+msgstr "mckkghst"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mckm0724:primary"
+msgid "mckm0724"
+msgstr "mckm0724"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mckodem:primary"
+msgid "mckodem"
+msgstr "Mckodem"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:mckrs:primary"
+msgid "mckrs"
+msgstr "MCKRS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mckslsl:primary"
+msgid "mckslsl"
+msgstr "MCKSLSL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mckxpic:primary"
+msgid "mckxpic"
+msgstr "mckxpic"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 188
+#. aliases: McLaren
+msgctxt "tag:mclaren:primary"
+msgid "mclaren"
+msgstr "迈凯伦"
+
+#. alias-of: mclaren
+#. source: ai
+msgctxt "tag:mclaren:alias:1"
+msgid "mclaren"
+msgstr "McLaren"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mclaren-mercedes:primary"
+msgid "mclaren-mercedes"
+msgstr "迈凯伦-梅赛德斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:mclaren_570s:primary"
+msgid "mclaren_570s"
+msgstr "迈凯伦570S"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mclaren_650s:primary"
+msgid "mclaren_650s"
+msgstr "迈凯伦650S"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_650s_spider:primary"
+msgid "mclaren_650s_spider"
+msgstr "迈凯伦650S Spider"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:mclaren_720s:primary"
+msgid "mclaren_720s"
+msgstr "迈凯伦720S"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_765lt:primary"
+msgid "mclaren_765lt"
+msgstr "迈凯伦765LT"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mclaren_artura:primary"
+msgid "mclaren_artura"
+msgstr "迈凯伦 Artura"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:mclaren_f1:primary"
+msgid "mclaren_f1"
+msgstr "迈凯伦F1"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_f1_gt:primary"
+msgid "mclaren_f1_gt"
+msgstr "迈凯伦F1 GT"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:mclaren_f1_gtr:primary"
+msgid "mclaren_f1_gtr"
+msgstr "迈凯伦F1 GTR"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mclaren_f1_lm:primary"
+msgid "mclaren_f1_lm"
+msgstr "迈凯伦F1 LM"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mclaren_gts:primary"
+msgid "mclaren_gts"
+msgstr "迈凯伦GTS"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_honda:primary"
+msgid "mclaren_honda"
+msgstr "迈凯伦-本田"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+#. aliases: MCL35
+msgctxt "tag:mclaren_mcl35:primary"
+msgid "mclaren_mcl35"
+msgstr "迈凯伦MCL35"
+
+#. alias-of: mclaren_mcl35
+#. source: ai
+msgctxt "tag:mclaren_mcl35:alias:1"
+msgid "mclaren_mcl35"
+msgstr "MCL35"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_mcl36:primary"
+msgid "mclaren_mcl36"
+msgstr "迈凯伦MCL36"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+#. aliases: 迈凯伦MP4-10
+msgctxt "tag:mclaren_mp4-10:primary"
+msgid "mclaren_mp4-10"
+msgstr "迈凯伦MP4-10"
+
+#. alias-of: mclaren_mp4-10
+#. source: ai
+msgctxt "tag:mclaren_mp4-10:alias:1"
+msgid "mclaren_mp4-10"
+msgstr "迈凯伦MP4-10"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:mclaren_mp4-12c:primary"
+msgid "mclaren_mp4-12c"
+msgstr "迈凯伦MP4-12C"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_mp4-2:primary"
+msgid "mclaren_mp4-2"
+msgstr "迈凯伦MP4-2"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_mp4-20:primary"
+msgid "mclaren_mp4-20"
+msgstr "迈凯伦MP4-20"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_mp4-23:primary"
+msgid "mclaren_mp4-23"
+msgstr "迈凯伦MP4-23"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_mp4-29:primary"
+msgid "mclaren_mp4-29"
+msgstr "迈凯伦MP4-29"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mclaren_mp4/4:primary"
+msgid "mclaren_mp4/4"
+msgstr "迈凯伦MP4/4"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+#. aliases: MP4/5
+msgctxt "tag:mclaren_mp4/5:primary"
+msgid "mclaren_mp4/5"
+msgstr "迈凯伦MP4/5"
+
+#. alias-of: mclaren_mp4/5
+#. source: ai
+msgctxt "tag:mclaren_mp4/5:alias:1"
+msgid "mclaren_mp4/5"
+msgstr "MP4/5"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mclaren_mp4/6:primary"
+msgid "mclaren_mp4/6"
+msgstr "迈凯伦MP4/6"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclaren_mp4/7:primary"
+msgid "mclaren_mp4/7"
+msgstr "迈凯伦MP4/7"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:mclaren_p1:primary"
+msgid "mclaren_p1"
+msgstr "迈凯伦P1"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mclaren_senna:primary"
+msgid "mclaren_senna"
+msgstr "迈凯伦塞纳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mclaren_speedtail:primary"
+msgid "mclaren_speedtail"
+msgstr "迈凯伦Speedtail"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+#. aliases: W1
+msgctxt "tag:mclaren_w1:primary"
+msgid "mclaren_w1"
+msgstr "迈凯伦W1"
+
+#. alias-of: mclaren_w1
+#. source: ai
+msgctxt "tag:mclaren_w1:alias:1"
+msgid "mclaren_w1"
+msgstr "W1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mclarenmp4_27:primary"
+msgid "mclarenmp4_27"
+msgstr "迈凯伦 MP4-27"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 101
+msgctxt "tag:mclelun:primary"
+msgid "mclelun"
+msgstr "McLelun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mclntyre01:primary"
+msgid "mclntyre01"
+msgstr "mclntyre01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclol303:primary"
+msgid "mclol303"
+msgstr "mclol303"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mclonald:primary"
+msgid "mclonald"
+msgstr "麦当劳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:mclw_suisei:primary"
+msgid "mclw_suisei"
+msgstr "MCLW星"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mclydeus:primary"
+msgid "mclydeus"
+msgstr "mclydeus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcm:primary"
+msgid "mcm"
+msgstr "MCM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:mcm3b3:primary"
+msgid "mcm3b3"
+msgstr "MCM3B3"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:mcm_(brand):primary"
+msgid "mcm_(brand)"
+msgstr "MCM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcma:primary"
+msgid "mcma"
+msgstr "MCMA"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmanus_(the_usual_suspects):primary"
+msgid "mcmanus_(the_usual_suspects)"
+msgstr "McManus"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcmaster-carr:primary"
+msgid "mcmaster-carr"
+msgstr "McMaster-Carr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcmaxxis:primary"
+msgid "mcmaxxis"
+msgstr "mcmaxxis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mcmcknk:primary"
+msgid "mcmcknk"
+msgstr "mcmcknk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:mcmclunar_(kaz):primary"
+msgid "mcmclunar_(kaz)"
+msgstr "McMc Lunar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmcmcron:primary"
+msgid "mcmcmcron"
+msgstr "mcmcmcron"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:mcmcmococo:primary"
+msgid "mcmcmococo"
+msgstr "姆姆可可"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcmcpwrm:primary"
+msgid "mcmcpwrm"
+msgstr "mcmcpwrm画师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmctcv:primary"
+msgid "mcmctcv"
+msgstr "mcmctcv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:mcmcusg:primary"
+msgid "mcmcusg"
+msgstr "MCMCUSG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcmcvv:primary"
+msgid "mcmcvv"
+msgstr "MC MCVV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmcy:primary"
+msgid "mcmcy"
+msgstr "McMCy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:mcmeao:primary"
+msgid "mcmeao"
+msgstr "mcmeao"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmgma:primary"
+msgid "mcmgma"
+msgstr "MCMGMA"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:mcmillan_tac-50:primary"
+msgid "mcmillan_tac-50"
+msgstr "麦克米兰TAC-50"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:mcmillia_(inori_no_kuni_no_riviere):primary"
+msgid "mcmillia_(inori_no_kuni_no_riviere)"
+msgstr "麦米莉亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcmillia_(riviere_to_inori_no_kuni):primary"
+msgid "mcmillia_(riviere_to_inori_no_kuni)"
+msgstr "麦克米利亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmin28550355:primary"
+msgid "mcmin28550355"
+msgstr "mcmin28550355"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmlxoxo:primary"
+msgid "mcmlxoxo"
+msgstr "mcmlxoxo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcmon:primary"
+msgid "mcmon"
+msgstr "MC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmorgan:primary"
+msgid "mcmorgan"
+msgstr "mcmorgan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmorthern:primary"
+msgid "mcmorthern"
+msgstr "McMorthern"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmramcm:primary"
+msgid "mcmramcm"
+msgstr "Mcmramcm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcmstz:primary"
+msgid "mcmstz"
+msgstr "mcmstz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:mcmugget:primary"
+msgid "mcmugget"
+msgstr "麦当劳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcmurdo_barriston:primary"
+msgid "mcmurdo_barriston"
+msgstr "麦克默多·巴里斯顿"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcmurphy_(fallout):primary"
+msgid "mcmurphy_(fallout)"
+msgstr "麦克墨菲"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:mcnauru:primary"
+msgid "mcnauru"
+msgstr "McNauru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcnb99:primary"
+msgid "mcnb99"
+msgstr "MCNB99"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcniconico17:primary"
+msgid "mcniconico17"
+msgstr "MCNiconico17"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:mcnn0000:primary"
+msgid "mcnn0000"
+msgstr "mcnn0000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:mcnostril:primary"
+msgid "mcnostril"
+msgstr "鼻孔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcnpopo:primary"
+msgid "mcnpopo"
+msgstr "MCN Popo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:mcnr:primary"
+msgid "mcnr"
+msgstr "MCNR"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:mcnugget_buddy:primary"
+msgid "mcnugget_buddy"
+msgstr "McNugget Buddy"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:mcnuggies_(meme):primary"
+msgid "mcnuggies_(meme)"
+msgstr "麦乐鸡（梗）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:mcnyan:primary"
+msgid "mcnyan"
+msgstr "Mcnyan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:mcoco7:primary"
+msgid "mcoco7"
+msgstr "Mcoco7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+#. aliases: 海螺
+msgctxt "tag:mconch:primary"
+msgid "mconch"
+msgstr "贝壳"
+
+#. alias-of: mconch
+#. source: ai
+msgctxt "tag:mconch:alias:1"
+msgid "mconch"
+msgstr "海螺"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mcopoon:primary"
+msgid "mcopoon"
+msgstr "mcopoon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcot_3510:primary"
+msgid "mcot_3510"
+msgstr "MCOT3510"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcpapaxiaotaoqi:primary"
+msgid "mcpapaxiaotaoqi"
+msgstr "mcpapaxiaotaoqi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 445
+#. aliases: 侍
+msgctxt "tag:mcpc_zamurai:primary"
+msgid "mcpc_zamurai"
+msgstr "武士"
+
+#. alias-of: mcpc_zamurai
+#. source: ai
+msgctxt "tag:mcpc_zamurai:alias:1"
+msgid "mcpc_zamurai"
+msgstr "侍"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcpickle_pounder_(meme):primary"
+msgid "mcpickle_pounder_(meme)"
+msgstr "MCPickle Pounder"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mcpig:primary"
+msgid "mcpig"
+msgstr "mcpig"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.rendering.render_style
+#. safety: sfw
+#. post-count: 42
+#. aliases: MCPig
+msgctxt "tag:mcpig_(style):primary"
+msgid "mcpig_(style)"
+msgstr "MCPig风格"
+
+#. alias-of: mcpig_(style)
+#. source: ai
+msgctxt "tag:mcpig_(style):alias:1"
+msgid "mcpig_(style)"
+msgstr "MCPig"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:mcpixel:primary"
+msgid "mcpixel"
+msgstr "MC像素"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcpls3mcpls:primary"
+msgid "mcpls3mcpls"
+msgstr "mcpls3mcpls"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mcptato:primary"
+msgid "mcptato"
+msgstr "mcptato"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mcpurrito:primary"
+msgid "mcpurrito"
+msgstr "mcpurrito"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:mcq:primary"
+msgid "mcq"
+msgstr "MCQ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcq07gn:primary"
+msgid "mcq07gn"
+msgstr "MCQ07GN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcquade:primary"
+msgid "mcquade"
+msgstr "麦奎德"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:mcqueen_(path_to_nowhere):primary"
+msgid "mcqueen_(path_to_nowhere)"
+msgstr "McQueen"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 麦奎因cos
+msgctxt "tag:mcqueen_(path_to_nowhere)_(cosplay):primary"
+msgid "mcqueen_(path_to_nowhere)_(cosplay)"
+msgstr "麦奎因（无期迷途cosplay）"
+
+#. alias-of: mcqueen_(path_to_nowhere)_(cosplay)
+#. source: ai
+msgctxt "tag:mcqueen_(path_to_nowhere)_(cosplay):alias:1"
+msgid "mcqueen_(path_to_nowhere)_(cosplay)"
+msgstr "麦奎因cos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:mcqueen_(whimsical_theater)_(path_to_nowhere):primary"
+msgid "mcqueen_(whimsical_theater)_(path_to_nowhere)"
+msgstr "麦奎因（荒唐剧场）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:mcr:primary"
+msgid "mcr"
+msgstr "MCR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:mcr_18:primary"
+msgid "mcr_18"
+msgstr "mcr_18"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:mcr_roggle:primary"
+msgid "mcr_roggle"
+msgstr "MCR Roggle"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:mcrc_science:primary"
+msgid "mcrc_science"
+msgstr "MCRC科学"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcrib:primary"
+msgid "mcrib"
+msgstr "Mcrib"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcriegans:primary"
+msgid "mcriegans"
+msgstr "Mcriegans"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcrmc:primary"
+msgid "mcrmc"
+msgstr "MCRMC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcrn_donnager:primary"
+msgid "mcrn_donnager"
+msgstr "唐纳格号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcrsmpi:primary"
+msgid "mcrsmpi"
+msgstr "mcrsmpi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcs02:primary"
+msgid "mcs02"
+msgstr "MCS02"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:mcs_137:primary"
+msgid "mcs_137"
+msgstr "MCS-137"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcs_895624:primary"
+msgid "mcs_895624"
+msgstr "mcs_895624"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:mcsadat:primary"
+msgid "mcsadat"
+msgstr "mcsadat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mcshadym:primary"
+msgid "mcshadym"
+msgstr "mcshadym"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mcshake:primary"
+msgid "mcshake"
+msgstr "McShake"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 80
+msgctxt "tag:mcsquiddies:primary"
+msgid "mcsquiddies"
+msgstr "mcsquiddies"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:mct:primary"
+msgid "mct"
+msgstr "MCT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mct-no04:primary"
+msgid "mct-no04"
+msgstr "mct-no04"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.tabletop_or_card_game
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:mctcg_nekomimist:primary"
+msgid "mctcg_nekomimist"
+msgstr "MCTCG猫耳魔"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.tabletop_or_card_game
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:mctcg_yousei_denshou:primary"
+msgid "mctcg_yousei_denshou"
+msgstr "MCTCG 妖精传说"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mctee:primary"
+msgid "mctee"
+msgstr "麦克蒂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:mctom:primary"
+msgid "mctom"
+msgstr "MCTOM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mctrancefox:primary"
+msgid "mctrancefox"
+msgstr "MC Trance Fox"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:mcwanderer:primary"
+msgid "mcwanderer"
+msgstr "MC流浪者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcworks:primary"
+msgid "mcworks"
+msgstr "MCWorks"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mcxarts:primary"
+msgid "mcxarts"
+msgstr "mcxarts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:mcybkw82:primary"
+msgid "mcybkw82"
+msgstr "mcybkw82"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:mcyeoneo:primary"
+msgid "mcyeoneo"
+msgstr "mcyeoneo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:mcyu:primary"
+msgid "mcyu"
+msgstr "MCYu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:mcyw:primary"
+msgid "mcyw"
+msgstr "MCYW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:mcyzem:primary"
+msgid "mcyzem"
+msgstr "mcyzem"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:mczk_riv26:primary"
+msgid "mczk_riv26"
+msgstr "mczk_riv26"

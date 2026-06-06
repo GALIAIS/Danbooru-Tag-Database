@@ -1,0 +1,1201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:47+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:47+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uy7ez:primary"
+msgid "uy7ez"
+msgstr "Uy7ez"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uy_(pixiv_115385849):primary"
+msgid "uy_(pixiv_115385849)"
+msgstr "UY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+#. aliases: Unyull
+msgctxt "tag:uy_(unyull):primary"
+msgid "uy_(unyull)"
+msgstr "UY（Unyull）"
+
+#. alias-of: uy_(unyull)
+#. source: ai
+msgctxt "tag:uy_(unyull):alias:1"
+msgid "uy_(unyull)"
+msgstr "Unyull"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uy_oooki:primary"
+msgid "uy_oooki"
+msgstr "Uy_Oooki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: Uyuy2907
+msgctxt "tag:uy_uy_(uyuy2907):primary"
+msgid "uy_uy_(uyuy2907)"
+msgstr "Uyuy"
+
+#. alias-of: uy_uy_(uyuy2907)
+#. source: ai
+msgctxt "tag:uy_uy_(uyuy2907):alias:1"
+msgid "uy_uy_(uyuy2907)"
+msgstr "Uyuy2907"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:uya:primary"
+msgid "uya"
+msgstr "Uya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uya15668:primary"
+msgid "uya15668"
+msgstr "uya15668"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uya49668:primary"
+msgid "uya49668"
+msgstr "uya49668"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:uya_(moffy03):primary"
+msgid "uya_(moffy03)"
+msgstr "宇雅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:uya_(munyu):primary"
+msgid "uya_(munyu)"
+msgstr "宇牙（梦乳）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uya_(naturegreen_):primary"
+msgid "uya_(naturegreen_)"
+msgstr "uya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:uya_04:primary"
+msgid "uya_04"
+msgstr "Uya 04"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uya_yuu:primary"
+msgid "uya_yuu"
+msgstr "宇矢悠"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.style.signature_style
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:uyakan:primary"
+msgid "uyakan"
+msgstr "优雅感"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyake:primary"
+msgid "uyake"
+msgstr "uyake"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 130
+msgctxt "tag:uyalago:primary"
+msgid "uyalago"
+msgstr "uyalago"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyama_(shisyamo):primary"
+msgid "uyama_(shisyamo)"
+msgstr "uyama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 328
+msgctxt "tag:uyama_hajime:primary"
+msgid "uyama_hajime"
+msgstr "鵜山肇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyamaai:primary"
+msgid "uyamaai"
+msgstr "Uyama Ai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:uyamai111:primary"
+msgid "uyamai111"
+msgstr "Uyamai111"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyamamanuyam:primary"
+msgid "uyamamanuyam"
+msgstr "UYAMAMANUYAM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyamino:primary"
+msgid "uyamino"
+msgstr "uyamino"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyamoc:primary"
+msgid "uyamoc"
+msgstr "uyamoc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:uyamuya:primary"
+msgid "uyamuya"
+msgstr "乌亚穆亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uyamuya_(buta):primary"
+msgid "uyamuya_(buta)"
+msgstr "uyamuya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyang:primary"
+msgid "uyang"
+msgstr "Uyang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:uyapagi:primary"
+msgid "uyapagi"
+msgstr "Uyapagi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyashumi:primary"
+msgid "uyashumi"
+msgstr "uyashumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyauuyyaa:primary"
+msgid "uyauuyyaa"
+msgstr "Uyauuyyaa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uych7:primary"
+msgid "uych7"
+msgstr "uych7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyen_hai:primary"
+msgid "uyen_hai"
+msgstr "uyen_hai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:uyenmiumilk:primary"
+msgid "uyenmiumilk"
+msgstr "uyenmiumilk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: Uyen Quy Luong Le
+msgctxt "tag:uyenquy_luongle_(alexa):primary"
+msgid "uyenquy_luongle_(alexa)"
+msgstr "Alexa"
+
+#. alias-of: uyenquy_luongle_(alexa)
+#. source: ai
+msgctxt "tag:uyenquy_luongle_(alexa):alias:1"
+msgid "uyenquy_luongle_(alexa)"
+msgstr "Uyen Quy Luong Le"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.culture.region_or_period_theme
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:uygur:primary"
+msgid "uygur"
+msgstr "维吾尔族"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.traditional_wear
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:uygur_clothes:primary"
+msgid "uygur_clothes"
+msgstr "维吾尔族服饰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyi_(u_yiiii):primary"
+msgid "uyi_(u_yiiii)"
+msgstr "Uyi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyk018:primary"
+msgid "uyk018"
+msgstr "uyk018"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uykino:primary"
+msgid "uykino"
+msgstr "宇良木野"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyku:primary"
+msgid "uyku"
+msgstr "睡眠"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uylliu:primary"
+msgid "uylliu"
+msgstr "uylliu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uym:primary"
+msgid "uym"
+msgstr "uym"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uym553041:primary"
+msgid "uym553041"
+msgstr "Uym553041"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyn_(milky-day):primary"
+msgid "uyn_(milky-day)"
+msgstr "UYN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyna0122:primary"
+msgid "uyna0122"
+msgstr "uyna0122"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyo522:primary"
+msgid "uyo522"
+msgstr "Uyo522"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyo_(greatest):primary"
+msgid "uyo_(greatest)"
+msgstr "卯夜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyo_uyo:primary"
+msgid "uyo_uyo"
+msgstr "uyo_uyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyodayou:primary"
+msgid "uyodayou"
+msgstr "uyodayou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyoha:primary"
+msgid "uyoha"
+msgstr "uyoha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyoida_(black_tomato0):primary"
+msgid "uyoida_(black_tomato0)"
+msgstr "uyoida"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyokirimo:primary"
+msgid "uyokirimo"
+msgstr "Uyokirimo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyomaruo:primary"
+msgid "uyomaruo"
+msgstr "Uyomaruo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyon:primary"
+msgid "uyon"
+msgstr "uyon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyonlikikati:primary"
+msgid "uyonlikikati"
+msgstr "uyonlikikati"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyoo:primary"
+msgid "uyoo"
+msgstr "uyoo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uyoo_(vrchat):primary"
+msgid "uyoo_(vrchat)"
+msgstr "uyoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyooww:primary"
+msgid "uyooww"
+msgstr "uyooww"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:uyori:primary"
+msgid "uyori"
+msgstr "上依"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyorin_k:primary"
+msgid "uyorin_k"
+msgstr "Uyorin_K"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyorita:primary"
+msgid "uyorita"
+msgstr "乌约丽塔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyorl:primary"
+msgid "uyorl"
+msgstr "uyorl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:uyoshi:primary"
+msgid "uyoshi"
+msgstr "宇义"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uyoto:primary"
+msgid "uyoto"
+msgstr "uyoto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyou_fooly:primary"
+msgid "uyou_fooly"
+msgstr "Uyou Fooly"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:uyouu19:primary"
+msgid "uyouu19"
+msgstr "uyouu19"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyoyo_nohakaba:primary"
+msgid "uyoyo_nohakaba"
+msgstr "悠夜无箱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyoyoyo_mu:primary"
+msgid "uyoyoyo_mu"
+msgstr "uyoyoyo_mu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyq_u1:primary"
+msgid "uyq_u1"
+msgstr "UYQ U1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyr_dmy:primary"
+msgid "uyr_dmy"
+msgstr "UYR_DMY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyr_yrr_yr:primary"
+msgid "uyr_yrr_yr"
+msgstr "自创角色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyrfavourite:primary"
+msgid "uyrfavourite"
+msgstr "UyrFavourite"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:uys_els_ito_egum_ed_gorgon:primary"
+msgid "uys_els_ito_egum_ed_gorgon"
+msgstr "乌龟美杜莎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uyu:primary"
+msgid "uyu"
+msgstr "uyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uyu075:primary"
+msgid "uyu075"
+msgstr "uyu075"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:uyu1023:primary"
+msgid "uyu1023"
+msgstr "优优1023"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyu2106z:primary"
+msgid "uyu2106z"
+msgstr "uyu2106z"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyu22mar:primary"
+msgid "uyu22mar"
+msgstr "uyu22mar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:uyu_(freedomasky):primary"
+msgid "uyu_(freedomasky)"
+msgstr "优优（自由之翼）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyu_(milk_mow):primary"
+msgid "uyu_(milk_mow)"
+msgstr "uyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyu_(pixiv_29530402):primary"
+msgid "uyu_(pixiv_29530402)"
+msgstr "Uyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:uyu_(pixiv_92484260):primary"
+msgid "uyu_(pixiv_92484260)"
+msgstr "uyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 78
+#. aliases: UYU
+msgctxt "tag:uyu_(soda_uyu):primary"
+msgid "uyu_(soda_uyu)"
+msgstr "苏打UYU"
+
+#. alias-of: uyu_(soda_uyu)
+#. source: ai
+msgctxt "tag:uyu_(soda_uyu):alias:1"
+msgid "uyu_(soda_uyu)"
+msgstr "UYU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyu_(uy_uyu):primary"
+msgid "uyu_(uy_uyu)"
+msgstr "uyu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyu_(uyu_art):primary"
+msgid "uyu_(uyu_art)"
+msgstr "uyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyu_(uyu_nekonohi):primary"
+msgid "uyu_(uyu_nekonohi)"
+msgstr "Uyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:uyu_(uyuchaxx):primary"
+msgid "uyu_(uyuchaxx)"
+msgstr "uyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:uyu_(yumeyumepop7):primary"
+msgid "uyu_(yumeyumepop7)"
+msgstr "Uyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyu_0501:primary"
+msgid "uyu_0501"
+msgstr "uyu_0501"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:uyu_1028:primary"
+msgid "uyu_1028"
+msgstr "uyu_1028"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uyu_53:primary"
+msgid "uyu_53"
+msgstr "uyu53"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:uyu_beliasff14:primary"
+msgid "uyu_beliasff14"
+msgstr "Uyu Belias"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyu_eaka:primary"
+msgid "uyu_eaka"
+msgstr "uyu eaka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyu_maruuu:primary"
+msgid "uyu_maruuu"
+msgstr "Uyu Maruuu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyu_misia:primary"
+msgid "uyu_misia"
+msgstr "Uyu Misia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyu_nazu:primary"
+msgid "uyu_nazu"
+msgstr "Uyu Nazu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyu_tanaka:primary"
+msgid "uyu_tanaka"
+msgstr "田中悠宇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:uyu_ww:primary"
+msgid "uyu_ww"
+msgstr "uyu_ww"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uyubissa:primary"
+msgid "uyubissa"
+msgstr "uyubissa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uyuchi_hapi:primary"
+msgid "uyuchi_hapi"
+msgstr "uyuchi_hapi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 147
+msgctxt "tag:uyufuzi_s:primary"
+msgid "uyufuzi_s"
+msgstr "uyufuzi_s"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyuha_(majogami):primary"
+msgid "uyuha_(majogami)"
+msgstr "宇优羽（魔女之森）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uyuillust:primary"
+msgid "uyuillust"
+msgstr "uyuillust"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyuki_(etoile):primary"
+msgid "uyuki_(etoile)"
+msgstr "结月（星织）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 89
+#. aliases: 勇树
+msgctxt "tag:uyuki_(ouun):primary"
+msgid "uyuki_(ouun)"
+msgstr "勇树 (欧恩)"
+
+#. alias-of: uyuki_(ouun)
+#. source: ai
+msgctxt "tag:uyuki_(ouun):alias:1"
+msgid "uyuki_(ouun)"
+msgstr "勇树"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyukisa_(ueey8458):primary"
+msgid "uyukisa_(ueey8458)"
+msgstr "uyukisa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:uyumaru_art:primary"
+msgid "uyumaru_art"
+msgstr "Uyumaru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyumi_yu:primary"
+msgid "uyumi_yu"
+msgstr "UYUMI YU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:uyumint:primary"
+msgid "uyumint"
+msgstr "柚柚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyumiyuu_091014:primary"
+msgid "uyumiyuu_091014"
+msgstr "うゆみゆう"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:uyumizyunco:primary"
+msgid "uyumizyunco"
+msgstr "Uyumizyunco"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyune:primary"
+msgid "uyune"
+msgstr "Uyune"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:uyuni1374:primary"
+msgid "uyuni1374"
+msgstr "uyuni1374"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuni_(chochotte):primary"
+msgid "uyuni_(chochotte)"
+msgstr "优妮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuni_(npse3773):primary"
+msgid "uyuni_(npse3773)"
+msgstr "uyuni"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuni_1125:primary"
+msgid "uyuni_1125"
+msgstr "uyuni_1125"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyunonano:primary"
+msgid "uyunonano"
+msgstr "Uyunonano"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:uyunosora:primary"
+msgid "uyunosora"
+msgstr "uyunosora"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuragi:primary"
+msgid "uyuragi"
+msgstr "uyuragi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 82
+msgctxt "tag:uyuri_(89976220):primary"
+msgid "uyuri_(89976220)"
+msgstr "uyuri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuri_0123:primary"
+msgid "uyuri_0123"
+msgstr "Uyuri0123"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuriru:primary"
+msgid "uyuriru"
+msgstr "Uyuriru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuse_(uyu_s9):primary"
+msgid "uyuse_(uyu_s9)"
+msgstr "Uyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyusong_(yue):primary"
+msgid "uyusong_(yue)"
+msgstr "uyusong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuta:primary"
+msgid "uyuta"
+msgstr "uyuta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uyutaku:primary"
+msgid "uyutaku"
+msgstr "uyutaku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:uyutan:primary"
+msgid "uyutan"
+msgstr "宇由"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:uyuu:primary"
+msgid "uyuu"
+msgstr "宇宙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuu102:primary"
+msgid "uyuu102"
+msgstr "uyuu102"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:uyuu_(hirameki):primary"
+msgid "uyuu_(hirameki)"
+msgstr "灵感·UYU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuu_(nicoseiga_1165778):primary"
+msgid "uyuu_(nicoseiga_1165778)"
+msgstr "宇游"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uyuu_atsuno:primary"
+msgid "uyuu_atsuno"
+msgstr "uyuu_atsuno"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuu_kiss_me:primary"
+msgid "uyuu_kiss_me"
+msgstr "Uyuu_Kiss_Me"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyuuuu00000:primary"
+msgid "uyuuuu00000"
+msgstr "uyuuuu00000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:uyuwu3:primary"
+msgid "uyuwu3"
+msgstr "uyuwu3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyuyounk:primary"
+msgid "uyuyounk"
+msgstr "uyuyounk"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:uyuyu-chang:primary"
+msgid "uyuyu-chang"
+msgstr "优优酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuyu7130:primary"
+msgid "uyuyu7130"
+msgstr "uyuyu7130"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:uyuyu_yuru:primary"
+msgid "uyuyu_yuru"
+msgstr "优优优·优鲁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:uyuyuun:primary"
+msgid "uyuyuun"
+msgstr "乌尤尤恩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyuyuy_maru:primary"
+msgid "uyuyuy_maru"
+msgstr "uyuyuy_maru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:uyuzuki_meo:primary"
+msgid "uyuzuki_meo"
+msgstr "卯月メオ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:uyvnvy:primary"
+msgid "uyvnvy"
+msgstr "uyvnvy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyya:primary"
+msgid "uyya"
+msgstr "uyya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:uyyu:primary"
+msgid "uyyu"
+msgstr "uyyu"

@@ -1,0 +1,874 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:24+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:24+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eq:primary"
+msgid "eq"
+msgstr "EQ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eq5cfo:primary"
+msgid "eq5cfo"
+msgstr "eq5cfo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:eq_(massar9103):primary"
+msgid "eq_(massar9103)"
+msgstr "EQ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eqal36855:primary"
+msgid "eqal36855"
+msgstr "eqal36855"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:eqbal_lynx:primary"
+msgid "eqbal_lynx"
+msgstr "eqbal_lynx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:eqe_(eqeart):primary"
+msgid "eqe_(eqeart)"
+msgstr "eqeart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:eqeww:primary"
+msgid "eqeww"
+msgstr "Eqeww"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eqi_shengcai:primary"
+msgid "eqi_shengcai"
+msgstr "eqi_shengcai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:eqio4x:primary"
+msgid "eqio4x"
+msgstr "eqio4x"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eql0q:primary"
+msgid "eql0q"
+msgstr "eql0q"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eqnxby_nm:primary"
+msgid "eqnxby_nm"
+msgstr "eqnxby_nm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:eqohi5h:primary"
+msgid "eqohi5h"
+msgstr "Eqohi5h"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eqouxnx:primary"
+msgid "eqouxnx"
+msgstr "eqouxnx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eqq7:primary"
+msgid "eqq7"
+msgstr "eqq7"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.effect.energy.aura_or_glow
+#. safety: sfw
+#. post-count: 5
+#. aliases: equ
+msgctxt "tag:equ.darkmatter:primary"
+msgid "equ.darkmatter"
+msgstr "暗物质"
+
+#. alias-of: equ.darkmatter
+#. source: ai
+msgctxt "tag:equ.darkmatter:alias:1"
+msgid "equ.darkmatter"
+msgstr "equ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:equ4lhate:primary"
+msgid "equ4lhate"
+msgstr "Equ4lhate"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equ_(0ys):primary"
+msgid "equ_(0ys)"
+msgstr "Equ"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:equa_(estab-life):primary"
+msgid "equa_(estab-life)"
+msgstr "Equa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:equal-e-p:primary"
+msgid "equal-e-p"
+msgstr "Equal-E-P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:equal02:primary"
+msgid "equal02"
+msgstr "Equal02"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 130
+msgctxt "tag:equal_(heartstrings):primary"
+msgid "equal_(heartstrings)"
+msgstr "Equal"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:equal_(melomelopunch):primary"
+msgid "equal_(melomelopunch)"
+msgstr "平等"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 新居民
+msgctxt "tag:equal_(xinjinjumin1523030):primary"
+msgid "equal_(xinjinjumin1523030)"
+msgstr "Equal"
+
+#. alias-of: equal_(xinjinjumin1523030)
+#. source: ai
+msgctxt "tag:equal_(xinjinjumin1523030):alias:1"
+msgid "equal_(xinjinjumin1523030)"
+msgstr "新居民"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equal_dragon_weapon:primary"
+msgid "equal_dragon_weapon"
+msgstr "Equal Dragon Weapon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:equal_h:primary"
+msgid "equal_h"
+msgstr "Equal H"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:equal_ic:primary"
+msgid "equal_ic"
+msgstr "Equal IC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equal_r22:primary"
+msgid "equal_r22"
+msgstr "Equal R22"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 86
+msgctxt "tag:equal_sign:primary"
+msgid "equal_sign"
+msgstr "等号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equal_syotakote:primary"
+msgid "equal_syotakote"
+msgstr "equal_syotakote"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:equala:primary"
+msgid "equala"
+msgstr "Equala"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:equalarrow:primary"
+msgid "equalarrow"
+msgstr "Equalarrow"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:equality_taira:primary"
+msgid "equality_taira"
+msgstr "平等待遇"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equalizer!:primary"
+msgid "equalizer!"
+msgstr "Equalizer!"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+#. aliases: 均衡器大脚车
+msgctxt "tag:equalizer_(monster_truck):primary"
+msgid "equalizer_(monster_truck)"
+msgstr "Equalizer（怪兽卡车）"
+
+#. alias-of: equalizer_(monster_truck)
+#. source: ai
+msgctxt "tag:equalizer_(monster_truck):alias:1"
+msgid "equalizer_(monster_truck)"
+msgstr "均衡器大脚车"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 音障卢西奥
+msgctxt "tag:equalizer_lucio:primary"
+msgid "equalizer_lucio"
+msgstr "Equalizer Lucio"
+
+#. alias-of: equalizer_lucio
+#. source: ai
+msgctxt "tag:equalizer_lucio:alias:1"
+msgid "equalizer_lucio"
+msgstr "音障卢西奥"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:equalyiko:primary"
+msgid "equalyiko"
+msgstr "相良雪彦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:equan_tk:primary"
+msgid "equan_tk"
+msgstr "equan_tk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:equanyumeng:primary"
+msgid "equanyumeng"
+msgstr "伊夸御梦"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.book_paper
+#. safety: sfw
+#. post-count: 383
+msgctxt "tag:equation:primary"
+msgid "equation"
+msgstr "公式"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equation_audio:primary"
+msgid "equation_audio"
+msgstr "Equation Audio"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equatorial_guineaball:primary"
+msgid "equatorial_guineaball"
+msgstr "赤道几内亚球"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equatorial_guinean_flag:primary"
+msgid "equatorial_guinean_flag"
+msgstr "赤道几内亚国旗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eque_stris:primary"
+msgid "eque_stris"
+msgstr "EqueStris"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eques:primary"
+msgid "eques"
+msgstr "Eques"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 5
+msgctxt "tag:eques_(armor):primary"
+msgid "eques_(armor)"
+msgstr "Eques（盔甲）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: Eques
+msgctxt "tag:eques_(centurii-chan):primary"
+msgid "eques_(centurii-chan)"
+msgstr "骑士"
+
+#. alias-of: eques_(centurii-chan)
+#. source: ai
+msgctxt "tag:eques_(centurii-chan):alias:1"
+msgid "eques_(centurii-chan)"
+msgstr "Eques"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:eques_(helblindi_asaka):primary"
+msgid "eques_(helblindi_asaka)"
+msgstr "eques"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+#. aliases: EQG
+msgctxt "tag:equestior:primary"
+msgid "equestior"
+msgstr "Equestior"
+
+#. alias-of: equestior
+#. source: ai
+msgctxt "tag:equestior:alias:1"
+msgid "equestior"
+msgstr "EQG"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.fantasy_or_sci_fi
+#. safety: sfw
+#. post-count: 2
+#. aliases: 小马利亚幻想
+msgctxt "tag:equestria_fantasy:primary"
+msgid "equestria_fantasy"
+msgstr "小马国幻想"
+
+#. alias-of: equestria_fantasy
+#. source: ai
+msgctxt "tag:equestria_fantasy:alias:1"
+msgid "equestria_fantasy"
+msgstr "小马利亚幻想"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:equestria_girls:_better_together:primary"
+msgid "equestria_girls:_better_together"
+msgstr "小马国女孩：同在一起"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:equestria_girls:_forgotten_friendship:primary"
+msgid "equestria_girls:_forgotten_friendship"
+msgstr "小马国女孩：被遗忘的友谊"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:equestria_girls:_friendship_games:primary"
+msgid "equestria_girls:_friendship_games"
+msgstr "小马国女孩：友谊运动会"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equestria_girls:_holidays_unwrapped:primary"
+msgid "equestria_girls:_holidays_unwrapped"
+msgstr "小马国女孩：节日特辑"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:equestria_girls:_legend_of_everfree:primary"
+msgid "equestria_girls:_legend_of_everfree"
+msgstr "小马国女孩：永恒自由传奇"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 122
+msgctxt "tag:equestria_girls:_rainbow_rocks:primary"
+msgid "equestria_girls:_rainbow_rocks"
+msgstr "小马国女孩:彩虹摇滚"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:equestria_girls:_rollercoaster_of_friendship:primary"
+msgid "equestria_girls:_rollercoaster_of_friendship"
+msgstr "《小马宝莉：友谊过山车》"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:equestria_girls:_spring_breakdown:primary"
+msgid "equestria_girls:_spring_breakdown"
+msgstr "小马国女孩：春季崩溃"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:equestria_girls:_summertime_shorts:primary"
+msgid "equestria_girls:_summertime_shorts"
+msgstr "小马国女孩：夏日短篇"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:equestria_girls_(movie):primary"
+msgid "equestria_girls_(movie)"
+msgstr "小马国女孩（电影）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equestria_girls_2017_specials:primary"
+msgid "equestria_girls_2017_specials"
+msgstr "小马国女孩：2017特别篇"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equestrian_club_(twisted_wonderland):primary"
+msgid "equestrian_club_(twisted_wonderland)"
+msgstr "《扭曲仙境》马术社"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equid:primary"
+msgid "equid"
+msgstr "马科动物"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:equilibrium:primary"
+msgid "equilibrium"
+msgstr "均衡"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equilibrium_(dispatch):primary"
+msgid "equilibrium_(dispatch)"
+msgstr "Equilibrium"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:equilibrium_(lightning_farron):primary"
+msgid "equilibrium_(lightning_farron)"
+msgstr "Equilibrium（Lightning Farron）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:equilibrium_umbrella:primary"
+msgid "equilibrium_umbrella"
+msgstr "平衡之伞"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equine:primary"
+msgid "equine"
+msgstr "马类"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.mineral_natural_object
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:equine_skull:primary"
+msgid "equine_skull"
+msgstr "马骨骼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:equinox:primary"
+msgid "equinox"
+msgstr "昼夜平分点"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:equinox_(nobarahearts):primary"
+msgid "equinox_(nobarahearts)"
+msgstr "Equinox"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 111
+msgctxt "tag:equinox_(racehorse):primary"
+msgid "equinox_(racehorse)"
+msgstr "春分 (赛马)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equinox_(wixoss):primary"
+msgid "equinox_(wixoss)"
+msgstr "分点（WIXOSS）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:equinox_6:primary"
+msgid "equinox_6"
+msgstr "Equinox6"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:equinox_flora:primary"
+msgid "equinox_flora"
+msgstr "Equinox Flora"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:equinox_glacier:primary"
+msgid "equinox_glacier"
+msgstr "Equinox Glacier"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:equinox_miasma:primary"
+msgid "equinox_miasma"
+msgstr "Equinox Miasma"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equinox_prime:primary"
+msgid "equinox_prime"
+msgstr "Equinox Prime"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 春分灼热
+msgctxt "tag:equinox_scorch:primary"
+msgid "equinox_scorch"
+msgstr "灼热春分"
+
+#. alias-of: equinox_scorch
+#. source: ai
+msgctxt "tag:equinox_scorch:alias:1"
+msgid "equinox_scorch"
+msgstr "春分灼热"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:equinoxdoodles:primary"
+msgid "equinoxdoodles"
+msgstr "Equinox Doodles"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:equinoxette:primary"
+msgid "equinoxette"
+msgstr "Equinoxette"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equinoxian:primary"
+msgid "equinoxian"
+msgstr "equinoxian"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:equinoxreverie:primary"
+msgid "equinoxreverie"
+msgstr "Equinoxreverie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:equip_ammo:primary"
+msgid "equip_ammo"
+msgstr "弹药装备"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.layout.subject_placement
+#. safety: sfw
+#. post-count: 382
+#. aliases: 设备布局
+msgctxt "tag:equipment_layout:primary"
+msgid "equipment_layout"
+msgstr "装备布局"
+
+#. alias-of: equipment_layout
+#. source: ai
+msgctxt "tag:equipment_layout:alias:1"
+msgid "equipment_layout"
+msgstr "设备布局"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:equipment_screen:primary"
+msgid "equipment_screen"
+msgstr "设备屏幕"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 装备艇
+msgctxt "tag:equippedboat:primary"
+msgid "equippedboat"
+msgstr "Equippedboat"
+
+#. alias-of: equippedboat
+#. source: ai
+msgctxt "tag:equippedboat:alias:1"
+msgid "equippedboat"
+msgstr "装备艇"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 5
+#. aliases: Equus装甲
+msgctxt "tag:equis_(armor):primary"
+msgid "equis_(armor)"
+msgstr "Equis（装甲）"
+
+#. alias-of: equis_(armor)
+#. source: ai
+msgctxt "tag:equis_(armor):alias:1"
+msgid "equis_(armor)"
+msgstr "Equus装甲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:equius_zahhak:primary"
+msgid "equius_zahhak"
+msgstr "艾库斯·扎克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:equlair:primary"
+msgid "equlair"
+msgstr "Equlair"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:equotea:primary"
+msgid "equotea"
+msgstr "Equotea"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:equuleus_(constellation):primary"
+msgid "equuleus_(constellation)"
+msgstr "小马座"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:equuleus_kyoko:primary"
+msgid "equuleus_kyoko"
+msgstr "小马座京子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 26
+#. aliases: 小渚
+msgctxt "tag:equuleus_shoko:primary"
+msgid "equuleus_shoko"
+msgstr "小马座小渚"
+
+#. alias-of: equuleus_shoko
+#. source: ai
+msgctxt "tag:equuleus_shoko:alias:1"
+msgid "equuleus_shoko"
+msgstr "小渚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:equus_(another_eidos):primary"
+msgid "equus_(another_eidos)"
+msgstr "Equus (Another Eidos)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:equus_(concrete_revolutio):primary"
+msgid "equus_(concrete_revolutio)"
+msgstr "马"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:equus_ignis:primary"
+msgid "equus_ignis"
+msgstr "火马"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:eqweeqwe:primary"
+msgid "eqweeqwe"
+msgstr "eqweeqwe"

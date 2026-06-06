@@ -1,0 +1,2882 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru taxonomy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:51+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:51+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. id: 0.subject.count.single_subject
+#. path: subject.count.count.single_subject
+#. safety: sfw
+msgctxt "taxonomy:0.subject.count.single_subject:label"
+msgid "Single Subject"
+msgstr "单主体"
+
+#. id: 0.subject.count.single_subject
+msgctxt "taxonomy:0.subject.count.single_subject:description"
+msgid "solo, one visible subject"
+msgstr ""
+
+#. id: 0.subject.count.multiple_subjects
+#. path: subject.count.count.multiple_subjects
+#. safety: sfw
+msgctxt "taxonomy:0.subject.count.multiple_subjects:label"
+msgid "Multiple Subjects"
+msgstr "多主体"
+
+#. id: 0.subject.count.multiple_subjects
+msgctxt "taxonomy:0.subject.count.multiple_subjects:description"
+msgid "two or more visible subjects"
+msgstr ""
+
+#. id: 0.subject.count.no_subject
+#. path: subject.count.count.no_subject
+#. safety: sfw
+msgctxt "taxonomy:0.subject.count.no_subject:label"
+msgid "No Human Subject"
+msgstr "无人物主体"
+
+#. id: 0.subject.count.no_subject
+msgctxt "taxonomy:0.subject.count.no_subject:description"
+msgid "scene/object-only or no humans"
+msgstr ""
+
+#. id: 0.subject.identity.gender_presentation
+#. path: subject.identity.gender.gender_presentation
+#. safety: sfw
+msgctxt "taxonomy:0.subject.identity.gender_presentation:label"
+msgid "Gender Presentation"
+msgstr "性别呈现"
+
+#. id: 0.subject.identity.gender_presentation
+msgctxt "taxonomy:0.subject.identity.gender_presentation:description"
+msgid "1girl, 1boy, androgynous, otoko no ko"
+msgstr ""
+
+#. id: 0.subject.identity.age_stage
+#. path: subject.identity.age.age_stage
+#. safety: sfw
+msgctxt "taxonomy:0.subject.identity.age_stage:label"
+msgid "Age Stage"
+msgstr "年龄阶段"
+
+#. id: 0.subject.identity.age_stage
+msgctxt "taxonomy:0.subject.identity.age_stage:description"
+msgid "childlike, teen, adult, mature, old"
+msgstr ""
+
+#. id: 0.subject.identity.relationship
+#. path: subject.identity.relationship.relationship
+#. safety: sfw
+msgctxt "taxonomy:0.subject.identity.relationship:label"
+msgid "Character Relationship"
+msgstr "人物关系"
+
+#. id: 0.subject.identity.relationship
+msgctxt "taxonomy:0.subject.identity.relationship:description"
+msgid "couple, siblings, rivals, group relation"
+msgstr ""
+
+#. id: 0.subject.focus.body_focus
+#. path: subject.focus.focus.body_focus
+#. safety: sfw
+msgctxt "taxonomy:0.subject.focus.body_focus:label"
+msgid "Body Focus"
+msgstr "身体焦点"
+
+#. id: 0.subject.focus.body_focus
+msgctxt "taxonomy:0.subject.focus.body_focus:description"
+msgid "tag primarily indicates which body area is emphasized"
+msgstr ""
+
+#. id: 0.subject.focus.object_focus
+#. path: subject.focus.focus.object_focus
+#. safety: sfw
+msgctxt "taxonomy:0.subject.focus.object_focus:label"
+msgid "Object Focus"
+msgstr "物体焦点"
+
+#. id: 0.subject.focus.object_focus
+msgctxt "taxonomy:0.subject.focus.object_focus:description"
+msgid "tag primarily indicates a focused object"
+msgstr ""
+
+#. id: 0.composition.framing.shot_size
+#. path: composition.framing.shot.shot_size
+#. safety: sfw
+msgctxt "taxonomy:0.composition.framing.shot_size:label"
+msgid "Shot Size"
+msgstr "景别"
+
+#. id: 0.composition.framing.shot_size
+msgctxt "taxonomy:0.composition.framing.shot_size:description"
+msgid "portrait, upper body, full body, close-up"
+msgstr ""
+
+#. id: 0.composition.framing.crop_boundary
+#. path: composition.framing.crop.crop_boundary
+#. safety: sfw
+msgctxt "taxonomy:0.composition.framing.crop_boundary:label"
+msgid "Crop Boundary"
+msgstr "裁切边界"
+
+#. id: 0.composition.framing.crop_boundary
+msgctxt "taxonomy:0.composition.framing.crop_boundary:description"
+msgid "cropped head, feet out of frame, offscreen crop"
+msgstr ""
+
+#. id: 0.composition.camera.camera_angle
+#. path: composition.camera.angle.camera_angle
+#. safety: sfw
+msgctxt "taxonomy:0.composition.camera.camera_angle:label"
+msgid "Camera Angle"
+msgstr "镜头角度"
+
+#. id: 0.composition.camera.camera_angle
+msgctxt "taxonomy:0.composition.camera.camera_angle:description"
+msgid "from above, from below, dutch angle"
+msgstr ""
+
+#. id: 0.composition.camera.view_direction
+#. path: composition.camera.view.view_direction
+#. safety: sfw
+msgctxt "taxonomy:0.composition.camera.view_direction:label"
+msgid "View Direction"
+msgstr "观看方向"
+
+#. id: 0.composition.camera.view_direction
+msgctxt "taxonomy:0.composition.camera.view_direction:description"
+msgid "from front, side, behind, pov"
+msgstr ""
+
+#. id: 0.composition.layout.subject_placement
+#. path: composition.layout.placement.subject_placement
+#. safety: sfw
+msgctxt "taxonomy:0.composition.layout.subject_placement:label"
+msgid "Subject Placement"
+msgstr "主体位置"
+
+#. id: 0.composition.layout.subject_placement
+msgctxt "taxonomy:0.composition.layout.subject_placement:description"
+msgid "centered, side composition, symmetrical"
+msgstr ""
+
+#. id: 0.composition.layout.paneling
+#. path: composition.layout.panel.paneling
+#. safety: sfw
+msgctxt "taxonomy:0.composition.layout.paneling:label"
+msgid "Paneling / Multi-view"
+msgstr "分镜/多画面"
+
+#. id: 0.composition.layout.paneling
+msgctxt "taxonomy:0.composition.layout.paneling:description"
+msgid "comic panel, split view, multiple views"
+msgstr ""
+
+#. id: 0.composition.depth.focus_depth
+#. path: composition.depth.focus.focus_depth
+#. safety: sfw
+msgctxt "taxonomy:0.composition.depth.focus_depth:label"
+msgid "Focus and Depth"
+msgstr "焦点与景深"
+
+#. id: 0.composition.depth.focus_depth
+msgctxt "taxonomy:0.composition.depth.focus_depth:description"
+msgid "depth of field, blurry background, bokeh"
+msgstr ""
+
+#. id: 0.composition.perspective.lens_perspective
+#. path: composition.perspective.lens.lens_perspective
+#. safety: sfw
+msgctxt "taxonomy:0.composition.perspective.lens_perspective:label"
+msgid "Lens Perspective"
+msgstr "镜头透视"
+
+#. id: 0.composition.perspective.lens_perspective
+msgctxt "taxonomy:0.composition.perspective.lens_perspective:description"
+msgid "wide angle, fisheye, foreshortening"
+msgstr ""
+
+#. id: 0.appearance.hair.color.natural_hair_color
+#. path: appearance.hair.color.natural_hair_color
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.hair.color.natural_hair_color:label"
+msgid "Natural Hair Color"
+msgstr "自然发色"
+
+#. id: 0.appearance.hair.color.natural_hair_color
+msgctxt "taxonomy:0.appearance.hair.color.natural_hair_color:description"
+msgid "black, brown, blonde, white, grey hair"
+msgstr ""
+
+#. id: 0.appearance.hair.color.fantasy_hair_color
+#. path: appearance.hair.color.fantasy_hair_color
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.hair.color.fantasy_hair_color:label"
+msgid "Fantasy Hair Color"
+msgstr "幻想发色"
+
+#. id: 0.appearance.hair.color.fantasy_hair_color
+msgctxt "taxonomy:0.appearance.hair.color.fantasy_hair_color:description"
+msgid "blue, green, pink, purple, multicolored hair"
+msgstr ""
+
+#. id: 0.appearance.hair.length.hair_length
+#. path: appearance.hair.length.hair_length
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.hair.length.hair_length:label"
+msgid "Hair Length"
+msgstr "发长"
+
+#. id: 0.appearance.hair.length.hair_length
+msgctxt "taxonomy:0.appearance.hair.length.hair_length:description"
+msgid "short, medium, long, very long hair"
+msgstr ""
+
+#. id: 0.appearance.hair.style.tied_hair
+#. path: appearance.hair.style.tied_hair
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.hair.style.tied_hair:label"
+msgid "Tied Hair Style"
+msgstr "束发发型"
+
+#. id: 0.appearance.hair.style.tied_hair
+msgctxt "taxonomy:0.appearance.hair.style.tied_hair:description"
+msgid "ponytail, twintails, braid, hair bun"
+msgstr ""
+
+#. id: 0.appearance.hair.style.cut_shape
+#. path: appearance.hair.style.cut_shape
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.hair.style.cut_shape:label"
+msgid "Hair Cut Shape"
+msgstr "剪裁发型"
+
+#. id: 0.appearance.hair.style.cut_shape
+msgctxt "taxonomy:0.appearance.hair.style.cut_shape:description"
+msgid "bob cut, hime cut, sidelocks, drill hair"
+msgstr ""
+
+#. id: 0.appearance.hair.style.bangs_and_parting
+#. path: appearance.hair.style.bangs_and_parting
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.hair.style.bangs_and_parting:label"
+msgid "Bangs and Parting"
+msgstr "刘海与分缝"
+
+#. id: 0.appearance.hair.style.bangs_and_parting
+msgctxt "taxonomy:0.appearance.hair.style.bangs_and_parting:description"
+msgid "bangs, parted bangs, hair between eyes"
+msgstr ""
+
+#. id: 0.appearance.hair.texture.hair_texture
+#. path: appearance.hair.texture.hair_texture
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.hair.texture.hair_texture:label"
+msgid "Hair Texture / Motion"
+msgstr "发质/动态"
+
+#. id: 0.appearance.hair.texture.hair_texture
+msgctxt "taxonomy:0.appearance.hair.texture.hair_texture:description"
+msgid "messy, wavy, floating, wet hair"
+msgstr ""
+
+#. id: 0.appearance.hair.accessory.hair_accessory
+#. path: appearance.hair.accessory.hair_accessory
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.hair.accessory.hair_accessory:label"
+msgid "Hair Accessory"
+msgstr "发饰"
+
+#. id: 0.appearance.hair.accessory.hair_accessory
+msgctxt "taxonomy:0.appearance.hair.accessory.hair_accessory:description"
+msgid "hair bow, hairclip, hair flower, hair ribbon"
+msgstr ""
+
+#. id: 0.appearance.eyes.color.eye_color
+#. path: appearance.eyes.color.eye_color
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.eyes.color.eye_color:label"
+msgid "Eye Color"
+msgstr "瞳色"
+
+#. id: 0.appearance.eyes.color.eye_color
+msgctxt "taxonomy:0.appearance.eyes.color.eye_color:description"
+msgid "black, blue, red, gold eyes"
+msgstr ""
+
+#. id: 0.appearance.eyes.shape.eye_shape
+#. path: appearance.eyes.shape.eye_shape
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.eyes.shape.eye_shape:label"
+msgid "Eye Shape"
+msgstr "眼型"
+
+#. id: 0.appearance.eyes.shape.eye_shape
+msgctxt "taxonomy:0.appearance.eyes.shape.eye_shape:description"
+msgid "sharp, tareme, tsurime, narrow eyes"
+msgstr ""
+
+#. id: 0.appearance.eyes.state.eye_state
+#. path: appearance.eyes.state.eye_state
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.eyes.state.eye_state:label"
+msgid "Eye State"
+msgstr "眼部状态"
+
+#. id: 0.appearance.eyes.state.eye_state
+msgctxt "taxonomy:0.appearance.eyes.state.eye_state:description"
+msgid "closed, half-closed, one eye closed, tears"
+msgstr ""
+
+#. id: 0.appearance.eyes.pupil.pupil_design
+#. path: appearance.eyes.pupil.pupil_design
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.eyes.pupil.pupil_design:label"
+msgid "Pupil Design"
+msgstr "瞳孔设计"
+
+#. id: 0.appearance.eyes.pupil.pupil_design
+msgctxt "taxonomy:0.appearance.eyes.pupil.pupil_design:description"
+msgid "slit, heart, star, symbol pupils"
+msgstr ""
+
+#. id: 0.appearance.eyes.gaze.gaze_direction
+#. path: appearance.eyes.gaze.gaze_direction
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.eyes.gaze.gaze_direction:label"
+msgid "Gaze Direction"
+msgstr "视线方向"
+
+#. id: 0.appearance.eyes.gaze.gaze_direction
+msgctxt "taxonomy:0.appearance.eyes.gaze.gaze_direction:description"
+msgid "looking at viewer, looking away, eye contact"
+msgstr ""
+
+#. id: 0.appearance.face.expression.facial_expression
+#. path: appearance.face.expression.facial_expression
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.face.expression.facial_expression:label"
+msgid "Facial Expression"
+msgstr "面部表情"
+
+#. id: 0.appearance.face.expression.facial_expression
+msgctxt "taxonomy:0.appearance.face.expression.facial_expression:description"
+msgid "smile, frown, crying, surprise"
+msgstr ""
+
+#. id: 0.appearance.face.mouth.mouth_state
+#. path: appearance.face.mouth.mouth_state
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.face.mouth.mouth_state:label"
+msgid "Mouth State"
+msgstr "嘴部状态"
+
+#. id: 0.appearance.face.mouth.mouth_state
+msgctxt "taxonomy:0.appearance.face.mouth.mouth_state:description"
+msgid "open mouth, closed mouth, pout"
+msgstr ""
+
+#. id: 0.appearance.face.teeth_tongue.teeth_or_tongue
+#. path: appearance.face.teeth_tongue.teeth_or_tongue
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.face.teeth_tongue.teeth_or_tongue:label"
+msgid "Teeth or Tongue"
+msgstr "牙齿/舌头"
+
+#. id: 0.appearance.face.teeth_tongue.teeth_or_tongue
+msgctxt "taxonomy:0.appearance.face.teeth_tongue.teeth_or_tongue:description"
+msgid "fangs, clenched teeth, tongue out"
+msgstr ""
+
+#. id: 0.appearance.face.marking.facial_marking
+#. path: appearance.face.marking.facial_marking
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.face.marking.facial_marking:label"
+msgid "Facial Marking"
+msgstr "面部标记"
+
+#. id: 0.appearance.face.marking.facial_marking
+msgctxt "taxonomy:0.appearance.face.marking.facial_marking:description"
+msgid "mole, freckles, scars, facepaint"
+msgstr ""
+
+#. id: 0.appearance.face.makeup.cosmetic_makeup
+#. path: appearance.face.makeup.cosmetic_makeup
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.face.makeup.cosmetic_makeup:label"
+msgid "Cosmetic Makeup"
+msgstr "妆容"
+
+#. id: 0.appearance.face.makeup.cosmetic_makeup
+msgctxt "taxonomy:0.appearance.face.makeup.cosmetic_makeup:description"
+msgid "lipstick, eyeshadow, nail polish"
+msgstr ""
+
+#. id: 0.appearance.face.ears.ear_type
+#. path: appearance.face.ears.ear_type
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.face.ears.ear_type:label"
+msgid "Ear Type"
+msgstr "耳型"
+
+#. id: 0.appearance.face.ears.ear_type
+msgctxt "taxonomy:0.appearance.face.ears.ear_type:description"
+msgid "elf ears, animal ears, pointy ears"
+msgstr ""
+
+#. id: 0.appearance.face.feature.face_feature
+#. path: appearance.face.feature.face_feature
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.face.feature.face_feature:label"
+msgid "Face Feature"
+msgstr "面部特征"
+
+#. id: 0.appearance.face.feature.face_feature
+msgctxt "taxonomy:0.appearance.face.feature.face_feature:description"
+msgid "forehead, cheek, chin, nose, eyebrows and non-expression face parts"
+msgstr ""
+
+#. id: 0.appearance.body.build.body_build
+#. path: appearance.body.build.body_build
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.body.build.body_build:label"
+msgid "Body Build"
+msgstr "体型"
+
+#. id: 0.appearance.body.build.body_build
+msgctxt "taxonomy:0.appearance.body.build.body_build:description"
+msgid "slender, petite, muscular, curvy, plump"
+msgstr ""
+
+#. id: 0.appearance.body.proportion.body_proportion
+#. path: appearance.body.proportion.body_proportion
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.body.proportion.body_proportion:label"
+msgid "Body Proportion"
+msgstr "身体比例"
+
+#. id: 0.appearance.body.proportion.body_proportion
+msgctxt "taxonomy:0.appearance.body.proportion.body_proportion:description"
+msgid "tall, short, wide hips, narrow waist"
+msgstr ""
+
+#. id: 0.appearance.body.breast.breast_size_shape
+#. path: appearance.body.breast.breast_size_shape
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.body.breast.breast_size_shape:label"
+msgid "Breast Size / Shape"
+msgstr "胸部大小/形状"
+
+#. id: 0.appearance.body.breast.breast_size_shape
+msgctxt "taxonomy:0.appearance.body.breast.breast_size_shape:description"
+msgid "flat, small, medium, large, huge breasts"
+msgstr ""
+
+#. id: 0.appearance.body.skin.skin_tone
+#. path: appearance.body.skin.skin_tone
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.body.skin.skin_tone:label"
+msgid "Skin Tone"
+msgstr "肤色"
+
+#. id: 0.appearance.body.skin.skin_tone
+msgctxt "taxonomy:0.appearance.body.skin.skin_tone:description"
+msgid "pale, dark skin, tan, tanned"
+msgstr ""
+
+#. id: 0.appearance.body.skin.skin_marking
+#. path: appearance.body.skin.skin_marking
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.body.skin.skin_marking:label"
+msgid "Skin Marking"
+msgstr "皮肤标记"
+
+#. id: 0.appearance.body.skin.skin_marking
+msgctxt "taxonomy:0.appearance.body.skin.skin_marking:description"
+msgid "scar, birthmark, tattoo, body mark"
+msgstr ""
+
+#. id: 0.appearance.body.limb.limbs_hands_feet
+#. path: appearance.body.limb.limbs_hands_feet
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.body.limb.limbs_hands_feet:label"
+msgid "Limbs / Hands / Feet"
+msgstr "四肢/手足"
+
+#. id: 0.appearance.body.limb.limbs_hands_feet
+msgctxt "taxonomy:0.appearance.body.limb.limbs_hands_feet:description"
+msgid "hands, feet, legs, arms, fingers, toes"
+msgstr ""
+
+#. id: 0.appearance.body.animal.animal_ears_tail
+#. path: appearance.body.animal.animal_ears_tail
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.body.animal.animal_ears_tail:label"
+msgid "Animal Ears / Tail"
+msgstr "动物耳尾"
+
+#. id: 0.appearance.body.animal.animal_ears_tail
+msgctxt "taxonomy:0.appearance.body.animal.animal_ears_tail:description"
+msgid "cat ears, fox tail, dog ears, rabbit ears"
+msgstr ""
+
+#. id: 0.appearance.body.nonhuman.horns_wings_scales
+#. path: appearance.body.nonhuman.horns_wings_scales
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.body.nonhuman.horns_wings_scales:label"
+msgid "Horns / Wings / Scales"
+msgstr "非人特征"
+
+#. id: 0.appearance.body.nonhuman.horns_wings_scales
+msgctxt "taxonomy:0.appearance.body.nonhuman.horns_wings_scales:description"
+msgid "horns, wings, scales, claws, fur"
+msgstr ""
+
+#. id: 0.appearance.body.injury.bandage_or_wound
+#. path: appearance.body.injury.bandage_or_wound
+#. safety: mixed
+msgctxt "taxonomy:0.appearance.body.injury.bandage_or_wound:label"
+msgid "Bandage / Wound"
+msgstr "伤口/绷带"
+
+#. id: 0.appearance.body.injury.bandage_or_wound
+msgctxt "taxonomy:0.appearance.body.injury.bandage_or_wound:description"
+msgid "bandage, wound, bruise, bleeding, injury, medical wrapping"
+msgstr ""
+
+#. id: 0.appearance.body.anatomy.anatomical_detail
+#. path: appearance.body.anatomy.anatomical_detail
+#. safety: mixed
+msgctxt "taxonomy:0.appearance.body.anatomy.anatomical_detail:label"
+msgid "Anatomical Detail"
+msgstr "身体解剖细节"
+
+#. id: 0.appearance.body.anatomy.anatomical_detail
+msgctxt "taxonomy:0.appearance.body.anatomy.anatomical_detail:description"
+msgid "spine, bone, skeleton, ovum, non-explicit anatomical detail"
+msgstr ""
+
+#. id: 0.appearance.body.texture.body_surface_texture
+#. path: appearance.body.texture.body_surface_texture
+#. safety: sfw
+msgctxt "taxonomy:0.appearance.body.texture.body_surface_texture:label"
+msgid "Body Surface Texture"
+msgstr "身体表面质感"
+
+#. id: 0.appearance.body.texture.body_surface_texture
+msgctxt "taxonomy:0.appearance.body.texture.body_surface_texture:description"
+msgid "fluffy, fuzzy, smooth, rough, furry texture when used as body/creature trait"
+msgstr ""
+
+#. id: 0.appearance.body.transformation_or_hybrid_state
+#. path: appearance.body.transformation.transformation_or_hybrid_state
+#. safety: mixed
+msgctxt "taxonomy:0.appearance.body.transformation_or_hybrid_state:label"
+msgid "Transformation / Hybrid State"
+msgstr "变身/混合体状态"
+
+#. id: 0.appearance.body.transformation_or_hybrid_state
+msgctxt "taxonomy:0.appearance.body.transformation_or_hybrid_state:description"
+msgid "henshin, body switch, animalization, invisible body, half-human hybrid state"
+msgstr ""
+
+#. id: 0.clothing.upper.inner_top
+#. path: clothing.upper.top.inner_top
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.upper.inner_top:label"
+msgid "Inner Top"
+msgstr "内层上衣"
+
+#. id: 0.clothing.upper.inner_top
+msgctxt "taxonomy:0.clothing.upper.inner_top:description"
+msgid "shirt, blouse, t-shirt, tank top"
+msgstr ""
+
+#. id: 0.clothing.upper.outerwear
+#. path: clothing.upper.outerwear.outerwear
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.upper.outerwear:label"
+msgid "Outerwear"
+msgstr "外套"
+
+#. id: 0.clothing.upper.outerwear
+msgctxt "taxonomy:0.clothing.upper.outerwear:description"
+msgid "jacket, coat, blazer, cloak, cape"
+msgstr ""
+
+#. id: 0.clothing.upper.neckwear
+#. path: clothing.upper.neckwear.neckwear
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.upper.neckwear:label"
+msgid "Neckwear"
+msgstr "颈部服饰"
+
+#. id: 0.clothing.upper.neckwear
+msgctxt "taxonomy:0.clothing.upper.neckwear:description"
+msgid "tie, bowtie, choker, scarf, collar"
+msgstr ""
+
+#. id: 0.clothing.lower.skirt_dress_bottom
+#. path: clothing.lower.bottom.skirt_dress_bottom
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.lower.skirt_dress_bottom:label"
+msgid "Skirt / Dress Bottom"
+msgstr "裙装下摆"
+
+#. id: 0.clothing.lower.skirt_dress_bottom
+msgctxt "taxonomy:0.clothing.lower.skirt_dress_bottom:description"
+msgid "skirt, miniskirt, pleated skirt"
+msgstr ""
+
+#. id: 0.clothing.lower.pants_shorts
+#. path: clothing.lower.bottom.pants_shorts
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.lower.pants_shorts:label"
+msgid "Pants / Shorts"
+msgstr "裤装"
+
+#. id: 0.clothing.lower.pants_shorts
+msgctxt "taxonomy:0.clothing.lower.pants_shorts:description"
+msgid "pants, jeans, shorts, bloomers"
+msgstr ""
+
+#. id: 0.clothing.lower.legwear
+#. path: clothing.lower.legwear.legwear
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.lower.legwear:label"
+msgid "Legwear"
+msgstr "腿部穿着"
+
+#. id: 0.clothing.lower.legwear
+msgctxt "taxonomy:0.clothing.lower.legwear:description"
+msgid "socks, thighhighs, pantyhose, tights"
+msgstr ""
+
+#. id: 0.clothing.lower.footwear
+#. path: clothing.lower.footwear.footwear
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.lower.footwear:label"
+msgid "Footwear"
+msgstr "鞋靴"
+
+#. id: 0.clothing.lower.footwear
+msgctxt "taxonomy:0.clothing.lower.footwear:description"
+msgid "boots, shoes, sandals, heels, barefoot"
+msgstr ""
+
+#. id: 0.clothing.onepiece.dress
+#. path: clothing.onepiece.garment.dress
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.onepiece.dress:label"
+msgid "Dress / Gown"
+msgstr "连衣裙/礼服"
+
+#. id: 0.clothing.onepiece.dress
+msgctxt "taxonomy:0.clothing.onepiece.dress:description"
+msgid "dress, gown, sundress, wedding dress"
+msgstr ""
+
+#. id: 0.clothing.onepiece.uniform
+#. path: clothing.onepiece.garment.uniform
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.onepiece.uniform:label"
+msgid "Uniform"
+msgstr "制服"
+
+#. id: 0.clothing.onepiece.uniform
+msgctxt "taxonomy:0.clothing.onepiece.uniform:description"
+msgid "school, military, maid, nurse, police uniform"
+msgstr ""
+
+#. id: 0.clothing.onepiece.swimwear
+#. path: clothing.onepiece.garment.swimwear
+#. safety: mixed
+msgctxt "taxonomy:0.clothing.onepiece.swimwear:label"
+msgid "Swimwear"
+msgstr "泳装"
+
+#. id: 0.clothing.onepiece.swimwear
+msgctxt "taxonomy:0.clothing.onepiece.swimwear:description"
+msgid "swimsuit, bikini, school swimsuit"
+msgstr ""
+
+#. id: 0.clothing.onepiece.traditional_wear
+#. path: clothing.onepiece.garment.traditional_wear
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.onepiece.traditional_wear:label"
+msgid "Traditional Wear"
+msgstr "传统服饰"
+
+#. id: 0.clothing.onepiece.traditional_wear
+msgctxt "taxonomy:0.clothing.onepiece.traditional_wear:description"
+msgid "kimono, yukata, hanfu, china dress"
+msgstr ""
+
+#. id: 0.clothing.onepiece.armor_suit
+#. path: clothing.onepiece.garment.armor_suit
+#. safety: mixed
+msgctxt "taxonomy:0.clothing.onepiece.armor_suit:label"
+msgid "Armor / Suit"
+msgstr "盔甲/紧身服"
+
+#. id: 0.clothing.onepiece.armor_suit
+msgctxt "taxonomy:0.clothing.onepiece.armor_suit:description"
+msgid "armor, bodysuit, leotard, plugsuit"
+msgstr ""
+
+#. id: 0.clothing.onepiece.sleepwear_loungewear
+#. path: clothing.onepiece.garment.sleepwear_loungewear
+#. safety: mixed
+msgctxt "taxonomy:0.clothing.onepiece.sleepwear_loungewear:label"
+msgid "Sleepwear / Loungewear"
+msgstr "睡衣/居家服"
+
+#. id: 0.clothing.onepiece.sleepwear_loungewear
+msgctxt "taxonomy:0.clothing.onepiece.sleepwear_loungewear:description"
+msgid "pajamas, nightgown, robe, loungewear, sleepwear"
+msgstr ""
+
+#. id: 0.clothing.accessory.headwear
+#. path: clothing.accessory.head.headwear
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.accessory.headwear:label"
+msgid "Headwear"
+msgstr "头部配饰"
+
+#. id: 0.clothing.accessory.headwear
+msgctxt "taxonomy:0.clothing.accessory.headwear:description"
+msgid "hat, cap, beret, crown, hood, helmet"
+msgstr ""
+
+#. id: 0.clothing.accessory.eyewear
+#. path: clothing.accessory.eye.eyewear
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.accessory.eyewear:label"
+msgid "Eyewear"
+msgstr "眼部配饰"
+
+#. id: 0.clothing.accessory.eyewear
+msgctxt "taxonomy:0.clothing.accessory.eyewear:description"
+msgid "glasses, sunglasses, goggles, eyepatch"
+msgstr ""
+
+#. id: 0.clothing.accessory.gloves
+#. path: clothing.accessory.hand.gloves
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.accessory.gloves:label"
+msgid "Gloves"
+msgstr "手套"
+
+#. id: 0.clothing.accessory.gloves
+msgctxt "taxonomy:0.clothing.accessory.gloves:description"
+msgid "gloves, fingerless gloves, elbow gloves"
+msgstr ""
+
+#. id: 0.clothing.accessory.jewelry
+#. path: clothing.accessory.jewelry.jewelry
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.accessory.jewelry:label"
+msgid "Jewelry"
+msgstr "首饰"
+
+#. id: 0.clothing.accessory.jewelry
+msgctxt "taxonomy:0.clothing.accessory.jewelry:description"
+msgid "earrings, ring, necklace, bracelet"
+msgstr ""
+
+#. id: 0.clothing.accessory.bag
+#. path: clothing.accessory.bag.bag
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.accessory.bag:label"
+msgid "Bag"
+msgstr "包袋"
+
+#. id: 0.clothing.accessory.bag
+msgctxt "taxonomy:0.clothing.accessory.bag:description"
+msgid "backpack, handbag, purse, satchel"
+msgstr ""
+
+#. id: 0.clothing.accessory.waist_belt_sash
+#. path: clothing.accessory.waist.waist_belt_sash
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.accessory.waist_belt_sash:label"
+msgid "Belt / Sash"
+msgstr "腰带/饰带"
+
+#. id: 0.clothing.accessory.waist_belt_sash
+msgctxt "taxonomy:0.clothing.accessory.waist_belt_sash:description"
+msgid "belt, sash, obi, buckle, waist accessory"
+msgstr ""
+
+#. id: 0.clothing.pattern.print_or_pattern
+#. path: clothing.pattern.fabric.print_or_pattern
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.pattern.print_or_pattern:label"
+msgid "Clothing Print / Pattern"
+msgstr "衣物图案/印花"
+
+#. id: 0.clothing.pattern.print_or_pattern
+msgctxt "taxonomy:0.clothing.pattern.print_or_pattern:description"
+msgid "floral print, striped clothes, plaid, polka dot fabric"
+msgstr ""
+
+#. id: 0.clothing.material.fabric_material
+#. path: clothing.material.fabric.fabric_material
+#. safety: mixed
+msgctxt "taxonomy:0.clothing.material.fabric_material:label"
+msgid "Clothing Material"
+msgstr "服装材质"
+
+#. id: 0.clothing.material.fabric_material
+msgctxt "taxonomy:0.clothing.material.fabric_material:description"
+msgid "leather, silk, denim, latex, velvet, satin, wool fabric"
+msgstr ""
+
+#. id: 0.clothing.detail.decorative_detail
+#. path: clothing.detail.decoration.decorative_detail
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.detail.decorative_detail:label"
+msgid "Clothing Decorative Detail"
+msgstr "服装装饰细节"
+
+#. id: 0.clothing.detail.decorative_detail
+msgctxt "taxonomy:0.clothing.detail.decorative_detail:description"
+msgid "pom pom, bow, knot, lace, frill, trim, embroidery on clothing"
+msgstr ""
+
+#. id: 0.clothing.intimate.underwear_garment
+#. path: clothing.intimate.underwear.underwear_garment
+#. safety: mixed
+msgctxt "taxonomy:0.clothing.intimate.underwear_garment:label"
+msgid "Underwear Garment"
+msgstr "内衣类服装"
+
+#. id: 0.clothing.intimate.underwear_garment
+msgctxt "taxonomy:0.clothing.intimate.underwear_garment:description"
+msgid "bra, panties, lingerie, briefs, boxers as clothing items"
+msgstr ""
+
+#. id: 0.clothing.detail.functional_detail
+#. path: clothing.detail.functional.functional_detail
+#. safety: sfw
+msgctxt "taxonomy:0.clothing.detail.functional_detail:label"
+msgid "Clothing Functional Detail"
+msgstr "服装功能部件"
+
+#. id: 0.clothing.detail.functional_detail
+msgctxt "taxonomy:0.clothing.detail.functional_detail:description"
+msgid "buttons, straps, gusset, bib, patch, pocket, zipper, rack or clothing hardware"
+msgstr ""
+
+#. id: 0.clothing.state.fit_and_opening
+#. path: clothing.state.fit.fit_and_opening
+#. safety: mixed
+msgctxt "taxonomy:0.clothing.state.fit_and_opening:label"
+msgid "Fit / Opening"
+msgstr "衣物松紧/开合"
+
+#. id: 0.clothing.state.fit_and_opening
+msgctxt "taxonomy:0.clothing.state.fit_and_opening:description"
+msgid "open clothes, loose clothes, tight clothes"
+msgstr ""
+
+#. id: 0.clothing.state.damage_or_wet
+#. path: clothing.state.condition.damage_or_wet
+#. safety: mixed
+msgctxt "taxonomy:0.clothing.state.damage_or_wet:label"
+msgid "Damaged / Wet Clothing"
+msgstr "破损/湿衣"
+
+#. id: 0.clothing.state.damage_or_wet
+msgctxt "taxonomy:0.clothing.state.damage_or_wet:description"
+msgid "torn, wet, transparent, dirty clothes"
+msgstr ""
+
+#. id: 0.clothing.state.lift_or_removed
+#. path: clothing.state.exposure.lift_or_removed
+#. safety: mixed
+msgctxt "taxonomy:0.clothing.state.lift_or_removed:label"
+msgid "Lifted / Removed Clothing"
+msgstr "掀起/脱下"
+
+#. id: 0.clothing.state.lift_or_removed
+msgctxt "taxonomy:0.clothing.state.lift_or_removed:description"
+msgid "clothes lift, skirt lift, undressing"
+msgstr ""
+
+#. id: 0.clothing.state.unworn_or_carried
+#. path: clothing.state.unworn.unworn_or_carried
+#. safety: mixed
+msgctxt "taxonomy:0.clothing.state.unworn_or_carried:label"
+msgid "Unworn / Carried Clothing"
+msgstr "未穿戴/拿在手中"
+
+#. id: 0.clothing.state.unworn_or_carried
+msgctxt "taxonomy:0.clothing.state.unworn_or_carried:description"
+msgid "unworn clothing, discarded clothes, clothes in hand"
+msgstr ""
+
+#. id: 0.pose.posture.standing_pose
+#. path: pose.posture.upright.standing_pose
+#. safety: sfw
+msgctxt "taxonomy:0.pose.posture.standing_pose:label"
+msgid "Standing Pose"
+msgstr "站姿"
+
+#. id: 0.pose.posture.standing_pose
+msgctxt "taxonomy:0.pose.posture.standing_pose:description"
+msgid "standing, leaning, contrapposto"
+msgstr ""
+
+#. id: 0.pose.posture.sitting_pose
+#. path: pose.posture.seated.sitting_pose
+#. safety: sfw
+msgctxt "taxonomy:0.pose.posture.sitting_pose:label"
+msgid "Sitting Pose"
+msgstr "坐姿"
+
+#. id: 0.pose.posture.sitting_pose
+msgctxt "taxonomy:0.pose.posture.sitting_pose:description"
+msgid "sitting, seiza, on chair, on lap"
+msgstr ""
+
+#. id: 0.pose.posture.lying_pose
+#. path: pose.posture.lying.lying_pose
+#. safety: sfw
+msgctxt "taxonomy:0.pose.posture.lying_pose:label"
+msgid "Lying Pose"
+msgstr "躺姿"
+
+#. id: 0.pose.posture.lying_pose
+msgctxt "taxonomy:0.pose.posture.lying_pose:description"
+msgid "lying, on back, prone, supine"
+msgstr ""
+
+#. id: 0.pose.posture.kneeling_squatting
+#. path: pose.posture.low.kneeling_squatting
+#. safety: sfw
+msgctxt "taxonomy:0.pose.posture.kneeling_squatting:label"
+msgid "Kneeling / Squatting"
+msgstr "跪姿/蹲姿"
+
+#. id: 0.pose.posture.kneeling_squatting
+msgctxt "taxonomy:0.pose.posture.kneeling_squatting:description"
+msgid "kneeling, squatting, crouching"
+msgstr ""
+
+#. id: 0.pose.posture.dynamic_motion
+#. path: pose.posture.dynamic.dynamic_motion
+#. safety: sfw
+msgctxt "taxonomy:0.pose.posture.dynamic_motion:label"
+msgid "Dynamic Motion"
+msgstr "动态姿态"
+
+#. id: 0.pose.posture.dynamic_motion
+msgctxt "taxonomy:0.pose.posture.dynamic_motion:description"
+msgid "running, jumping, falling, dancing"
+msgstr ""
+
+#. id: 0.pose.gesture.hand_gesture
+#. path: pose.gesture.hand.hand_gesture
+#. safety: sfw
+msgctxt "taxonomy:0.pose.gesture.hand_gesture:label"
+msgid "Hand Gesture"
+msgstr "手势"
+
+#. id: 0.pose.gesture.hand_gesture
+msgctxt "taxonomy:0.pose.gesture.hand_gesture:description"
+msgid "peace sign, waving, pointing, salute"
+msgstr ""
+
+#. id: 0.pose.gesture.arm_position
+#. path: pose.gesture.arm.arm_position
+#. safety: sfw
+msgctxt "taxonomy:0.pose.gesture.arm_position:label"
+msgid "Arm Position"
+msgstr "手臂位置"
+
+#. id: 0.pose.gesture.arm_position
+msgctxt "taxonomy:0.pose.gesture.arm_position:description"
+msgid "arms up, crossed arms, hands on hips"
+msgstr ""
+
+#. id: 0.pose.gesture.leg_position
+#. path: pose.gesture.leg.leg_position
+#. safety: mixed
+msgctxt "taxonomy:0.pose.gesture.leg_position:label"
+msgid "Leg Position"
+msgstr "腿部位置"
+
+#. id: 0.pose.gesture.leg_position
+msgctxt "taxonomy:0.pose.gesture.leg_position:description"
+msgid "crossed legs, legs up, spread legs"
+msgstr ""
+
+#. id: 0.pose.gesture.head_or_torso
+#. path: pose.gesture.body.head_or_torso
+#. safety: mixed
+msgctxt "taxonomy:0.pose.gesture.head_or_torso:label"
+msgid "Head / Torso Pose"
+msgstr "头部/躯干姿势"
+
+#. id: 0.pose.gesture.head_or_torso
+msgctxt "taxonomy:0.pose.gesture.head_or_torso:description"
+msgid "head tilt, bent over, arched back"
+msgstr ""
+
+#. id: 0.pose.action.holding_object
+#. path: pose.action.holding.holding_object
+#. safety: sfw
+msgctxt "taxonomy:0.pose.action.holding_object:label"
+msgid "Holding Object"
+msgstr "手持物"
+
+#. id: 0.pose.action.holding_object
+msgctxt "taxonomy:0.pose.action.holding_object:description"
+msgid "holding, carrying, holding weapon"
+msgstr ""
+
+#. id: 0.pose.action.daily_activity
+#. path: pose.action.activity.daily_activity
+#. safety: sfw
+msgctxt "taxonomy:0.pose.action.daily_activity:label"
+msgid "Daily Activity"
+msgstr "日常动作"
+
+#. id: 0.pose.action.daily_activity
+msgctxt "taxonomy:0.pose.action.daily_activity:description"
+msgid "eating, drinking, sleeping, reading"
+msgstr ""
+
+#. id: 0.pose.action.performance_action
+#. path: pose.action.activity.performance_action
+#. safety: sfw
+msgctxt "taxonomy:0.pose.action.performance_action:label"
+msgid "Performance Action"
+msgstr "表演动作"
+
+#. id: 0.pose.action.performance_action
+msgctxt "taxonomy:0.pose.action.performance_action:description"
+msgid "singing, dancing, playing instrument"
+msgstr ""
+
+#. id: 0.pose.action.combat_action
+#. path: pose.action.activity.combat_action
+#. safety: sfw
+msgctxt "taxonomy:0.pose.action.combat_action:label"
+msgid "Combat Action"
+msgstr "战斗动作"
+
+#. id: 0.pose.action.combat_action
+msgctxt "taxonomy:0.pose.action.combat_action:description"
+msgid "fighting, aiming, attacking, kicking"
+msgstr ""
+
+#. id: 0.pose.interaction.physical_interaction
+#. path: pose.interaction.contact.physical_interaction
+#. safety: mixed
+msgctxt "taxonomy:0.pose.interaction.physical_interaction:label"
+msgid "Physical Interaction"
+msgstr "身体互动"
+
+#. id: 0.pose.interaction.physical_interaction
+msgctxt "taxonomy:0.pose.interaction.physical_interaction:description"
+msgid "hug, kiss, handholding, touching"
+msgstr ""
+
+#. id: 0.pose.action.covering_or_hiding
+#. path: pose.action.cover.covering_or_hiding
+#. safety: mixed
+msgctxt "taxonomy:0.pose.action.covering_or_hiding:label"
+msgid "Covering / Hiding Action"
+msgstr "遮挡/隐藏动作"
+
+#. id: 0.pose.action.covering_or_hiding
+msgctxt "taxonomy:0.pose.action.covering_or_hiding:description"
+msgid "covering face, hiding, fanning, shielding, obscuring body/object"
+msgstr ""
+
+#. id: 0.pose.action.social_or_intentional_action
+#. path: pose.action.intent.social_or_intentional_action
+#. safety: mixed
+msgctxt "taxonomy:0.pose.action.social_or_intentional_action:label"
+msgid "Social / Intentional Action"
+msgstr "社交/意图动作"
+
+#. id: 0.pose.action.social_or_intentional_action
+msgctxt "taxonomy:0.pose.action.social_or_intentional_action:description"
+msgid "waiting, modeling, teasing, confessing, inviting, presenting"
+msgstr ""
+
+#. id: 0.pose.action.object_manipulation
+#. path: pose.action.manipulation.object_manipulation
+#. safety: sfw
+msgctxt "taxonomy:0.pose.action.object_manipulation:label"
+msgid "Object Manipulation"
+msgstr "操作/整理动作"
+
+#. id: 0.pose.action.object_manipulation
+msgctxt "taxonomy:0.pose.action.object_manipulation:description"
+msgid "tugging, pulling, folding, tying, opening, using objects"
+msgstr ""
+
+#. id: 0.pose.action.body_contact_or_support
+#. path: pose.action.support.body_contact_or_support
+#. safety: mixed
+msgctxt "taxonomy:0.pose.action.body_contact_or_support:label"
+msgid "Body Contact / Support Action"
+msgstr "身体接触/支撑动作"
+
+#. id: 0.pose.action.body_contact_or_support
+msgctxt "taxonomy:0.pose.action.body_contact_or_support:description"
+msgid "arm over shoulder, hand on body, on person, leaning on, supporting"
+msgstr ""
+
+#. id: 0.pose.action.directional_or_spatial_action
+#. path: pose.action.spatial.directional_or_spatial_action
+#. safety: sfw
+msgctxt "taxonomy:0.pose.action.directional_or_spatial_action:label"
+msgid "Directional / Spatial Action"
+msgstr "方向/空间动作"
+
+#. id: 0.pose.action.directional_or_spatial_action
+msgctxt "taxonomy:0.pose.action.directional_or_spatial_action:description"
+msgid "sideways, surrounded, dropping, moving through space"
+msgstr ""
+
+#. id: 0.pose.action.force_or_impact_action
+#. path: pose.action.impact.force_or_impact_action
+#. safety: mixed
+msgctxt "taxonomy:0.pose.action.force_or_impact_action:label"
+msgid "Force / Impact Action"
+msgstr "冲突/冲击动作"
+
+#. id: 0.pose.action.force_or_impact_action
+msgctxt "taxonomy:0.pose.action.force_or_impact_action:description"
+msgid "headbutt, punch, stomach punch, abuse, rough handling"
+msgstr ""
+
+#. id: 0.expression.emotion.positive_emotion
+#. path: expression.emotion.valence.positive_emotion
+#. safety: sfw
+msgctxt "taxonomy:0.expression.emotion.positive_emotion:label"
+msgid "Positive Emotion"
+msgstr "正面情绪"
+
+#. id: 0.expression.emotion.positive_emotion
+msgctxt "taxonomy:0.expression.emotion.positive_emotion:description"
+msgid "happy, smile, laugh, excited"
+msgstr ""
+
+#. id: 0.expression.emotion.negative_emotion
+#. path: expression.emotion.valence.negative_emotion
+#. safety: sfw
+msgctxt "taxonomy:0.expression.emotion.negative_emotion:label"
+msgid "Negative Emotion"
+msgstr "负面情绪"
+
+#. id: 0.expression.emotion.negative_emotion
+msgctxt "taxonomy:0.expression.emotion.negative_emotion:description"
+msgid "sad, angry, scared, crying"
+msgstr ""
+
+#. id: 0.expression.emotion.neutral_or_cool
+#. path: expression.emotion.valence.neutral_or_cool
+#. safety: sfw
+msgctxt "taxonomy:0.expression.emotion.neutral_or_cool:label"
+msgid "Neutral / Cool Emotion"
+msgstr "中性/冷淡情绪"
+
+#. id: 0.expression.emotion.neutral_or_cool
+msgctxt "taxonomy:0.expression.emotion.neutral_or_cool:description"
+msgid "expressionless, serious, bored, calm"
+msgstr ""
+
+#. id: 0.expression.emotion.embarrassment
+#. path: expression.emotion.reaction.embarrassment
+#. safety: mixed
+msgctxt "taxonomy:0.expression.emotion.embarrassment:label"
+msgid "Embarrassment"
+msgstr "害羞/尴尬"
+
+#. id: 0.expression.emotion.embarrassment
+msgctxt "taxonomy:0.expression.emotion.embarrassment:description"
+msgid "blush, embarrassed, shy, flustered"
+msgstr ""
+
+#. id: 0.expression.emotion.affection_or_desire
+#. path: expression.emotion.affection.affection_or_desire
+#. safety: mixed
+msgctxt "taxonomy:0.expression.emotion.affection_or_desire:label"
+msgid "Affection / Desire"
+msgstr "爱意/好感情绪"
+
+#. id: 0.expression.emotion.affection_or_desire
+msgctxt "taxonomy:0.expression.emotion.affection_or_desire:description"
+msgid "love, affection, heart eyes, yearning, romantic feeling without explicit sex"
+msgstr ""
+
+#. id: 0.expression.mental.thought_or_imagination
+#. path: expression.mental.thought.thought_or_imagination
+#. safety: sfw
+msgctxt "taxonomy:0.expression.mental.thought_or_imagination:label"
+msgid "Thought / Imagination"
+msgstr "思考/想象"
+
+#. id: 0.expression.mental.thought_or_imagination
+msgctxt "taxonomy:0.expression.mental.thought_or_imagination:description"
+msgid "imagining, thinking, daydreaming, fantasy thought, mental image"
+msgstr ""
+
+#. id: 0.expression.reaction.comic_or_exaggerated_reaction
+#. path: expression.reaction.comic.comic_or_exaggerated_reaction
+#. safety: sfw
+msgctxt "taxonomy:0.expression.reaction.comic_or_exaggerated_reaction:label"
+msgid "Comic / Exaggerated Reaction"
+msgstr "夸张/漫画反应"
+
+#. id: 0.expression.reaction.comic_or_exaggerated_reaction
+msgctxt "taxonomy:0.expression.reaction.comic_or_exaggerated_reaction:description"
+msgid "eye pop, roaring, awkward reaction, exaggerated comic expression"
+msgstr ""
+
+#. id: 0.expression.gaze.viewer_engagement
+#. path: expression.gaze.viewer.viewer_engagement
+#. safety: sfw
+msgctxt "taxonomy:0.expression.gaze.viewer_engagement:label"
+msgid "Viewer Engagement"
+msgstr "与观者互动"
+
+#. id: 0.expression.gaze.viewer_engagement
+msgctxt "taxonomy:0.expression.gaze.viewer_engagement:description"
+msgid "looking at viewer, pov address"
+msgstr ""
+
+#. id: 0.expression.reaction.physical_reaction
+#. path: expression.reaction.body.physical_reaction
+#. safety: mixed
+msgctxt "taxonomy:0.expression.reaction.physical_reaction:label"
+msgid "Physical Reaction"
+msgstr "身体反应"
+
+#. id: 0.expression.reaction.physical_reaction
+msgctxt "taxonomy:0.expression.reaction.physical_reaction:description"
+msgid "sweat, tears, trembling, goosebumps"
+msgstr ""
+
+#. id: 0.narrative.relationship.family_or_romance
+#. path: narrative.relationship.social.family_or_romance
+#. safety: mixed
+msgctxt "taxonomy:0.narrative.relationship.family_or_romance:label"
+msgid "Family / Romance Relationship"
+msgstr "家庭/恋爱关系"
+
+#. id: 0.narrative.relationship.family_or_romance
+msgctxt "taxonomy:0.narrative.relationship.family_or_romance:description"
+msgid "family relation, love confession, love triangle, friendship, rivalry"
+msgstr ""
+
+#. id: 0.narrative.event.life_event_or_milestone
+#. path: narrative.event.life.life_event_or_milestone
+#. safety: sfw
+msgctxt "taxonomy:0.narrative.event.life_event_or_milestone:label"
+msgid "Life Event / Milestone"
+msgstr "纪念/人生事件"
+
+#. id: 0.narrative.event.life_event_or_milestone
+msgctxt "taxonomy:0.narrative.event.life_event_or_milestone:description"
+msgid "birthday, anniversary, milestone, celebration, ceremony"
+msgstr ""
+
+#. id: 0.narrative.event.threat_failure_or_death
+#. path: narrative.event.danger.threat_failure_or_death
+#. safety: mixed
+msgctxt "taxonomy:0.narrative.event.threat_failure_or_death:label"
+msgid "Threat / Failure / Death"
+msgstr "威胁/失败/死亡叙事"
+
+#. id: 0.narrative.event.threat_failure_or_death
+msgctxt "taxonomy:0.narrative.event.threat_failure_or_death:description"
+msgid "implied death, corpse, bad end, doom, threat, failure"
+msgstr ""
+
+#. id: 0.narrative.reference.crossover_or_canon
+#. path: narrative.reference.canon.crossover_or_canon
+#. safety: sfw
+msgctxt "taxonomy:0.narrative.reference.crossover_or_canon:label"
+msgid "Crossover / Canon Reference"
+msgstr "联动/正典变体"
+
+#. id: 0.narrative.reference.crossover_or_canon
+msgctxt "taxonomy:0.narrative.reference.crossover_or_canon:description"
+msgid "crossover, borrowed design, prototype design, canon divergence"
+msgstr ""
+
+#. id: 0.narrative.state.supernatural_or_possession
+#. path: narrative.state.supernatural.supernatural_or_possession
+#. safety: mixed
+msgctxt "taxonomy:0.narrative.state.supernatural_or_possession:label"
+msgid "Supernatural / Possession State"
+msgstr "灵异/附身状态"
+
+#. id: 0.narrative.state.supernatural_or_possession
+msgctxt "taxonomy:0.narrative.state.supernatural_or_possession:description"
+msgid "possessed, ghost, spirit, giving up the ghost, curse"
+msgstr ""
+
+#. id: 0.narrative.sequence.temporal_context
+#. path: narrative.sequence.time.temporal_context
+#. safety: sfw
+msgctxt "taxonomy:0.narrative.sequence.temporal_context:label"
+msgid "Temporal / Memory Context"
+msgstr "时间/回忆叙事"
+
+#. id: 0.narrative.sequence.temporal_context
+msgctxt "taxonomy:0.narrative.sequence.temporal_context:description"
+msgid "flashback, morning after, after story, before/after, year marker"
+msgstr ""
+
+#. id: 0.narrative.theme.symbolic_or_abstract_theme
+#. path: narrative.theme.symbolic.symbolic_or_abstract_theme
+#. safety: sfw
+msgctxt "taxonomy:0.narrative.theme.symbolic_or_abstract_theme:label"
+msgid "Symbolic / Abstract Theme"
+msgstr "象征/抽象主题"
+
+#. id: 0.narrative.theme.symbolic_or_abstract_theme
+msgctxt "taxonomy:0.narrative.theme.symbolic_or_abstract_theme:description"
+msgid "symbolism, truth, misunderstanding, instincts, good end, abstract narrative theme"
+msgstr ""
+
+#. id: 0.meta.reference.cosplay
+#. path: meta.reference.cosplay.cosplay
+#. safety: sfw
+msgctxt "taxonomy:0.meta.reference.cosplay:label"
+msgid "Cosplay Reference"
+msgstr "角色扮演引用"
+
+#. id: 0.meta.reference.cosplay
+msgctxt "taxonomy:0.meta.reference.cosplay:description"
+msgid "cosplay of a named character, character cosplay tag, roleplay/costume reference"
+msgstr ""
+
+#. id: 0.meta.reference.meme_or_internet
+#. path: meta.reference.internet.meme_or_internet
+#. safety: sfw
+msgctxt "taxonomy:0.meta.reference.meme_or_internet:label"
+msgid "Meme / Internet Reference"
+msgstr "网络梗/互联网引用"
+
+#. id: 0.meta.reference.meme_or_internet
+msgctxt "taxonomy:0.meta.reference.meme_or_internet:description"
+msgid "meme, internet meme, reaction image, viral reference, catchphrase tag"
+msgstr ""
+
+#. id: 0.pose.action.body_manipulation
+#. path: pose.action.body.body_manipulation
+#. safety: sfw
+msgctxt "taxonomy:0.pose.action.body_manipulation:label"
+msgid "Body / Face Manipulation"
+msgstr "身体/面部操作动作"
+
+#. id: 0.pose.action.body_manipulation
+msgctxt "taxonomy:0.pose.action.body_manipulation:description"
+msgid "holding eye open, pinching cheek, pulling eyelid, manipulating body part"
+msgstr ""
+
+#. id: 0.scene.location.indoor_private
+#. path: scene.location.indoor.indoor_private
+#. safety: sfw
+msgctxt "taxonomy:0.scene.location.indoor_private:label"
+msgid "Private Indoor"
+msgstr "私人室内"
+
+#. id: 0.scene.location.indoor_private
+msgctxt "taxonomy:0.scene.location.indoor_private:description"
+msgid "bedroom, bathroom, living room"
+msgstr ""
+
+#. id: 0.scene.location.indoor_public
+#. path: scene.location.indoor.indoor_public
+#. safety: sfw
+msgctxt "taxonomy:0.scene.location.indoor_public:label"
+msgid "Public Indoor"
+msgstr "公共室内"
+
+#. id: 0.scene.location.indoor_public
+msgctxt "taxonomy:0.scene.location.indoor_public:description"
+msgid "classroom, office, library, shop"
+msgstr ""
+
+#. id: 0.scene.location.outdoor_nature
+#. path: scene.location.outdoor.outdoor_nature
+#. safety: sfw
+msgctxt "taxonomy:0.scene.location.outdoor_nature:label"
+msgid "Outdoor Nature"
+msgstr "自然室外"
+
+#. id: 0.scene.location.outdoor_nature
+msgctxt "taxonomy:0.scene.location.outdoor_nature:description"
+msgid "forest, beach, mountain, field, garden"
+msgstr ""
+
+#. id: 0.scene.location.outdoor_urban
+#. path: scene.location.outdoor.outdoor_urban
+#. safety: sfw
+msgctxt "taxonomy:0.scene.location.outdoor_urban:label"
+msgid "Outdoor Urban"
+msgstr "城市室外"
+
+#. id: 0.scene.location.outdoor_urban
+msgctxt "taxonomy:0.scene.location.outdoor_urban:description"
+msgid "street, city, rooftop, station"
+msgstr ""
+
+#. id: 0.scene.location.water_or_sky
+#. path: scene.location.environment.water_or_sky
+#. safety: sfw
+msgctxt "taxonomy:0.scene.location.water_or_sky:label"
+msgid "Water / Sky Setting"
+msgstr "水域/天空"
+
+#. id: 0.scene.location.water_or_sky
+msgctxt "taxonomy:0.scene.location.water_or_sky:description"
+msgid "underwater, ocean, sky, clouds"
+msgstr ""
+
+#. id: 0.scene.location.fantasy_or_sci_fi
+#. path: scene.location.fictional.fantasy_or_sci_fi
+#. safety: sfw
+msgctxt "taxonomy:0.scene.location.fantasy_or_sci_fi:label"
+msgid "Fantasy / Sci-fi Setting"
+msgstr "幻想/科幻地点"
+
+#. id: 0.scene.location.fantasy_or_sci_fi
+msgctxt "taxonomy:0.scene.location.fantasy_or_sci_fi:description"
+msgid "castle, dungeon, shrine, space"
+msgstr ""
+
+#. id: 0.scene.environment.weather
+#. path: scene.environment.weather.weather
+#. safety: sfw
+msgctxt "taxonomy:0.scene.environment.weather:label"
+msgid "Weather"
+msgstr "天气"
+
+#. id: 0.scene.environment.weather
+msgctxt "taxonomy:0.scene.environment.weather:description"
+msgid "rain, snow, fog, storm, wind"
+msgstr ""
+
+#. id: 0.scene.environment.time_of_day
+#. path: scene.environment.time.time_of_day
+#. safety: sfw
+msgctxt "taxonomy:0.scene.environment.time_of_day:label"
+msgid "Time of Day"
+msgstr "昼夜时间"
+
+#. id: 0.scene.environment.time_of_day
+msgctxt "taxonomy:0.scene.environment.time_of_day:description"
+msgid "day, night, sunset, dawn, dusk"
+msgstr ""
+
+#. id: 0.scene.environment.season
+#. path: scene.environment.season.season
+#. safety: sfw
+msgctxt "taxonomy:0.scene.environment.season:label"
+msgid "Season"
+msgstr "季节"
+
+#. id: 0.scene.environment.season
+msgctxt "taxonomy:0.scene.environment.season:description"
+msgid "spring, summer, autumn, winter"
+msgstr ""
+
+#. id: 0.scene.background.background_density
+#. path: scene.background.density.background_density
+#. safety: sfw
+msgctxt "taxonomy:0.scene.background.background_density:label"
+msgid "Background Density"
+msgstr "背景复杂度"
+
+#. id: 0.scene.background.background_density
+msgctxt "taxonomy:0.scene.background.background_density:description"
+msgid "simple, white, transparent, detailed background"
+msgstr ""
+
+#. id: 0.scene.background.background_pattern
+#. path: scene.background.pattern.background_pattern
+#. safety: sfw
+msgctxt "taxonomy:0.scene.background.background_pattern:label"
+msgid "Background Pattern"
+msgstr "背景图案"
+
+#. id: 0.scene.background.background_pattern
+msgctxt "taxonomy:0.scene.background.background_pattern:description"
+msgid "gradient, pattern, geometric, abstract background"
+msgstr ""
+
+#. id: 0.scene.structure.architecture
+#. path: scene.structure.building.architecture
+#. safety: sfw
+msgctxt "taxonomy:0.scene.structure.architecture:label"
+msgid "Architecture"
+msgstr "建筑结构"
+
+#. id: 0.scene.structure.architecture
+msgctxt "taxonomy:0.scene.structure.architecture:description"
+msgid "architecture, arch, building, pillar, bridge, staircase, roof"
+msgstr ""
+
+#. id: 0.scene.structure.barrier_or_surface
+#. path: scene.structure.surface.barrier_or_surface
+#. safety: sfw
+msgctxt "taxonomy:0.scene.structure.barrier_or_surface:label"
+msgid "Barrier / Surface"
+msgstr "屏障/地面/墙面"
+
+#. id: 0.scene.structure.barrier_or_surface
+msgctxt "taxonomy:0.scene.structure.barrier_or_surface:description"
+msgid "fence, wall, floor, gate, screen, door, window, pipe, surface"
+msgstr ""
+
+#. id: 0.scene.decor.ornament_or_decoration
+#. path: scene.decor.ornament.ornament_or_decoration
+#. safety: sfw
+msgctxt "taxonomy:0.scene.decor.ornament_or_decoration:label"
+msgid "Ornament / Decoration"
+msgstr "装饰物/布景装饰"
+
+#. id: 0.scene.decor.ornament_or_decoration
+msgctxt "taxonomy:0.scene.decor.ornament_or_decoration:description"
+msgid "ornament, decoration, festive decoration, hanging decor"
+msgstr ""
+
+#. id: 0.scene.culture.holiday_or_festival
+#. path: scene.culture.event.holiday_or_festival
+#. safety: sfw
+msgctxt "taxonomy:0.scene.culture.holiday_or_festival:label"
+msgid "Holiday / Festival"
+msgstr "节日/庆典"
+
+#. id: 0.scene.culture.holiday_or_festival
+msgctxt "taxonomy:0.scene.culture.holiday_or_festival:description"
+msgid "christmas, valentine, festival, lantern festival, new year, setsubun"
+msgstr ""
+
+#. id: 0.scene.culture.region_or_period_theme
+#. path: scene.culture.theme.region_or_period_theme
+#. safety: sfw
+msgctxt "taxonomy:0.scene.culture.region_or_period_theme:label"
+msgid "Region / Period Theme"
+msgstr "地域/时代主题"
+
+#. id: 0.scene.culture.region_or_period_theme
+msgctxt "taxonomy:0.scene.culture.region_or_period_theme:description"
+msgid "east asian, ancient egyptian, cowboy western, tribal, world war ii, contemporary"
+msgstr ""
+
+#. id: 0.scene.symbol.symbol_or_emblem
+#. path: scene.symbol.mark.symbol_or_emblem
+#. safety: sfw
+msgctxt "taxonomy:0.scene.symbol.symbol_or_emblem:label"
+msgid "Symbol / Emblem"
+msgstr "符号/徽章"
+
+#. id: 0.scene.symbol.symbol_or_emblem
+msgctxt "taxonomy:0.scene.symbol.symbol_or_emblem:description"
+msgid "cross, crescent, emblem, insignia, zodiac, triangle, eye of providence"
+msgstr ""
+
+#. id: 0.scene.location.real_world_or_brand_reference
+#. path: scene.location.real_world.real_world_or_brand_reference
+#. safety: sfw
+msgctxt "taxonomy:0.scene.location.real_world_or_brand_reference:label"
+msgid "Real-world / Brand Reference"
+msgstr "现实地点/品牌参照"
+
+#. id: 0.scene.location.real_world_or_brand_reference
+msgctxt "taxonomy:0.scene.location.real_world_or_brand_reference:description"
+msgid "real world location, company brand, nike, adidas, honda, regional culture reference"
+msgstr ""
+
+#. id: 0.scene.object.temporary_shelter_or_outdoor_fixture
+#. path: scene.object.outdoor_fixture.temporary_shelter_or_outdoor_fixture
+#. safety: sfw
+msgctxt "taxonomy:0.scene.object.temporary_shelter_or_outdoor_fixture:label"
+msgid "Temporary Shelter / Outdoor Fixture"
+msgstr "临时设施/户外装置"
+
+#. id: 0.scene.object.temporary_shelter_or_outdoor_fixture
+msgctxt "taxonomy:0.scene.object.temporary_shelter_or_outdoor_fixture:description"
+msgid "tent, windmill, signpost, outdoor fixture"
+msgstr ""
+
+#. id: 0.object.food.solid_food
+#. path: object.food.food.solid_food
+#. safety: sfw
+msgctxt "taxonomy:0.object.food.solid_food:label"
+msgid "Food"
+msgstr "食物"
+
+#. id: 0.object.food.solid_food
+msgctxt "taxonomy:0.object.food.solid_food:description"
+msgid "rice, cake, fruit, bread, meat"
+msgstr ""
+
+#. id: 0.object.food.drink_container
+#. path: object.food.drink.drink_container
+#. safety: sfw
+msgctxt "taxonomy:0.object.food.drink_container:label"
+msgid "Drink / Container"
+msgstr "饮品/容器"
+
+#. id: 0.object.food.drink_container
+msgctxt "taxonomy:0.object.food.drink_container:description"
+msgid "tea, coffee, bottle, cup, glass"
+msgstr ""
+
+#. id: 0.object.prop.furniture
+#. path: object.prop.furniture.furniture
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.furniture:label"
+msgid "Furniture"
+msgstr "家具"
+
+#. id: 0.object.prop.furniture
+msgctxt "taxonomy:0.object.prop.furniture:description"
+msgid "chair, table, bed, sofa, desk"
+msgstr ""
+
+#. id: 0.object.prop.book_paper
+#. path: object.prop.paper.book_paper
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.book_paper:label"
+msgid "Book / Paper"
+msgstr "书本/纸张"
+
+#. id: 0.object.prop.book_paper
+msgctxt "taxonomy:0.object.prop.book_paper:description"
+msgid "book, paper, letter, notebook"
+msgstr ""
+
+#. id: 0.object.prop.device
+#. path: object.prop.device.device
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.device:label"
+msgid "Device"
+msgstr "电子设备"
+
+#. id: 0.object.prop.device
+msgctxt "taxonomy:0.object.prop.device:description"
+msgid "phone, computer, camera, screen"
+msgstr ""
+
+#. id: 0.object.prop.instrument
+#. path: object.prop.instrument.instrument
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.instrument:label"
+msgid "Instrument"
+msgstr "乐器"
+
+#. id: 0.object.prop.instrument
+msgctxt "taxonomy:0.object.prop.instrument:description"
+msgid "guitar, piano, violin, drum"
+msgstr ""
+
+#. id: 0.object.prop.vehicle
+#. path: object.prop.vehicle.vehicle
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.vehicle:label"
+msgid "Vehicle"
+msgstr "载具"
+
+#. id: 0.object.prop.vehicle
+msgctxt "taxonomy:0.object.prop.vehicle:description"
+msgid "car, train, bicycle, motorcycle, ship"
+msgstr ""
+
+#. id: 0.object.prop.weapon
+#. path: object.prop.weapon.weapon
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.weapon:label"
+msgid "Weapon"
+msgstr "武器"
+
+#. id: 0.object.prop.weapon
+msgctxt "taxonomy:0.object.prop.weapon:description"
+msgid "sword, gun, knife, bow, shield"
+msgstr ""
+
+#. id: 0.object.prop.container
+#. path: object.prop.container.container
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.container:label"
+msgid "Container / Box"
+msgstr "容器/盒箱"
+
+#. id: 0.object.prop.container
+msgctxt "taxonomy:0.object.prop.container:description"
+msgid "box, cardboard box, case, jar, basket, bucket, tray"
+msgstr ""
+
+#. id: 0.object.prop.tool
+#. path: object.prop.tool.tool
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.tool:label"
+msgid "Tool / Small Prop"
+msgstr "工具/小道具"
+
+#. id: 0.object.prop.tool
+msgctxt "taxonomy:0.object.prop.tool:description"
+msgid "lock, key, scissors, rope, chain, umbrella, fan"
+msgstr ""
+
+#. id: 0.object.prop.personal_accessory
+#. path: object.prop.wearable.personal_accessory
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.personal_accessory:label"
+msgid "Personal Accessory"
+msgstr "随身饰品/小物"
+
+#. id: 0.object.prop.personal_accessory
+msgctxt "taxonomy:0.object.prop.personal_accessory:description"
+msgid "badge, earpiece, charm, buzzer, wearable small item not primarily clothing"
+msgstr ""
+
+#. id: 0.object.prop.decorative_object
+#. path: object.prop.decor.decorative_object
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.decorative_object:label"
+msgid "Decorative Object"
+msgstr "摆件/装饰物体"
+
+#. id: 0.object.prop.decorative_object
+msgctxt "taxonomy:0.object.prop.decorative_object:description"
+msgid "statue, figurine, ornament object, display prop"
+msgstr ""
+
+#. id: 0.object.prop.string_or_fastener
+#. path: object.prop.string.string_or_fastener
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.string_or_fastener:label"
+msgid "String / Fastener"
+msgstr "绳线/扣件"
+
+#. id: 0.object.prop.string_or_fastener
+msgctxt "taxonomy:0.object.prop.string_or_fastener:description"
+msgid "string, thread, cord, lasso, knot, fastener as object"
+msgstr ""
+
+#. id: 0.object.media.cover_or_physical_release
+#. path: object.media.release.cover_or_physical_release
+#. safety: sfw
+msgctxt "taxonomy:0.object.media.cover_or_physical_release:label"
+msgid "Cover / Physical Release"
+msgstr "封面/实体媒介"
+
+#. id: 0.object.media.cover_or_physical_release
+msgctxt "taxonomy:0.object.media.cover_or_physical_release:description"
+msgid "album cover, blu-ray cover, dvd cover, magazine cover, cassette, disc"
+msgstr ""
+
+#. id: 0.object.prop.shape_or_mechanical_part
+#. path: object.prop.shape.shape_or_mechanical_part
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.shape_or_mechanical_part:label"
+msgid "Shape / Mechanical Part"
+msgstr "几何物/机械部件"
+
+#. id: 0.object.prop.shape_or_mechanical_part
+msgctxt "taxonomy:0.object.prop.shape_or_mechanical_part:description"
+msgid "orb, cube, wheel, gear, pipe part, simple prop shape"
+msgstr ""
+
+#. id: 0.object.prop.brand_or_merchandise_item
+#. path: object.prop.brand.brand_or_merchandise_item
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.brand_or_merchandise_item:label"
+msgid "Brand / Merchandise Item"
+msgstr "品牌/周边物件"
+
+#. id: 0.object.prop.brand_or_merchandise_item
+msgctxt "taxonomy:0.object.prop.brand_or_merchandise_item:description"
+msgid "brand item, merchandise, branded object, commercial product"
+msgstr ""
+
+#. id: 0.object.prop.page_or_document_piece
+#. path: object.prop.document_piece.page_or_document_piece
+#. safety: sfw
+msgctxt "taxonomy:0.object.prop.page_or_document_piece:label"
+msgid "Page / Document Piece"
+msgstr "纸页/文档部件"
+
+#. id: 0.object.prop.page_or_document_piece
+msgctxt "taxonomy:0.object.prop.page_or_document_piece:description"
+msgid "pages, patch, handprint, print sheet, loose paper piece"
+msgstr ""
+
+#. id: 0.object.nature.animal
+#. path: object.nature.animal.animal
+#. safety: sfw
+msgctxt "taxonomy:0.object.nature.animal:label"
+msgid "Animal"
+msgstr "动物"
+
+#. id: 0.object.nature.animal
+msgctxt "taxonomy:0.object.nature.animal:description"
+msgid "cat, dog, bird, fish, rabbit"
+msgstr ""
+
+#. id: 0.object.nature.plant
+#. path: object.nature.plant.plant
+#. safety: sfw
+msgctxt "taxonomy:0.object.nature.plant:label"
+msgid "Plant"
+msgstr "植物"
+
+#. id: 0.object.nature.plant
+msgctxt "taxonomy:0.object.nature.plant:description"
+msgid "flower, tree, leaf, grass, rose"
+msgstr ""
+
+#. id: 0.object.nature.mineral_natural_object
+#. path: object.nature.mineral.mineral_natural_object
+#. safety: sfw
+msgctxt "taxonomy:0.object.nature.mineral_natural_object:label"
+msgid "Mineral / Natural Object"
+msgstr "矿物/自然物"
+
+#. id: 0.object.nature.mineral_natural_object
+msgctxt "taxonomy:0.object.nature.mineral_natural_object:description"
+msgid "crystal, coral, rock, stone, shell, natural non-plant object"
+msgstr ""
+
+#. id: 0.object.nature.biological_specimen
+#. path: object.nature.biology.biological_specimen
+#. safety: mixed
+msgctxt "taxonomy:0.object.nature.biological_specimen:label"
+msgid "Biological Specimen"
+msgstr "生物样本/自然生命体"
+
+#. id: 0.object.nature.biological_specimen
+msgctxt "taxonomy:0.object.nature.biological_specimen:description"
+msgid "egg, seed, specimen, cell, shell, feather, non-explicit biological object"
+msgstr ""
+
+#. id: 0.object.nature.animal_species_specific
+#. path: object.nature.animal_species.animal_species_specific
+#. safety: sfw
+msgctxt "taxonomy:0.object.nature.animal_species_specific:label"
+msgid "Specific Animal Species"
+msgstr "具体动物物种"
+
+#. id: 0.object.nature.animal_species_specific
+msgctxt "taxonomy:0.object.nature.animal_species_specific:description"
+msgid "peacock, orca, koala, hamster, alpaca, sea slug, animal species tag"
+msgstr ""
+
+#. id: 0.object.nature.plant_species_specific
+#. path: object.nature.plant_species.plant_species_specific
+#. safety: sfw
+msgctxt "taxonomy:0.object.nature.plant_species_specific:label"
+msgid "Specific Plant Species"
+msgstr "具体植物物种"
+
+#. id: 0.object.nature.plant_species_specific
+msgctxt "taxonomy:0.object.nature.plant_species_specific:description"
+msgid "willow, bamboo, sakura, plant species tag"
+msgstr ""
+
+#. id: 0.style.quality.quality_score
+#. path: style.quality.score.quality_score
+#. safety: sfw
+msgctxt "taxonomy:0.style.quality.quality_score:label"
+msgid "Quality Score Tag"
+msgstr "质量评分词"
+
+#. id: 0.style.quality.quality_score
+msgctxt "taxonomy:0.style.quality.quality_score:description"
+msgid "masterpiece, best quality, low quality, score tags"
+msgstr ""
+
+#. id: 0.style.quality.resolution_detail
+#. path: style.quality.resolution.resolution_detail
+#. safety: sfw
+msgctxt "taxonomy:0.style.quality.resolution_detail:label"
+msgid "Resolution / Detail"
+msgstr "分辨率/细节"
+
+#. id: 0.style.quality.resolution_detail
+msgctxt "taxonomy:0.style.quality.resolution_detail:description"
+msgid "highres, absurdres, detailed"
+msgstr ""
+
+#. id: 0.style.medium.art_medium
+#. path: style.medium.medium.art_medium
+#. safety: sfw
+msgctxt "taxonomy:0.style.medium.art_medium:label"
+msgid "Art Medium"
+msgstr "艺术媒介"
+
+#. id: 0.style.medium.art_medium
+msgctxt "taxonomy:0.style.medium.art_medium:description"
+msgid "illustration, manga, photo, traditional media"
+msgstr ""
+
+#. id: 0.style.rendering.render_style
+#. path: style.rendering.style.render_style
+#. safety: sfw
+msgctxt "taxonomy:0.style.rendering.render_style:label"
+msgid "Render Style"
+msgstr "渲染风格"
+
+#. id: 0.style.rendering.render_style
+msgctxt "taxonomy:0.style.rendering.render_style:description"
+msgid "anime, realistic, chibi, pixel art"
+msgstr ""
+
+#. id: 0.style.line.line_art
+#. path: style.line.line.line_art
+#. safety: sfw
+msgctxt "taxonomy:0.style.line.line_art:label"
+msgid "Line Art"
+msgstr "线稿/描边"
+
+#. id: 0.style.line.line_art
+msgctxt "taxonomy:0.style.line.line_art:description"
+msgid "sketch, lineart, thick lines, no lineart"
+msgstr ""
+
+#. id: 0.style.color.palette
+#. path: style.color.palette.palette
+#. safety: sfw
+msgctxt "taxonomy:0.style.color.palette:label"
+msgid "Color Palette"
+msgstr "色彩方案"
+
+#. id: 0.style.color.palette
+msgctxt "taxonomy:0.style.color.palette:description"
+msgid "monochrome, pastel, colorful, limited palette"
+msgstr ""
+
+#. id: 0.style.design.fashion_or_costume_style
+#. path: style.design.fashion.fashion_or_costume_style
+#. safety: sfw
+msgctxt "taxonomy:0.style.design.fashion_or_costume_style:label"
+msgid "Fashion / Costume Style"
+msgstr "时装/造型风格"
+
+#. id: 0.style.design.fashion_or_costume_style
+msgctxt "taxonomy:0.style.design.fashion_or_costume_style:description"
+msgid "fashion, casual style, gothic, military style, embellished costume"
+msgstr ""
+
+#. id: 0.style.design.decorative_or_graphic_design
+#. path: style.design.graphic.decorative_or_graphic_design
+#. safety: sfw
+msgctxt "taxonomy:0.style.design.decorative_or_graphic_design:label"
+msgid "Decorative / Graphic Design"
+msgstr "装饰/图形设计"
+
+#. id: 0.style.design.decorative_or_graphic_design
+msgctxt "taxonomy:0.style.design.decorative_or_graphic_design:description"
+msgid "sprite, icon, patch design, heraldic design, small graphic motif"
+msgstr ""
+
+#. id: 0.style.lighting.light_quality
+#. path: style.lighting.quality.light_quality
+#. safety: sfw
+msgctxt "taxonomy:0.style.lighting.light_quality:label"
+msgid "Light Quality"
+msgstr "光照类型"
+
+#. id: 0.style.lighting.light_quality
+msgctxt "taxonomy:0.style.lighting.light_quality:description"
+msgid "sunlight, moonlight, soft light, dramatic light"
+msgstr ""
+
+#. id: 0.style.lighting.light_direction
+#. path: style.lighting.direction.light_direction
+#. safety: sfw
+msgctxt "taxonomy:0.style.lighting.light_direction:label"
+msgid "Light Direction"
+msgstr "光照方向"
+
+#. id: 0.style.lighting.light_direction
+msgctxt "taxonomy:0.style.lighting.light_direction:description"
+msgid "backlight, rim light, side light"
+msgstr ""
+
+#. id: 0.style.postprocess.image_effect
+#. path: style.postprocess.effect.image_effect
+#. safety: sfw
+msgctxt "taxonomy:0.style.postprocess.image_effect:label"
+msgid "Image Postprocess Effect"
+msgstr "后期图像效果"
+
+#. id: 0.style.postprocess.image_effect
+msgctxt "taxonomy:0.style.postprocess.image_effect:description"
+msgid "blur, bloom, chromatic aberration, film grain"
+msgstr ""
+
+#. id: 0.style.postprocess.analog_media_artifact
+#. path: style.postprocess.analog.analog_media_artifact
+#. safety: sfw
+msgctxt "taxonomy:0.style.postprocess.analog_media_artifact:label"
+msgid "Analog Media Artifact"
+msgstr "模拟媒介噪点/制品"
+
+#. id: 0.style.postprocess.analog_media_artifact
+msgctxt "taxonomy:0.style.postprocess.analog_media_artifact:description"
+msgid "vhs artifacts, scanlines, film grain, compression artifacts, analog damage"
+msgstr ""
+
+#. id: 0.effect.motion.motion_effect
+#. path: effect.motion.motion.motion_effect
+#. safety: sfw
+msgctxt "taxonomy:0.effect.motion.motion_effect:label"
+msgid "Motion Effect"
+msgstr "运动效果"
+
+#. id: 0.effect.motion.motion_effect
+msgctxt "taxonomy:0.effect.motion.motion_effect:description"
+msgid "motion blur, speed lines, afterimage"
+msgstr ""
+
+#. id: 0.effect.particle.particle_effect
+#. path: effect.particle.particle.particle_effect
+#. safety: sfw
+msgctxt "taxonomy:0.effect.particle.particle_effect:label"
+msgid "Particle Effect"
+msgstr "粒子效果"
+
+#. id: 0.effect.particle.particle_effect
+msgctxt "taxonomy:0.effect.particle.particle_effect:description"
+msgid "sparkles, petals, bubbles, snowflakes"
+msgstr ""
+
+#. id: 0.effect.energy.aura_or_glow
+#. path: effect.energy.aura.aura_or_glow
+#. safety: sfw
+msgctxt "taxonomy:0.effect.energy.aura_or_glow:label"
+msgid "Aura / Glow"
+msgstr "光环/能量"
+
+#. id: 0.effect.energy.aura_or_glow
+msgctxt "taxonomy:0.effect.energy.aura_or_glow:description"
+msgid "aura, glow, magic circle, energy"
+msgstr ""
+
+#. id: 0.effect.elemental.elemental_effect
+#. path: effect.elemental.element.elemental_effect
+#. safety: sfw
+msgctxt "taxonomy:0.effect.elemental.elemental_effect:label"
+msgid "Elemental Effect"
+msgstr "元素效果"
+
+#. id: 0.effect.elemental.elemental_effect
+msgctxt "taxonomy:0.effect.elemental.elemental_effect:description"
+msgid "fire, smoke, steam, water, electricity"
+msgstr ""
+
+#. id: 0.effect.damage.impact_effect
+#. path: effect.damage.impact.impact_effect
+#. safety: sfw
+msgctxt "taxonomy:0.effect.damage.impact_effect:label"
+msgid "Impact Effect"
+msgstr "冲击/破坏效果"
+
+#. id: 0.effect.damage.impact_effect
+msgctxt "taxonomy:0.effect.damage.impact_effect:description"
+msgid "explosion, debris, impact, crack"
+msgstr ""
+
+#. id: 0.effect.digital.digital_effect
+#. path: effect.digital.glitch.digital_effect
+#. safety: sfw
+msgctxt "taxonomy:0.effect.digital.digital_effect:label"
+msgid "Digital / Glitch Effect"
+msgstr "数字/故障效果"
+
+#. id: 0.effect.digital.digital_effect
+msgctxt "taxonomy:0.effect.digital.digital_effect:description"
+msgid "glitch, scanlines, ui overlay"
+msgstr ""
+
+#. id: 0.effect.material.liquid_or_material_state
+#. path: effect.material.state.liquid_or_material_state
+#. safety: mixed
+msgctxt "taxonomy:0.effect.material.liquid_or_material_state:label"
+msgid "Liquid / Material State"
+msgstr "液体/材质状态"
+
+#. id: 0.effect.material.liquid_or_material_state
+msgctxt "taxonomy:0.effect.material.liquid_or_material_state:description"
+msgid "spill, condensation, melting, reflective liquid, dripping, material growth"
+msgstr ""
+
+#. id: 0.effect.supernatural.supernatural_effect
+#. path: effect.supernatural.state.supernatural_effect
+#. safety: mixed
+msgctxt "taxonomy:0.effect.supernatural.supernatural_effect:label"
+msgid "Supernatural Effect"
+msgstr "灵异/魔法状态效果"
+
+#. id: 0.effect.supernatural.supernatural_effect
+msgctxt "taxonomy:0.effect.supernatural.supernatural_effect:description"
+msgid "spirit effect, ghostly effect, possession visual, curse aura"
+msgstr ""
+
+#. id: 0.effect.surface.mark_or_stain
+#. path: effect.surface.mark.mark_or_stain
+#. safety: mixed
+msgctxt "taxonomy:0.effect.surface.mark_or_stain:label"
+msgid "Mark / Stain"
+msgstr "污渍/痕迹"
+
+#. id: 0.effect.surface.mark_or_stain
+msgctxt "taxonomy:0.effect.surface.mark_or_stain:description"
+msgid "stain, paint stains, footprints, handprint, scorch mark, surface trace"
+msgstr ""
+
+#. id: 0.nsfw.exposure.partial_nudity
+#. path: nsfw.exposure.nudity.partial_nudity
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.exposure.partial_nudity:label"
+msgid "Partial Nudity"
+msgstr "局部裸露"
+
+#. id: 0.nsfw.exposure.partial_nudity
+msgctxt "taxonomy:0.nsfw.exposure.partial_nudity:description"
+msgid "topless, bottomless, clothing exposing explicit areas"
+msgstr ""
+
+#. id: 0.nsfw.exposure.full_nudity
+#. path: nsfw.exposure.nudity.full_nudity
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.exposure.full_nudity:label"
+msgid "Full Nudity"
+msgstr "全裸"
+
+#. id: 0.nsfw.exposure.full_nudity
+msgctxt "taxonomy:0.nsfw.exposure.full_nudity:description"
+msgid "nude, naked, completely nude"
+msgstr ""
+
+#. id: 0.nsfw.exposure.underwear_exposure
+#. path: nsfw.exposure.underwear.underwear_exposure
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.exposure.underwear_exposure:label"
+msgid "Underwear Exposure"
+msgstr "内衣/走光"
+
+#. id: 0.nsfw.exposure.underwear_exposure
+msgctxt "taxonomy:0.nsfw.exposure.underwear_exposure:description"
+msgid "panty shot, no bra, no panties, underwear focus"
+msgstr ""
+
+#. id: 0.nsfw.body.explicit_breasts
+#. path: nsfw.body.breast.explicit_breasts
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.body.explicit_breasts:label"
+msgid "Explicit Breasts"
+msgstr "显性胸部"
+
+#. id: 0.nsfw.body.explicit_breasts
+msgctxt "taxonomy:0.nsfw.body.explicit_breasts:description"
+msgid "nipples, areola, breast exposure"
+msgstr ""
+
+#. id: 0.nsfw.body.explicit_genitalia
+#. path: nsfw.body.genitalia.explicit_genitalia
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.body.explicit_genitalia:label"
+msgid "Explicit Genitalia / Anus"
+msgstr "显性生殖器/肛门"
+
+#. id: 0.nsfw.body.explicit_genitalia
+msgctxt "taxonomy:0.nsfw.body.explicit_genitalia:description"
+msgid "penis, pussy, vulva, anus, testicles"
+msgstr ""
+
+#. id: 0.nsfw.body.sexual_body_state
+#. path: nsfw.body.state.sexual_body_state
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.body.sexual_body_state:label"
+msgid "Sexual Body State"
+msgstr "性状态身体表现"
+
+#. id: 0.nsfw.body.sexual_body_state
+msgctxt "taxonomy:0.nsfw.body.sexual_body_state:description"
+msgid "erection, arousal, orgasmic body state"
+msgstr ""
+
+#. id: 0.nsfw.act.manual_or_self
+#. path: nsfw.act.manual.manual_or_self
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.act.manual_or_self:label"
+msgid "Manual / Self Sexual Act"
+msgstr "手淫/手部性行为"
+
+#. id: 0.nsfw.act.manual_or_self
+msgctxt "taxonomy:0.nsfw.act.manual_or_self:description"
+msgid "masturbation, handjob, fingering"
+msgstr ""
+
+#. id: 0.nsfw.act.oral_sex
+#. path: nsfw.act.oral.oral_sex
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.act.oral_sex:label"
+msgid "Oral Sex"
+msgstr "口交"
+
+#. id: 0.nsfw.act.oral_sex
+msgctxt "taxonomy:0.nsfw.act.oral_sex:description"
+msgid "fellatio, cunnilingus, blowjob, deepthroat"
+msgstr ""
+
+#. id: 0.nsfw.act.penetrative_sex
+#. path: nsfw.act.penetration.penetrative_sex
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.act.penetrative_sex:label"
+msgid "Penetrative Sex"
+msgstr "插入性行为"
+
+#. id: 0.nsfw.act.penetrative_sex
+msgctxt "taxonomy:0.nsfw.act.penetrative_sex:description"
+msgid "vaginal, anal, intercourse, sex"
+msgstr ""
+
+#. id: 0.nsfw.act.breast_or_thigh_sex
+#. path: nsfw.act.outercourse.breast_or_thigh_sex
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.act.breast_or_thigh_sex:label"
+msgid "Breast / Thigh Outercourse"
+msgstr "非插入摩擦性行为"
+
+#. id: 0.nsfw.act.breast_or_thigh_sex
+msgctxt "taxonomy:0.nsfw.act.breast_or_thigh_sex:description"
+msgid "paizuri, thigh sex, footjob"
+msgstr ""
+
+#. id: 0.nsfw.fluid.sexual_fluid
+#. path: nsfw.fluid.sexual.sexual_fluid
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.fluid.sexual_fluid:label"
+msgid "Sexual Fluid"
+msgstr "性体液"
+
+#. id: 0.nsfw.fluid.sexual_fluid
+msgctxt "taxonomy:0.nsfw.fluid.sexual_fluid:description"
+msgid "cum, semen, precum, ejaculation, pussy juice"
+msgstr ""
+
+#. id: 0.nsfw.fetish.bondage_restraint
+#. path: nsfw.fetish.bondage.bondage_restraint
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.fetish.bondage_restraint:label"
+msgid "Bondage / Restraint"
+msgstr "束缚拘束"
+
+#. id: 0.nsfw.fetish.bondage_restraint
+msgctxt "taxonomy:0.nsfw.fetish.bondage_restraint:description"
+msgid "bondage, shibari, tied up, restraint"
+msgstr ""
+
+#. id: 0.nsfw.fetish.bdsm_power
+#. path: nsfw.fetish.bdsm.bdsm_power
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.fetish.bdsm_power:label"
+msgid "BDSM / Power Exchange"
+msgstr "BDSM/支配服从"
+
+#. id: 0.nsfw.fetish.bdsm_power
+msgctxt "taxonomy:0.nsfw.fetish.bdsm_power:description"
+msgid "bdsm, spanking, slave, domination"
+msgstr ""
+
+#. id: 0.nsfw.fetish.sex_toy
+#. path: nsfw.fetish.toy.sex_toy
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.fetish.sex_toy:label"
+msgid "Sex Toy"
+msgstr "成人玩具"
+
+#. id: 0.nsfw.fetish.sex_toy
+msgctxt "taxonomy:0.nsfw.fetish.sex_toy:description"
+msgid "dildo, vibrator, sex toy"
+msgstr ""
+
+#. id: 0.nsfw.fetish.nonhuman_sexual
+#. path: nsfw.fetish.nonhuman.nonhuman_sexual
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.fetish.nonhuman_sexual:label"
+msgid "Nonhuman Sexual Content"
+msgstr "非人/触手性内容"
+
+#. id: 0.nsfw.fetish.nonhuman_sexual
+msgctxt "taxonomy:0.nsfw.fetish.nonhuman_sexual:description"
+msgid "tentacle sex, monster sex, bestiality"
+msgstr ""
+
+#. id: 0.nsfw.fetish.body_fluid_excretion
+#. path: nsfw.fetish.excretion.body_fluid_excretion
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.fetish.body_fluid_excretion:label"
+msgid "Excretion Fetish"
+msgstr "排泄/污物癖"
+
+#. id: 0.nsfw.fetish.body_fluid_excretion
+msgctxt "taxonomy:0.nsfw.fetish.body_fluid_excretion:description"
+msgid "scat, pissing, peeing"
+msgstr ""
+
+#. id: 0.nsfw.framing.sexual_framing
+#. path: nsfw.framing.camera.sexual_framing
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.framing.sexual_framing:label"
+msgid "Sexual Framing"
+msgstr "色情构图/视角"
+
+#. id: 0.nsfw.framing.sexual_framing
+msgctxt "taxonomy:0.nsfw.framing.sexual_framing:description"
+msgid "crotch focus, ass focus, explicit camera framing"
+msgstr ""
+
+#. id: 0.nsfw.object.condom_or_sexual_item
+#. path: nsfw.object.sexual_item.condom_or_sexual_item
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.object.condom_or_sexual_item:label"
+msgid "Condom / Sexual Item"
+msgstr "避孕套/性相关物品"
+
+#. id: 0.nsfw.object.condom_or_sexual_item
+msgctxt "taxonomy:0.nsfw.object.condom_or_sexual_item:description"
+msgid "condom, contraceptive, lubricant, adult sexual accessory"
+msgstr ""
+
+#. id: 0.nsfw.act.sexual_impact_or_coercion
+#. path: nsfw.act.coercion.sexual_impact_or_coercion
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.act.sexual_impact_or_coercion:label"
+msgid "Sexual Impact / Coercion"
+msgstr "性暴力/强制性行为"
+
+#. id: 0.nsfw.act.sexual_impact_or_coercion
+msgctxt "taxonomy:0.nsfw.act.sexual_impact_or_coercion:description"
+msgid "ball busting, rape, forced sex, sexualized violence"
+msgstr ""
+
+#. id: 0.nsfw.context.sexual_theme
+#. path: nsfw.context.theme.sexual_theme
+#. safety: nsfw
+msgctxt "taxonomy:0.nsfw.context.sexual_theme:label"
+msgid "Sexual Theme / Adult Context"
+msgstr "性主题/成人语境"
+
+#. id: 0.nsfw.context.sexual_theme
+msgctxt "taxonomy:0.nsfw.context.sexual_theme:description"
+msgid "implied prostitution, sexual role, chastity, adult fetish context without explicit body part"
+msgstr ""
+
+#. id: 1.artist.identity.person_artist
+#. path: artist.identity.person.person_artist
+#. safety: sfw
+msgctxt "taxonomy:1.artist.identity.person_artist:label"
+msgid "Individual Artist"
+msgstr "个人画师"
+
+#. id: 1.artist.identity.person_artist
+msgctxt "taxonomy:1.artist.identity.person_artist:description"
+msgid "artist tag naming a person or alias"
+msgstr ""
+
+#. id: 1.artist.identity.circle_or_studio
+#. path: artist.identity.group.circle_or_studio
+#. safety: sfw
+msgctxt "taxonomy:1.artist.identity.circle_or_studio:label"
+msgid "Circle / Studio"
+msgstr "社团/工作室"
+
+#. id: 1.artist.identity.circle_or_studio
+msgctxt "taxonomy:1.artist.identity.circle_or_studio:description"
+msgid "artist circle, studio, group, brand"
+msgstr ""
+
+#. id: 1.artist.style.signature_style
+#. path: artist.style.signature.signature_style
+#. safety: sfw
+msgctxt "taxonomy:1.artist.style.signature_style:label"
+msgid "Artist Signature Style"
+msgstr "画师风格标签"
+
+#. id: 1.artist.style.signature_style
+msgctxt "taxonomy:1.artist.style.signature_style:description"
+msgid "style tag derived from an artist"
+msgstr ""
+
+#. id: 3.copyright.medium.anime_manga
+#. path: copyright.medium.japanese.anime_manga
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.anime_manga:label"
+msgid "Anime / Manga Work"
+msgstr "动画/漫画作品"
+
+#. id: 3.copyright.medium.anime_manga
+msgctxt "taxonomy:3.copyright.medium.anime_manga:description"
+msgid "anime, manga, light novel franchise"
+msgstr ""
+
+#. id: 3.copyright.medium.game_console_pc
+#. path: copyright.medium.game.game_console_pc
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.game_console_pc:label"
+msgid "Console / PC Game"
+msgstr "主机/PC游戏作品"
+
+#. id: 3.copyright.medium.game_console_pc
+msgctxt "taxonomy:3.copyright.medium.game_console_pc:description"
+msgid "console game, pc game, arcade game"
+msgstr ""
+
+#. id: 3.copyright.medium.mobile_gacha
+#. path: copyright.medium.game.mobile_gacha
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.mobile_gacha:label"
+msgid "Mobile / Gacha Game"
+msgstr "手游/抽卡作品"
+
+#. id: 3.copyright.medium.mobile_gacha
+msgctxt "taxonomy:3.copyright.medium.mobile_gacha:description"
+msgid "mobile game and gacha franchise"
+msgstr ""
+
+#. id: 3.copyright.medium.visual_novel
+#. path: copyright.medium.novel.visual_novel
+#. safety: mixed
+msgctxt "taxonomy:3.copyright.medium.visual_novel:label"
+msgid "Visual Novel"
+msgstr "视觉小说"
+
+#. id: 3.copyright.medium.visual_novel
+msgctxt "taxonomy:3.copyright.medium.visual_novel:description"
+msgid "visual novel or eroge title"
+msgstr ""
+
+#. id: 3.copyright.medium.vocal_synth
+#. path: copyright.medium.music.vocal_synth
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.vocal_synth:label"
+msgid "Vocal Synth"
+msgstr "虚拟歌声合成"
+
+#. id: 3.copyright.medium.vocal_synth
+msgctxt "taxonomy:3.copyright.medium.vocal_synth:description"
+msgid "vocaloid, cevio, utau"
+msgstr ""
+
+#. id: 3.copyright.medium.vtuber_agency
+#. path: copyright.medium.vtuber.vtuber_agency
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.vtuber_agency:label"
+msgid "VTuber Agency / Project"
+msgstr "VTuber企划/团体"
+
+#. id: 3.copyright.medium.vtuber_agency
+msgctxt "taxonomy:3.copyright.medium.vtuber_agency:description"
+msgid "hololive, nijisanji, indie vtuber project"
+msgstr ""
+
+#. id: 3.copyright.medium.western_media
+#. path: copyright.medium.western.western_media
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.western_media:label"
+msgid "Western Media"
+msgstr "欧美媒体作品"
+
+#. id: 3.copyright.medium.western_media
+msgctxt "taxonomy:3.copyright.medium.western_media:description"
+msgid "western animation, film, comic, tv"
+msgstr ""
+
+#. id: 3.copyright.medium.original_work
+#. path: copyright.medium.original.original_work
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.original_work:label"
+msgid "Original Work"
+msgstr "原创/无版权系列"
+
+#. id: 3.copyright.medium.original_work
+msgctxt "taxonomy:3.copyright.medium.original_work:description"
+msgid "original setting or independent original"
+msgstr ""
+
+#. id: 3.copyright.medium.meme_or_internet
+#. path: copyright.medium.internet.meme_or_internet
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.meme_or_internet:label"
+msgid "Meme / Internet Work"
+msgstr "网络梗/互联网作品"
+
+#. id: 3.copyright.medium.meme_or_internet
+msgctxt "taxonomy:3.copyright.medium.meme_or_internet:description"
+msgid "meme, web series, internet culture"
+msgstr ""
+
+#. id: 3.copyright.organization.faction_or_group
+#. path: copyright.organization.group.faction_or_group
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.organization.faction_or_group:label"
+msgid "Organization / Faction"
+msgstr "组织/团体/阵营"
+
+#. id: 3.copyright.organization.faction_or_group
+msgctxt "taxonomy:3.copyright.organization.faction_or_group:description"
+msgid "team rocket, organization, faction, in-universe group or brand"
+msgstr ""
+
+#. id: 3.copyright.medium.tabletop_or_card_game
+#. path: copyright.medium.tabletop.tabletop_or_card_game
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.tabletop_or_card_game:label"
+msgid "Tabletop / Card Game"
+msgstr "桌游/卡牌作品"
+
+#. id: 3.copyright.medium.tabletop_or_card_game
+msgctxt "taxonomy:3.copyright.medium.tabletop_or_card_game:description"
+msgid "trading card game, tabletop game, board game franchise"
+msgstr ""
+
+#. id: 3.copyright.medium.music_project
+#. path: copyright.medium.music.music_project
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.music_project:label"
+msgid "Music Project"
+msgstr "音乐企划/专辑作品"
+
+#. id: 3.copyright.medium.music_project
+msgctxt "taxonomy:3.copyright.medium.music_project:description"
+msgid "music project, band, album, song series not vocal synth"
+msgstr ""
+
+#. id: 3.copyright.medium.unknown_or_other_work
+#. path: copyright.medium.unknown.unknown_or_other_work
+#. safety: sfw
+msgctxt "taxonomy:3.copyright.medium.unknown_or_other_work:label"
+msgid "Unknown / Other Work"
+msgstr "未知/其他作品"
+
+#. id: 3.copyright.medium.unknown_or_other_work
+msgctxt "taxonomy:3.copyright.medium.unknown_or_other_work:description"
+msgid "copyright tag where exact medium is unclear; use instead of uncertain for native category 3"
+msgstr ""
+
+#. id: 4.character.identity.named_character
+#. path: character.identity.name.named_character
+#. safety: sfw
+msgctxt "taxonomy:4.character.identity.named_character:label"
+msgid "Named Character"
+msgstr "具名角色"
+
+#. id: 4.character.identity.named_character
+msgctxt "taxonomy:4.character.identity.named_character:description"
+msgid "canonical character name"
+msgstr ""
+
+#. id: 4.character.identity.alternate_identity
+#. path: character.identity.alias.alternate_identity
+#. safety: sfw
+msgctxt "taxonomy:4.character.identity.alternate_identity:label"
+msgid "Alternate Identity / Form Name"
+msgstr "角色别名/形态名"
+
+#. id: 4.character.identity.alternate_identity
+msgctxt "taxonomy:4.character.identity.alternate_identity:description"
+msgid "alternate persona, alter form, transformed name"
+msgstr ""
+
+#. id: 4.character.species.human_character
+#. path: character.species.human.human_character
+#. safety: sfw
+msgctxt "taxonomy:4.character.species.human_character:label"
+msgid "Human Character"
+msgstr "人类角色"
+
+#. id: 4.character.species.human_character
+msgctxt "taxonomy:4.character.species.human_character:description"
+msgid "human character tag"
+msgstr ""
+
+#. id: 4.character.species.nonhuman_character
+#. path: character.species.nonhuman.nonhuman_character
+#. safety: sfw
+msgctxt "taxonomy:4.character.species.nonhuman_character:label"
+msgid "Nonhuman Character"
+msgstr "非人角色"
+
+#. id: 4.character.species.nonhuman_character
+msgctxt "taxonomy:4.character.species.nonhuman_character:description"
+msgid "animal, monster, robot, alien, deity character"
+msgstr ""
+
+#. id: 4.character.role.occupation_role
+#. path: character.role.occupation.occupation_role
+#. safety: sfw
+msgctxt "taxonomy:4.character.role.occupation_role:label"
+msgid "Occupation Role"
+msgstr "职业身份"
+
+#. id: 4.character.role.occupation_role
+msgctxt "taxonomy:4.character.role.occupation_role:description"
+msgid "idol, soldier, teacher, maid, student"
+msgstr ""
+
+#. id: 4.character.role.archetype_role
+#. path: character.role.archetype.archetype_role
+#. safety: sfw
+msgctxt "taxonomy:4.character.role.archetype_role:label"
+msgid "Character Archetype"
+msgstr "角色原型"
+
+#. id: 4.character.role.archetype_role
+msgctxt "taxonomy:4.character.role.archetype_role:description"
+msgid "princess, demon, angel, magical girl"
+msgstr ""
+
+#. id: 4.character.variant.outfit_variant
+#. path: character.variant.outfit.outfit_variant
+#. safety: sfw
+msgctxt "taxonomy:4.character.variant.outfit_variant:label"
+msgid "Outfit Variant"
+msgstr "服装变体"
+
+#. id: 4.character.variant.outfit_variant
+msgctxt "taxonomy:4.character.variant.outfit_variant:description"
+msgid "swimsuit, casual, school, armor version"
+msgstr ""
+
+#. id: 4.character.variant.age_or_body_variant
+#. path: character.variant.body.age_or_body_variant
+#. safety: mixed
+msgctxt "taxonomy:4.character.variant.age_or_body_variant:label"
+msgid "Age / Body Variant"
+msgstr "年龄/体型变体"
+
+#. id: 4.character.variant.age_or_body_variant
+msgctxt "taxonomy:4.character.variant.age_or_body_variant:description"
+msgid "child, adult, genderbend, chibi variant"
+msgstr ""
+
+#. id: 4.character.variant.event_or_seasonal_variant
+#. path: character.variant.event.event_or_seasonal_variant
+#. safety: sfw
+msgctxt "taxonomy:4.character.variant.event_or_seasonal_variant:label"
+msgid "Event / Seasonal Variant"
+msgstr "节日/活动角色变体"
+
+#. id: 4.character.variant.event_or_seasonal_variant
+msgctxt "taxonomy:4.character.variant.event_or_seasonal_variant:description"
+msgid "summer, winter, halloween, christmas, anniversary, event version"
+msgstr ""
+
+#. id: 4.character.variant.crossover_or_costume_variant
+#. path: character.variant.crossover.crossover_or_costume_variant
+#. safety: sfw
+msgctxt "taxonomy:4.character.variant.crossover_or_costume_variant:label"
+msgid "Crossover / Costume Variant"
+msgstr "联动/换装角色变体"
+
+#. id: 4.character.variant.crossover_or_costume_variant
+msgctxt "taxonomy:4.character.variant.crossover_or_costume_variant:description"
+msgid "crossover costume, borrowed outfit, cosplay variant"
+msgstr ""
+
+#. id: 5.meta.quality.quality_rating
+#. path: meta.quality.rating.quality_rating
+#. safety: sfw
+msgctxt "taxonomy:5.meta.quality.quality_rating:label"
+msgid "Quality Rating"
+msgstr "质量评级"
+
+#. id: 5.meta.quality.quality_rating
+msgctxt "taxonomy:5.meta.quality.quality_rating:description"
+msgid "masterpiece, best quality, bad quality, score"
+msgstr ""
+
+#. id: 5.meta.technical.resolution
+#. path: meta.technical.image.resolution
+#. safety: sfw
+msgctxt "taxonomy:5.meta.technical.resolution:label"
+msgid "Resolution"
+msgstr "分辨率"
+
+#. id: 5.meta.technical.resolution
+msgctxt "taxonomy:5.meta.technical.resolution:description"
+msgid "highres, lowres, absurdres"
+msgstr ""
+
+#. id: 5.meta.technical.aspect_ratio
+#. path: meta.technical.image.aspect_ratio
+#. safety: sfw
+msgctxt "taxonomy:5.meta.technical.aspect_ratio:label"
+msgid "Aspect Ratio"
+msgstr "宽高比"
+
+#. id: 5.meta.technical.aspect_ratio
+msgctxt "taxonomy:5.meta.technical.aspect_ratio:description"
+msgid "wide, tall, square image ratio"
+msgstr ""
+
+#. id: 5.meta.technical.source_type
+#. path: meta.technical.source.source_type
+#. safety: sfw
+msgctxt "taxonomy:5.meta.technical.source_type:label"
+msgid "Source Type"
+msgstr "来源类型"
+
+#. id: 5.meta.technical.source_type
+msgctxt "taxonomy:5.meta.technical.source_type:description"
+msgid "scan, screenshot, official art, web source"
+msgstr ""
+
+#. id: 5.meta.technical.gameplay_or_ui
+#. path: meta.technical.game_ui.gameplay_or_ui
+#. safety: sfw
+msgctxt "taxonomy:5.meta.technical.gameplay_or_ui:label"
+msgid "Gameplay / UI Source"
+msgstr "游戏画面/UI来源"
+
+#. id: 5.meta.technical.gameplay_or_ui
+msgctxt "taxonomy:5.meta.technical.gameplay_or_ui:description"
+msgid "gameplay mechanics, game screenshot, ui capture, interface element"
+msgstr ""
+
+#. id: 5.meta.process.generation_or_editing
+#. path: meta.process.creation.generation_or_editing
+#. safety: sfw
+msgctxt "taxonomy:5.meta.process.generation_or_editing:label"
+msgid "Generation / Editing Process"
+msgstr "生成/编辑过程"
+
+#. id: 5.meta.process.generation_or_editing
+msgctxt "taxonomy:5.meta.process.generation_or_editing:description"
+msgid "ai-generated, edited, revision, redraw"
+msgstr ""
+
+#. id: 5.meta.overlay.text_or_symbol
+#. path: meta.overlay.text.text_or_symbol
+#. safety: sfw
+msgctxt "taxonomy:5.meta.overlay.text_or_symbol:label"
+msgid "Text / Symbol Overlay"
+msgstr "文字/符号覆盖"
+
+#. id: 5.meta.overlay.text_or_symbol
+msgctxt "taxonomy:5.meta.overlay.text_or_symbol:description"
+msgid "caption, speech bubble, watermark, logo"
+msgstr ""
+
+#. id: 5.meta.censorship.censoring
+#. path: meta.censorship.censor.censoring
+#. safety: mixed
+msgctxt "taxonomy:5.meta.censorship.censoring:label"
+msgid "Censoring"
+msgstr "遮挡/打码"
+
+#. id: 5.meta.censorship.censoring
+msgctxt "taxonomy:5.meta.censorship.censoring:description"
+msgid "censored, mosaic, bar censor"
+msgstr ""
+
+#. id: 5.meta.language.translation
+#. path: meta.language.translation.translation
+#. safety: sfw
+msgctxt "taxonomy:5.meta.language.translation:label"
+msgid "Language / Translation"
+msgstr "语言/翻译"
+
+#. id: 5.meta.language.translation
+msgctxt "taxonomy:5.meta.language.translation:description"
+msgid "translated, english text, japanese text"
+msgstr ""
+
+#. id: 5.meta.source.release_or_cover
+#. path: meta.source.release.release_or_cover
+#. safety: sfw
+msgctxt "taxonomy:5.meta.source.release_or_cover:label"
+msgid "Release / Cover Source"
+msgstr "发行物/封面来源"
+
+#. id: 5.meta.source.release_or_cover
+msgctxt "taxonomy:5.meta.source.release_or_cover:description"
+msgid "album cover, dvd cover, blu-ray cover, magazine scan, official release material"
+msgstr ""
+
+#. id: 5.meta.event.challenge_or_celebration
+#. path: meta.event.community.challenge_or_celebration
+#. safety: sfw
+msgctxt "taxonomy:5.meta.event.challenge_or_celebration:label"
+msgid "Community Event / Celebration"
+msgstr "社区活动/纪念标签"
+
+#. id: 5.meta.event.challenge_or_celebration
+msgctxt "taxonomy:5.meta.event.challenge_or_celebration:description"
+msgid "anniversary, birthday event, milestone, challenge, contest, countdown"
+msgstr ""
+
+#. id: 5.meta.admin.tag_status
+#. path: meta.admin.status.tag_status
+#. safety: sfw
+msgctxt "taxonomy:5.meta.admin.tag_status:label"
+msgid "Tag Status"
+msgstr "标签状态"
+
+#. id: 5.meta.admin.tag_status
+msgctxt "taxonomy:5.meta.admin.tag_status:description"
+msgid "deprecated, ambiguous, pool/meta maintenance tags"
+msgstr ""
+
+#. id: 9.uncertain.review.ambiguous_name
+#. path: uncertain.review.ambiguity.ambiguous_name
+#. safety: unknown
+msgctxt "taxonomy:9.uncertain.review.ambiguous_name:label"
+msgid "Ambiguous Name Needs Review"
+msgstr "名称歧义待复核"
+
+#. id: 9.uncertain.review.ambiguous_name
+msgctxt "taxonomy:9.uncertain.review.ambiguous_name:description"
+msgid "cannot infer meaning from name/category/translation"
+msgstr ""
+
+#. id: 9.uncertain.review.insufficient_context
+#. path: uncertain.review.context.insufficient_context
+#. safety: unknown
+msgctxt "taxonomy:9.uncertain.review.insufficient_context:label"
+msgid "Insufficient Context Needs Review"
+msgstr "上下文不足待复核"
+
+#. id: 9.uncertain.review.insufficient_context
+msgctxt "taxonomy:9.uncertain.review.insufficient_context:description"
+msgid "tag requires domain knowledge or missing translation"
+msgstr ""
+
+#. id: 9.uncertain.review.policy_sensitive
+#. path: uncertain.review.safety.policy_sensitive
+#. safety: unknown
+msgctxt "taxonomy:9.uncertain.review.policy_sensitive:label"
+msgid "Safety Boundary Needs Review"
+msgstr "安全边界待复核"
+
+#. id: 9.uncertain.review.policy_sensitive
+msgctxt "taxonomy:9.uncertain.review.policy_sensitive:description"
+msgid "ambiguous SFW/NSFW or age-sensitive tag"
+msgstr ""

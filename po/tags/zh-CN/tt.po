@@ -1,0 +1,2785 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:47+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:47+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:tt-392:primary"
+msgid "tt-392"
+msgstr "TT-392"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt-392_(tt_392):primary"
+msgid "tt-392_(tt_392)"
+msgstr "TT-392"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:tt-dh:primary"
+msgid "tt-dh"
+msgstr "tt-dh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt00ttotto:primary"
+msgid "tt00ttotto"
+msgstr "TT00TTOTTO"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 99
+#. aliases: thirteennn013
+msgctxt "tag:tt013_(thirteennn013):primary"
+msgid "tt013_(thirteennn013)"
+msgstr "tt013"
+
+#. alias-of: tt013_(thirteennn013)
+#. source: ai
+msgctxt "tag:tt013_(thirteennn013):alias:1"
+msgid "tt013_(thirteennn013)"
+msgstr "thirteennn013"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt0803886:primary"
+msgid "tt0803886"
+msgstr "tt0803886"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt0kashi:primary"
+msgid "tt0kashi"
+msgstr "tt0kashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tt1010:primary"
+msgid "tt1010"
+msgstr "tt1010"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tt1200:primary"
+msgid "tt1200"
+msgstr "TT1200"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tt17221722:primary"
+msgid "tt17221722"
+msgstr "tt17221722"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt357jpt:primary"
+msgid "tt357jpt"
+msgstr "tt357jpt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt4271057958:primary"
+msgid "tt4271057958"
+msgstr "tt4271057958"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt5433474581269:primary"
+msgid "tt5433474581269"
+msgstr "TT5433474581269"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:tt59986:primary"
+msgid "tt59986"
+msgstr "tt59986"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tt666_ayaya:primary"
+msgid "tt666_ayaya"
+msgstr "TT666 Ayaya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_(ancientnova7):primary"
+msgid "tt_(ancientnova7)"
+msgstr "TT (ancientnova7)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:tt_(joesther3):primary"
+msgid "tt_(joesther3)"
+msgstr "tt (joesther3)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 69
+msgctxt "tag:tt_(mmk_lr):primary"
+msgid "tt_(mmk_lr)"
+msgstr "TT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tt_(pixiv_4562434):primary"
+msgid "tt_(pixiv_4562434)"
+msgstr "TT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:tt_(poposujp):primary"
+msgid "tt_(poposujp)"
+msgstr "tt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:tt_(ptcmtr):primary"
+msgid "tt_(ptcmtr)"
+msgstr "TT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_(tamate):primary"
+msgid "tt_(tamate)"
+msgstr "tt_(tamate)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_(tktk5610):primary"
+msgid "tt_(tktk5610)"
+msgstr "TT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:tt_(tt_osc):primary"
+msgid "tt_(tt_osc)"
+msgstr "tt_osc"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tt_(twice):primary"
+msgid "tt_(twice)"
+msgstr "TWICE 的《TT》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_(xhs_4217773844):primary"
+msgid "tt_(xhs_4217773844)"
+msgstr "TT (xhs_4217773844)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tt_(xltt_1048):primary"
+msgid "tt_(xltt_1048)"
+msgstr "tt_(xltt_1048)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_(yace3857):primary"
+msgid "tt_(yace3857)"
+msgstr "tt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_000:primary"
+msgid "tt_000"
+msgstr "tt_000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:tt_0965:primary"
+msgid "tt_0965"
+msgstr "tt_0965"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:tt_8ru:primary"
+msgid "tt_8ru"
+msgstr "tt_8ru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tt_9872:primary"
+msgid "tt_9872"
+msgstr "TT_9872"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:tt_am618:primary"
+msgid "tt_am618"
+msgstr "tt_am618"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_ansta:primary"
+msgid "tt_ansta"
+msgstr "TT Ansta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:tt_chicca:primary"
+msgid "tt_chicca"
+msgstr "TT Chicca"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:tt_hmx:primary"
+msgid "tt_hmx"
+msgstr "tt_hmx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_hoothoo:primary"
+msgid "tt_hoothoo"
+msgstr "TT Hoothoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tt_irust:primary"
+msgid "tt_irust"
+msgstr "TT Irust"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_live2_m:primary"
+msgid "tt_live2_m"
+msgstr "TT Live2 M"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:tt_orang:primary"
+msgid "tt_orang"
+msgstr "TT橙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tt_tridlitt:primary"
+msgid "tt_tridlitt"
+msgstr "TT Tridlitt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttaaca_ca:primary"
+msgid "ttaaca_ca"
+msgstr "Ttaaca Ca"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttabbassukko:primary"
+msgid "ttabbassukko"
+msgstr "ttabbassukko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttackx2:primary"
+msgid "ttackx2"
+msgstr "ttackx2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttaedium-vitaee:primary"
+msgid "ttaedium-vitaee"
+msgstr "Ttaedium Vitae"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: 泰尔
+msgctxt "tag:ttaeelll:primary"
+msgid "ttaeelll"
+msgstr "Ttaeelll"
+
+#. alias-of: ttaeelll
+#. source: ai
+msgctxt "tag:ttaeelll:alias:1"
+msgid "ttaeelll"
+msgstr "泰尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttaekken:primary"
+msgid "ttaekken"
+msgstr "铁拳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttag200:primary"
+msgid "ttag200"
+msgstr "ttag200"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:ttaji_(pass35):primary"
+msgid "ttaji_(pass35)"
+msgstr "ttaji"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ttak_h:primary"
+msgid "ttak_h"
+msgstr "TTAK_H"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:ttakji_craft:primary"
+msgid "ttakji_craft"
+msgstr "ttakji工艺"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttako:primary"
+msgid "ttako"
+msgstr "Ttako"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ttakuann:primary"
+msgid "ttakuann"
+msgstr "ttakuann"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ttakuhana3103:primary"
+msgid "ttakuhana3103"
+msgstr "ttakuhana3103"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttakunga:primary"
+msgid "ttakunga"
+msgstr "ttakunga"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ttal_ttal:primary"
+msgid "ttal_ttal"
+msgstr "ttal_ttal"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:ttaldallu:primary"
+msgid "ttaldallu"
+msgstr "ttaldallu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ttalgi_bab:primary"
+msgid "ttalgi_bab"
+msgstr "ttalgi_bab"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttalgibouquet:primary"
+msgid "ttalgibouquet"
+msgstr "ttalgibouquet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttalgiwedonggo:primary"
+msgid "ttalgiwedonggo"
+msgstr "Ttalgiwedonggo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttalkkak:primary"
+msgid "ttalkkak"
+msgstr "TTalkkak"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttalnyeo:primary"
+msgid "ttalnyeo"
+msgstr "女儿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttang-gaemi:primary"
+msgid "ttang-gaemi"
+msgstr "ttang-gaemi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttang16:primary"
+msgid "ttang16"
+msgstr "ttang16"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttang_bu:primary"
+msgid "ttang_bu"
+msgstr "Ttang Bu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttang_ttang:primary"
+msgid "ttang_ttang"
+msgstr "ttang_ttang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttangkong88:primary"
+msgid "ttangkong88"
+msgstr "Ttangkong88"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttangsun:primary"
+msgid "ttangsun"
+msgstr "Ttangsun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:ttanne:primary"
+msgid "ttanne"
+msgstr "ttanne"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 406
+#. aliases: 晒黑
+msgctxt "tag:ttanuu.:primary"
+msgid "ttanuu."
+msgstr "褐色"
+
+#. alias-of: ttanuu.
+#. source: ai
+msgctxt "tag:ttanuu.:alias:1"
+msgid "ttanuu."
+msgstr "晒黑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttaro_s2:primary"
+msgid "ttaro_s2"
+msgstr "ttaro_s2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttarou110:primary"
+msgid "ttarou110"
+msgstr "ttarou110"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttarru1125:primary"
+msgid "ttarru1125"
+msgstr "Ttarru1125"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttartdump:primary"
+msgid "ttartdump"
+msgstr "ttartdump"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttarugi_nyangi:primary"
+msgid "ttarugi_nyangi"
+msgstr "Ttarugi Nyangi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ttasarayu:primary"
+msgid "ttasarayu"
+msgstr "ttasarayu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttaseci2217k:primary"
+msgid "ttaseci2217k"
+msgstr "ttaseci2217k"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttashe:primary"
+msgid "ttashe"
+msgstr "Ttashe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttatan:primary"
+msgid "ttatan"
+msgstr "Ttatan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttattabe16731:primary"
+msgid "ttattabe16731"
+msgstr "ttattabe16731"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttattashan_kolla:primary"
+msgid "ttattashan_kolla"
+msgstr "Ttattashan Kolla"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttazem:primary"
+msgid "ttazem"
+msgstr "Ttazem"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttb0505:primary"
+msgid "ttb0505"
+msgstr "TTB0505"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttbewii:primary"
+msgid "ttbewii"
+msgstr "ttbewii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttbrizzy:primary"
+msgid "ttbrizzy"
+msgstr "ttbrizzy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:ttc:primary"
+msgid "ttc"
+msgstr "ttc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttc_(489g):primary"
+msgid "ttc_(489g)"
+msgstr "TTC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttcc:primary"
+msgid "ttcc"
+msgstr "ttcc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttchi:primary"
+msgid "ttchi"
+msgstr "Ttchi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ttdobtt:primary"
+msgid "ttdobtt"
+msgstr "ttdobtt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:tte_(t_ombi):primary"
+msgid "tte_(t_ombi)"
+msgstr "TTE (T_Ombi)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ttea_arts01:primary"
+msgid "ttea_arts01"
+msgstr "Ttea Arts01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttea_ll:primary"
+msgid "ttea_ll"
+msgstr "ttea_ll"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ttearecoll:primary"
+msgid "ttearecoll"
+msgstr "TEARECOLL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttearr:primary"
+msgid "ttearr"
+msgstr "ttearr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttebayong:primary"
+msgid "ttebayong"
+msgstr "TTEBAYO！"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttebns:primary"
+msgid "ttebns"
+msgstr "ttebns"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ttede_(0984mony):primary"
+msgid "ttede_(0984mony)"
+msgstr "Ttede"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tteenncchhii:primary"
+msgid "tteenncchhii"
+msgstr "天琪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttegi:primary"
+msgid "ttegi"
+msgstr "ttegi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 110
+msgctxt "tag:ttegi_(ddeck_dg):primary"
+msgid "ttegi_(ddeck_dg)"
+msgstr "特吉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttegul_(ddegul):primary"
+msgid "ttegul_(ddegul)"
+msgstr "Ddegul"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttehomase:primary"
+msgid "ttehomase"
+msgstr "ttehomase"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttennri:primary"
+msgid "ttennri"
+msgstr "天霊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tteogbokki123:primary"
+msgid "tteogbokki123"
+msgstr "tteogbokki123"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 8
+msgctxt "tag:tteoguji:primary"
+msgid "tteoguji"
+msgstr "tteoguji"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tteogya:primary"
+msgid "tteogya"
+msgstr "tteogya"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:tteokbokki:primary"
+msgid "tteokbokki"
+msgstr "炒年糕"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:tteokie:primary"
+msgid "tteokie"
+msgstr "tteokie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tteokie_(artist):primary"
+msgid "tteokie_(artist)"
+msgstr "tteokie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tteoksoup:primary"
+msgid "tteoksoup"
+msgstr "年糕汤"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:tteoljam:primary"
+msgid "tteoljam"
+msgstr "Tteoljam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tteriboom:primary"
+msgid "tteriboom"
+msgstr ""
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tterusann:primary"
+msgid "tterusann"
+msgstr "tterusann"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:tteullie:primary"
+msgid "tteullie"
+msgstr "Tteullie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tteusindol:primary"
+msgid "tteusindol"
+msgstr "tteusindol"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 118
+msgctxt "tag:ttf:primary"
+msgid "ttf"
+msgstr "ttf"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 339
+#. aliases: 过场
+msgctxt "tag:ttgl_eyecatch:primary"
+msgid "ttgl_eyecatch"
+msgstr "天元突破过场"
+
+#. alias-of: ttgl_eyecatch
+#. source: ai
+msgctxt "tag:ttgl_eyecatch:alias:1"
+msgid "ttgl_eyecatch"
+msgstr "过场"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttgx:primary"
+msgid "ttgx"
+msgstr "ttgx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:tthal:primary"
+msgid "tthal"
+msgstr "tthal"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:tthexina:primary"
+msgid "tthexina"
+msgstr "Tthexina"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ttheyue:primary"
+msgid "ttheyue"
+msgstr "Ttheyue"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:tthhdddd:primary"
+msgid "tthhdddd"
+msgstr "tthhdddd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tthun_tthun:primary"
+msgid "tthun_tthun"
+msgstr "tthun_tthun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tthyt26:primary"
+msgid "tthyt26"
+msgstr "tthyt26"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tti9748:primary"
+msgid "tti9748"
+msgstr "tti9748"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tti_combat_master:primary"
+msgid "tti_combat_master"
+msgstr "TTI战斗大师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:tti_design:primary"
+msgid "tti_design"
+msgstr "tti_design"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tti_sand_viper:primary"
+msgid "tti_sand_viper"
+msgstr "沙漠蝰蛇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+#. aliases: tti_tti
+msgctxt "tag:tti_tti:primary"
+msgid "tti_tti"
+msgstr "Tti Tti"
+
+#. alias-of: tti_tti
+#. source: ai
+msgctxt "tag:tti_tti:alias:1"
+msgid "tti_tti"
+msgstr "tti_tti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ttiiiii:primary"
+msgid "ttiiiii"
+msgstr "ttiiiii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 巨乳
+msgctxt "tag:ttiitties:primary"
+msgid "ttiitties"
+msgstr "ttiitties"
+
+#. alias-of: ttiitties
+#. source: ai
+msgctxt "tag:ttiitties:alias:1"
+msgid "ttiitties"
+msgstr "巨乳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ttikhii:primary"
+msgid "ttikhii"
+msgstr "ttikhii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ttimiu:primary"
+msgid "ttimiu"
+msgstr "ttimiu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttippo-o:primary"
+msgid "ttippo-o"
+msgstr "ttippo-o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttj1240201:primary"
+msgid "ttj1240201"
+msgstr "ttj1240201"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttja_ttja:primary"
+msgid "ttja_ttja"
+msgstr "ttja_ttja"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttk:primary"
+msgid "ttk"
+msgstr "TTK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttk1138:primary"
+msgid "ttk1138"
+msgstr "ttk1138"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ttk211:primary"
+msgid "ttk211"
+msgstr "ttk211"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ttk_(dix-sept):primary"
+msgid "ttk_(dix-sept)"
+msgstr "TTK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:ttk_(ehohmaki):primary"
+msgid "ttk_(ehohmaki)"
+msgstr "TTK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 298
+#. aliases: ttk
+msgctxt "tag:ttk_(kirinottk):primary"
+msgid "ttk_(kirinottk)"
+msgstr "桐乃特克"
+
+#. alias-of: ttk_(kirinottk)
+#. source: ai
+msgctxt "tag:ttk_(kirinottk):alias:1"
+msgid "ttk_(kirinottk)"
+msgstr "ttk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttk_0414:primary"
+msgid "ttk_0414"
+msgstr "ttk_0414"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttk_2:primary"
+msgid "ttk_2"
+msgstr "TTK2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttk_hotta:primary"
+msgid "ttk_hotta"
+msgstr "TTK Hotta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:ttkaki:primary"
+msgid "ttkaki"
+msgstr "ttkaki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ttkkmmrr:primary"
+msgid "ttkkmmrr"
+msgstr "ttkkmmrr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ttkktt:primary"
+msgid "ttkktt"
+msgstr "ttkktt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ttkm:primary"
+msgid "ttkm"
+msgstr "TTKM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ttkr_n3:primary"
+msgid "ttkr_n3"
+msgstr "TTKR N3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ttktbk:primary"
+msgid "ttktbk"
+msgstr "ttktbk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ttl:primary"
+msgid "ttl"
+msgstr "TTL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttle44:primary"
+msgid "ttle44"
+msgstr "ttle44"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttlyaly:primary"
+msgid "ttlyaly"
+msgstr "ttlyaly"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ttm_tokidoki:primary"
+msgid "ttm_tokidoki"
+msgstr "ttm tokidoki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:ttmaru_1739:primary"
+msgid "ttmaru_1739"
+msgstr "ttmaru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttmary:primary"
+msgid "ttmary"
+msgstr "TT Mary"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ttmas:primary"
+msgid "ttmas"
+msgstr "ttmas"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttmat0:primary"
+msgid "ttmat0"
+msgstr "TTMAT0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttmgd:primary"
+msgid "ttmgd"
+msgstr "TTMGD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttmgsrhr:primary"
+msgid "ttmgsrhr"
+msgstr "ttmgsrhr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:ttmochi_0401:primary"
+msgid "ttmochi_0401"
+msgstr "ttmochi_0401"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttmos:primary"
+msgid "ttmos"
+msgstr "TTMOS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 89
+msgctxt "tag:ttmry_bonbon:primary"
+msgid "ttmry_bonbon"
+msgstr "Bonbon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ttmt:primary"
+msgid "ttmt"
+msgstr "TTMT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 141
+msgctxt "tag:ttn_(239_239):primary"
+msgid "ttn_(239_239)"
+msgstr "TTN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttn_agitonn:primary"
+msgid "ttn_agitonn"
+msgstr "TTN Agitonn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ttnaicbsr:primary"
+msgid "ttnaicbsr"
+msgstr "Ttnaicbsr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:ttnap:primary"
+msgid "ttnap"
+msgstr "Tt Nap"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttnb_lxh:primary"
+msgid "ttnb_lxh"
+msgstr "ttnb lxh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ttnk_gc19:primary"
+msgid "ttnk_gc19"
+msgstr "ttnk_gc19"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttnkjr35:primary"
+msgid "ttnkjr35"
+msgstr "ttnkjr35"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttnong:primary"
+msgid "ttnong"
+msgstr "TTNong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 116
+msgctxt "tag:ttnoooo:primary"
+msgid "ttnoooo"
+msgstr "ttnoooo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttnrio:primary"
+msgid "ttnrio"
+msgstr "ttnrio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ttnsfw0401:primary"
+msgid "ttnsfw0401"
+msgstr "ttnsfw0401"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: oosa_ma
+msgctxt "tag:tto_(oosa_ma):primary"
+msgid "tto_(oosa_ma)"
+msgstr "tto"
+
+#. alias-of: tto_(oosa_ma)
+#. source: ai
+msgctxt "tag:tto_(oosa_ma):alias:1"
+msgid "tto_(oosa_ma)"
+msgstr "oosa_ma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:tto_chan:primary"
+msgid "tto_chan"
+msgstr "tto_chan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:tto_dya:primary"
+msgid "tto_dya"
+msgstr "tto dya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:tto_ja:primary"
+msgid "tto_ja"
+msgstr "Tto_ja"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttoast_tt:primary"
+msgid "ttoast_tt"
+msgstr "ttoast_tt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttoastdchi0:primary"
+msgid "ttoastdchi0"
+msgstr "ttoastdchi0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttog:primary"
+msgid "ttog"
+msgstr "TTog"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttogi:primary"
+msgid "ttogi"
+msgstr "ttogi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttogi_young:primary"
+msgid "ttogi_young"
+msgstr "TTOGI young"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttol_(a6pm9nptqw):primary"
+msgid "ttol_(a6pm9nptqw)"
+msgstr "TTOL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ttolaigeon:primary"
+msgid "ttolaigeon"
+msgstr "ttolaigeon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttolchie:primary"
+msgid "ttolchie"
+msgstr "Ttolchie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttolu5:primary"
+msgid "ttolu5"
+msgstr "ttolu5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttoma:primary"
+msgid "ttoma"
+msgstr "ttoma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 337
+msgctxt "tag:ttomm:primary"
+msgid "ttomm"
+msgstr "汤姆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttomoko:primary"
+msgid "ttomoko"
+msgstr "ttomoko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ttong824:primary"
+msgid "ttong824"
+msgstr "ttong824"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttong_(ttong392730):primary"
+msgid "ttong_(ttong392730)"
+msgstr "ttong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttongleong:primary"
+msgid "ttongleong"
+msgstr "ttongleong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ttongyyu:primary"
+msgid "ttongyyu"
+msgstr "ttongyyu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttonyesp:primary"
+msgid "ttonyesp"
+msgstr "Ttonyesp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttoomam:primary"
+msgid "ttoomam"
+msgstr "ttoomam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ttoottoo:primary"
+msgid "ttoottoo"
+msgstr "ttoottoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ttoowa:primary"
+msgid "ttoowa"
+msgstr "ttoowa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:ttopang:primary"
+msgid "ttopang"
+msgstr "ttopang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttopintto:primary"
+msgid "ttopintto"
+msgstr "Ttopintto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ttopoko:primary"
+msgid "ttopoko"
+msgstr "Ttopoko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttora_e:primary"
+msgid "ttora_e"
+msgstr "ttora_e"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ttori:primary"
+msgid "ttori"
+msgstr "TTORI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttorisseu_vn:primary"
+msgid "ttorisseu_vn"
+msgstr "ttorisseu_vn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttoromong:primary"
+msgid "ttoromong"
+msgstr "ttoromong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:ttorong:primary"
+msgid "ttorong"
+msgstr "Ttorong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttosic:primary"
+msgid "ttosic"
+msgstr "TTOSIC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttosin2:primary"
+msgid "ttosin2"
+msgstr "Ttosin2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 206
+#. aliases: 双色头发
+msgctxt "tag:ttosom:primary"
+msgid "ttosom"
+msgstr "双色发"
+
+#. alias-of: ttosom
+#. source: ai
+msgctxt "tag:ttosom:alias:1"
+msgid "ttosom"
+msgstr "双色头发"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttotot_21:primary"
+msgid "ttotot_21"
+msgstr "Ttotot 21"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttotto:primary"
+msgid "ttotto"
+msgstr "ttotto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttotto_010:primary"
+msgid "ttotto_010"
+msgstr "ttotto_010"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttparrot:primary"
+msgid "ttparrot"
+msgstr "ttparrot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttpokopoko:primary"
+msgid "ttpokopoko"
+msgstr "ttpokopoko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ttptg6:primary"
+msgid "ttptg6"
+msgstr "ttptg6"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 276
+msgctxt "tag:ttptt:primary"
+msgid "ttptt"
+msgstr "ttptt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttr:primary"
+msgid "ttr"
+msgstr "ttr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ttrfr_kz:primary"
+msgid "ttrfr_kz"
+msgstr "ttrfr_kz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:ttrop:primary"
+msgid "ttrop"
+msgstr "ttrop"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ttrta0201:primary"
+msgid "ttrta0201"
+msgstr "TT0201"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:ttrtag:primary"
+msgid "ttrtag"
+msgstr "TTR标签"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttrumiie:primary"
+msgid "ttrumiie"
+msgstr "ttrumiie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttsheng:primary"
+msgid "ttsheng"
+msgstr "TT圣"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttssfy_(shirato_ra):primary"
+msgid "ttssfy_(shirato_ra)"
+msgstr "ttssfy_(shirato_ra)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttsstt_mihe:primary"
+msgid "ttsstt_mihe"
+msgstr "TtssttMihe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttsu_(pekeenueenuee):primary"
+msgid "ttsu_(pekeenueenuee)"
+msgstr "TTSU（pekeenueenuee）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ttsuke:primary"
+msgid "ttsuke"
+msgstr "ttsuke"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttsukimi:primary"
+msgid "ttsukimi"
+msgstr "Ttsukimi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttsukixangry:primary"
+msgid "ttsukixangry"
+msgstr "ttsukixangry"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttsun:primary"
+msgid "ttsun"
+msgstr "ttsun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttsuruyi:primary"
+msgid "ttsuruyi"
+msgstr "ttsuruyi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 70
+msgctxt "tag:ttsyrene:primary"
+msgid "ttsyrene"
+msgstr "Ttsyrene"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttt:primary"
+msgid "ttt"
+msgstr "井字棋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ttt-oo552:primary"
+msgid "ttt-oo552"
+msgstr "TTT-OO552"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt1521583:primary"
+msgid "ttt1521583"
+msgstr "Ttt1521583"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt555k:primary"
+msgid "ttt555k"
+msgstr "ttt555k"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 139
+msgctxt "tag:ttt_(5274293):primary"
+msgid "ttt_(5274293)"
+msgstr "ttt_(5274293)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt_(cedf):primary"
+msgid "ttt_(cedf)"
+msgstr "TTT（cedf）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt_(lune-soft):primary"
+msgid "ttt_(lune-soft)"
+msgstr "TTT（Lune-soft）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ttt_(nijisanji):primary"
+msgid "ttt_(nijisanji)"
+msgstr "ttt（彩虹社）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 33
+#. aliases: TTT
+msgctxt "tag:ttt_(reverse:1999):primary"
+msgid "ttt_(reverse:1999)"
+msgstr "TTT（逆转：1999）"
+
+#. alias-of: ttt_(reverse:1999)
+#. source: ai
+msgctxt "tag:ttt_(reverse:1999):alias:1"
+msgid "ttt_(reverse:1999)"
+msgstr "TTT"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ttt_(saturday_special)_(reverse:1999):primary"
+msgid "ttt_(saturday_special)_(reverse:1999)"
+msgstr "TTT（周六特别）（逆向：1999）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt_(sorale2):primary"
+msgid "ttt_(sorale2)"
+msgstr "TTT（sorale2）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttt_(the_girl_in_the_frame)_(reverse:1999):primary"
+msgid "ttt_(the_girl_in_the_frame)_(reverse:1999)"
+msgstr "画框中的少女 TTT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ttt_(user_znvs5328):primary"
+msgid "ttt_(user_znvs5328)"
+msgstr "TTT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ttt_(xtttx):primary"
+msgid "ttt_(xtttx)"
+msgstr "ttt_(xtttx)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ttt_1214:primary"
+msgid "ttt_1214"
+msgstr "Ttt_1214"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt_cm:primary"
+msgid "ttt_cm"
+msgstr "TttCm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttt_fe3:primary"
+msgid "ttt_fe3"
+msgstr "ttt_fe3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt_juyi:primary"
+msgid "ttt_juyi"
+msgstr "ttt_juyi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttt_konbu:primary"
+msgid "ttt_konbu"
+msgstr "TTT昆布"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttt_mokub:primary"
+msgid "ttt_mokub"
+msgstr "TTT Mokub"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt_n:primary"
+msgid "ttt_n"
+msgstr "ttt_n"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ttt_nitizyo:primary"
+msgid "ttt_nitizyo"
+msgstr "ttt_nitizyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt_nun:primary"
+msgid "ttt_nun"
+msgstr "ttt_nun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttt_o3o:primary"
+msgid "ttt_o3o"
+msgstr "ttt_o3o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ttt_rr4:primary"
+msgid "ttt_rr4"
+msgstr "Ttt RR4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttaketan:primary"
+msgid "tttaketan"
+msgstr "Tttaketan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:tttao:primary"
+msgid "tttao"
+msgstr "tttao"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ttthasyu:primary"
+msgid "ttthasyu"
+msgstr "TTTHASYU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttk73:primary"
+msgid "tttk73"
+msgstr "TTTK73"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:tttlr:primary"
+msgid "tttlr"
+msgstr "TTTLR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tttnoundou:primary"
+msgid "tttnoundou"
+msgstr "tttnoundou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:tttokhonkai:primary"
+msgid "tttokhonkai"
+msgstr "TTTokhonkai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:tttome_01:primary"
+msgid "tttome_01"
+msgstr "tttome"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tttoten:primary"
+msgid "tttoten"
+msgstr "tttoten"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttpencil:primary"
+msgid "tttpencil"
+msgstr "TTPencil"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttri1119:primary"
+msgid "tttri1119"
+msgstr "tttri1119"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttsubot_ttt:primary"
+msgid "tttsubot_ttt"
+msgstr "tttsubot_ttt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttsybbbmch:primary"
+msgid "tttsybbbmch"
+msgstr "TTtsybbbmch"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttt0ouu:primary"
+msgid "tttt0ouu"
+msgstr "tttt0ouu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tttt_1027frn:primary"
+msgid "tttt_1027frn"
+msgstr "tttt_1027frn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: Mori TTTT
+msgctxt "tag:tttt_mori:primary"
+msgid "tttt_mori"
+msgstr "Mori"
+
+#. alias-of: tttt_mori
+#. source: ai
+msgctxt "tag:tttt_mori:alias:1"
+msgid "tttt_mori"
+msgstr "Mori TTTT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttt_syu1016:primary"
+msgid "tttt_syu1016"
+msgstr "tttt_syu1016"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttt_teya:primary"
+msgid "tttt_teya"
+msgstr "Teya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:tttte_toku0000:primary"
+msgid "tttte_toku0000"
+msgstr "tttte_toku0000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tttthunderbolt:primary"
+msgid "tttthunderbolt"
+msgstr "Tttthunderbolt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttti24:primary"
+msgid "tttti24"
+msgstr "tttti24"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:tttti_(tttinpc):primary"
+msgid "tttti_(tttinpc)"
+msgstr "TTTTI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttttk:primary"
+msgid "ttttk"
+msgstr "Ttttk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttttl12125:primary"
+msgid "ttttl12125"
+msgstr "ttttl12125"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tttto_22:primary"
+msgid "tttto_22"
+msgstr "tttto_22"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttttomo_en:primary"
+msgid "ttttomo_en"
+msgstr "ttttomo_en"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttttorinoatama:primary"
+msgid "ttttorinoatama"
+msgstr "totorinoatama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttttt_216:primary"
+msgid "ttttt_216"
+msgstr "ttttt_216"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:tttttaniaaaaa:primary"
+msgid "tttttaniaaaaa"
+msgstr "tttttaniaaaaa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttttti:primary"
+msgid "ttttti"
+msgstr "ttttti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttttt:primary"
+msgid "tttttt"
+msgstr "tttttt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 音效
+msgctxt "tag:ttttttrrrrrrkkk:primary"
+msgid "ttttttrrrrrrkkk"
+msgstr "拟声词"
+
+#. alias-of: ttttttrrrrrrkkk
+#. source: ai
+msgctxt "tag:ttttttrrrrrrkkk:alias:1"
+msgid "ttttttrrrrrrkkk"
+msgstr "音效"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttttwodj13544:primary"
+msgid "tttttwodj13544"
+msgstr "tttttwodj13544"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttttxxx:primary"
+msgid "ttttxxx"
+msgstr "ttttxxx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttuan33:primary"
+msgid "tttuan33"
+msgstr "tttuan33"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tttuyuuu:primary"
+msgid "tttuyuuu"
+msgstr "tttuyuuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttu_(jakdu_d):primary"
+msgid "ttu_(jakdu_d)"
+msgstr "ttu (jakdu_d)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ttu_(living_baka):primary"
+msgid "ttu_(living_baka)"
+msgstr "TTU（living_baka）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttuaa:primary"
+msgid "ttuaa"
+msgstr "TTUAA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ttubbip:primary"
+msgid "ttubbip"
+msgstr "Tubbip"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:ttudolee:primary"
+msgid "ttudolee"
+msgstr "ttudolee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttuerb_gnsn:primary"
+msgid "ttuerb_gnsn"
+msgstr "ttuerb_gnsn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttugi:primary"
+msgid "ttugi"
+msgstr "ttugi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttugi_14:primary"
+msgid "ttugi_14"
+msgstr "ttugi_14"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ttuk_san:primary"
+msgid "ttuk_san"
+msgstr "ttuk_san"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttukbaegipaswae:primary"
+msgid "ttukbaegipaswae"
+msgstr "Ttukbaegipaswae"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ttumupen:primary"
+msgid "ttumupen"
+msgstr "ttumupen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttunaartt:primary"
+msgid "ttunaartt"
+msgstr "ttunaartt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ttung-i:primary"
+msgid "ttung-i"
+msgstr "ttung-i"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttuo332089:primary"
+msgid "ttuo332089"
+msgstr "ttuo332089"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tturur:primary"
+msgid "tturur"
+msgstr "tturur"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tturururu:primary"
+msgid "tturururu"
+msgstr "Tturururu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:ttusee5:primary"
+msgid "ttusee5"
+msgstr "ttusee5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttut_(ttut_oo):primary"
+msgid "ttut_(ttut_oo)"
+msgstr "TTUT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:ttutto:primary"
+msgid "ttutto"
+msgstr "ttutto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttuwab:primary"
+msgid "ttuwab"
+msgstr "Ttuwab"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:ttuyer0:primary"
+msgid "ttuyer0"
+msgstr "ttuyer0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttvck:primary"
+msgid "ttvck"
+msgstr "ttvck"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttvillage03:primary"
+msgid "ttvillage03"
+msgstr "ttvillage03"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+#. aliases: TT
+msgctxt "tag:ttvrotomr:primary"
+msgid "ttvrotomr"
+msgstr "ttvrotomr"
+
+#. alias-of: ttvrotomr
+#. source: ai
+msgctxt "tag:ttvrotomr:alias:1"
+msgid "ttvrotomr"
+msgstr "TT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttw_34:primary"
+msgid "ttw_34"
+msgstr "ttw_34"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ttwaseong:primary"
+msgid "ttwaseong"
+msgstr "ttwaseong"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:ttwicoff:primary"
+msgid "ttwicoff"
+msgstr "ttwicoff"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ttxieyun:primary"
+msgid "ttxieyun"
+msgstr "TT谐云"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:tty_(bukkake_board):primary"
+msgid "tty_(bukkake_board)"
+msgstr "TTY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tty_kyoko:primary"
+msgid "tty_kyoko"
+msgstr "TTY京子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttyaua642:primary"
+msgid "ttyaua642"
+msgstr "ttyaua642"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ttyhart:primary"
+msgid "ttyhart"
+msgstr "ttyhart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:ttyo_(yon):primary"
+msgid "ttyo_(yon)"
+msgstr "/ttyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ttyongs:primary"
+msgid "ttyongs"
+msgstr "ttyongs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ttyttytty:primary"
+msgid "ttyttytty"
+msgstr "ttyttytty"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:ttyyuwwuw:primary"
+msgid "ttyyuwwuw"
+msgstr "ttyyuwwuw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ttz:primary"
+msgid "ttz"
+msgstr "ttz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ttzewo:primary"
+msgid "ttzewo"
+msgstr "Ttzewo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ttzl:primary"
+msgid "ttzl"
+msgstr "TTZL"

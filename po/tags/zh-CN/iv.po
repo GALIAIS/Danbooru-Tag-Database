@@ -1,0 +1,3177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:28+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:28+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iv0ria:primary"
+msgid "iv0ria"
+msgstr "iv0ria"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iv4knight:primary"
+msgid "iv4knight"
+msgstr "IV4骑士"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iv4ncat:primary"
+msgid "iv4ncat"
+msgstr "iv4ncat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iv54nyg55:primary"
+msgid "iv54nyg55"
+msgstr "iv54nyg55"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iv_(gwps8853):primary"
+msgid "iv_(gwps8853)"
+msgstr "IV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 181
+#. aliases: iv
+msgctxt "tag:iv_(iv70311741):primary"
+msgid "iv_(iv70311741)"
+msgstr "IV 画师"
+
+#. alias-of: iv_(iv70311741)
+#. source: ai
+msgctxt "tag:iv_(iv70311741):alias:1"
+msgid "iv_(iv70311741)"
+msgstr "iv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:iv_(iv_xnxnx):primary"
+msgid "iv_(iv_xnxnx)"
+msgstr "IV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: tpgs5473
+msgctxt "tag:iv_(tpgs5473):primary"
+msgid "iv_(tpgs5473)"
+msgstr "iv"
+
+#. alias-of: iv_(tpgs5473)
+#. source: ai
+msgctxt "tag:iv_(tpgs5473):alias:1"
+msgid "iv_(tpgs5473)"
+msgstr "tpgs5473"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:iv_(yu-gi-oh!):primary"
+msgid "iv_(yu-gi-oh!)"
+msgstr "伊布（游戏王）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 159
+msgctxt "tag:iv_4t:primary"
+msgid "iv_4t"
+msgstr "iv_4t"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iv_exe:primary"
+msgid "iv_exe"
+msgstr "iv_exe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iv_mt0knem:primary"
+msgid "iv_mt0knem"
+msgstr "IV Mt0knem"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 966
+#. aliases: 输液架
+msgctxt "tag:iv_stand:primary"
+msgid "iv_stand"
+msgstr "点滴架"
+
+#. alias-of: iv_stand
+#. source: ai
+msgctxt "tag:iv_stand:alias:1"
+msgid "iv_stand"
+msgstr "输液架"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:iva23_iva23:primary"
+msgid "iva23_iva23"
+msgstr "iva23"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:iva_(iva4111):primary"
+msgid "iva_(iva4111)"
+msgstr "Iva"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:iva_(kovolisti):primary"
+msgid "iva_(kovolisti)"
+msgstr "Iva"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:iva_(starward):primary"
+msgid "iva_(starward)"
+msgstr "伊娃（Starward）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ival_(cool_cool_toon):primary"
+msgid "ival_(cool_cool_toon)"
+msgstr "Ival"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivalice:primary"
+msgid "ivalice"
+msgstr "伊瓦利斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivan-inagaki:primary"
+msgid "ivan-inagaki"
+msgstr "Ivan Inagaki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_(171534691):primary"
+msgid "ivan_(171534691)"
+msgstr "Ivan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:ivan_(2213432):primary"
+msgid "ivan_(2213432)"
+msgstr "伊万"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2773
+msgctxt "tag:ivan_(alien_stage):primary"
+msgid "ivan_(alien_stage)"
+msgstr "伊万"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:ivan_(alien_stage)_(cosplay):primary"
+msgid "ivan_(alien_stage)_(cosplay)"
+msgstr "伊万（外星舞台）（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivan_(bad_things):primary"
+msgid "ivan_(bad_things)"
+msgstr "Ivan（Bad Things）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivan_(crave_saga):primary"
+msgid "ivan_(crave_saga)"
+msgstr "伊万（Crave Saga）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_(devil's_third):primary"
+msgid "ivan_(devil's_third)"
+msgstr "伊万"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 数码宝贝拯救者伊万
+msgctxt "tag:ivan_(digimon_savers):primary"
+msgid "ivan_(digimon_savers)"
+msgstr "伊万（数码宝贝拯救者）"
+
+#. alias-of: ivan_(digimon_savers)
+#. source: ai
+msgctxt "tag:ivan_(digimon_savers):alias:1"
+msgid "ivan_(digimon_savers)"
+msgstr "数码宝贝拯救者伊万"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ivan_(eiyuu_senki):primary"
+msgid "ivan_(eiyuu_senki)"
+msgstr "伊凡（英雄战记）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 77
+msgctxt "tag:ivan_(ffxazq):primary"
+msgid "ivan_(ffxazq)"
+msgstr "Ivan (ffxazq)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 伊凡
+msgctxt "tag:ivan_(giant_robo):primary"
+msgid "ivan_(giant_robo)"
+msgstr "伊万"
+
+#. alias-of: ivan_(giant_robo)
+#. source: ai
+msgctxt "tag:ivan_(giant_robo):alias:1"
+msgid "ivan_(giant_robo)"
+msgstr "伊凡"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 44
+#. aliases: 伊万 (黄金太阳)
+msgctxt "tag:ivan_(golden_sun):primary"
+msgid "ivan_(golden_sun)"
+msgstr "伊万"
+
+#. alias-of: ivan_(golden_sun)
+#. source: ai
+msgctxt "tag:ivan_(golden_sun):alias:1"
+msgid "ivan_(golden_sun)"
+msgstr "伊万 (黄金太阳)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 伊凡（希腊凯尔特）
+msgctxt "tag:ivan_(greekceltic):primary"
+msgid "ivan_(greekceltic)"
+msgstr "伊凡"
+
+#. alias-of: ivan_(greekceltic)
+#. source: ai
+msgctxt "tag:ivan_(greekceltic):alias:1"
+msgid "ivan_(greekceltic)"
+msgstr "伊凡（希腊凯尔特）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ivan_(htwmho):primary"
+msgid "ivan_(htwmho)"
+msgstr "伊凡"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivan_(marcus):primary"
+msgid "ivan_(marcus)"
+msgstr "伊万（Marcus）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 原创角色
+msgctxt "tag:ivan_(oc):primary"
+msgid "ivan_(oc)"
+msgstr "Ivan"
+
+#. alias-of: ivan_(oc)
+#. source: ai
+msgctxt "tag:ivan_(oc):alias:1"
+msgid "ivan_(oc)"
+msgstr "原创角色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivan_(paratroops):primary"
+msgid "ivan_(paratroops)"
+msgstr "ivan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ivan_(reverse:1999):primary"
+msgid "ivan_(reverse:1999)"
+msgstr "伊万（重返未来）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ivan_(smc):primary"
+msgid "ivan_(smc)"
+msgstr "伊万（SMC）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivan_(user_hnzg2542):primary"
+msgid "ivan_(user_hnzg2542)"
+msgstr "Ivan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivan_(watasi_tokimi):primary"
+msgid "ivan_(watasi_tokimi)"
+msgstr "Ivan（watasi tokimi）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivan_(yume-100):primary"
+msgid "ivan_(yume-100)"
+msgstr "伊凡（梦王国与沉睡的100位王子殿下）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_(zelda):primary"
+msgid "ivan_(zelda)"
+msgstr "伊凡（塞尔达）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivan_4o4:primary"
+msgid "ivan_4o4"
+msgstr "ivan_4o4"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ivan_alexandrovich_romano:primary"
+msgid "ivan_alexandrovich_romano"
+msgstr "伊万·亚历山德罗维奇·罗曼诺"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ivan_barrientos:primary"
+msgid "ivan_barrientos"
+msgstr "伊万·巴里恩托斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_beethoven:primary"
+msgid "ivan_beethoven"
+msgstr "Ivan Beethoven"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_bilibin_(style):primary"
+msgid "ivan_bilibin_(style)"
+msgstr "伊万·比利宾风格"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivan_bruel:primary"
+msgid "ivan_bruel"
+msgstr "伊万·布鲁尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 87
+msgctxt "tag:ivan_cap_(ivancyxic):primary"
+msgid "ivan_cap_(ivancyxic)"
+msgstr "伊万帽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_capelli:primary"
+msgid "ivan_capelli"
+msgstr "伊万·卡佩利"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_capelli_(cosplay):primary"
+msgid "ivan_capelli_(cosplay)"
+msgstr "伊万·卡佩利（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_danko:primary"
+msgid "ivan_danko"
+msgstr "伊万·丹科"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_danko_(cosplay):primary"
+msgid "ivan_danko_(cosplay)"
+msgstr "伊万·丹科（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivan_dolvich:primary"
+msgid "ivan_dolvich"
+msgstr "Ivan Dolvich"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivan_drago:primary"
+msgid "ivan_drago"
+msgstr "伊万·德拉戈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:ivan_e._recshun_(voice_actor):primary"
+msgid "ivan_e._recshun_(voice_actor)"
+msgstr "伊万·E·雷克逊（声优）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivan_espinoza:primary"
+msgid "ivan_espinoza"
+msgstr "Ivan Espinoza"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ivan_fiore:primary"
+msgid "ivan_fiore"
+msgstr "伊万·菲奥雷"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivan_fiorelli:primary"
+msgid "ivan_fiorelli"
+msgstr "Ivan Fiorelli"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:ivan_flores:primary"
+msgid "ivan_flores"
+msgstr "伊万·弗洛雷斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivan_fox:primary"
+msgid "ivan_fox"
+msgstr "Ivan Fox"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_galicia_(gabss_gal):primary"
+msgid "ivan_galicia_(gabss_gal)"
+msgstr "伊万·加利西亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_goncharov_(bungou_stray_dogs):primary"
+msgid "ivan_goncharov_(bungou_stray_dogs)"
+msgstr "伊万·冈察洛夫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_isaacs:primary"
+msgid "ivan_isaacs"
+msgstr "伊万·艾萨克斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ivan_iv_(florists_daisy):primary"
+msgid "ivan_iv_(florists_daisy)"
+msgstr "伊凡四世（花店雏菊）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ivan_karamazov:primary"
+msgid "ivan_karamazov"
+msgstr "伊万·卡拉马佐夫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1252
+msgctxt "tag:ivan_karelin:primary"
+msgid "ivan_karelin"
+msgstr "伊万·卡列林"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivan_karelin_(cosplay):primary"
+msgid "ivan_karelin_(cosplay)"
+msgstr "伊万·卡列林（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_khoroshev:primary"
+msgid "ivan_khoroshev"
+msgstr "伊万·霍罗舍夫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ivan_konev:primary"
+msgid "ivan_konev"
+msgstr "伊万·科涅夫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_korolev:primary"
+msgid "ivan_korolev"
+msgstr "ivan korolev"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ivan_llanos:primary"
+msgid "ivan_llanos"
+msgstr "Ivan Llanos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_lukich_fokine:primary"
+msgid "ivan_lukich_fokine"
+msgstr "伊万·卢基奇·福金"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_moon:primary"
+msgid "ivan_moon"
+msgstr "伊万·穆恩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_navarro:primary"
+msgid "ivan_navarro"
+msgstr "伊万·纳瓦罗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_nirgis:primary"
+msgid "ivan_nirgis"
+msgstr "ivan_nirgis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ivan_nunes:primary"
+msgid "ivan_nunes"
+msgstr "伊万·努涅斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ivan_perepelkin:primary"
+msgid "ivan_perepelkin"
+msgstr "伊万·佩列佩尔金"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ivan_raidenovitch_raikov:primary"
+msgid "ivan_raidenovitch_raikov"
+msgstr "伊万·雷德诺维奇·雷科夫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 伊万cosplay
+msgctxt "tag:ivan_raidenovitch_raikov_(cosplay):primary"
+msgid "ivan_raidenovitch_raikov_(cosplay)"
+msgstr "伊万·雷电诺维奇·雷科夫（Cosplay）"
+
+#. alias-of: ivan_raidenovitch_raikov_(cosplay)
+#. source: ai
+msgctxt "tag:ivan_raidenovitch_raikov_(cosplay):alias:1"
+msgid "ivan_raidenovitch_raikov_(cosplay)"
+msgstr "伊万cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:ivan_ramirez:primary"
+msgid "ivan_ramirez"
+msgstr "伊万·拉米雷斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ivan_rubashkin:primary"
+msgid "ivan_rubashkin"
+msgstr "伊万·鲁巴什金"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_saputra:primary"
+msgid "ivan_saputra"
+msgstr "ivan_saputra"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ivan_sevic:primary"
+msgid "ivan_sevic"
+msgstr "伊万·塞维奇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ivan_sreckovic_(flet):primary"
+msgid "ivan_sreckovic_(flet)"
+msgstr "伊万·斯雷科维奇（Flet）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_stepanovich_konev:primary"
+msgid "ivan_stepanovich_konev"
+msgstr "伊万·斯捷潘诺维奇·科涅夫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_strigoii:primary"
+msgid "ivan_strigoii"
+msgstr "伊万·斯特里戈伊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:ivan_talavera:primary"
+msgid "ivan_talavera"
+msgstr "Ivan Talavera"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ivan_tao:primary"
+msgid "ivan_tao"
+msgstr "Ivan Tao"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivan_the_goose:primary"
+msgid "ivan_the_goose"
+msgstr "Ivan the Goose"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_the_space_biker_(half-life):primary"
+msgid "ivan_the_space_biker_(half-life)"
+msgstr "Ivan the Space Biker"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivan_the_terrible:primary"
+msgid "ivan_the_terrible"
+msgstr "Ivan the Terrible"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 100
+#. aliases: ivan_the_terrible
+msgctxt "tag:ivan_the_terrible_(fate):primary"
+msgid "ivan_the_terrible_(fate)"
+msgstr "伊凡雷帝（Fate）"
+
+#. alias-of: ivan_the_terrible_(fate)
+#. source: ai
+msgctxt "tag:ivan_the_terrible_(fate):alias:1"
+msgid "ivan_the_terrible_(fate)"
+msgstr "ivan_the_terrible"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivan_the_terrible_(muscle_bullet)_(fate):primary"
+msgid "ivan_the_terrible_(muscle_bullet)_(fate)"
+msgstr "伊凡雷帝"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:ivan_the_terrible_and_his_son_ivan:primary"
+msgid "ivan_the_terrible_and_his_son_ivan"
+msgstr "伊凡雷帝与儿子伊凡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_trabado:primary"
+msgid "ivan_trabado"
+msgstr "ivan_trabado"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivan_tsar:primary"
+msgid "ivan_tsar"
+msgstr "ivan_tsar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_vilmant:primary"
+msgid "ivan_vilmant"
+msgstr "Ivan Vilmant"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivan_vujovic:primary"
+msgid "ivan_vujovic"
+msgstr "伊万·武约维奇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 155
+msgctxt "tag:ivan_wang:primary"
+msgid "ivan_wang"
+msgstr "Ivan Wang"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 71
+msgctxt "tag:ivan_whisky:primary"
+msgid "ivan_whisky"
+msgstr "ivan_whisky"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivan_wigner:primary"
+msgid "ivan_wigner"
+msgstr "伊万·维格纳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ivan_yakushev:primary"
+msgid "ivan_yakushev"
+msgstr "伊万·雅库舍夫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivana_(ash_echoes):primary"
+msgid "ivana_(ash_echoes)"
+msgstr "Ivana"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ivana_lavlinencova:primary"
+msgid "ivana_lavlinencova"
+msgstr "伊万娜·拉夫林连科娃"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivana_swallows:primary"
+msgid "ivana_swallows"
+msgstr "Ivana Swallows"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanairy:primary"
+msgid "ivanairy"
+msgstr "ivanairy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanalekseich:primary"
+msgid "ivanalekseich"
+msgstr "ivanalekseich"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivananeko:primary"
+msgid "ivananeko"
+msgstr "Ivananeko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanart:primary"
+msgid "ivanart"
+msgstr "Ivanart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ivanbolvann:primary"
+msgid "ivanbolvann"
+msgstr "ivanbolvann"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanco:primary"
+msgid "ivanco"
+msgstr "Ivanco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivandilim:primary"
+msgid "ivandilim"
+msgstr "ivandilim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ivanfx:primary"
+msgid "ivanfx"
+msgstr "伊万FX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivangraphics:primary"
+msgid "ivangraphics"
+msgstr "ivangraphics"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivanhc_9420:primary"
+msgid "ivanhc_9420"
+msgstr "ivanhc_9420"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivanho62:primary"
+msgid "ivanho62"
+msgstr "Ivanho62"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanhomage:primary"
+msgid "ivanhomage"
+msgstr "ivanhomage"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivaniavk:primary"
+msgid "ivaniavk"
+msgstr "ivaniavk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivanklimenko:primary"
+msgid "ivanklimenko"
+msgstr "Ivan Klimenko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanks:primary"
+msgid "ivanks"
+msgstr "ivanks"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanlaliashvili:primary"
+msgid "ivanlaliashvili"
+msgstr "伊万·拉利亚什维利"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ivanleey:primary"
+msgid "ivanleey"
+msgstr "ivanleey"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanlychkov:primary"
+msgid "ivanlychkov"
+msgstr "Ivan Lychkov"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivanmz:primary"
+msgid "ivanmz"
+msgstr "Ivanmz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanna_fox:primary"
+msgid "ivanna_fox"
+msgstr "伊万娜狐"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivano_badoer:primary"
+msgid "ivano_badoer"
+msgstr "Ivano Badoer"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivanov_(suikoden):primary"
+msgid "ivanov_(suikoden)"
+msgstr "Ivanov（Suikoden）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivanov_aart:primary"
+msgid "ivanov_aart"
+msgstr "伊万诺夫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanpapiol:primary"
+msgid "ivanpapiol"
+msgstr "伊万帕皮奥尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanpaw:primary"
+msgid "ivanpaw"
+msgstr "ivanpaw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivanshalam:primary"
+msgid "ivanshalam"
+msgstr "ivanshalam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ivanshinoda:primary"
+msgid "ivanshinoda"
+msgstr "IvanShinoda"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivantill1711:primary"
+msgid "ivantill1711"
+msgstr "ivantill1711"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ivantsg:primary"
+msgid "ivantsg"
+msgstr "Ivantsg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivantsim:primary"
+msgid "ivantsim"
+msgstr "伊万"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivanuss:primary"
+msgid "ivanuss"
+msgstr "Ivanuss"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivanvva9527:primary"
+msgid "ivanvva9527"
+msgstr "ivanvva9527"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ivanwind:primary"
+msgid "ivanwind"
+msgstr "伊万风"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ivar_(another_eidos):primary"
+msgid "ivar_(another_eidos)"
+msgstr "Ivar (Another Eidos)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ivar_(disgaea):primary"
+msgid "ivar_(disgaea)"
+msgstr "Ivar"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:ivar_(tales):primary"
+msgid "ivar_(tales)"
+msgstr "艾瓦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivara_(ivaraxiv):primary"
+msgid "ivara_(ivaraxiv)"
+msgstr "Ivara（ivaraxiv）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+#. aliases: 战甲Ivara
+msgctxt "tag:ivara_(warframe):primary"
+msgid "ivara_(warframe)"
+msgstr "Ivara"
+
+#. alias-of: ivara_(warframe)
+#. source: ai
+msgctxt "tag:ivara_(warframe):alias:1"
+msgid "ivara_(warframe)"
+msgstr "战甲Ivara"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivara_(warframe)_(cosplay):primary"
+msgid "ivara_(warframe)_(cosplay)"
+msgstr "Ivara（Warframe）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Ivara Prime
+msgctxt "tag:ivara_prime_(warframe):primary"
+msgid "ivara_prime_(warframe)"
+msgstr "伊瓦拉 Prime（Warframe）"
+
+#. alias-of: ivara_prime_(warframe)
+#. source: ai
+msgctxt "tag:ivara_prime_(warframe):alias:1"
+msgid "ivara_prime_(warframe)"
+msgstr "Ivara Prime"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivara_prime_(warframe)_(cosplay):primary"
+msgid "ivara_prime_(warframe)_(cosplay)"
+msgstr "Ivara Prime（Warframe）Cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivariart:primary"
+msgid "ivariart"
+msgstr "ivariart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivarou:primary"
+msgid "ivarou"
+msgstr "ivarou"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 艾瓦莉
+msgctxt "tag:ivary_(show_by_rock!!):primary"
+msgid "ivary_(show_by_rock!!)"
+msgstr "Ivary"
+
+#. alias-of: ivary_(show_by_rock!!)
+#. source: ai
+msgctxt "tag:ivary_(show_by_rock!!):alias:1"
+msgid "ivary_(show_by_rock!!)"
+msgstr "艾瓦莉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+#. aliases: Kaeru
+msgctxt "tag:ivasama_kaeru:primary"
+msgid "ivasama_kaeru"
+msgstr "ivasama"
+
+#. alias-of: ivasama_kaeru
+#. source: ai
+msgctxt "tag:ivasama_kaeru:alias:1"
+msgid "ivasama_kaeru"
+msgstr "Kaeru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivaxa_(osu!_player):primary"
+msgid "ivaxa_(osu!_player)"
+msgstr "Ivaxa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:ivdimension:primary"
+msgid "ivdimension"
+msgstr "IV Dimension"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:ive0iv7307:primary"
+msgid "ive0iv7307"
+msgstr "ive0iv7307"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ive_(9fd7cjed8q89150):primary"
+msgid "ive_(9fd7cjed8q89150)"
+msgstr "IVE（9fd7cjed8q89150）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 86
+msgctxt "tag:ive_(group):primary"
+msgid "ive_(group)"
+msgstr "IVE"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ive_(interforce:_seoul):primary"
+msgid "ive_(interforce:_seoul)"
+msgstr "IVE（Interforce: Seoul）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:ive_(iveith):primary"
+msgid "ive_(iveith)"
+msgstr "IVE"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 31
+#. aliases: スタライブ
+msgctxt "tag:ive_(stellive):primary"
+msgid "ive_(stellive)"
+msgstr "IVE"
+
+#. alias-of: ive_(stellive)
+#. source: ai
+msgctxt "tag:ive_(stellive):alias:1"
+msgid "ive_(stellive)"
+msgstr "スタライブ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivean:primary"
+msgid "ivean"
+msgstr "伊万"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.brand_or_merchandise_item
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iveco_(brand):primary"
+msgid "iveco_(brand)"
+msgstr "依维柯（品牌）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iveco_trakker:primary"
+msgid "iveco_trakker"
+msgstr "依维柯 Trakker"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Ivee
+msgctxt "tag:ivee_(zelda):primary"
+msgid "ivee_(zelda)"
+msgstr "Ivee（塞尔达）"
+
+#. alias-of: ivee_(zelda)
+#. source: ai
+msgctxt "tag:ivee_(zelda):alias:1"
+msgid "ivee_(zelda)"
+msgstr "Ivee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:iveechan:primary"
+msgid "iveechan"
+msgstr "iveechan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ivel0121:primary"
+msgid "ivel0121"
+msgstr "ivel0121"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ivel3:primary"
+msgid "ivel3"
+msgstr "ivel3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivell:primary"
+msgid "ivell"
+msgstr "艾维尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:ivelovedsekaowa:primary"
+msgid "ivelovedsekaowa"
+msgstr "ivelovedsekaowa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iven_(hongwenwen):primary"
+msgid "iven_(hongwenwen)"
+msgstr "iven"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 88
+msgctxt "tag:ivenglynn:primary"
+msgid "ivenglynn"
+msgstr "Ivenglynn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivent:primary"
+msgid "ivent"
+msgstr "Ivent"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:iveo:primary"
+msgid "iveo"
+msgstr "iveo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivepetthatpokemon:primary"
+msgid "ivepetthatpokemon"
+msgstr "IvePetThatPokemon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 112
+msgctxt "tag:iver_(reviolet):primary"
+msgid "iver_(reviolet)"
+msgstr "艾弗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ivern:primary"
+msgid "ivern"
+msgstr "艾翁"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ives_furcifer:primary"
+msgid "ives_furcifer"
+msgstr "Ives Furcifer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:ives_navarro:primary"
+msgid "ives_navarro"
+msgstr "Ives Navarro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: ivess
+msgctxt "tag:ivess_art:primary"
+msgid "ivess_art"
+msgstr "ivess画师"
+
+#. alias-of: ivess_art
+#. source: ai
+msgctxt "tag:ivess_art:alias:1"
+msgid "ivess_art"
+msgstr "ivess"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivetta_(satou_rin):primary"
+msgid "ivetta_(satou_rin)"
+msgstr "Ivetta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivetto:primary"
+msgid "ivetto"
+msgstr "ivetto"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivey_(artery_gear):primary"
+msgid "ivey_(artery_gear)"
+msgstr "Ivey"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivi-x:primary"
+msgid "ivi-x"
+msgstr "ivi-x"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: Ibi
+msgctxt "tag:ivi_(ibi87661274):primary"
+msgid "ivi_(ibi87661274)"
+msgstr "Ivi"
+
+#. alias-of: ivi_(ibi87661274)
+#. source: ai
+msgctxt "tag:ivi_(ibi87661274):alias:1"
+msgid "ivi_(ibi87661274)"
+msgstr "Ibi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivi_1596:primary"
+msgid "ivi_1596"
+msgstr "IVI_1596"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ivi_etz:primary"
+msgid "ivi_etz"
+msgstr "ivi_etz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ivi_hakase:primary"
+msgid "ivi_hakase"
+msgstr "IVI博士"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iviarche:primary"
+msgid "iviarche"
+msgstr "Iviarche"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:iviavix:primary"
+msgid "iviavix"
+msgstr "iviavix"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:ivib:primary"
+msgid "ivib"
+msgstr "ivib"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:iviedraws:primary"
+msgid "iviedraws"
+msgstr "iviedraws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:ivii3:primary"
+msgid "ivii3"
+msgstr "ivii3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivinch_u:primary"
+msgid "ivinch_u"
+msgstr "ivinch_u"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivioryl:primary"
+msgid "ivioryl"
+msgstr "ivioryl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ivioss:primary"
+msgid "ivioss"
+msgstr "ivioss"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:ivis:primary"
+msgid "ivis"
+msgstr "伊维斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivis_sans:primary"
+msgid "ivis_sans"
+msgstr "ivis_sans"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:iviscond:primary"
+msgid "iviscond"
+msgstr "Iviscond"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivit_(kalxto):primary"
+msgid "ivit_(kalxto)"
+msgstr "伊维特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivixi_fgo:primary"
+msgid "ivixi_fgo"
+msgstr "Ivixi FGO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ivizard:primary"
+msgid "ivizard"
+msgstr "i巫师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:ivl0107:primary"
+msgid "ivl0107"
+msgstr "ivl0107"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivlenkov:primary"
+msgid "ivlenkov"
+msgstr "伊夫连科夫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivlet:primary"
+msgid "ivlet"
+msgstr "Ivlet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ivlice:primary"
+msgid "ivlice"
+msgstr "Ivlice"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 124
+msgctxt "tag:ivlis_(funamusea):primary"
+msgid "ivlis_(funamusea)"
+msgstr "伊维利斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+#. aliases: IVM7
+msgctxt "tag:ivm7:primary"
+msgid "ivm7"
+msgstr "IVM7"
+
+#. alias-of: ivm7
+#. source: ai
+msgctxt "tag:ivm7:alias:1"
+msgid "ivm7"
+msgstr "IVM7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivmaruva:primary"
+msgid "ivmaruva"
+msgstr "ivmaruva"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivn_one:primary"
+msgid "ivn_one"
+msgstr "Ivn_One"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ivnir_the_elf_(nilsunna):primary"
+msgid "ivnir_the_elf_(nilsunna)"
+msgstr "伊夫尼尔·精灵（Nilsunna）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivnmaraz_1:primary"
+msgid "ivnmaraz_1"
+msgstr "ivnmaraz_1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivnrarapi:primary"
+msgid "ivnrarapi"
+msgstr "Ivnrarapi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivnwng:primary"
+msgid "ivnwng"
+msgstr "ivnwng"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivo30940692:primary"
+msgid "ivo30940692"
+msgstr "IVO30940692"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ivo_k:primary"
+msgid "ivo_k"
+msgstr "ivo_k"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ivo_no_ito:primary"
+msgid "ivo_no_ito"
+msgstr "ivo_no_ito"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivoaboites:primary"
+msgid "ivoaboites"
+msgstr "Ivoaboites"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivoka_skudi:primary"
+msgid "ivoka_skudi"
+msgstr "ivoka_skudi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ivolay:primary"
+msgid "ivolay"
+msgstr "Ivolay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivon5471:primary"
+msgid "ivon5471"
+msgstr "ivon5471"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivona_kawski:primary"
+msgid "ivona_kawski"
+msgstr "Ivona Kawski"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ivonne_(dire_sisters):primary"
+msgid "ivonne_(dire_sisters)"
+msgstr "Ivonne"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivonnefish:primary"
+msgid "ivonnefish"
+msgstr "Ivonnefish"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 伊沃尔(面包房女孩)
+msgctxt "tag:ivor_(bakery_girl):primary"
+msgid "ivor_(bakery_girl)"
+msgstr "伊沃尔"
+
+#. alias-of: ivor_(bakery_girl)
+#. source: ai
+msgctxt "tag:ivor_(bakery_girl):alias:1"
+msgid "ivor_(bakery_girl)"
+msgstr "伊沃尔(面包房女孩)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 269
+msgctxt "tag:ivor_(pokemon):primary"
+msgid "ivor_(pokemon)"
+msgstr "妙蛙草"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivorare:primary"
+msgid "ivorare"
+msgstr "Ivorare"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivorevan_art:primary"
+msgid "ivorevan_art"
+msgstr "Ivorevan"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivorian_flag:primary"
+msgid "ivorian_flag"
+msgstr "科特迪瓦国旗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:ivorine_(rune_(dualhart)):primary"
+msgid "ivorine_(rune_(dualhart))"
+msgstr "艾弗琳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivority:primary"
+msgid "ivority"
+msgstr "Ivority"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 128
+msgctxt "tag:ivory_(25680nico):primary"
+msgid "ivory_(25680nico)"
+msgstr "Ivory"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivory_(crystal_maidens):primary"
+msgid "ivory_(crystal_maidens)"
+msgstr "Ivory（Crystal Maidens）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.plant
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivory_candypop_bud:primary"
+msgid "ivory_candypop_bud"
+msgstr "象牙糖果花蕾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivory_chocolate:primary"
+msgid "ivory_chocolate"
+msgstr "Ivory Chocolate"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 2
+#. aliases: 白鸥
+msgctxt "tag:ivory_gull:primary"
+msgid "ivory_gull"
+msgstr "象牙鸥"
+
+#. alias-of: ivory_gull
+#. source: ai
+msgctxt "tag:ivory_gull:alias:1"
+msgid "ivory_gull"
+msgstr "白鸥"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivory_hand:primary"
+msgid "ivory_hand"
+msgstr "Ivory Hand"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivory_honeyshot:primary"
+msgid "ivory_honeyshot"
+msgstr "Ivory Honeyshot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivory_ice:primary"
+msgid "ivory_ice"
+msgstr "Ivory Ice"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ivory_lagiacrus:primary"
+msgid "ivory_lagiacrus"
+msgstr "白海龙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivory_le_(ivoryk2510):primary"
+msgid "ivory_le_(ivoryk2510)"
+msgstr "Ivory Le"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivory_lotafia:primary"
+msgid "ivory_lotafia"
+msgstr "ivory_lotafia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivory_maniac:primary"
+msgid "ivory_maniac"
+msgstr "Ivory Maniac"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 象牙色鬼火
+msgctxt "tag:ivory_wisp_(sonic):primary"
+msgid "ivory_wisp_(sonic)"
+msgstr "象牙鬼火"
+
+#. alias-of: ivory_wisp_(sonic)
+#. source: ai
+msgctxt "tag:ivory_wisp_(sonic):alias:1"
+msgid "ivory_wisp_(sonic)"
+msgstr "象牙色鬼火"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:ivory_wraith:primary"
+msgid "ivory_wraith"
+msgstr "象牙幽灵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.age_or_body_variant
+#. safety: mixed
+#. post-count: 2
+msgctxt "tag:ivory_wraith_(female):primary"
+msgid "ivory_wraith_(female)"
+msgstr "象牙女幽灵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.age_or_body_variant
+#. safety: mixed
+#. post-count: 10
+msgctxt "tag:ivory_wraith_(male):primary"
+msgid "ivory_wraith_(male)"
+msgstr "象牙幽魂（男性）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ivorycello:primary"
+msgid "ivorycello"
+msgstr "Ivorycello"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivorye:primary"
+msgid "ivorye"
+msgstr "Ivorye"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ivoryh:primary"
+msgid "ivoryh"
+msgstr "Ivoryh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivorylagiacrus:primary"
+msgid "ivorylagiacrus"
+msgstr "白海龙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivorystate:primary"
+msgid "ivorystate"
+msgstr "ivorystate"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivqks159:primary"
+msgid "ivqks159"
+msgstr "ivqks159"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivr-dct-9:primary"
+msgid "ivr-dct-9"
+msgstr "IVR-DCT-9"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivrig_(mindhack):primary"
+msgid "ivrig_(mindhack)"
+msgstr "Ivrig（Mindhack）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivril:primary"
+msgid "ivril"
+msgstr "Ivril"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 88
+msgctxt "tag:ivris:primary"
+msgid "ivris"
+msgstr "Ivris"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivris_(brave_frontier):primary"
+msgid "ivris_(brave_frontier)"
+msgstr "伊芙莉丝"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ivry_hadd:primary"
+msgid "ivry_hadd"
+msgstr "Ivry Hadd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivtl_3200:primary"
+msgid "ivtl_3200"
+msgstr "IVTL 3200"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivttasatelier:primary"
+msgid "ivttasatelier"
+msgstr "ivttasatelier"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivu_(bokujou_monogatari):primary"
+msgid "ivu_(bokujou_monogatari)"
+msgstr "伊芙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ivu_(eve0315y):primary"
+msgid "ivu_(eve0315y)"
+msgstr "艾薇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 87
+msgctxt "tag:ivuki:primary"
+msgid "ivuki"
+msgstr "Ivuki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivupasu:primary"
+msgid "ivupasu"
+msgstr "ivupasu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivushu:primary"
+msgid "ivushu"
+msgstr "Ivushu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ivutyozo:primary"
+msgid "ivutyozo"
+msgstr "ivutyozo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivvheza:primary"
+msgid "ivvheza"
+msgstr "ivvheza"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivvizy:primary"
+msgid "ivvizy"
+msgstr "ivvizy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivwrrr:primary"
+msgid "ivwrrr"
+msgstr "ivwrrr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivxosy:primary"
+msgid "ivxosy"
+msgstr "ivxosy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:ivxxx:primary"
+msgid "ivxxx"
+msgstr "ivxxx"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.plant
+#. safety: sfw
+#. post-count: 1531
+msgctxt "tag:ivy:primary"
+msgid "ivy"
+msgstr "常春藤"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy1048821:primary"
+msgid "ivy1048821"
+msgstr "ivy1048821"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ivy1993:primary"
+msgid "ivy1993"
+msgstr "ivy1993"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy32887:primary"
+msgid "ivy32887"
+msgstr "ivy32887"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:ivy60530:primary"
+msgid "ivy60530"
+msgstr "Ivy60530"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(3374298):primary"
+msgid "ivy_(3374298)"
+msgstr "艾薇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 259
+msgctxt "tag:ivy_(675671):primary"
+msgid "ivy_(675671)"
+msgstr "艾薇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivy_(algorhythm_project):primary"
+msgid "ivy_(algorhythm_project)"
+msgstr "Ivy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivy_(artist):primary"
+msgid "ivy_(artist)"
+msgstr "Ivy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivy_(aurelia):primary"
+msgid "ivy_(aurelia)"
+msgstr "Ivy（Aurelia）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivy_(blame!):primary"
+msgid "ivy_(blame!)"
+msgstr "Ivy（BLAME!）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(bloodline):primary"
+msgid "ivy_(bloodline)"
+msgstr "艾薇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivy_(chemical_bro):primary"
+msgid "ivy_(chemical_bro)"
+msgstr "Ivy（Chemical Bro）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivy_(crimson_kaiserin):primary"
+msgid "ivy_(crimson_kaiserin)"
+msgstr "Ivy（Crimson Kaiserin）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ivy_(cytus):primary"
+msgid "ivy_(cytus)"
+msgstr "Ivy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ivy_(dddddd0_0bbbbbb):primary"
+msgid "ivy_(dddddd0_0bbbbbb)"
+msgstr "常春藤"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:ivy_(deadlock):primary"
+msgid "ivy_(deadlock)"
+msgstr "Ivy (Deadlock)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ivy_(desvitio):primary"
+msgid "ivy_(desvitio)"
+msgstr "Ivy（Desvitio）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: Ivy
+msgctxt "tag:ivy_(ena):primary"
+msgid "ivy_(ena)"
+msgstr "Ivy（ENA）"
+
+#. alias-of: ivy_(ena)
+#. source: ai
+msgctxt "tag:ivy_(ena):alias:1"
+msgid "ivy_(ena)"
+msgstr "Ivy"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(ena)_(cosplay):primary"
+msgid "ivy_(ena)_(cosplay)"
+msgstr "Ivy（ENA）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivy_(exoprimal):primary"
+msgid "ivy_(exoprimal)"
+msgstr "艾薇（Exoprimal）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(fellatrix):primary"
+msgid "ivy_(fellatrix)"
+msgstr "艾薇（Fellatrix）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1185
+#. aliases: 艾薇
+msgctxt "tag:ivy_(fire_emblem):primary"
+msgid "ivy_(fire_emblem)"
+msgstr "艾薇（火焰纹章）"
+
+#. alias-of: ivy_(fire_emblem)
+#. source: ai
+msgctxt "tag:ivy_(fire_emblem):alias:1"
+msgid "ivy_(fire_emblem)"
+msgstr "艾薇"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ivy_(fire_emblem)_(cosplay):primary"
+msgid "ivy_(fire_emblem)_(cosplay)"
+msgstr "艾维（火焰纹章）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:ivy_(flower_knight_girl):primary"
+msgid "ivy_(flower_knight_girl)"
+msgstr "常春藤"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:ivy_(flurry_embrace)_(fire_emblem):primary"
+msgid "ivy_(flurry_embrace)_(fire_emblem)"
+msgstr "艾维"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: ivy
+msgctxt "tag:ivy_(gawako):primary"
+msgid "ivy_(gawako)"
+msgstr "艾薇"
+
+#. alias-of: ivy_(gawako)
+#. source: ai
+msgctxt "tag:ivy_(gawako):alias:1"
+msgid "ivy_(gawako)"
+msgstr "ivy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(hello_im_ivy):primary"
+msgid "ivy_(hello_im_ivy)"
+msgstr "ivy(hello_im_ivy)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivy_(identity_v):primary"
+msgid "ivy_(identity_v)"
+msgstr "艾薇"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ivy_(idolmaster):primary"
+msgid "ivy_(idolmaster)"
+msgstr "Ivy（偶像大师）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 伊维, 精灵 Ivy
+msgctxt "tag:ivy_(ishuzoku_reviewers):primary"
+msgid "ivy_(ishuzoku_reviewers)"
+msgstr "艾薇"
+
+#. alias-of: ivy_(ishuzoku_reviewers)
+#. source: ai
+msgctxt "tag:ivy_(ishuzoku_reviewers):alias:1"
+msgid "ivy_(ishuzoku_reviewers)"
+msgstr "伊维"
+
+#. alias-of: ivy_(ishuzoku_reviewers)
+#. source: ai
+msgctxt "tag:ivy_(ishuzoku_reviewers):alias:2"
+msgid "ivy_(ishuzoku_reviewers)"
+msgstr "精灵 Ivy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(iveoy):primary"
+msgid "ivy_(iveoy)"
+msgstr "常春藤（Iveoy）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(ivy_spl):primary"
+msgid "ivy_(ivy_spl)"
+msgstr "艾薇（Ivy_spl）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(ivy_wreath):primary"
+msgid "ivy_(ivy_wreath)"
+msgstr "ivy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(ivycrown33):primary"
+msgid "ivy_(ivycrown33)"
+msgstr "ivy_(ivycrown33)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ivy_(kaibutsu_maid):primary"
+msgid "ivy_(kaibutsu_maid)"
+msgstr "艾薇（怪物女仆）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 艾薇
+msgctxt "tag:ivy_(magical_explorer):primary"
+msgid "ivy_(magical_explorer)"
+msgstr "Ivy"
+
+#. alias-of: ivy_(magical_explorer)
+#. source: ai
+msgctxt "tag:ivy_(magical_explorer):alias:1"
+msgid "ivy_(magical_explorer)"
+msgstr "艾薇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(marnielovesyou):primary"
+msgid "ivy_(marnielovesyou)"
+msgstr "艾薇（marnielovesyou）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(mementomori):primary"
+msgid "ivy_(mementomori)"
+msgstr "常春藤（Memento Mori）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 79
+msgctxt "tag:ivy_(mystic_dress)_(fire_emblem):primary"
+msgid "ivy_(mystic_dress)_(fire_emblem)"
+msgstr "艾薇（神秘礼服）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:ivy_(nyaivie):primary"
+msgid "ivy_(nyaivie)"
+msgstr "艾薇（nyaivie）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivy_(pokerogue):primary"
+msgid "ivy_(pokerogue)"
+msgstr "Ivy (PokeRogue)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivy_(rememento):primary"
+msgid "ivy_(rememento)"
+msgstr "常春藤"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:ivy_(saijaku_tamer):primary"
+msgid "ivy_(saijaku_tamer)"
+msgstr "艾薇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 255
+#. aliases: Ivy
+msgctxt "tag:ivy_(sena0119):primary"
+msgid "ivy_(sena0119)"
+msgstr "艾薇"
+
+#. alias-of: ivy_(sena0119)
+#. source: ai
+msgctxt "tag:ivy_(sena0119):alias:1"
+msgid "ivy_(sena0119)"
+msgstr "Ivy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ivy_(sinner_o0):primary"
+msgid "ivy_(sinner_o0)"
+msgstr "艾薇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 149
+msgctxt "tag:ivy_(sparrowl):primary"
+msgid "ivy_(sparrowl)"
+msgstr "艾薇(sparrowl)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 147
+#. aliases: 夏日艾薇
+msgctxt "tag:ivy_(summer)_(fire_emblem):primary"
+msgid "ivy_(summer)_(fire_emblem)"
+msgstr "艾薇(夏日泳装)"
+
+#. alias-of: ivy_(summer)_(fire_emblem)
+#. source: ai
+msgctxt "tag:ivy_(summer)_(fire_emblem):alias:1"
+msgid "ivy_(summer)_(fire_emblem)"
+msgstr "夏日艾薇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(tmt):primary"
+msgid "ivy_(tmt)"
+msgstr "艾薇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(unitia):primary"
+msgid "ivy_(unitia)"
+msgstr "常春藤（Unitia）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_(user_mpvt3285):primary"
+msgid "ivy_(user_mpvt3285)"
+msgstr "Ivy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivy_(wafflemann115):primary"
+msgid "ivy_(wafflemann115)"
+msgstr "Ivy（wafflemann115）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: Ivy Carroll (Norwell College)
+msgctxt "tag:ivy_carrol_(norwell_college):primary"
+msgid "ivy_carrol_(norwell_college)"
+msgstr "Ivy Carroll"
+
+#. alias-of: ivy_carrol_(norwell_college)
+#. source: ai
+msgctxt "tag:ivy_carrol_(norwell_college):alias:1"
+msgid "ivy_carrol_(norwell_college)"
+msgstr "Ivy Carroll (Norwell College)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_celled:primary"
+msgid "ivy_celled"
+msgstr "ivy_celled"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 92
+#. aliases: 常春藤棍
+msgctxt "tag:ivy_cudgel_(pokemon):primary"
+msgid "ivy_cudgel_(pokemon)"
+msgstr "常春藤棍棒"
+
+#. alias-of: ivy_cudgel_(pokemon)
+#. source: ai
+msgctxt "tag:ivy_cudgel_(pokemon):alias:1"
+msgid "ivy_cudgel_(pokemon)"
+msgstr "常春藤棍"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_elizabeth_walker:primary"
+msgid "ivy_elizabeth_walker"
+msgstr "艾薇·伊丽莎白·沃克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivy_fontaine:primary"
+msgid "ivy_fontaine"
+msgstr "艾薇·丰坦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivy_hana_03:primary"
+msgid "ivy_hana_03"
+msgstr "Ivy Hana 03"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivy_hanabee:primary"
+msgid "ivy_hanabee"
+msgstr "Ivy花火"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 62
+#. aliases: 藤隐
+msgctxt "tag:ivy_hermit:primary"
+msgid "ivy_hermit"
+msgstr "常春藤隐士"
+
+#. alias-of: ivy_hermit
+#. source: ai
+msgctxt "tag:ivy_hermit:alias:1"
+msgid "ivy_hermit"
+msgstr "藤隐"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_ling:primary"
+msgid "ivy_ling"
+msgstr "艾薇·凌"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivy_lov:primary"
+msgid "ivy_lov"
+msgstr "艾薇·洛芙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_mccord:primary"
+msgid "ivy_mccord"
+msgstr "艾薇·麦考德"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ivy_pepper:primary"
+msgid "ivy_pepper"
+msgstr "常春藤胡椒"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivy_saotome:primary"
+msgid "ivy_saotome"
+msgstr "艾薇·早乙女"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ivy_spl:primary"
+msgid "ivy_spl"
+msgstr "ivy_spl"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ivy_sundew:primary"
+msgid "ivy_sundew"
+msgstr "艾薇·茅膏菜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ivy_teas:primary"
+msgid "ivy_teas"
+msgstr "ivy_teas"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:ivy_warrington:primary"
+msgid "ivy_warrington"
+msgstr "艾薇·沃灵顿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+#. aliases: 声优
+msgctxt "tag:ivy_wilde_(voice_actor):primary"
+msgid "ivy_wilde_(voice_actor)"
+msgstr "Ivy Wilde"
+
+#. alias-of: ivy_wilde_(voice_actor)
+#. source: ai
+msgctxt "tag:ivy_wilde_(voice_actor):alias:1"
+msgid "ivy_wilde_(voice_actor)"
+msgstr "声优"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivya_(honkai_gakuen):primary"
+msgid "ivya_(honkai_gakuen)"
+msgstr "伊薇亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ivyalive:primary"
+msgid "ivyalive"
+msgstr "ivyalive"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivycle:primary"
+msgid "ivycle"
+msgstr "艾薇可"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ivyelin:primary"
+msgid "ivyelin"
+msgstr "Ivyelin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ivyfontaineart:primary"
+msgid "ivyfontaineart"
+msgstr "Ivy Fontaine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivyfriday:primary"
+msgid "ivyfriday"
+msgstr "Ivyfriday"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivygardenns:primary"
+msgid "ivygardenns"
+msgstr "ivygardenns"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivyjackk:primary"
+msgid "ivyjackk"
+msgstr "IvyJackk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivylands:primary"
+msgid "ivylands"
+msgstr "ivylands"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivymaid:primary"
+msgid "ivymaid"
+msgstr "常春藤女仆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivymug:primary"
+msgid "ivymug"
+msgstr "IvyMug"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ivynajspyder:primary"
+msgid "ivynajspyder"
+msgstr "Ivynajspyder"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ivyningyo:primary"
+msgid "ivyningyo"
+msgstr "ivyningyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivypoiyu:primary"
+msgid "ivypoiyu"
+msgstr "Ivypoiyu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ivypool:primary"
+msgid "ivypool"
+msgstr "Ivypool"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ivyrandomart:primary"
+msgid "ivyrandomart"
+msgstr "Ivyrandomart"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 1181
+msgctxt "tag:ivysaur:primary"
+msgid "ivysaur"
+msgstr "妙蛙草"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+#. aliases: 妙蛙种子Cosplay
+msgctxt "tag:ivysaur_(cosplay):primary"
+msgid "ivysaur_(cosplay)"
+msgstr "妙蛙草（Cosplay）"
+
+#. alias-of: ivysaur_(cosplay)
+#. source: ai
+msgctxt "tag:ivysaur_(cosplay):alias:1"
+msgid "ivysaur_(cosplay)"
+msgstr "妙蛙种子Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 妙蛙草
+msgctxt "tag:ivysaur_(prototype):primary"
+msgid "ivysaur_(prototype)"
+msgstr "妙蛙草"
+
+#. alias-of: ivysaur_(prototype)
+#. source: ai
+msgctxt "tag:ivysaur_(prototype):alias:1"
+msgid "ivysaur_(prototype)"
+msgstr "妙蛙草"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivysundews:primary"
+msgid "ivysundews"
+msgstr "Ivysundews"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ivytea:primary"
+msgid "ivytea"
+msgstr "ivytea"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ivytooru:primary"
+msgid "ivytooru"
+msgstr "ivytooru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ivyvines210:primary"
+msgid "ivyvines210"
+msgstr "常春藤"

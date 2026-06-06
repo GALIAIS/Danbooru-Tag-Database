@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 275
+#. aliases: 尼尔2B
+msgctxt "tag:2p_(nier:automata):primary"
+msgid "2p_(nier:automata)"
+msgstr "2B"
+
+#. alias-of: 2p_(nier:automata)
+#. source: ai
+msgctxt "tag:2p_(nier:automata):alias:1"
+msgid "2p_(nier:automata)"
+msgstr "尼尔2B"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:2p_(nier:automata)_(cosplay):primary"
+msgid "2p_(nier:automata)_(cosplay)"
+msgstr "2P（尼尔：机械纪元）cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:2palsa:primary"
+msgid "2palsa"
+msgstr "2palsa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2pcolor:primary"
+msgid "2pcolor"
+msgstr "2P配色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2pcryptoart:primary"
+msgid "2pcryptoart"
+msgstr "2pcryptoart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2pfrog:primary"
+msgid "2pfrog"
+msgstr "2pFrog"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2ph4u:primary"
+msgid "2ph4u"
+msgstr "2ph4u"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2phan:primary"
+msgid "2phan"
+msgstr "2phan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:2pineapplepizza:primary"
+msgid "2pineapplepizza"
+msgstr "两份菠萝披萨"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2pingms:primary"
+msgid "2pingms"
+msgstr "2PingMS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2pizza2roll:primary"
+msgid "2pizza2roll"
+msgstr "2pizza2roll"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:2pm_(group):primary"
+msgid "2pm_(group)"
+msgstr "2PM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 142
+msgctxt "tag:2poet:primary"
+msgid "2poet"
+msgstr "2poet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:2pwqq:primary"
+msgid "2pwqq"
+msgstr "2pwqq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:2pyj5:primary"
+msgid "2pyj5"
+msgstr "2pyj5"

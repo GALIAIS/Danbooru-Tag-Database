@@ -1,0 +1,7032 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:37+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:37+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:og:primary"
+msgid "og"
+msgstr "OG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:og-pogg:primary"
+msgid "og-pogg"
+msgstr "OG POGG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 王大人
+msgctxt "tag:og-sama:primary"
+msgid "og-sama"
+msgstr "OG大人"
+
+#. alias-of: og-sama
+#. source: ai
+msgctxt "tag:og-sama:alias:1"
+msgid "og-sama"
+msgstr "王大人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:og3_gg:primary"
+msgid "og3_gg"
+msgstr "og3_gg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:og3da_1:primary"
+msgid "og3da_1"
+msgstr "用户标签"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:og3pyaaaaaa:primary"
+msgid "og3pyaaaaaa"
+msgstr "og3pyaaaaaa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: og5
+msgctxt "tag:og5wo:primary"
+msgid "og5wo"
+msgstr "og5wo"
+
+#. alias-of: og5wo
+#. source: ai
+msgctxt "tag:og5wo:alias:1"
+msgid "og5wo"
+msgstr "og5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:og7ev0q1rgmigyi:primary"
+msgid "og7ev0q1rgmigyi"
+msgstr "og7ev0q1rgmigyi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:og_(adlyreimu):primary"
+msgid "og_(adlyreimu)"
+msgstr "og"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:og_(b7yun):primary"
+msgid "og_(b7yun)"
+msgstr "OG (B7Yun)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:og_(erfv4822):primary"
+msgid "og_(erfv4822)"
+msgstr "OG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:og_(tofukoz0):primary"
+msgid "og_(tofukoz0)"
+msgstr "OG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:og_3tt:primary"
+msgid "og_3tt"
+msgstr "og_3tt"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:og_albonquetine:primary"
+msgid "og_albonquetine"
+msgstr "阿尔邦克坦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:og_bulldog:primary"
+msgid "og_bulldog"
+msgstr "OG Bulldog"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:og_cham:primary"
+msgid "og_cham"
+msgstr "og_cham"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:og_loc:primary"
+msgid "og_loc"
+msgstr "OG Loc"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:og_loc_(cosplay):primary"
+msgid "og_loc_(cosplay)"
+msgstr "OG Loc cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:og_man:primary"
+msgid "og_man"
+msgstr "OG男"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:og_purp:primary"
+msgid "og_purp"
+msgstr "OG Purp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:og_rororo:primary"
+msgid "og_rororo"
+msgstr "Rororo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oga:primary"
+msgid "oga"
+msgstr "Oga"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oga.:primary"
+msgid "oga."
+msgstr "Oga"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oga102:primary"
+msgid "oga102"
+msgstr "OGA102"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oga32rico:primary"
+msgid "oga32rico"
+msgstr "oga32rico"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:oga914:primary"
+msgid "oga914"
+msgstr "Oga914"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oga_(ater_gardevoir):primary"
+msgid "oga_(ater_gardevoir)"
+msgstr "oga（ater_gardevoir）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:oga_(bibide):primary"
+msgid "oga_(bibide)"
+msgstr "奥加"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oga_(boruto):primary"
+msgid "oga_(boruto)"
+msgstr "大筒木果心居士"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 80
+#. aliases: 精灵吃不胖
+msgctxt "tag:oga_(elf-san_wa_yaserarenai.):primary"
+msgid "oga_(elf-san_wa_yaserarenai.)"
+msgstr "欧伽"
+
+#. alias-of: oga_(elf-san_wa_yaserarenai.)
+#. source: ai
+msgctxt "tag:oga_(elf-san_wa_yaserarenai.):alias:1"
+msgid "oga_(elf-san_wa_yaserarenai.)"
+msgstr "精灵吃不胖"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:oga_(o-g-a):primary"
+msgid "oga_(o-g-a)"
+msgstr "大蛇（O-G-A）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oga_(ogw175):primary"
+msgid "oga_(ogw175)"
+msgstr "oga_(ogw175)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:oga_akita:primary"
+msgid "oga_akita"
+msgstr "秋田オオガ"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:oga_bira_kanzashi:primary"
+msgid "oga_bira_kanzashi"
+msgstr "毘沙门堂簪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oga_fuka:primary"
+msgid "oga_fuka"
+msgstr "Oga Fuka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:oga_kazuo:primary"
+msgid "oga_kazuo"
+msgstr "加贺尾和夫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oga_koichi:primary"
+msgid "oga_koichi"
+msgstr "绪方浩一"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:oga_mecha:primary"
+msgid "oga_mecha"
+msgstr "Oga Mecha"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oga_misaki:primary"
+msgid "oga_misaki"
+msgstr "绪方美咲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oga_momiji:primary"
+msgid "oga_momiji"
+msgstr "绪方红叶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:oga_nadeshiko:primary"
+msgid "oga_nadeshiko"
+msgstr "大贺撫子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oga_natsume:primary"
+msgid "oga_natsume"
+msgstr "绪方夏目"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 142
+msgctxt "tag:oga_raito:primary"
+msgid "oga_raito"
+msgstr "男鹿莱特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oga_sasari:primary"
+msgid "oga_sasari"
+msgstr "Oga Sasari"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+#. aliases: 御伽睡觉
+msgctxt "tag:oga_sleep:primary"
+msgid "oga_sleep"
+msgstr "御伽睡眠"
+
+#. alias-of: oga_sleep
+#. source: ai
+msgctxt "tag:oga_sleep:alias:1"
+msgid "oga_sleep"
+msgstr "御伽睡觉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oga_takeshi:primary"
+msgid "oga_takeshi"
+msgstr "Oga Takeshi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:oga_tatsumi:primary"
+msgid "oga_tatsumi"
+msgstr "大贺龙臣"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:oga_yui_open:primary"
+msgid "oga_yui_open"
+msgstr "小河结衣（开放）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogaawa:primary"
+msgid "ogaawa"
+msgstr "小川"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogachimu_(vtuber):primary"
+msgid "ogachimu_(vtuber)"
+msgstr "御伽知美（虚拟主播）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ogachin:primary"
+msgid "ogachin"
+msgstr "Ogachin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogachoko:primary"
+msgid "ogachoko"
+msgstr "Ogachoko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 70
+msgctxt "tag:ogadenmon:primary"
+msgid "ogadenmon"
+msgstr "阿加德蒙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogaga666:primary"
+msgid "ogaga666"
+msgstr "欧嘎嘎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:ogai:primary"
+msgid "ogai"
+msgstr "森鸥外"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogai_komori:primary"
+msgid "ogai_komori"
+msgstr "ogai_komori"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogak_48124:primary"
+msgid "ogak_48124"
+msgstr "Ogak"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogaki_(oshiro_project):primary"
+msgid "ogaki_(oshiro_project)"
+msgstr "大垣（城姬项目）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogaki_chika:primary"
+msgid "ogaki_chika"
+msgstr "小垣千夏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogakirokurou:primary"
+msgid "ogakirokurou"
+msgstr "尾崎六郎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogakko_(oga_rhythm):primary"
+msgid "ogakko_(oga_rhythm)"
+msgstr "Ogakko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ogakororomi:primary"
+msgid "ogakororomi"
+msgstr "ogakororomi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 81
+msgctxt "tag:ogakuru:primary"
+msgid "ogakuru"
+msgstr "Ogakuru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogakuzu1998:primary"
+msgid "ogakuzu1998"
+msgstr "ogakuzu1998"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogakuzu_(kochipd):primary"
+msgid "ogakuzu_(kochipd)"
+msgstr "奥ガクズ（Kochipd）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: OGKZZZ
+msgctxt "tag:ogakuzu_(ogkzzz):primary"
+msgid "ogakuzu_(ogkzzz)"
+msgstr "Ogakuzu"
+
+#. alias-of: ogakuzu_(ogkzzz)
+#. source: ai
+msgctxt "tag:ogakuzu_(ogkzzz):alias:1"
+msgid "ogakuzu_(ogkzzz)"
+msgstr "OGKZZZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ogamaru:primary"
+msgid "ogamaru"
+msgstr "小龟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogamat:primary"
+msgid "ogamat"
+msgstr "冈松"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 155
+msgctxt "tag:ogami:primary"
+msgid "ogami"
+msgstr "大神"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogami's_grandson_(jujutsu_kaisen):primary"
+msgid "ogami's_grandson_(jujutsu_kaisen)"
+msgstr "尾神的孙子（咒术回战）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogami_(doodad):primary"
+msgid "ogami_(doodad)"
+msgstr "ogami（doodad）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogami_(jujutsu_kaisen):primary"
+msgid "ogami_(jujutsu_kaisen)"
+msgstr "小神（咒术回战）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogami_akuma:primary"
+msgid "ogami_akuma"
+msgstr "大神恶魔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogami_ayumu:primary"
+msgid "ogami_ayumu"
+msgstr "小神步"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+#. aliases: 大神万理
+msgctxt "tag:ogami_banri:primary"
+msgid "ogami_banri"
+msgstr "大神万理"
+
+#. alias-of: ogami_banri
+#. source: ai
+msgctxt "tag:ogami_banri:alias:1"
+msgid "ogami_banri"
+msgstr "大神万理"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogami_daigorou:primary"
+msgid "ogami_daigorou"
+msgstr "大神大五郎"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogami_daigorou_(cosplay):primary"
+msgid "ogami_daigorou_(cosplay)"
+msgstr "大五郎 cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 118
+#. aliases: 大神春
+msgctxt "tag:ogami_haru:primary"
+msgid "ogami_haru"
+msgstr "尾上春"
+
+#. alias-of: ogami_haru
+#. source: ai
+msgctxt "tag:ogami_haru:alias:1"
+msgid "ogami_haru"
+msgstr "大神春"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogami_itsuki:primary"
+msgid "ogami_itsuki"
+msgstr "小神樹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogami_ittou:primary"
+msgid "ogami_ittou"
+msgstr "大神一刀"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogami_ittou_(cosplay):primary"
+msgid "ogami_ittou_(cosplay)"
+msgstr "一刀 cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogami_juzo:primary"
+msgid "ogami_juzo"
+msgstr "大神十藏"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogami_kagemi:primary"
+msgid "ogami_kagemi"
+msgstr "大神影美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1528
+#. aliases: 和樹
+msgctxt "tag:ogami_kazuki:primary"
+msgid "ogami_kazuki"
+msgstr "大神和樹"
+
+#. alias-of: ogami_kazuki
+#. source: ai
+msgctxt "tag:ogami_kazuki:alias:1"
+msgid "ogami_kazuki"
+msgstr "和樹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogami_kenji:primary"
+msgid "ogami_kenji"
+msgstr "大神健二"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogami_kizuki:primary"
+msgid "ogami_kizuki"
+msgstr "大神月希"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 180
+msgctxt "tag:ogami_koga:primary"
+msgid "ogami_koga"
+msgstr "奥加美·古贺"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogami_koga_(cosplay):primary"
+msgid "ogami_koga_(cosplay)"
+msgstr "大神晃牙（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+#. aliases: 狼神狼
+msgctxt "tag:ogami_koga_(wolf):primary"
+msgid "ogami_koga_(wolf)"
+msgstr "Ogami Koga"
+
+#. alias-of: ogami_koga_(wolf)
+#. source: ai
+msgctxt "tag:ogami_koga_(wolf):alias:1"
+msgid "ogami_koga_(wolf)"
+msgstr "狼神狼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 66
+#. aliases: 小舞愛
+msgctxt "tag:ogami_matoi:primary"
+msgid "ogami_matoi"
+msgstr "小舞爱"
+
+#. alias-of: ogami_matoi
+#. source: ai
+msgctxt "tag:ogami_matoi:alias:1"
+msgid "ogami_matoi"
+msgstr "小舞愛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogami_miyuki:primary"
+msgid "ogami_miyuki"
+msgstr "大神美雪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogami_natsuki:primary"
+msgid "ogami_natsuki"
+msgstr "大神夏希"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogami_rei:primary"
+msgid "ogami_rei"
+msgstr "大神零"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 165
+msgctxt "tag:ogami_ren:primary"
+msgid "ogami_ren"
+msgstr "奥伽美莲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 699
+#. aliases: ogami_sachi
+msgctxt "tag:ogami_sachi:primary"
+msgid "ogami_sachi"
+msgstr "大神幸"
+
+#. alias-of: ogami_sachi
+#. source: ai
+msgctxt "tag:ogami_sachi:alias:1"
+msgid "ogami_sachi"
+msgstr "ogami_sachi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ogami_sachi_(post-graduation_casual):primary"
+msgid "ogami_sachi_(post-graduation_casual)"
+msgstr "小神晓（毕业后便装）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 423
+msgctxt "tag:ogami_sakura:primary"
+msgid "ogami_sakura"
+msgstr "大神樱"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogami_sakura_(cosplay):primary"
+msgid "ogami_sakura_(cosplay)"
+msgstr "大神樱（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+#. aliases: 大神白郎
+msgctxt "tag:ogami_shiro:primary"
+msgid "ogami_shiro"
+msgstr "大神白"
+
+#. alias-of: ogami_shiro
+#. source: ai
+msgctxt "tag:ogami_shiro:alias:1"
+msgid "ogami_shiro"
+msgstr "大神白郎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 175
+msgctxt "tag:ogami_shirou:primary"
+msgid "ogami_shirou"
+msgstr "奥加美志郎"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogami_shirou_(cosplay):primary"
+msgid "ogami_shirou_(cosplay)"
+msgstr "大神士郎 cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogami_tadashina:primary"
+msgid "ogami_tadashina"
+msgstr "大神正品"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 638
+msgctxt "tag:ogami_tamaki:primary"
+msgid "ogami_tamaki"
+msgstr "小鞠"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 环的奶奶
+msgctxt "tag:ogami_tamaki's_grandmother:primary"
+msgid "ogami_tamaki's_grandmother"
+msgstr "大神环的祖母"
+
+#. alias-of: ogami_tamaki's_grandmother
+#. source: ai
+msgctxt "tag:ogami_tamaki's_grandmother:alias:1"
+msgid "ogami_tamaki's_grandmother"
+msgstr "环的奶奶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogami_tamaki's_mother:primary"
+msgid "ogami_tamaki's_mother"
+msgstr "大神环的母亲"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogami_tamaki_(cosplay):primary"
+msgid "ogami_tamaki_(cosplay)"
+msgstr "大神环（Cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogami_tomoyuki:primary"
+msgid "ogami_tomoyuki"
+msgstr "Ogami Tomoyuki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 112
+msgctxt "tag:ogami_tsumiki:primary"
+msgid "ogami_tsumiki"
+msgstr "大神つみき"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 119
+msgctxt "tag:ogami_tsumiki_to_ki_nichijou:primary"
+msgid "ogami_tsumiki_to_ki_nichijou"
+msgstr "大神つみきとキ日常"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogami_wolf:primary"
+msgid "ogami_wolf"
+msgstr "大神狼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogami_yugo:primary"
+msgid "ogami_yugo"
+msgstr "大神优吾"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogami_yugo_(cosplay):primary"
+msgid "ogami_yugo_(cosplay)"
+msgstr "大神由悟（cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogami_yuuto:primary"
+msgid "ogami_yuuto"
+msgstr "大神悠斗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogamin:primary"
+msgid "ogamin"
+msgstr "小南"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogamin_(peer):primary"
+msgid "ogamin_(peer)"
+msgstr "小神（同人）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ogamiomi:primary"
+msgid "ogamiomi"
+msgstr "ogamiomi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ogamiya:primary"
+msgid "ogamiya"
+msgstr "大神屋"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:ogamiya_jin:primary"
+msgid "ogamiya_jin"
+msgstr "雄神人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogamo_tou:primary"
+msgid "ogamo_tou"
+msgstr "小龟"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogamon:primary"
+msgid "ogamon"
+msgstr "大画门"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oganashi:primary"
+msgid "oganashi"
+msgstr "oganashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oganes:primary"
+msgid "oganes"
+msgstr "奥加内斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oganessonishere:primary"
+msgid "oganessonishere"
+msgstr "有机超人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogano_daiki:primary"
+msgid "ogano_daiki"
+msgstr "小鹿野大樹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogano_mika:primary"
+msgid "ogano_mika"
+msgstr "小野美香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oganyaaaa:primary"
+msgid "oganyaaaa"
+msgstr "Oganyaaaa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:ogaoekaki:primary"
+msgid "ogaoekaki"
+msgstr "颜文字绘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogap1138:primary"
+msgid "ogap1138"
+msgstr "ogap1138"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogapiyo:primary"
+msgid "ogapiyo"
+msgstr "ogapiyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:ogarasu:primary"
+msgid "ogarasu"
+msgstr "小乌鸦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogaros:primary"
+msgid "ogaros"
+msgstr "奥加罗斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogaryuu:primary"
+msgid "ogaryuu"
+msgstr "ogaryuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogas22:primary"
+msgid "ogas22"
+msgstr "ogas22"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogasa/momiji:primary"
+msgid "ogasa/momiji"
+msgstr "Ogasa/Momiji"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogasa_shin:primary"
+msgid "ogasa_shin"
+msgstr "小笠真"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 450
+msgctxt "tag:ogasahara_hisame:primary"
+msgid "ogasahara_hisame"
+msgstr "小笠原久留美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:ogasahara_hisame_(angelic_genius_swordswoman):primary"
+msgid "ogasahara_hisame_(angelic_genius_swordswoman)"
+msgstr "小笠原绯沙子 (天才剑士)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogasahara_hisame_(cosplay):primary"
+msgid "ogasahara_hisame_(cosplay)"
+msgstr "小笠原久雨（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:ogasahara_hisame_(desire_and_reverence):primary"
+msgid "ogasahara_hisame_(desire_and_reverence)"
+msgstr "小笠原氷沙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:ogasahara_hisame_(garnet_dusklight):primary"
+msgid "ogasahara_hisame_(garnet_dusklight)"
+msgstr "小笠原冰雨"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogasahara_hisame_(spring-colored_easter_bunny):primary"
+msgid "ogasahara_hisame_(spring-colored_easter_bunny)"
+msgstr "小笠原冰雨（春色复活节兔子）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogasaka:primary"
+msgid "ogasaka"
+msgstr "尾坂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogasan0317:primary"
+msgid "ogasan0317"
+msgstr "ogasan0317"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogasanart:primary"
+msgid "ogasanart"
+msgstr "Ogasanart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 89
+msgctxt "tag:ogasawara:primary"
+msgid "ogasawara"
+msgstr "小笠原"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogasawara_(v_ogaoga_v):primary"
+msgid "ogasawara_(v_ogaoga_v)"
+msgstr "ogasawara（v_ogaoga_v）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:ogasawara_akiko:primary"
+msgid "ogasawara_akiko"
+msgstr "小笠原晶子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogasawara_arisa:primary"
+msgid "ogasawara_arisa"
+msgstr "小笠原亚里沙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogasawara_atsushi:primary"
+msgid "ogasawara_atsushi"
+msgstr "小笠原淳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogasawara_chika:primary"
+msgid "ogasawara_chika"
+msgstr "小笠原千花"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: Ogasawara Chisa
+msgctxt "tag:ogasawara_chisa:primary"
+msgid "ogasawara_chisa"
+msgstr "小笠原千沙"
+
+#. alias-of: ogasawara_chisa
+#. source: ai
+msgctxt "tag:ogasawara_chisa:alias:1"
+msgid "ogasawara_chisa"
+msgstr "Ogasawara Chisa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogasawara_daichi:primary"
+msgid "ogasawara_daichi"
+msgstr "小笠原大地"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogasawara_emi:primary"
+msgid "ogasawara_emi"
+msgstr "小笠原绘美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 132
+msgctxt "tag:ogasawara_haruka:primary"
+msgid "ogasawara_haruka"
+msgstr "小笠原晴香"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogasawara_haruka_(cosplay):primary"
+msgid "ogasawara_haruka_(cosplay)"
+msgstr "小笠原遥（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:ogasawara_hikari:primary"
+msgid "ogasawara_hikari"
+msgstr "小笠原光"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogasawara_hikari_(true_tears_(eroge)):primary"
+msgid "ogasawara_hikari_(true_tears_(eroge))"
+msgstr "小笠原光"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogasawara_hiroki:primary"
+msgid "ogasawara_hiroki"
+msgstr "小笠原弘树"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogasawara_houzaburou:primary"
+msgid "ogasawara_houzaburou"
+msgstr "小笠原丰三郎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogasawara_jirou:primary"
+msgid "ogasawara_jirou"
+msgstr "小笠原二郎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogasawara_kaoru:primary"
+msgid "ogasawara_kaoru"
+msgstr "小笠原薰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 123
+msgctxt "tag:ogasawara_kaya:primary"
+msgid "ogasawara_kaya"
+msgstr "小笠原萱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogasawara_kuuma:primary"
+msgid "ogasawara_kuuma"
+msgstr "小笠原空马"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogasawara_mao:primary"
+msgid "ogasawara_mao"
+msgstr "小笠原真央"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogasawara_michihiro:primary"
+msgid "ogasawara_michihiro"
+msgstr "小笠原道弘"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogasawara_miho:primary"
+msgid "ogasawara_miho"
+msgstr "小笠原美保"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogasawara_momoko:primary"
+msgid "ogasawara_momoko"
+msgstr "小笠原桃子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogasawara_nana:primary"
+msgid "ogasawara_nana"
+msgstr "小笠原奈奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 116
+msgctxt "tag:ogasawara_rinko:primary"
+msgid "ogasawara_rinko"
+msgstr "小笠原伦子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogasawara_rinko_(cosplay):primary"
+msgid "ogasawara_rinko_(cosplay)"
+msgstr "小笠原凛子（cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogasawara_ryuunosuke:primary"
+msgid "ogasawara_ryuunosuke"
+msgstr "小笠原龙之介"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 616
+msgctxt "tag:ogasawara_sachiko:primary"
+msgid "ogasawara_sachiko"
+msgstr "小笠原幸子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: cosplay
+msgctxt "tag:ogasawara_sachiko_(cosplay):primary"
+msgid "ogasawara_sachiko_(cosplay)"
+msgstr "小笠原祥子（cosplay）"
+
+#. alias-of: ogasawara_sachiko_(cosplay)
+#. source: ai
+msgctxt "tag:ogasawara_sachiko_(cosplay):alias:1"
+msgid "ogasawara_sachiko_(cosplay)"
+msgstr "cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ogasawara_sadamune:primary"
+msgid "ogasawara_sadamune"
+msgstr "小笠原贞宗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogasawara_takamaru:primary"
+msgid "ogasawara_takamaru"
+msgstr "小笠原拓丸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ogasawara_tomy:primary"
+msgid "ogasawara_tomy"
+msgstr "小笠原 TOMMY"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogasawara_tsubana:primary"
+msgid "ogasawara_tsubana"
+msgstr "小笠原翼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogasawara_yuuta:primary"
+msgid "ogasawara_yuuta"
+msgstr "小笠原悠斗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogasawara_yuuto:primary"
+msgid "ogasawara_yuuto"
+msgstr "小笠原悠斗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:ogashira_hiromi:primary"
+msgid "ogashira_hiromi"
+msgstr "小头广实"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogat_0427:primary"
+msgid "ogat_0427"
+msgstr "OGAT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 63
+msgctxt "tag:ogata:primary"
+msgid "ogata"
+msgstr "绪方"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ogata69:primary"
+msgid "ogata69"
+msgstr "Ogata69"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogata_(assan0202):primary"
+msgid "ogata_(assan0202)"
+msgstr "绪方"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogata_(kitunetoishi):primary"
+msgid "ogata_(kitunetoishi)"
+msgstr "ogata"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_(macomi):primary"
+msgid "ogata_(macomi)"
+msgstr "绪方（macomi）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:ogata_(mm_ogata_rkgk):primary"
+msgid "ogata_(mm_ogata_rkgk)"
+msgstr "绪方"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogata_(oga00):primary"
+msgid "ogata_(oga00)"
+msgstr "小方（oga00）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ogata_(ogata-page):primary"
+msgid "ogata_(ogata-page)"
+msgstr "小方（Ogata页面）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_(ogt326):primary"
+msgid "ogata_(ogt326)"
+msgstr "绪方（ogt326）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 245
+#. aliases: ogata, ogt_illust
+msgctxt "tag:ogata_(ogt_illust):primary"
+msgid "ogata_(ogt_illust)"
+msgstr "绪方"
+
+#. alias-of: ogata_(ogt_illust)
+#. source: ai
+msgctxt "tag:ogata_(ogt_illust):alias:1"
+msgid "ogata_(ogt_illust)"
+msgstr "ogata"
+
+#. alias-of: ogata_(ogt_illust)
+#. source: ai
+msgctxt "tag:ogata_(ogt_illust):alias:2"
+msgid "ogata_(ogt_illust)"
+msgstr "ogt_illust"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_(tuiq4xv6gf8943):primary"
+msgid "ogata_(tuiq4xv6gf8943)"
+msgstr "ogata"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ogata_18:primary"
+msgid "ogata_18"
+msgstr "ogata_18"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 68
+#. aliases: 绪方
+msgctxt "tag:ogata_airi:primary"
+msgid "ogata_airi"
+msgstr "绪方爱日里"
+
+#. alias-of: ogata_airi
+#. source: ai
+msgctxt "tag:ogata_airi:alias:1"
+msgid "ogata_airi"
+msgstr "绪方"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogata_aki:primary"
+msgid "ogata_aki"
+msgstr "绪方爱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogata_akira:primary"
+msgid "ogata_akira"
+msgstr "绪方明"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ogata_arishiana:primary"
+msgid "ogata_arishiana"
+msgstr "绪方有栖花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogata_buta:primary"
+msgid "ogata_buta"
+msgstr "尾形猪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1149
+#. aliases: 千绘里
+msgctxt "tag:ogata_chieri:primary"
+msgid "ogata_chieri"
+msgstr "绪方千绘里"
+
+#. alias-of: ogata_chieri
+#. source: ai
+msgctxt "tag:ogata_chieri:alias:1"
+msgid "ogata_chieri"
+msgstr "千绘里"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogata_chieri_(cosplay):primary"
+msgid "ogata_chieri_(cosplay)"
+msgstr "绪方智绘里（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_cocona:primary"
+msgid "ogata_cocona"
+msgstr "绪方小可奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_fumi:primary"
+msgid "ogata_fumi"
+msgstr "绪方文"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogata_gakuo:primary"
+msgid "ogata_gakuo"
+msgstr "ogata_gakuo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 97
+msgctxt "tag:ogata_garaiya:primary"
+msgid "ogata_garaiya"
+msgstr "緒方伽罗耶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:ogata_hiro:primary"
+msgid "ogata_hiro"
+msgstr "绪方浩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogata_hiromi:primary"
+msgid "ogata_hiromi"
+msgstr "绪方浩美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ogata_hisano:primary"
+msgid "ogata_hisano"
+msgstr "尾形久野"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1433
+msgctxt "tag:ogata_hyakunosuke:primary"
+msgid "ogata_hyakunosuke"
+msgstr "绪方百之助"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogata_hyakunosuke_(cosplay):primary"
+msgid "ogata_hyakunosuke_(cosplay)"
+msgstr "尾形百之助（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_ichirouta:primary"
+msgid "ogata_ichirouta"
+msgstr "尾形一郎太"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogata_iori:primary"
+msgid "ogata_iori"
+msgstr "绪方伊织"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_kaedeko:primary"
+msgid "ogata_kaedeko"
+msgstr "绪方花绘子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 绪方
+msgctxt "tag:ogata_kanami:primary"
+msgid "ogata_kanami"
+msgstr "绪方香奈美"
+
+#. alias-of: ogata_kanami
+#. source: ai
+msgctxt "tag:ogata_kanami:alias:1"
+msgid "ogata_kanami"
+msgstr "绪方"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ogata_kanna_(engage_kiss):primary"
+msgid "ogata_kanna_(engage_kiss)"
+msgstr "绪方神奈（恋战冲绳）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogata_kari:primary"
+msgid "ogata_kari"
+msgstr "绪方狩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogata_katsumi:primary"
+msgid "ogata_katsumi"
+msgstr "绪方克巳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogata_ken'ichi:primary"
+msgid "ogata_ken'ichi"
+msgstr "绪方健一"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_kimika:primary"
+msgid "ogata_kimika"
+msgstr "绪方君香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogata_kinji:primary"
+msgid "ogata_kinji"
+msgstr "Ogata Kinji"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogata_kou:primary"
+msgid "ogata_kou"
+msgstr "绪方航"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:ogata_kouji:primary"
+msgid "ogata_kouji"
+msgstr "绪方浩二"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 绪方浩二
+msgctxt "tag:ogata_kouji_(fatal_frame):primary"
+msgid "ogata_kouji_(fatal_frame)"
+msgstr "绪方浩二（零系列）"
+
+#. alias-of: ogata_kouji_(fatal_frame)
+#. source: ai
+msgctxt "tag:ogata_kouji_(fatal_frame):alias:1"
+msgid "ogata_kouji_(fatal_frame)"
+msgstr "绪方浩二"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 82
+msgctxt "tag:ogata_mamimi:primary"
+msgid "ogata_mamimi"
+msgstr "绪方真美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_manami:primary"
+msgid "ogata_manami"
+msgstr "绪方爱奈美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:ogata_matake:primary"
+msgid "ogata_matake"
+msgstr "尾形真挺"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ogata_megumi:primary"
+msgid "ogata_megumi"
+msgstr "绪方惠美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Ogata Minatsu
+msgctxt "tag:ogata_minatsu:primary"
+msgid "ogata_minatsu"
+msgstr "绪方实夏"
+
+#. alias-of: ogata_minatsu
+#. source: ai
+msgctxt "tag:ogata_minatsu:alias:1"
+msgid "ogata_minatsu"
+msgstr "Ogata Minatsu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_musya:primary"
+msgid "ogata_musya"
+msgstr "绪方武者"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogata_nakkuru:primary"
+msgid "ogata_nakkuru"
+msgstr "绪方七"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogata_neiko:primary"
+msgid "ogata_neiko"
+msgstr "绪方宁子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:ogata_nenji:primary"
+msgid "ogata_nenji"
+msgstr "绪方贤治"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_reo:primary"
+msgid "ogata_reo"
+msgstr "绪方丽央"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ogata_rin:primary"
+msgid "ogata_rin"
+msgstr "小片凛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ogata_rin_(kimihane):primary"
+msgid "ogata_rin_(kimihane)"
+msgstr "绪方凛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogata_rin_(yohaji):primary"
+msgid "ogata_rin_(yohaji)"
+msgstr "绪方凛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 101
+#. aliases: 理奈
+msgctxt "tag:ogata_rina:primary"
+msgid "ogata_rina"
+msgstr "绪方理奈"
+
+#. alias-of: ogata_rina
+#. source: ai
+msgctxt "tag:ogata_rina:alias:1"
+msgid "ogata_rina"
+msgstr "理奈"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogata_rina_(cosplay):primary"
+msgid "ogata_rina_(cosplay)"
+msgstr "绪方里奈（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 139
+msgctxt "tag:ogata_rizu:primary"
+msgid "ogata_rizu"
+msgstr "绪方理珠"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ogata_sai:primary"
+msgid "ogata_sai"
+msgstr "绪方彩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogata_saki:primary"
+msgid "ogata_saki"
+msgstr "绪方沙希"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogata_seiji:primary"
+msgid "ogata_seiji"
+msgstr "绪方诚司"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ogata_shuu:primary"
+msgid "ogata_shuu"
+msgstr "绪方修"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogata_souma:primary"
+msgid "ogata_souma"
+msgstr "绪方苍真"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogata_tago:primary"
+msgid "ogata_tago"
+msgstr "ogata_tago"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_takahiko:primary"
+msgid "ogata_takahiko"
+msgstr "绪方孝彦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:ogata_tank:primary"
+msgid "ogata_tank"
+msgstr "奥加坦克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 367
+msgctxt "tag:ogata_tei:primary"
+msgid "ogata_tei"
+msgstr "绪形亭"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogata_tome:primary"
+msgid "ogata_tome"
+msgstr "绪方留美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 173
+#. aliases: Ogata Tomio
+msgctxt "tag:ogata_tomio:primary"
+msgid "ogata_tomio"
+msgstr "绪方富美男"
+
+#. alias-of: ogata_tomio
+#. source: ai
+msgctxt "tag:ogata_tomio:alias:1"
+msgid "ogata_tomio"
+msgstr "Ogata Tomio"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_yoshihiko:primary"
+msgid "ogata_yoshihiko"
+msgstr "绪方义彦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_yuna:primary"
+msgid "ogata_yuna"
+msgstr "绪方由奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogata_yuriko:primary"
+msgid "ogata_yuriko"
+msgstr "绪方百合子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 105
+msgctxt "tag:ogata_zen:primary"
+msgid "ogata_zen"
+msgstr "尾形 禅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogatama:primary"
+msgid "ogatama"
+msgstr "ogatama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogatameungunbot:primary"
+msgid "ogatameungunbot"
+msgstr "Ogatameungunbot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogatarian:primary"
+msgid "ogatarian"
+msgstr "ogatarian"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogataro:primary"
+msgid "ogataro"
+msgstr "Ogataro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogatarou51:primary"
+msgid "ogatarou51"
+msgstr "尾张太郎51"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ogatatei:primary"
+msgid "ogatatei"
+msgstr "ogatatei"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa-san_(idolmaster):primary"
+msgid "ogawa-san_(idolmaster)"
+msgstr "小川先生（偶像大师）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_(aftf2285):primary"
+msgid "ogawa_(aftf2285)"
+msgstr "ogawa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_(buraiden_gai):primary"
+msgid "ogawa_(buraiden_gai)"
+msgstr "小川（《Buraiden Gai》）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_(moshika):primary"
+msgid "ogawa_(moshika)"
+msgstr "ogawa（moshika）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_(nogizaka_haruka):primary"
+msgid "ogawa_(nogizaka_haruka)"
+msgstr "小川（乃木坂春香的秘密）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogawa_(ogwckw):primary"
+msgid "ogawa_(ogwckw)"
+msgstr "小川"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogawa_(oh_lll):primary"
+msgid "ogawa_(oh_lll)"
+msgstr "ogawa（oh_lll）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogawa_(user_cnfd3434):primary"
+msgid "ogawa_(user_cnfd3434)"
+msgstr "ogawa_(user_cnfd3434)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_(viper_gts):primary"
+msgid "ogawa_(viper_gts)"
+msgstr "小川（Viper GTS）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_32:primary"
+msgid "ogawa_32"
+msgstr "ogawa_32"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_91:primary"
+msgid "ogawa_91"
+msgstr "小川91"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ogawa_akane:primary"
+msgid "ogawa_akane"
+msgstr "绪方茜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 小川安妮
+msgctxt "tag:ogawa_anne:primary"
+msgid "ogawa_anne"
+msgstr "小川安妮"
+
+#. alias-of: ogawa_anne
+#. source: ai
+msgctxt "tag:ogawa_anne:alias:1"
+msgid "ogawa_anne"
+msgstr "小川安妮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_aoi:primary"
+msgid "ogawa_aoi"
+msgstr "小川爱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_asami:primary"
+msgid "ogawa_asami"
+msgstr "小川麻美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_asumi:primary"
+msgid "ogawa_asumi"
+msgstr "小川明日美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_bimei_(bungou_to_alchemist):primary"
+msgid "ogawa_bimei_(bungou_to_alchemist)"
+msgstr "小川美命（文豪与炼金术师）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_chikako:primary"
+msgid "ogawa_chikako"
+msgstr "小川智佳子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_chiyomi:primary"
+msgid "ogawa_chiyomi"
+msgstr "小川千代美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_chris:primary"
+msgid "ogawa_chris"
+msgstr "小川克莉丝"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogawa_eri_(animator):primary"
+msgid "ogawa_eri_(animator)"
+msgstr "小川绘里"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogawa_eru:primary"
+msgid "ogawa_eru"
+msgstr "小川绘瑠"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_gozen:primary"
+msgid "ogawa_gozen"
+msgstr "小川御前"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_haruhito:primary"
+msgid "ogawa_haruhito"
+msgstr "小川春仁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:ogawa_hidari:primary"
+msgid "ogawa_hidari"
+msgstr "小川左"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ogawa_hikaru:primary"
+msgid "ogawa_hikaru"
+msgstr "小川光"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_hiromi:primary"
+msgid "ogawa_hiromi"
+msgstr "小川裕美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:ogawa_ikue:primary"
+msgid "ogawa_ikue"
+msgstr "小川爱久"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_kanako:primary"
+msgid "ogawa_kanako"
+msgstr "小川加奈子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ogawa_kanran:primary"
+msgid "ogawa_kanran"
+msgstr "小川 環蘭"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_kasumi:primary"
+msgid "ogawa_kasumi"
+msgstr "小川霞"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogawa_kazumi:primary"
+msgid "ogawa_kazumi"
+msgstr "Ogawa Kazumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_keiichiro:primary"
+msgid "ogawa_keiichiro"
+msgstr "小川启一郎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogawa_kentarou:primary"
+msgid "ogawa_kentarou"
+msgstr "小川健太郎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_kiharu:primary"
+msgid "ogawa_kiharu"
+msgstr "小川基春"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_kohei:primary"
+msgid "ogawa_kohei"
+msgstr "小川公平"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:ogawa_kokoro:primary"
+msgid "ogawa_kokoro"
+msgstr "小川心"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_kuniko:primary"
+msgid "ogawa_kuniko"
+msgstr "Ogawa Kuniko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ogawa_kuro:primary"
+msgid "ogawa_kuro"
+msgstr "Ogawa Kuro"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_madoka:primary"
+msgid "ogawa_madoka"
+msgstr "小川圆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 118
+msgctxt "tag:ogawa_maiko:primary"
+msgid "ogawa_maiko"
+msgstr "小川舞子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_mana:primary"
+msgid "ogawa_mana"
+msgstr "小川真奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_masaki:primary"
+msgid "ogawa_masaki"
+msgstr "小川正树"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_masami:primary"
+msgid "ogawa_masami"
+msgstr "小川正美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_masashi:primary"
+msgid "ogawa_masashi"
+msgstr "Ogawa Masashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_masataka:primary"
+msgid "ogawa_masataka"
+msgstr "小川正孝"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogawa_mashiro:primary"
+msgid "ogawa_mashiro"
+msgstr "小川真白"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_maya:primary"
+msgid "ogawa_maya"
+msgstr "Ogawa Maya"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogawa_meguri:primary"
+msgid "ogawa_meguri"
+msgstr "小川めぐり"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_mei:primary"
+msgid "ogawa_mei"
+msgstr "小川芽衣"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ogawa_miku:primary"
+msgid "ogawa_miku"
+msgstr "小川美久"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogawa_mimai:primary"
+msgid "ogawa_mimai"
+msgstr "小川未舞"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ogawa_misaki:primary"
+msgid "ogawa_misaki"
+msgstr "小川美咲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogawa_mizuki:primary"
+msgid "ogawa_mizuki"
+msgstr "小川美月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_mizuki_(takane_to_hana):primary"
+msgid "ogawa_mizuki_(takane_to_hana)"
+msgstr "小川美月（《高岭与花》）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_mizune:primary"
+msgid "ogawa_mizune"
+msgstr "小川水根"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_momoko:primary"
+msgid "ogawa_momoko"
+msgstr "ogawa_momoko"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogawa_nana:primary"
+msgid "ogawa_nana"
+msgstr "小川奈奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_nanase:primary"
+msgid "ogawa_nanase"
+msgstr "小川七濑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ogawa_naomi:primary"
+msgid "ogawa_naomi"
+msgstr "小川直美"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_nenne:primary"
+msgid "ogawa_nenne"
+msgstr "ogawa nenne"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_nori:primary"
+msgid "ogawa_nori"
+msgstr "ogawa nori"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_nyako:primary"
+msgid "ogawa_nyako"
+msgstr "小川猫子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Ogawa Reiki
+msgctxt "tag:ogawa_reiki:primary"
+msgid "ogawa_reiki"
+msgstr "小川令希"
+
+#. alias-of: ogawa_reiki
+#. source: ai
+msgctxt "tag:ogawa_reiki:alias:1"
+msgid "ogawa_reiki"
+msgstr "Ogawa Reiki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogawa_reiko:primary"
+msgid "ogawa_reiko"
+msgstr "小川丽子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_sakura:primary"
+msgid "ogawa_sakura"
+msgstr "小川樱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_sakura_(battle_royale):primary"
+msgid "ogawa_sakura_(battle_royale)"
+msgstr "小川樱（《大逃杀》）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_satomi:primary"
+msgid "ogawa_satomi"
+msgstr "小川里美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_satoshi:primary"
+msgid "ogawa_satoshi"
+msgstr "小川聪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 志保
+msgctxt "tag:ogawa_shiho:primary"
+msgid "ogawa_shiho"
+msgstr "小川志保"
+
+#. alias-of: ogawa_shiho
+#. source: ai
+msgctxt "tag:ogawa_shiho:alias:1"
+msgid "ogawa_shiho"
+msgstr "志保"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_shinji_(figure_17):primary"
+msgid "ogawa_shinji_(figure_17)"
+msgstr "小川伸二"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:ogawa_shinji_(symphogear):primary"
+msgid "ogawa_shinji_(symphogear)"
+msgstr "小川真司"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_shinji_(voice_actor):primary"
+msgid "ogawa_shinji_(voice_actor)"
+msgstr "小川真司"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+#. aliases: 小川诗乃
+msgctxt "tag:ogawa_shinon:primary"
+msgid "ogawa_shinon"
+msgstr "小川诗乃"
+
+#. alias-of: ogawa_shinon
+#. source: ai
+msgctxt "tag:ogawa_shinon:alias:1"
+msgid "ogawa_shinon"
+msgstr "小川诗乃"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogawa_shira:primary"
+msgid "ogawa_shira"
+msgstr "小川白"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ogawa_shizuka:primary"
+msgid "ogawa_shizuka"
+msgstr "Ogawa Shizuka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 338
+msgctxt "tag:ogawa_shou:primary"
+msgid "ogawa_shou"
+msgstr "小川翔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_shun:primary"
+msgid "ogawa_shun"
+msgstr "小川俊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+#. aliases: 小川
+msgctxt "tag:ogawa_shuusuke:primary"
+msgid "ogawa_shuusuke"
+msgstr "小川修介"
+
+#. alias-of: ogawa_shuusuke
+#. source: ai
+msgctxt "tag:ogawa_shuusuke:alias:1"
+msgid "ogawa_shuusuke"
+msgstr "小川"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_souji:primary"
+msgid "ogawa_souji"
+msgstr "小川宗二"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 202
+msgctxt "tag:ogawa_sumireko:primary"
+msgid "ogawa_sumireko"
+msgstr "小川堇子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_sumireko_(cosplay):primary"
+msgid "ogawa_sumireko_(cosplay)"
+msgstr "小川澄子（cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_tai:primary"
+msgid "ogawa_tai"
+msgstr "小川泰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_taichi:primary"
+msgid "ogawa_taichi"
+msgstr "Ogawa Taichi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogawa_takeshi:primary"
+msgid "ogawa_takeshi"
+msgstr "小川毅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_tamari:primary"
+msgid "ogawa_tamari"
+msgstr "小川玉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_tomoki:primary"
+msgid "ogawa_tomoki"
+msgstr "ogawa_tomoki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogawa_tomomi:primary"
+msgid "ogawa_tomomi"
+msgstr "小川智美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_touko:primary"
+msgid "ogawa_touko"
+msgstr "小川透子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogawa_yui:primary"
+msgid "ogawa_yui"
+msgstr "小川唯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:ogawa_yui_(girlfriend_(kari)):primary"
+msgid "ogawa_yui_(girlfriend_(kari))"
+msgstr "小川由唯（临时女友）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_yuki:primary"
+msgid "ogawa_yuki"
+msgstr "小川雪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawa_yumi:primary"
+msgid "ogawa_yumi"
+msgstr "小川由美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:ogawa_yuzuriha:primary"
+msgid "ogawa_yuzuriha"
+msgstr "Ogawa Yuzuriha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogawaburukku:primary"
+msgid "ogawaburukku"
+msgstr "Ogawaburukku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogawagawagaw:primary"
+msgid "ogawagawagaw"
+msgstr "ogawagawagaw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogawaky:primary"
+msgid "ogawaky"
+msgstr "Ogawaky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogawan_(opopinchan):primary"
+msgid "ogawan_(opopinchan)"
+msgstr "ogawan（opopinchan）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawara_genta:primary"
+msgid "ogawara_genta"
+msgstr "小川原源太"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogawara_kotetsu:primary"
+msgid "ogawara_kotetsu"
+msgstr "小河原小铁"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogawara_ryouhei:primary"
+msgid "ogawara_ryouhei"
+msgstr "小河原亮平"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogawarin1:primary"
+msgid "ogawarin1"
+msgstr "ogawarin1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawasensei:primary"
+msgid "ogawasensei"
+msgstr "小川老师"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogawazuka_shirome:primary"
+msgid "ogawazuka_shirome"
+msgstr "小川塚白目"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogaya_27:primary"
+msgid "ogaya_27"
+msgstr "Ogaya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: nina
+msgctxt "tag:ogaya_nina:primary"
+msgid "ogaya_nina"
+msgstr "小萱妮娜"
+
+#. alias-of: ogaya_nina
+#. source: ai
+msgctxt "tag:ogaya_nina:alias:1"
+msgid "ogaya_nina"
+msgstr "nina"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogayan0301:primary"
+msgid "ogayan0301"
+msgstr "ogayan0301"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogaygamechang:primary"
+msgid "ogaygamechang"
+msgstr "OGayGameChang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogayhellotoo:primary"
+msgid "ogayhellotoo"
+msgstr "ogayhellotoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: 小贺筑·113563
+msgctxt "tag:ogazuku_(113563):primary"
+msgid "ogazuku_(113563)"
+msgstr "小贺筑"
+
+#. alias-of: ogazuku_(113563)
+#. source: ai
+msgctxt "tag:ogazuku_(113563):alias:1"
+msgid "ogazuku_(113563)"
+msgstr "小贺筑·113563"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogbeefstew:primary"
+msgid "ogbeefstew"
+msgstr "ogbeefstew"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogblynz:primary"
+msgid "ogblynz"
+msgstr "ogblynz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogcmaster:primary"
+msgid "ogcmaster"
+msgstr "ogcmaster"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogden:primary"
+msgid "ogden"
+msgstr "奥格登"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogdoabyss_the_ogdoadic_overlord:primary"
+msgid "ogdoabyss_the_ogdoadic_overlord"
+msgstr "奥格多深渊之主"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oge:primary"
+msgid "oge"
+msgstr "oge"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:oge_(ogeogeoge):primary"
+msgid "oge_(ogeogeoge)"
+msgstr "OGE"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:oge_gege:primary"
+msgid "oge_gege"
+msgstr "oge_gege"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogebo_go:primary"
+msgid "ogebo_go"
+msgstr "Ogebo Go"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: kainkout
+msgctxt "tag:ogechi_(kainkout):primary"
+msgid "ogechi_(kainkout)"
+msgstr "ogechi"
+
+#. alias-of: ogechi_(kainkout)
+#. source: ai
+msgctxt "tag:ogechi_(kainkout):alias:1"
+msgid "ogechi_(kainkout)"
+msgstr "kainkout"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ogege_(ogege_kyit):primary"
+msgid "ogege_(ogege_kyit)"
+msgstr "Ogege (Ogege Kyit)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogen-san-chi_no_nezumi:primary"
+msgid "ogen-san-chi_no_nezumi"
+msgstr "御严家的老鼠"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogen-san_to_isshou:primary"
+msgid "ogen-san_to_isshou"
+msgstr "与御严小姐一起"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogen_(octopath_traveler):primary"
+msgid "ogen_(octopath_traveler)"
+msgstr "奥根（歧路旅人）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogen_sothis_(zahylon):primary"
+msgid "ogen_sothis_(zahylon)"
+msgstr "奥根·索提斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogenki:primary"
+msgid "ogenki"
+msgstr "元气"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogenki38:primary"
+msgid "ogenki38"
+msgstr "Ogenki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:ogenki_shrimp:primary"
+msgid "ogenki_shrimp"
+msgstr "元气虾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 102
+msgctxt "tag:ogenwn7:primary"
+msgid "ogenwn7"
+msgstr "Ogenwn7"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oger:primary"
+msgid "oger"
+msgstr "食人魔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 119
+msgctxt "tag:ogera_okera:primary"
+msgid "ogera_okera"
+msgstr "小野寺与小野中"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: nsfw
+#. post-count: 1
+msgctxt "tag:ogeretsu_daihyakka:primary"
+msgid "ogeretsu_daihyakka"
+msgstr "大淫百科"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:ogeretsu_tanaka:primary"
+msgid "ogeretsu_tanaka"
+msgstr "小烈谷田"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 912
+msgctxt "tag:ogerpon:primary"
+msgid "ogerpon"
+msgstr "厄诡椪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogerpon's_friend:primary"
+msgid "ogerpon's_friend"
+msgstr "厄诡椪的朋友"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:ogerpon_(cornerstone_mask):primary"
+msgid "ogerpon_(cornerstone_mask)"
+msgstr "太乐巴戈斯（基石面具）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 21
+#. aliases: 厄诡椪cosplay
+msgctxt "tag:ogerpon_(cosplay):primary"
+msgid "ogerpon_(cosplay)"
+msgstr "厄诡椪（Cosplay）"
+
+#. alias-of: ogerpon_(cosplay)
+#. source: ai
+msgctxt "tag:ogerpon_(cosplay):alias:1"
+msgid "ogerpon_(cosplay)"
+msgstr "厄诡椪cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:ogerpon_(hearthflame_mask):primary"
+msgid "ogerpon_(hearthflame_mask)"
+msgstr "厄诡椪(炉火面具)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 703
+msgctxt "tag:ogerpon_(teal_mask):primary"
+msgid "ogerpon_(teal_mask)"
+msgstr "奥格蓬青面具"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:ogerpon_(wellspring_mask):primary"
+msgid "ogerpon_(wellspring_mask)"
+msgstr "厄诡椪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 10
+#. aliases: ogeey_rrat
+msgctxt "tag:ogey_rrat_(meme):primary"
+msgid "ogey_rrat_(meme)"
+msgstr "ogey_rrat（梗图）"
+
+#. alias-of: ogey_rrat_(meme)
+#. source: ai
+msgctxt "tag:ogey_rrat_(meme):alias:1"
+msgid "ogey_rrat_(meme)"
+msgstr "ogeey_rrat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogfaibma_(aki):primary"
+msgid "ogfaibma_(aki)"
+msgstr "ogfaibma（aki）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ogfqd:primary"
+msgid "ogfqd"
+msgstr "OGFQD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogg4e:primary"
+msgid "ogg4e"
+msgstr "ogg4e"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oggi0000:primary"
+msgid "oggi0000"
+msgstr "oggi0000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oggi4r:primary"
+msgid "oggi4r"
+msgstr "oggi4r"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogginz:primary"
+msgid "ogginz"
+msgstr "奥金兹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oggo_(gundam):primary"
+msgid "oggo_(gundam)"
+msgstr "奥古（高达）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+#. aliases: Oggu
+msgctxt "tag:oggu-chan_(oggu):primary"
+msgid "oggu-chan_(oggu)"
+msgstr "Oggu酱"
+
+#. alias-of: oggu-chan_(oggu)
+#. source: ai
+msgctxt "tag:oggu-chan_(oggu):alias:1"
+msgid "oggu-chan_(oggu)"
+msgstr "Oggu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 144
+msgctxt "tag:oggu_(neoguloliko):primary"
+msgid "oggu_(neoguloliko)"
+msgstr "oggu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+#. aliases: 奥吉与蟑螂
+msgctxt "tag:oggy_(oggy_and_the_cockroaches):primary"
+msgid "oggy_(oggy_and_the_cockroaches)"
+msgstr "奥吉"
+
+#. alias-of: oggy_(oggy_and_the_cockroaches)
+#. source: ai
+msgctxt "tag:oggy_(oggy_and_the_cockroaches):alias:1"
+msgid "oggy_(oggy_and_the_cockroaches)"
+msgstr "奥吉与蟑螂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 135
+msgctxt "tag:oggy_(oggyoggy):primary"
+msgid "oggy_(oggyoggy)"
+msgstr "Oggy"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:oggy_and_the_cockroaches:primary"
+msgid "oggy_and_the_cockroaches"
+msgstr "肥猫奥吉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogh_(cobaltscribbler):primary"
+msgid "ogh_(cobaltscribbler)"
+msgstr "ogh（cobaltscribbler）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:oghhhi:primary"
+msgid "oghhhi"
+msgstr "oghhhi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:oghr:primary"
+msgid "oghr"
+msgstr "Oghr"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oghren_(dragon_age):primary"
+msgid "oghren_(dragon_age)"
+msgstr "Oghren（龙腾世纪）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oghumantripod:primary"
+msgid "oghumantripod"
+msgstr "oghumantripod"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogi:primary"
+msgid "ogi"
+msgstr "扇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogi_(afk):primary"
+msgid "ogi_(afk)"
+msgstr "ogi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogi_(nichijou):primary"
+msgid "ogi_(nichijou)"
+msgstr "荻"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogi_(ogi03s):primary"
+msgid "ogi_(ogi03s)"
+msgstr "Ogi（ogi03s）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ogi_(oginagirest):primary"
+msgid "ogi_(oginagirest)"
+msgstr "荻"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogi_(phantasy_star_zero):primary"
+msgid "ogi_(phantasy_star_zero)"
+msgstr "奥吉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ogi_(sendi03_):primary"
+msgid "ogi_(sendi03_)"
+msgstr "奥吉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:ogi_(sham00):primary"
+msgid "ogi_(sham00)"
+msgstr "扇子（sham00）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:ogi_(torikari):primary"
+msgid "ogi_(torikari)"
+msgstr "ogi_(torikari)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogi_(tottoko_79):primary"
+msgid "ogi_(tottoko_79)"
+msgstr "ogi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogi_beau:primary"
+msgid "ogi_beau"
+msgstr "ogi_beau"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogi_cutlass:primary"
+msgid "ogi_cutlass"
+msgstr "Ogi Cutlass"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogi_itaru:primary"
+msgid "ogi_itaru"
+msgstr "荻野至"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogi_koume:primary"
+msgid "ogi_koume"
+msgstr "荻小梅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogi_mahiru:primary"
+msgid "ogi_mahiru"
+msgstr "Ogi Mahiru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogi_no_hi:primary"
+msgid "ogi_no_hi"
+msgstr "ogi_no_hi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 118
+msgctxt "tag:ogi_non:primary"
+msgid "ogi_non"
+msgstr "荻野Non"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogi_ogi_0gi:primary"
+msgid "ogi_ogi_0gi"
+msgstr "荻荻"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogi_ogigi:primary"
+msgid "ogi_ogigi"
+msgstr "Ogi Ogigi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogi_sifer:primary"
+msgid "ogi_sifer"
+msgstr "荻西弗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogi_takane:primary"
+msgid "ogi_takane"
+msgstr "扇高根"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogi_yasuko:primary"
+msgid "ogi_yasuko"
+msgstr "荻安子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogidni_doom:primary"
+msgid "ogidni_doom"
+msgstr "ogidni_doom"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogido_0914_syuta:primary"
+msgid "ogido_0914_syuta"
+msgstr "ogido_0914_syuta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogidoge:primary"
+msgid "ogidoge"
+msgstr "Ogidoge"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogie_(knd):primary"
+msgid "ogie_(knd)"
+msgstr "Ogie（KND）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogie_nuts:primary"
+msgid "ogie_nuts"
+msgstr "Ogie Nuts"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+#. aliases: 火纹奥利希耶
+msgctxt "tag:ogier_(fire_emblem):primary"
+msgid "ogier_(fire_emblem)"
+msgstr "奥利希耶"
+
+#. alias-of: ogier_(fire_emblem)
+#. source: ai
+msgctxt "tag:ogier_(fire_emblem):alias:1"
+msgid "ogier_(fire_emblem)"
+msgstr "火纹奥利希耶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogier_(honkai_impact):primary"
+msgid "ogier_(honkai_impact)"
+msgstr "奥吉尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogier_(morimens):primary"
+msgid "ogier_(morimens)"
+msgstr "奥吉尔（千年之旅）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogier_wechsler:primary"
+msgid "ogier_wechsler"
+msgstr "奥吉尔·韦克斯勒"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogigaya_tetsuko:primary"
+msgid "ogigaya_tetsuko"
+msgstr "荻谷铁子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 246
+msgctxt "tag:ogihara_mach:primary"
+msgid "ogihara_mach"
+msgstr "荻原真"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogihara_mikumi:primary"
+msgid "ogihara_mikumi"
+msgstr "荻原美久"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogiharu:primary"
+msgid "ogiharu"
+msgstr "ogiharu"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogijima_island:primary"
+msgid "ogijima_island"
+msgstr "男木岛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ogiko:primary"
+msgid "ogiko"
+msgstr "奥吉子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogimachi_marin_(tacchan):primary"
+msgid "ogimachi_marin_(tacchan)"
+msgstr "小町真琳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogimachi_satsuki:primary"
+msgid "ogimachi_satsuki"
+msgstr "正亲町皋月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogimachi_yoyoyo:primary"
+msgid "ogimachi_yoyoyo"
+msgstr "小町よよよ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogimaruku:primary"
+msgid "ogimaruku"
+msgstr "荻丸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogimiya:primary"
+msgid "ogimiya"
+msgstr "荻宫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogimogi_poipoi:primary"
+msgid "ogimogi_poipoi"
+msgstr "ogimogi_poipoi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:ogimotozukin:primary"
+msgid "ogimotozukin"
+msgstr "荻本头巾"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogin:primary"
+msgid "ogin"
+msgstr "荻银"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogin's_mother_(girls_und_panzer):primary"
+msgid "ogin's_mother_(girls_und_panzer)"
+msgstr "Ogin的母亲（少女与战车）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogin3_k:primary"
+msgid "ogin3_k"
+msgstr "Ogin3K"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 467
+msgctxt "tag:ogin_(girls_und_panzer):primary"
+msgid "ogin_(girls_und_panzer)"
+msgstr "奥金（少战）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogin_(girls_und_panzer)_(cosplay):primary"
+msgid "ogin_(girls_und_panzer)_(cosplay)"
+msgstr "Ogin（少女与战车）（cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Ogin
+msgctxt "tag:ogin_(marvel):primary"
+msgid "ogin_(marvel)"
+msgstr "Ogin（漫威）"
+
+#. alias-of: ogin_(marvel)
+#. source: ai
+msgctxt "tag:ogin_(marvel):alias:1"
+msgid "ogin_(marvel)"
+msgstr "Ogin"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogin_(pachislot):primary"
+msgid "ogin_(pachislot)"
+msgstr "Ogin（柏青嫂）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 御前
+msgctxt "tag:ogin_(urusei_yatsura):primary"
+msgid "ogin_(urusei_yatsura)"
+msgstr "Ogin（福星小子）"
+
+#. alias-of: ogin_(urusei_yatsura)
+#. source: ai
+msgctxt "tag:ogin_(urusei_yatsura):alias:1"
+msgid "ogin_(urusei_yatsura)"
+msgstr "御前"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oginano:primary"
+msgid "oginano"
+msgstr "oginano"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogino_(2.5_jigen_no_ririsa):primary"
+msgid "ogino_(2.5_jigen_no_ririsa)"
+msgstr "荻野（2.5次元的诱惑）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 239
+#. aliases: Ogino
+msgctxt "tag:ogino_(oginogino):primary"
+msgid "ogino_(oginogino)"
+msgstr "荻野"
+
+#. alias-of: ogino_(oginogino)
+#. source: ai
+msgctxt "tag:ogino_(oginogino):alias:1"
+msgid "ogino_(oginogino)"
+msgstr "Ogino"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogino_(pnbt5):primary"
+msgid "ogino_(pnbt5)"
+msgstr "荻野"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ogino_(watamote):primary"
+msgid "ogino_(watamote)"
+msgstr "荻野"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogino_akiichirou:primary"
+msgid "ogino_akiichirou"
+msgstr "荻野秋一郎"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogino_akio:primary"
+msgid "ogino_akio"
+msgstr "荻野秋雄"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogino_akio_(cosplay):primary"
+msgid "ogino_akio_(cosplay)"
+msgstr "荻野明夫（cosplay）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:ogino_atsushi:primary"
+msgid "ogino_atsushi"
+msgstr "荻野敦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogino_chiaki:primary"
+msgid "ogino_chiaki"
+msgstr "荻野千晶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 656
+#. aliases: 荻野千寻
+msgctxt "tag:ogino_chihiro:primary"
+msgid "ogino_chihiro"
+msgstr "千寻"
+
+#. alias-of: ogino_chihiro
+#. source: ai
+msgctxt "tag:ogino_chihiro:alias:1"
+msgid "ogino_chihiro"
+msgstr "荻野千寻"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:ogino_chihiro_(cosplay):primary"
+msgid "ogino_chihiro_(cosplay)"
+msgstr "荻野千寻Cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+#. aliases: ogitchi
+msgctxt "tag:ogino_hitoshi_(ogitchi):primary"
+msgid "ogino_hitoshi_(ogitchi)"
+msgstr "ogino hitoshi"
+
+#. alias-of: ogino_hitoshi_(ogitchi)
+#. source: ai
+msgctxt "tag:ogino_hitoshi_(ogitchi):alias:1"
+msgid "ogino_hitoshi_(ogitchi)"
+msgstr "ogitchi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ogino_hiyori:primary"
+msgid "ogino_hiyori"
+msgstr "荻野日和"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 171
+msgctxt "tag:ogino_ichiko:primary"
+msgid "ogino_ichiko"
+msgstr "荻野一子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 210
+msgctxt "tag:ogino_jun:primary"
+msgid "ogino_jun"
+msgstr "荻野纯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogino_kaho:primary"
+msgid "ogino_kaho"
+msgstr "荻野叶穗"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:ogino_ken:primary"
+msgid "ogino_ken"
+msgstr "荻野健"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ogino_mika:primary"
+msgid "ogino_mika"
+msgstr "Ogino Mika"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogino_miki:primary"
+msgid "ogino_miki"
+msgstr "荻野美希"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogino_minori:primary"
+msgid "ogino_minori"
+msgstr "荻野实"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogino_minoru:primary"
+msgid "ogino_minoru"
+msgstr "Ogino Minoru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ogino_nel:primary"
+msgid "ogino_nel"
+msgstr "荻野奈尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ogino_panda:primary"
+msgid "ogino_panda"
+msgstr "小木曾熊猫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogino_saori:primary"
+msgid "ogino_saori"
+msgstr "荻野纱织"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogino_yuichiro:primary"
+msgid "ogino_yuichiro"
+msgstr "荻野雄一郎"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogino_yuu:primary"
+msgid "ogino_yuu"
+msgstr "荻野由唯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: Ogino Yuuhei
+msgctxt "tag:ogino_yuuhei:primary"
+msgid "ogino_yuuhei"
+msgstr "荻野勇平"
+
+#. alias-of: ogino_yuuhei
+#. source: ai
+msgctxt "tag:ogino_yuuhei:alias:1"
+msgid "ogino_yuuhei"
+msgstr "Ogino Yuuhei"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogino_yuuko:primary"
+msgid "ogino_yuuko"
+msgstr "荻野优子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogino_zakuko:primary"
+msgid "ogino_zakuko"
+msgstr "荻野咲子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oginogisaki:primary"
+msgid "oginogisaki"
+msgstr "荻乃木咲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oginome_ari:primary"
+msgid "oginome_ari"
+msgstr "荻目有"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oginome_daiki:primary"
+msgid "oginome_daiki"
+msgstr "荻野目大树"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:oginome_momoka:primary"
+msgid "oginome_momoka"
+msgstr "荻野目桃果"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oginome_natsu:primary"
+msgid "oginome_natsu"
+msgstr "荻野目夏"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 255
+msgctxt "tag:oginome_ringo:primary"
+msgid "oginome_ringo"
+msgstr "荻目林檎"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oginome_ringo_(cosplay):primary"
+msgid "oginome_ringo_(cosplay)"
+msgstr "荻野目林檎（cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:oginouchihara_rei:primary"
+msgid "oginouchihara_rei"
+msgstr "荻野内原玲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:oginouchihara_yuki:primary"
+msgid "oginouchihara_yuki"
+msgstr "荻野内雪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oginuma_(kokutou1213):primary"
+msgid "oginuma_(kokutou1213)"
+msgstr "荻沼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oginumasakiku:primary"
+msgid "oginumasakiku"
+msgstr "oginumasakiku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:oginy:primary"
+msgid "oginy"
+msgstr "奥金尼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogipiyo:primary"
+msgid "ogipiyo"
+msgstr "ogipiyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 533
+msgctxt "tag:ogipote:primary"
+msgid "ogipote"
+msgstr "奥吉波特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogipote_(vtuber):primary"
+msgid "ogipote_(vtuber)"
+msgstr "Ogipote"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogiri_mizuki:primary"
+msgid "ogiri_mizuki"
+msgstr "小栗瑞希"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 55
+msgctxt "tag:ogirin3948:primary"
+msgid "ogirin3948"
+msgstr "ogirin3948"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogirok:primary"
+msgid "ogirok"
+msgstr "奥吉洛克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogirokmovut:primary"
+msgid "ogirokmovut"
+msgstr "ogirokmovut"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogisaku:primary"
+msgid "ogisaku"
+msgstr "ogisaku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogisangbox:primary"
+msgid "ogisangbox"
+msgstr "Ogisangbox"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogisei2:primary"
+msgid "ogisei2"
+msgstr "荻星"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogishima_jun:primary"
+msgid "ogishima_jun"
+msgstr "荻岛纯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogishima_kayo:primary"
+msgid "ogishima_kayo"
+msgstr "荻岛香代"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogishiro_(holography):primary"
+msgid "ogishiro_(holography)"
+msgstr "荻城"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogiso_akina:primary"
+msgid "ogiso_akina"
+msgstr "荻曾明奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 208
+#. aliases: 柚子
+msgctxt "tag:ogiso_setsuna:primary"
+msgid "ogiso_setsuna"
+msgstr "绪方柚子"
+
+#. alias-of: ogiso_setsuna
+#. source: ai
+msgctxt "tag:ogiso_setsuna:alias:1"
+msgid "ogiso_setsuna"
+msgstr "柚子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogiso_setsuna_(cosplay):primary"
+msgid "ogiso_setsuna_(cosplay)"
+msgstr "小木曾雪菜Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogiso_susumu:primary"
+msgid "ogiso_susumu"
+msgstr "荻曾进"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogiso_takahiro:primary"
+msgid "ogiso_takahiro"
+msgstr "荻曾孝宏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogistation:primary"
+msgid "ogistation"
+msgstr "Ogi Station"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogitaka:primary"
+msgid "ogitaka"
+msgstr "ogitaka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogite_2:primary"
+msgid "ogite_2"
+msgstr "ogite_2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogitmo:primary"
+msgid "ogitmo"
+msgstr "Ogitmo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ogitouma:primary"
+msgid "ogitouma"
+msgstr "荻岛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogitsu_ai:primary"
+msgid "ogitsu_ai"
+msgstr "荻津彩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ogitsuki:primary"
+msgid "ogitsuki"
+msgstr "ogitsuki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 336
+msgctxt "tag:ogiue_chika:primary"
+msgid "ogiue_chika"
+msgstr "荻生千夏"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogiue_kouichi:primary"
+msgid "ogiue_kouichi"
+msgstr "荻上浩一"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ogiue_taichi:primary"
+msgid "ogiue_taichi"
+msgstr "荻上泰智"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogiwara_(warawara_2nd):primary"
+msgid "ogiwara_(warawara_2nd)"
+msgstr "荻原（warawara_2nd）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogiwara_(xxx-80):primary"
+msgid "ogiwara_(xxx-80)"
+msgstr "Ogiwara"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogiwara_akira:primary"
+msgid "ogiwara_akira"
+msgstr "荻原秋"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:ogiwara_kyouko:primary"
+msgid "ogiwara_kyouko"
+msgstr "荻原京子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogiwara_maika:primary"
+msgid "ogiwara_maika"
+msgstr "荻原舞花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ogiwara_rokou:primary"
+msgid "ogiwara_rokou"
+msgstr "荻原绿子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 108
+#. aliases: 沙优
+msgctxt "tag:ogiwara_sayu:primary"
+msgid "ogiwara_sayu"
+msgstr "荻原沙优"
+
+#. alias-of: ogiwara_sayu
+#. source: ai
+msgctxt "tag:ogiwara_sayu:alias:1"
+msgid "ogiwara_sayu"
+msgstr "沙优"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogiwara_sayu_(cosplay):primary"
+msgid "ogiwara_sayu_(cosplay)"
+msgstr "荻原沙优（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogiwara_shusei:primary"
+msgid "ogiwara_shusei"
+msgstr "荻原修"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogiwara_sou:primary"
+msgid "ogiwara_sou"
+msgstr "荻原爽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogiya_maria:primary"
+msgid "ogiya_maria"
+msgstr "荻屋玛利亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogiya_miruku:primary"
+msgid "ogiya_miruku"
+msgstr "荻宫ミルク"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogiyama_aoi:primary"
+msgid "ogiyama_aoi"
+msgstr "荻山葵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 302
+msgctxt "tag:ogiyuki:primary"
+msgid "ogiyuki"
+msgstr "扇雪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogk:primary"
+msgid "ogk"
+msgstr "OGK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogkttjc:primary"
+msgid "ogkttjc"
+msgstr "ogkttjc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogkyun:primary"
+msgid "ogkyun"
+msgstr "ogkyun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogkz:primary"
+msgid "ogkz"
+msgstr "OGKZ"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oglaf:primary"
+msgid "oglaf"
+msgstr "Oglaf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oglagold:primary"
+msgid "oglagold"
+msgstr "oglagold"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:oglee:primary"
+msgid "oglee"
+msgstr "oglee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oglegan:primary"
+msgid "oglegan"
+msgstr "oglegan"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 19
+msgctxt "tag:oglop:primary"
+msgid "oglop"
+msgstr "Oglop"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogm53:primary"
+msgid "ogm53"
+msgstr "OGM53"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogma_(beastars):primary"
+msgid "ogma_(beastars)"
+msgstr "奥格玛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogma_(dragon_ball):primary"
+msgid "ogma_(dragon_ball)"
+msgstr "奥格玛（龙珠）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 61
+msgctxt "tag:ogma_(fire_emblem):primary"
+msgid "ogma_(fire_emblem)"
+msgstr "奥古马（火焰纹章）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogma_(folkssoul):primary"
+msgid "ogma_(folkssoul)"
+msgstr "奥格玛（FolksSoul）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogma_(former_gladiator)_(fire_emblem):primary"
+msgid "ogma_(former_gladiator)_(fire_emblem)"
+msgstr "奥格玛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 8
+#. aliases: Ogma
+msgctxt "tag:ogma_(summer)_(fire_emblem):primary"
+msgid "ogma_(summer)_(fire_emblem)"
+msgstr "奥格玛（夏季）"
+
+#. alias-of: ogma_(summer)_(fire_emblem)
+#. source: ai
+msgctxt "tag:ogma_(summer)_(fire_emblem):alias:1"
+msgid "ogma_(summer)_(fire_emblem)"
+msgstr "Ogma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogman:primary"
+msgid "ogman"
+msgstr "ogman"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ognevoy-class_destroyer:primary"
+msgid "ognevoy-class_destroyer"
+msgstr "火力级驱逐舰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 51
+#. aliases: 碧蓝航线奥涅伊
+msgctxt "tag:ognevoy_(azur_lane):primary"
+msgid "ognevoy_(azur_lane)"
+msgstr "奥涅伊"
+
+#. alias-of: ognevoy_(azur_lane)
+#. source: ai
+msgctxt "tag:ognevoy_(azur_lane):alias:1"
+msgid "ognevoy_(azur_lane)"
+msgstr "碧蓝航线奥涅伊"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ognevoy_(blue_nova)_(azur_lane):primary"
+msgid "ognevoy_(blue_nova)_(azur_lane)"
+msgstr "Ognevoy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ognifireheart:primary"
+msgid "ognifireheart"
+msgstr "OgniFireheart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ognjen_sporin:primary"
+msgid "ognjen_sporin"
+msgstr "Ognjen Sporin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogo:primary"
+msgid "ogo"
+msgstr "小豪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogodo:primary"
+msgid "ogodo"
+msgstr "Ogodo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ogogok:primary"
+msgid "ogogok"
+msgstr "ogogok"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogoknomiyakki:primary"
+msgid "ogoknomiyakki"
+msgstr "ogoknomiyakki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ogomame:primary"
+msgid "ogomame"
+msgstr "大豆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogon_(ogoni):primary"
+msgid "ogon_(ogoni)"
+msgstr "ogon_(ogoni)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogon_no_tomorokoshi:primary"
+msgid "ogon_no_tomorokoshi"
+msgstr "黄金玉米"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogonoe:primary"
+msgid "ogonoe"
+msgstr "ogonoe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:ogoro:primary"
+msgid "ogoro"
+msgstr "仰卧"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogosix555:primary"
+msgid "ogosix555"
+msgstr "ogosix555"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogoso_saguru:primary"
+msgid "ogoso_saguru"
+msgstr "小笹巡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:ogossi:primary"
+msgid "ogossi"
+msgstr "Ogossi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogoto_nene:primary"
+msgid "ogoto_nene"
+msgstr "音户音音"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogou_(hazime816):primary"
+msgid "ogou_(hazime816)"
+msgstr "Ogou"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogou_mayuka:primary"
+msgid "ogou_mayuka"
+msgstr "小织舞香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogouji:primary"
+msgid "ogouji"
+msgstr "Ogouji"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogpc:primary"
+msgid "ogpc"
+msgstr "OGPC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogra_(kaijuu):primary"
+msgid "ogra_(kaijuu)"
+msgstr "奥格拉（怪兽）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ograso:primary"
+msgid "ograso"
+msgstr "ograso"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.biological_specimen
+#. safety: mixed
+#. post-count: 502
+#. aliases: 食人鬼
+msgctxt "tag:ogre:primary"
+msgid "ogre"
+msgstr "食人魔"
+
+#. alias-of: ogre
+#. source: ai
+msgctxt "tag:ogre:alias:1"
+msgid "ogre"
+msgstr "食人鬼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: 食人魔
+msgctxt "tag:ogre_(artist):primary"
+msgid "ogre_(artist)"
+msgstr "ogre（画师）"
+
+#. alias-of: ogre_(artist)
+#. source: ai
+msgctxt "tag:ogre_(artist):alias:1"
+msgid "ogre_(artist)"
+msgstr "食人魔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogre_(dark_souls):primary"
+msgid "ogre_(dark_souls)"
+msgstr "食人魔（黑暗之魂）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 212
+msgctxt "tag:ogre_(dq10):primary"
+msgid "ogre_(dq10)"
+msgstr "食人魔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogre_(ex-arm):primary"
+msgid "ogre_(ex-arm)"
+msgstr "食人魔（EX-ARM）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 105
+msgctxt "tag:ogre_(granblue_fantasy):primary"
+msgid "ogre_(granblue_fantasy)"
+msgstr "欧格"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogre_(himekishi_lilia):primary"
+msgid "ogre_(himekishi_lilia)"
+msgstr "鬼（姬骑士莉莉娅）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 360
+#. aliases: ogre
+msgctxt "tag:ogre_(illustogre):primary"
+msgid "ogre_(illustogre)"
+msgstr "食人魔"
+
+#. alias-of: ogre_(illustogre)
+#. source: ai
+msgctxt "tag:ogre_(illustogre):alias:1"
+msgid "ogre_(illustogre)"
+msgstr "ogre"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 12
+msgctxt "tag:ogre_(inazuma_eleven):primary"
+msgid "ogre_(inazuma_eleven)"
+msgstr "《闪电十一人》中的 Ogre"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogre_(legendz):primary"
+msgid "ogre_(legendz)"
+msgstr "食人魔（Legendz）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogre_(livly_island):primary"
+msgid "ogre_(livly_island)"
+msgstr "食人魔（Livly Island）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogre_(megami_tensei):primary"
+msgid "ogre_(megami_tensei)"
+msgstr "鬼族（真女神转生）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ogre_(monster_girl_encyclopedia):primary"
+msgid "ogre_(monster_girl_encyclopedia)"
+msgstr "《怪物娘图鉴》食人魔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ogre_(ogremuit):primary"
+msgid "ogre_(ogremuit)"
+msgstr "食人魔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogre_(shironeko_project):primary"
+msgid "ogre_(shironeko_project)"
+msgstr "白猫项目食人魔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogre_(tekken):primary"
+msgid "ogre_(tekken)"
+msgstr "奥加（铁拳）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogre_(titanfall):primary"
+msgid "ogre_(titanfall)"
+msgstr "食人魔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogre_(under_night_in-birth):primary"
+msgid "ogre_(under_night_in-birth)"
+msgstr "奥加（夜下降生）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogre_(vocaloid):primary"
+msgid "ogre_(vocaloid)"
+msgstr "Ogre（Vocaloid）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogre_(warhammer_fantasy):primary"
+msgid "ogre_(warhammer_fantasy)"
+msgstr "食人魔"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:ogre_battle:primary"
+msgid "ogre_battle"
+msgstr "魔神转生"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogre_battle_64:_person_of_lordly_caliber:primary"
+msgid "ogre_battle_64:_person_of_lordly_caliber"
+msgstr "Ogre Battle 64: Person of Lordly Caliber"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogre_battle_gaiden:_the_prince_of_zenobia:primary"
+msgid "ogre_battle_gaiden:_the_prince_of_zenobia"
+msgstr "鬼族战争外传：泽诺比亚王子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 3
+#. aliases: 食人魔棍棒
+msgctxt "tag:ogre_club_(kid_icarus):primary"
+msgid "ogre_club_(kid_icarus)"
+msgstr "食人魔棍棒（光神话）"
+
+#. alias-of: ogre_club_(kid_icarus)
+#. source: ai
+msgctxt "tag:ogre_club_(kid_icarus):alias:1"
+msgid "ogre_club_(kid_icarus)"
+msgstr "食人魔棍棒"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+#. aliases: Ogre GN-X
+msgctxt "tag:ogre_gn-x:primary"
+msgid "ogre_gn-x"
+msgstr "鬼神GN-X"
+
+#. alias-of: ogre_gn-x
+#. source: ai
+msgctxt "tag:ogre_gn-x:alias:1"
+msgid "ogre_gn-x"
+msgstr "Ogre GN-X"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogre_gun_smoke:primary"
+msgid "ogre_gun_smoke"
+msgstr "鬼族炮烟"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogre_magi:primary"
+msgid "ogre_magi"
+msgstr "鬼魔术师"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogre_maneater:primary"
+msgid "ogre_maneater"
+msgstr "食人魔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogre_oustin':primary"
+msgid "ogre_oustin'"
+msgstr "食人魔 Oustin'"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogre_poppenang:primary"
+msgid "ogre_poppenang"
+msgstr "Ogre Poppenang"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogre_road:primary"
+msgid "ogre_road"
+msgstr "鬼之道"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogrebuster_overdrive:primary"
+msgid "ogrebuster_overdrive"
+msgstr "食人魔杀手 Overdrive"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogreman69:primary"
+msgid "ogreman69"
+msgstr "ogreman69"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogrepower:primary"
+msgid "ogrepower"
+msgstr "Ogre Power"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogrest:primary"
+msgid "ogrest"
+msgstr "欧格斯特"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogretail:primary"
+msgid "ogretail"
+msgstr "鬼的尾巴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ogretooth:primary"
+msgid "ogretooth"
+msgstr "食人魔之牙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogrin:primary"
+msgid "ogrin"
+msgstr "ogrin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: Ogre Yui
+msgctxt "tag:ogro_yui:primary"
+msgid "ogro_yui"
+msgstr "ogro_yui"
+
+#. alias-of: ogro_yui
+#. source: ai
+msgctxt "tag:ogro_yui:alias:1"
+msgid "ogro_yui"
+msgstr "Ogre Yui"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 357
+msgctxt "tag:ogros:primary"
+msgid "ogros"
+msgstr "食人魔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogrsn:primary"
+msgid "ogrsn"
+msgstr "OGRSN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 250
+#. aliases: 绿鬼
+msgctxt "tag:ogry_ching:primary"
+msgid "ogry_ching"
+msgstr "青鬼"
+
+#. alias-of: ogry_ching
+#. source: ai
+msgctxt "tag:ogry_ching:alias:1"
+msgid "ogry_ching"
+msgstr "绿鬼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ogryn:primary"
+msgid "ogryn"
+msgstr "欧格林"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogs:primary"
+msgid "ogs"
+msgstr "OGS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 103
+msgctxt "tag:ogs_(orgasm88):primary"
+msgid "ogs_(orgasm88)"
+msgstr "ogs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogsan:primary"
+msgid "ogsan"
+msgstr "ogsan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogsanghwangje:primary"
+msgid "ogsanghwangje"
+msgstr "ogsanghwangje"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogt.:primary"
+msgid "ogt."
+msgstr "OGT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogt_na122:primary"
+msgid "ogt_na122"
+msgstr "OGT NA122"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogtslk:primary"
+msgid "ogtslk"
+msgstr "OGTSLK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:ogu:primary"
+msgid "ogu"
+msgstr "奥古"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogu_&_mampato:primary"
+msgid "ogu_&_mampato"
+msgstr "Ogu & Mampato"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogu_(169-222):primary"
+msgid "ogu_(169-222)"
+msgstr "Ogu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogu_(mampato):primary"
+msgid "ogu_(mampato)"
+msgstr "奥古（Mampato）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogu_(night-raid):primary"
+msgid "ogu_(night-raid)"
+msgstr "Ogu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:ogu_(oguogu):primary"
+msgid "ogu_(oguogu)"
+msgstr "Ogu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 妖怪手表
+msgctxt "tag:ogu_(youkai_watch):primary"
+msgid "ogu_(youkai_watch)"
+msgstr "欧咕"
+
+#. alias-of: ogu_(youkai_watch)
+#. source: ai
+msgctxt "tag:ogu_(youkai_watch):alias:1"
+msgid "ogu_(youkai_watch)"
+msgstr "妖怪手表"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 187
+msgctxt "tag:oguchi:primary"
+msgid "oguchi"
+msgstr "小口"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.mouth.mouth_state
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguchi_(style):primary"
+msgid "oguchi_(style)"
+msgstr "大嘴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:oguchi_magami:primary"
+msgid "oguchi_magami"
+msgstr "大口真神"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogudomon:primary"
+msgid "ogudomon"
+msgstr "奥古多兽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogudomon_x-antibody:primary"
+msgid "ogudomon_x-antibody"
+msgstr "奥古杜兽X抗体"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogugusan:primary"
+msgid "ogugusan"
+msgstr "ogugusan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguism:primary"
+msgid "oguism"
+msgstr "oguism"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogul_khatayin:primary"
+msgid "ogul_khatayin"
+msgstr "ogul_khatayin"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oguma_(crave_saga):primary"
+msgid "oguma_(crave_saga)"
+msgstr "奥古玛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:oguma_(ogm):primary"
+msgid "oguma_(ogm)"
+msgstr "大熊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:oguma_(rapture):primary"
+msgid "oguma_(rapture)"
+msgstr "大熊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:oguma_000:primary"
+msgid "oguma_000"
+msgstr "oguma_000"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguma_hanako:primary"
+msgid "oguma_hanako"
+msgstr "小熊花子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguma_haruki:primary"
+msgid "oguma_haruki"
+msgstr "小熊春树"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguma_mao:primary"
+msgid "oguma_mao"
+msgstr "小熊真央"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguma_raita:primary"
+msgid "oguma_raita"
+msgstr "小熊赖太"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 53
+msgctxt "tag:oguma_shiro:primary"
+msgid "oguma_shiro"
+msgstr "Oguma Shiro"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogun:primary"
+msgid "ogun"
+msgstr "奥贡"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogun_(brave_sword_x_blaze_soul):primary"
+msgid "ogun_(brave_sword_x_blaze_soul)"
+msgstr "奥贡（Brave Sword x Blaze Soul）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogun_(megami_tensei):primary"
+msgid "ogun_(megami_tensei)"
+msgstr "奥贡（真女神转生）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogun_montgomery:primary"
+msgid "ogun_montgomery"
+msgstr "奥冈·蒙哥马利"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oguna_(onmyoji):primary"
+msgid "oguna_(onmyoji)"
+msgstr "御纲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogundam:primary"
+msgid "ogundam"
+msgstr "O Gundam"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguniana_(saga):primary"
+msgid "oguniana_(saga)"
+msgstr "奥古妮亚娜（SaGa）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguogutst:primary"
+msgid "oguogutst"
+msgstr "Oguogutst"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ogura:primary"
+msgid "ogura"
+msgstr "小仓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura1240:primary"
+msgid "ogura1240"
+msgstr "_ogura1240"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ogura32:primary"
+msgid "ogura32"
+msgstr "ogura32"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura_(12pie):primary"
+msgid "ogura_(12pie)"
+msgstr "ogura（12pie）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_(aono1017):primary"
+msgid "ogura_(aono1017)"
+msgstr "Ogura"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura_(mochikura125):primary"
+msgid "ogura_(mochikura125)"
+msgstr "ogura（mochikura125）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 小仓
+msgctxt "tag:ogura_(ogr_cm):primary"
+msgid "ogura_(ogr_cm)"
+msgstr "小仓"
+
+#. alias-of: ogura_(ogr_cm)
+#. source: ai
+msgctxt "tag:ogura_(ogr_cm):alias:1"
+msgid "ogura_(ogr_cm)"
+msgstr "小仓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+#. aliases: 小仓
+msgctxt "tag:ogura_(ogr_pu):primary"
+msgid "ogura_(ogr_pu)"
+msgstr "小仓（ogr pu）"
+
+#. alias-of: ogura_(ogr_pu)
+#. source: ai
+msgctxt "tag:ogura_(ogr_pu):alias:1"
+msgid "ogura_(ogr_pu)"
+msgstr "小仓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 63
+#. aliases: Ogura
+msgctxt "tag:ogura_(onigiritakusan):primary"
+msgid "ogura_(onigiritakusan)"
+msgstr "小仓"
+
+#. alias-of: ogura_(onigiritakusan)
+#. source: ai
+msgctxt "tag:ogura_(onigiritakusan):alias:1"
+msgid "ogura_(onigiritakusan)"
+msgstr "Ogura"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogura_(pixiv97931):primary"
+msgid "ogura_(pixiv97931)"
+msgstr "ogura"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_(runes_ly):primary"
+msgid "ogura_(runes_ly)"
+msgstr "Ogura (Runes LY)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ogura_(take-monhan):primary"
+msgid "ogura_(take-monhan)"
+msgstr "小仓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_(tkdct):primary"
+msgid "ogura_(tkdct)"
+msgstr "Ogura"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_akiko_(40hara):primary"
+msgid "ogura_akiko_(40hara)"
+msgstr "小仓明子（40原）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:ogura_anko:primary"
+msgid "ogura_anko"
+msgstr "小倉安子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ogura_aoi:primary"
+msgid "ogura_aoi"
+msgstr "小仓葵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:ogura_ari:primary"
+msgid "ogura_ari"
+msgstr "小仓亚里"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura_asuka:primary"
+msgid "ogura_asuka"
+msgstr "小仓明日香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogura_azuki:primary"
+msgid "ogura_azuki"
+msgstr "小仓小豆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogura_bourei:primary"
+msgid "ogura_bourei"
+msgstr "小仓亡灵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_chitose:primary"
+msgid "ogura_chitose"
+msgstr "小仓千岁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 206
+msgctxt "tag:ogura_eisuke:primary"
+msgid "ogura_eisuke"
+msgstr "小仓荣介"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.rendering.render_style
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogura_eisuke_(style):primary"
+msgid "ogura_eisuke_(style)"
+msgstr "小仓英介风格"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogura_erina:primary"
+msgid "ogura_erina"
+msgstr "小仓绘梨奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogura_futaba_(tokai):primary"
+msgid "ogura_futaba_(tokai)"
+msgstr "小仓二叶（东海）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogura_hasu:primary"
+msgid "ogura_hasu"
+msgstr "小仓莲"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura_hatoko:primary"
+msgid "ogura_hatoko"
+msgstr "ogura_hatoko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 115
+msgctxt "tag:ogura_hiroko:primary"
+msgid "ogura_hiroko"
+msgstr "小仓宏子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 小仓
+msgctxt "tag:ogura_hiromasa:primary"
+msgid "ogura_hiromasa"
+msgstr "小仓广正"
+
+#. alias-of: ogura_hiromasa
+#. source: ai
+msgctxt "tag:ogura_hiromasa:alias:1"
+msgid "ogura_hiromasa"
+msgstr "小仓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogura_hiroyuki:primary"
+msgid "ogura_hiroyuki"
+msgstr "小仓弘之"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogura_hyakunin:primary"
+msgid "ogura_hyakunin"
+msgstr "小仓百人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_jinpachi:primary"
+msgid "ogura_jinpachi"
+msgstr "小仓仁八"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogura_kana:primary"
+msgid "ogura_kana"
+msgstr "小仓香奈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_kasumi:primary"
+msgid "ogura_kasumi"
+msgstr "小仓霞"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_kento:primary"
+msgid "ogura_kento"
+msgstr "小仓健人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ogura_koshian:primary"
+msgid "ogura_koshian"
+msgstr "小仓小豆馅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_kotomi:primary"
+msgid "ogura_kotomi"
+msgstr "小仓琴美"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_kuriryu:primary"
+msgid "ogura_kuriryu"
+msgstr "小仓栗龙"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura_kyouhei:primary"
+msgid "ogura_kyouhei"
+msgstr "ogura_kyouhei"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ogura_mao:primary"
+msgid "ogura_mao"
+msgstr "小仓真央"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ogura_megumi:primary"
+msgid "ogura_megumi"
+msgstr "小仓萌"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogura_miki:primary"
+msgid "ogura_miki"
+msgstr "小仓美纪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ogura_minamo:primary"
+msgid "ogura_minamo"
+msgstr "小仓美波"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_mio:primary"
+msgid "ogura_mio"
+msgstr "小仓美绪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: Genshin Impact, 原神
+msgctxt "tag:ogura_mio_(genshin_impact):primary"
+msgid "ogura_mio_(genshin_impact)"
+msgstr "小仓美绪"
+
+#. alias-of: ogura_mio_(genshin_impact)
+#. source: ai
+msgctxt "tag:ogura_mio_(genshin_impact):alias:1"
+msgid "ogura_mio_(genshin_impact)"
+msgstr "Genshin Impact"
+
+#. alias-of: ogura_mio_(genshin_impact)
+#. source: ai
+msgctxt "tag:ogura_mio_(genshin_impact):alias:2"
+msgid "ogura_mio_(genshin_impact)"
+msgstr "原神"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: ogura_nagai
+msgctxt "tag:ogura_nagai:primary"
+msgid "ogura_nagai"
+msgstr "小仓永井"
+
+#. alias-of: ogura_nagai
+#. source: ai
+msgctxt "tag:ogura_nagai:alias:1"
+msgid "ogura_nagai"
+msgstr "ogura_nagai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogura_niki:primary"
+msgid "ogura_niki"
+msgstr "小仓二纪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura_nobutoshi:primary"
+msgid "ogura_nobutoshi"
+msgstr "ogura_nobutoshi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_noeru:primary"
+msgid "ogura_noeru"
+msgstr "小仓诺艾尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:ogura_noriko:primary"
+msgid "ogura_noriko"
+msgstr "小仓典子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogura_sakiru:primary"
+msgid "ogura_sakiru"
+msgstr "ogura_sakiru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_seri:primary"
+msgid "ogura_seri"
+msgstr "小仓芹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogura_shio:primary"
+msgid "ogura_shio"
+msgstr "小仓盐"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 71
+msgctxt "tag:ogura_shion:primary"
+msgid "ogura_shion"
+msgstr "小仓紫苑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ogura_shuuichi:primary"
+msgid "ogura_shuuichi"
+msgstr "小仓秀一"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura_suzaku:primary"
+msgid "ogura_suzaku"
+msgstr "ogura_suzaku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 104
+msgctxt "tag:ogura_toast:primary"
+msgid "ogura_toast"
+msgstr "小仓吐司"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:ogura_toast_(food):primary"
+msgid "ogura_toast_(food)"
+msgstr "小仓吐司"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_tomoaki:primary"
+msgid "ogura_tomoaki"
+msgstr "小仓智明"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogura_tsutsumi:primary"
+msgid "ogura_tsutsumi"
+msgstr "小仓堤"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 198
+msgctxt "tag:ogura_tubuan:primary"
+msgid "ogura_tubuan"
+msgstr "奥村津布安"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura_yoro:primary"
+msgid "ogura_yoro"
+msgstr "ogura_yoro"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 79
+#. aliases: 唯
+msgctxt "tag:ogura_yui:primary"
+msgid "ogura_yui"
+msgstr "小仓唯"
+
+#. alias-of: ogura_yui
+#. source: ai
+msgctxt "tag:ogura_yui:alias:1"
+msgid "ogura_yui"
+msgstr "唯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogura_yukino:primary"
+msgid "ogura_yukino"
+msgstr "小仓雪乃"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogura_yuko:primary"
+msgid "ogura_yuko"
+msgstr "小倉優子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ogura_yumi:primary"
+msgid "ogura_yumi"
+msgstr "小仓唯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: 小倉優子
+msgctxt "tag:ogura_yuuko:primary"
+msgid "ogura_yuuko"
+msgstr "小仓优子"
+
+#. alias-of: ogura_yuuko
+#. source: ai
+msgctxt "tag:ogura_yuuko:alias:1"
+msgid "ogura_yuuko"
+msgstr "小倉優子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:oguraan:primary"
+msgid "oguraan"
+msgstr "小仓庵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:oguraazuki186:primary"
+msgid "oguraazuki186"
+msgstr "小仓梓月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguramame:primary"
+msgid "oguramame"
+msgstr "oguramame"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogurantinvs004:primary"
+msgid "ogurantinvs004"
+msgstr "小仓林子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 101
+msgctxt "tag:oguraponti:primary"
+msgid "oguraponti"
+msgstr "oguraponti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogurasawa:primary"
+msgid "ogurasawa"
+msgstr "ogurasawa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguri_(mongji_0415):primary"
+msgid "oguri_(mongji_0415)"
+msgstr "Oguri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:oguri_(oguri_yuta):primary"
+msgid "oguri_(oguri_yuta)"
+msgstr "小栗（小栗雄太）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:oguri_(pixiv25574366):primary"
+msgid "oguri_(pixiv25574366)"
+msgstr "小栗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 43
+#. aliases: 小栗帽妈
+msgctxt "tag:oguri_cap's_mother_(umamusume):primary"
+msgid "oguri_cap's_mother_(umamusume)"
+msgstr "小栗帽的母亲（赛马娘）"
+
+#. alias-of: oguri_cap's_mother_(umamusume)
+#. source: ai
+msgctxt "tag:oguri_cap's_mother_(umamusume):alias:1"
+msgid "oguri_cap's_mother_(umamusume)"
+msgstr "小栗帽妈"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 133
+#. aliases: 小栗帽灰烬奇迹
+msgctxt "tag:oguri_cap_(ashen_miracle)_(umamusume):primary"
+msgid "oguri_cap_(ashen_miracle)_(umamusume)"
+msgstr "小栗帽(灰烬奇迹)"
+
+#. alias-of: oguri_cap_(ashen_miracle)_(umamusume)
+#. source: ai
+msgctxt "tag:oguri_cap_(ashen_miracle)_(umamusume):alias:1"
+msgid "oguri_cap_(ashen_miracle)_(umamusume)"
+msgstr "小栗帽灰烬奇迹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 81
+#. aliases: 小栗帽私服
+msgctxt "tag:oguri_cap_(casual)_(umamusume):primary"
+msgid "oguri_cap_(casual)_(umamusume)"
+msgstr "小栗帽（私服）"
+
+#. alias-of: oguri_cap_(casual)_(umamusume)
+#. source: ai
+msgctxt "tag:oguri_cap_(casual)_(umamusume):alias:1"
+msgid "oguri_cap_(casual)_(umamusume)"
+msgstr "小栗帽私服"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 112
+#. aliases: 小栗帽 (灰姑娘)
+msgctxt "tag:oguri_cap_(cinderella_gray)_(umamusume):primary"
+msgid "oguri_cap_(cinderella_gray)_(umamusume)"
+msgstr "小栗帽"
+
+#. alias-of: oguri_cap_(cinderella_gray)_(umamusume)
+#. source: ai
+msgctxt "tag:oguri_cap_(cinderella_gray)_(umamusume):alias:1"
+msgid "oguri_cap_(cinderella_gray)_(umamusume)"
+msgstr "小栗帽 (灰姑娘)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 93
+#. aliases: 小栗帽, 小栗帽赛马娘
+msgctxt "tag:oguri_cap_(gray_monster)_(umamusume):primary"
+msgid "oguri_cap_(gray_monster)_(umamusume)"
+msgstr "小栗帽(灰怪)(赛马娘)"
+
+#. alias-of: oguri_cap_(gray_monster)_(umamusume)
+#. source: ai
+msgctxt "tag:oguri_cap_(gray_monster)_(umamusume):alias:1"
+msgid "oguri_cap_(gray_monster)_(umamusume)"
+msgstr "小栗帽"
+
+#. alias-of: oguri_cap_(gray_monster)_(umamusume)
+#. source: ai
+msgctxt "tag:oguri_cap_(gray_monster)_(umamusume):alias:2"
+msgid "oguri_cap_(gray_monster)_(umamusume)"
+msgstr "小栗帽赛马娘"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:oguri_cap_(nichijou):primary"
+msgid "oguri_cap_(nichijou)"
+msgstr "小栗帽 (日常)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:oguri_cap_(racehorse):primary"
+msgid "oguri_cap_(racehorse)"
+msgstr "小栗帽"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 小栗帽赛马娘
+msgctxt "tag:oguri_cap_(run_run_run!!)_(umamusume):primary"
+msgid "oguri_cap_(run_run_run!!)_(umamusume)"
+msgstr "小栗帽"
+
+#. alias-of: oguri_cap_(run_run_run!!)_(umamusume)
+#. source: ai
+msgctxt "tag:oguri_cap_(run_run_run!!)_(umamusume):alias:1"
+msgid "oguri_cap_(run_run_run!!)_(umamusume)"
+msgstr "小栗帽赛马娘"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1743
+#. aliases: oguri cap
+msgctxt "tag:oguri_cap_(starlight_beat)_(umamusume):primary"
+msgid "oguri_cap_(starlight_beat)_(umamusume)"
+msgstr "小栗帽"
+
+#. alias-of: oguri_cap_(starlight_beat)_(umamusume)
+#. source: ai
+msgctxt "tag:oguri_cap_(starlight_beat)_(umamusume):alias:1"
+msgid "oguri_cap_(starlight_beat)_(umamusume)"
+msgstr "oguri cap"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5963
+msgctxt "tag:oguri_cap_(umamusume):primary"
+msgid "oguri_cap_(umamusume)"
+msgstr "小栗帽"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:oguri_cap_(umamusume)_(cosplay):primary"
+msgid "oguri_cap_(umamusume)_(cosplay)"
+msgstr "小栗帽（赛马娘）Cosplay"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.expression.mental.thought_or_imagination
+#. safety: sfw
+#. post-count: 9
+#. aliases: 小栗帽走神
+msgctxt "tag:oguri_cap_spacing_out:primary"
+msgid "oguri_cap_spacing_out"
+msgstr "小栗帽·发呆"
+
+#. alias-of: oguri_cap_spacing_out
+#. source: ai
+msgctxt "tag:oguri_cap_spacing_out:alias:1"
+msgid "oguri_cap_spacing_out"
+msgstr "小栗帽走神"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oguri_hayane:primary"
+msgid "oguri_hayane"
+msgstr "小栗早矢音"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oguri_hidaka:primary"
+msgid "oguri_hidaka"
+msgstr "小栗日向"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:oguri_hiroko:primary"
+msgid "oguri_hiroko"
+msgstr "小栗广子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguri_kouhei:primary"
+msgid "oguri_kouhei"
+msgstr "小栗康平"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguri_kurisu:primary"
+msgid "oguri_kurisu"
+msgstr "小栗栗须"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguri_mel:primary"
+msgid "oguri_mel"
+msgstr "小栗梅尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 34
+#. aliases: 奥木染
+msgctxt "tag:oguri_mushitarou_(bungou_stray_dogs):primary"
+msgid "oguri_mushitarou_(bungou_stray_dogs)"
+msgstr "奥木染虫太郎"
+
+#. alias-of: oguri_mushitarou_(bungou_stray_dogs)
+#. source: ai
+msgctxt "tag:oguri_mushitarou_(bungou_stray_dogs):alias:1"
+msgid "oguri_mushitarou_(bungou_stray_dogs)"
+msgstr "奥木染"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:oguri_oguri_(meme):primary"
+msgid "oguri_oguri_(meme)"
+msgstr "奥古里梗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguri_roman_(racehorse):primary"
+msgid "oguri_roman_(racehorse)"
+msgstr "小栗罗曼（赛马）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguri_shun:primary"
+msgid "oguri_shun"
+msgstr "小栗旬"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oguri_suzume:primary"
+msgid "oguri_suzume"
+msgstr "小栗雀"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguri_tadamasa:primary"
+msgid "oguri_tadamasa"
+msgstr "小栗忠正"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 小栗由衣
+msgctxt "tag:oguri_yui:primary"
+msgid "oguri_yui"
+msgstr "小栗由依"
+
+#. alias-of: oguri_yui
+#. source: ai
+msgctxt "tag:oguri_yui:alias:1"
+msgid "oguri_yui"
+msgstr "小栗由衣"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguri_yui_(artist):primary"
+msgid "oguri_yui_(artist)"
+msgstr "小栗由衣"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguribungo:primary"
+msgid "oguribungo"
+msgstr "小栗文吾"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:oguricapuma1:primary"
+msgid "oguricapuma1"
+msgstr "Oguricapuma1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogurigugu:primary"
+msgid "ogurigugu"
+msgstr "ogurigugu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogurijackie:primary"
+msgid "ogurijackie"
+msgstr "Ogurijackie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogurin8392:primary"
+msgid "ogurin8392"
+msgstr "OGURIN8392"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 77
+msgctxt "tag:oguro_(moyashi_2-hon):primary"
+msgid "oguro_(moyashi_2-hon)"
+msgstr "小黑（豆苗2本）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:oguro_(xhlj):primary"
+msgid "oguro_(xhlj)"
+msgstr "奥久保（xhlj）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:oguro_akira:primary"
+msgid "oguro_akira"
+msgstr "大黑秋"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguro_gaku:primary"
+msgid "oguro_gaku"
+msgstr "大黑岳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:oguro_kafka:primary"
+msgid "oguro_kafka"
+msgstr "奥古罗·卡夫卡"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguro_mashiro:primary"
+msgid "oguro_mashiro"
+msgstr "大黑真白"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oguro_taeko:primary"
+msgid "oguro_taeko"
+msgstr "大黑妙子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oguru_ss:primary"
+msgid "oguru_ss"
+msgstr "oguru_ss"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oguruma_gen:primary"
+msgid "oguruma_gen"
+msgstr "小车弦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ogushi_yuniko:primary"
+msgid "ogushi_yuniko"
+msgstr "小串柚子子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogust27:primary"
+msgid "ogust27"
+msgstr "ogust27"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogutimagami0230:primary"
+msgid "ogutimagami0230"
+msgstr "ogutimagami0230"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogutoguri:primary"
+msgid "ogutoguri"
+msgstr "ogutoguri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:oguwooo:primary"
+msgid "oguwooo"
+msgstr "oguwooo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ogw_(ogawa):primary"
+msgid "ogw_(ogawa)"
+msgstr "ogw（ogawa）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogx888:primary"
+msgid "ogx888"
+msgstr "ogx888"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogy_orgula:primary"
+msgid "ogy_orgula"
+msgstr "奥尔古拉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:ogyadya:primary"
+msgid "ogyadya"
+msgstr "奥加迪亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogyan_attack:primary"
+msgid "ogyan_attack"
+msgstr "Ogyan Attack"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogyara:primary"
+msgid "ogyara"
+msgstr "大柄"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ogyarinizer_(vocaloid):primary"
+msgid "ogyarinizer_(vocaloid)"
+msgstr "Ogyarinizer（Vocaloid）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 77
+msgctxt "tag:ogyayu_(nekomata_okayu):primary"
+msgid "ogyayu_(nekomata_okayu)"
+msgstr "ogyayu (nekomata_okayu)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ogye_01:primary"
+msgid "ogye_01"
+msgstr "Ogye 01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogyhara:primary"
+msgid "ogyhara"
+msgstr "ogyhara"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ogyomo:primary"
+msgid "ogyomo"
+msgstr "Ogyomo"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ogyougi_yoku_ne_(cevio):primary"
+msgid "ogyougi_yoku_ne_(cevio)"
+msgstr "Ogyougi Yoku Ne（CeVIO）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ogyue:primary"
+msgid "ogyue"
+msgstr "小结"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ogyupoke:primary"
+msgid "ogyupoke"
+msgstr "ogyupoke"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ogyuu_art:primary"
+msgid "ogyuu_art"
+msgstr "ogyuu_art"

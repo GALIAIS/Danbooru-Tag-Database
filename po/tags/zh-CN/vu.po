@@ -1,0 +1,1590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:48+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:48+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vu-etama:primary"
+msgid "vu-etama"
+msgstr "Vu-Etama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:vu-hakase:primary"
+msgid "vu-hakase"
+msgstr "Vu博士"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vu-kun_(op_na_ura):primary"
+msgid "vu-kun_(op_na_ura)"
+msgstr "Vu-kun（op_na_ura）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:vu06:primary"
+msgid "vu06"
+msgstr "VU06"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:vu_(dottovu):primary"
+msgid "vu_(dottovu)"
+msgstr "Vu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:vu_(oyavun):primary"
+msgid "vu_(oyavun)"
+msgstr "Oyavun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vu_uv55:primary"
+msgid "vu_uv55"
+msgstr "Vu UV55"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vu_uvf:primary"
+msgid "vu_uvf"
+msgstr "VUUVF"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vual_(kurono):primary"
+msgid "vual_(kurono)"
+msgstr "Vual（kurono）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.brand_or_merchandise_item
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuala_(brand):primary"
+msgid "vuala_(brand)"
+msgstr "Vuala"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuanti:primary"
+msgid "vuanti"
+msgstr "vuanti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuatll:primary"
+msgid "vuatll"
+msgstr "vuatll"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:vuccha:primary"
+msgid "vuccha"
+msgstr "Vuccha"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vucko:primary"
+msgid "vucko"
+msgstr "vucko"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vucub_(fate):primary"
+msgid "vucub_(fate)"
+msgstr "武库布"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vudanshy:primary"
+msgid "vudanshy"
+msgstr "vudanshy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vue-995:primary"
+msgid "vue-995"
+msgstr "Vue-995"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vue.js_(javascript):primary"
+msgid "vue.js_(javascript)"
+msgstr "Vue.js（JavaScript）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 149
+msgctxt "tag:vueko:primary"
+msgid "vueko"
+msgstr "vueko"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: vueko
+msgctxt "tag:vueko_(cosplay):primary"
+msgid "vueko_(cosplay)"
+msgstr "Vueko Cosplay"
+
+#. alias-of: vueko_(cosplay)
+#. source: ai
+msgctxt "tag:vueko_(cosplay):alias:1"
+msgid "vueko_(cosplay)"
+msgstr "vueko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vuelasemana_lin_dian_nie:primary"
+msgid "vuelasemana_lin_dian_nie"
+msgstr "Vuelasemana 林殿聂"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:vuendor:primary"
+msgid "vuendor"
+msgstr "Vuendor"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vuibu_miura:primary"
+msgid "vuibu_miura"
+msgstr "Vuibu Miura"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuin:primary"
+msgid "vuin"
+msgstr "VuIn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vuiora:primary"
+msgid "vuiora"
+msgstr "Vuiora"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:vuipui:primary"
+msgid "vuipui"
+msgstr "维皮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vuiru_(guilty_dragon):primary"
+msgid "vuiru_(guilty_dragon)"
+msgstr "Vuiru (罪龙)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vuja3758:primary"
+msgid "vuja3758"
+msgstr "vuja3758"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vukuo_(kamivukuro_boku):primary"
+msgid "vukuo_(kamivukuro_boku)"
+msgstr "Vukuo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:vul3fu:primary"
+msgid "vul3fu"
+msgstr "vul3fu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+#. aliases: vul3hl0smteyk1z
+msgctxt "tag:vul3hl0smteyk1z:primary"
+msgid "vul3hl0smteyk1z"
+msgstr "Vul3hl0smteyk1z"
+
+#. alias-of: vul3hl0smteyk1z
+#. source: ai
+msgctxt "tag:vul3hl0smteyk1z:alias:1"
+msgid "vul3hl0smteyk1z"
+msgstr "vul3hl0smteyk1z"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vul3sl6sl6:primary"
+msgid "vul3sl6sl6"
+msgstr "沃尔三六三六"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:vul_eagle:primary"
+msgid "vul_eagle"
+msgstr "维鹰号"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 鹰耳
+msgctxt "tag:vul_eagle_(cosplay):primary"
+msgid "vul_eagle_(cosplay)"
+msgstr "鹰装Cosplay"
+
+#. alias-of: vul_eagle_(cosplay)
+#. source: ai
+msgctxt "tag:vul_eagle_(cosplay):alias:1"
+msgid "vul_eagle_(cosplay)"
+msgstr "鹰耳"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vul_panther:primary"
+msgid "vul_panther"
+msgstr "Vul Panther"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 黑豹
+msgctxt "tag:vul_panther_(cosplay):primary"
+msgid "vul_panther_(cosplay)"
+msgstr "黑豹装Cosplay"
+
+#. alias-of: vul_panther_(cosplay)
+#. source: ai
+msgctxt "tag:vul_panther_(cosplay):alias:1"
+msgid "vul_panther_(cosplay)"
+msgstr "黑豹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:vul_shark:primary"
+msgid "vul_shark"
+msgstr "Vul Shark"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 鲨鱼
+msgctxt "tag:vul_shark_(cosplay):primary"
+msgid "vul_shark_(cosplay)"
+msgstr "鲨鱼装Cosplay"
+
+#. alias-of: vul_shark_(cosplay)
+#. source: ai
+msgctxt "tag:vul_shark_(cosplay):alias:1"
+msgid "vul_shark_(cosplay)"
+msgstr "鲨鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vulanve:primary"
+msgid "vulanve"
+msgstr "Vulanve"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulapa:primary"
+msgid "vulapa"
+msgstr "vulapa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulasaurart:primary"
+msgid "vulasaurart"
+msgstr "Vulasaurart"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulca_(vtuber):primary"
+msgid "vulca_(vtuber)"
+msgstr "Vulca"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 45
+msgctxt "tag:vulcan:primary"
+msgid "vulcan"
+msgstr "火神"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 172
+#. aliases: Vulcan
+msgctxt "tag:vulcan_(arknights):primary"
+msgid "vulcan_(arknights)"
+msgstr "沃尔坎"
+
+#. alias-of: vulcan_(arknights)
+#. source: ai
+msgctxt "tag:vulcan_(arknights):alias:1"
+msgid "vulcan_(arknights)"
+msgstr "Vulcan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulcan_(battletech):primary"
+msgid "vulcan_(battletech)"
+msgstr "Vulcan（BattleTech）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vulcan_(beheneko):primary"
+msgid "vulcan_(beheneko)"
+msgstr "Vulcan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulcan_(eiyuu_densetsu):primary"
+msgid "vulcan_(eiyuu_densetsu)"
+msgstr "伏尔甘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:vulcan_(ejel2000):primary"
+msgid "vulcan_(ejel2000)"
+msgstr "Vulcan (ejel2000)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:vulcan_(ignis)_(arknights):primary"
+msgid "vulcan_(ignis)_(arknights)"
+msgstr "火神"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 瓦肯
+msgctxt "tag:vulcan_(marvel):primary"
+msgid "vulcan_(marvel)"
+msgstr "伏尔坎"
+
+#. alias-of: vulcan_(marvel)
+#. source: ai
+msgctxt "tag:vulcan_(marvel):alias:1"
+msgid "vulcan_(marvel)"
+msgstr "瓦肯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulcan_(odin_sphere):primary"
+msgid "vulcan_(odin_sphere)"
+msgstr "伏尔坎(奥丁领域)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulcan_(sbarky):primary"
+msgid "vulcan_(sbarky)"
+msgstr "Vulcan（sbarky）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulcan_(smite):primary"
+msgid "vulcan_(smite)"
+msgstr "Vulcan（SMITE）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:vulcan_300:primary"
+msgid "vulcan_300"
+msgstr "火神300"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vulcan_centaur:primary"
+msgid "vulcan_centaur"
+msgstr "Vulcan Centaur"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:vulcan_haestus:primary"
+msgid "vulcan_haestus"
+msgstr "Vulcan Haestus"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:vulcan_joseph:primary"
+msgid "vulcan_joseph"
+msgstr "瓦尔坎·约瑟夫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulcan_moon:primary"
+msgid "vulcan_moon"
+msgstr "vulcan_moon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:vulcan_raven:primary"
+msgid "vulcan_raven"
+msgstr "瓦肯·雷文"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 火神乌鸦Cosplay
+msgctxt "tag:vulcan_raven_(cosplay):primary"
+msgid "vulcan_raven_(cosplay)"
+msgstr "Vulcan Raven Cosplay"
+
+#. alias-of: vulcan_raven_(cosplay)
+#. source: ai
+msgctxt "tag:vulcan_raven_(cosplay):alias:1"
+msgid "vulcan_raven_(cosplay)"
+msgstr "火神乌鸦Cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vulcan_rumia:primary"
+msgid "vulcan_rumia"
+msgstr "Vulcan露米娅"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.hand_gesture
+#. safety: sfw
+#. post-count: 260
+msgctxt "tag:vulcan_salute:primary"
+msgid "vulcan_salute"
+msgstr "瓦肯礼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vulcane_(asterigos):primary"
+msgid "vulcane_(asterigos)"
+msgstr "火神"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulcanneet2:primary"
+msgid "vulcanneet2"
+msgstr "vulcanneet2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulcano_(sennen_sensou_aigis):primary"
+msgid "vulcano_(sennen_sensou_aigis)"
+msgstr "Vulcano（Sennen Sensou Aigis）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 48
+msgctxt "tag:vulcano_caligorante:primary"
+msgid "vulcano_caligorante"
+msgstr "Vulcano Caligorante"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:vulcano_rosso:primary"
+msgid "vulcano_rosso"
+msgstr "红火山"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+#. aliases: 魔界大帝
+msgctxt "tag:vulcanus_(disgaea_1):primary"
+msgid "vulcanus_(disgaea_1)"
+msgstr "伏尔甘"
+
+#. alias-of: vulcanus_(disgaea_1)
+#. source: ai
+msgctxt "tag:vulcanus_(disgaea_1):alias:1"
+msgid "vulcanus_(disgaea_1)"
+msgstr "魔界大帝"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 183
+msgctxt "tag:vulcanus_(disgaea_4):primary"
+msgid "vulcanus_(disgaea_4)"
+msgstr "瓦尔坎努斯(魔界战记4)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:vulcanus_(kaminomi):primary"
+msgid "vulcanus_(kaminomi)"
+msgstr "瓦尔坎努斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vulcanus_(persona_2):primary"
+msgid "vulcanus_(persona_2)"
+msgstr "伏尔坎努斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:vulcanusmon:primary"
+msgid "vulcanusmon"
+msgstr "火山兽"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulgar_display_of_power:primary"
+msgid "vulgar_display_of_power"
+msgstr "Vulgar Display of Power"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulgarmente:primary"
+msgid "vulgarmente"
+msgstr "粗俗地"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Centuria Vulja
+msgctxt "tag:vulja_(centuria):primary"
+msgid "vulja_(centuria)"
+msgstr "Vulja（Centuria）"
+
+#. alias-of: vulja_(centuria)
+#. source: ai
+msgctxt "tag:vulja_(centuria):alias:1"
+msgid "vulja_(centuria)"
+msgstr "Centuria Vulja"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:vulkan:primary"
+msgid "vulkan"
+msgstr "火神"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:vulkin:primary"
+msgid "vulkin"
+msgstr "火之精灵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulking:primary"
+msgid "vulking"
+msgstr "Vulking"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulkiri:primary"
+msgid "vulkiri"
+msgstr "vulkiri"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulko_(mario):primary"
+msgid "vulko_(mario)"
+msgstr "Vulko（Mario）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 109
+msgctxt "tag:vullaby:primary"
+msgid "vullaby"
+msgstr "秃鹰丫头"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:vullen:primary"
+msgid "vullen"
+msgstr "Vullen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulnepro:primary"
+msgid "vulnepro"
+msgstr "vulnepro"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulnerheary:primary"
+msgid "vulnerheary"
+msgstr "vulnerheary"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 52
+#. aliases: 海洋细菌
+msgctxt "tag:vulnificus:primary"
+msgid "vulnificus"
+msgstr "创伤弧菌"
+
+#. alias-of: vulnificus
+#. source: ai
+msgctxt "tag:vulnificus:alias:1"
+msgid "vulnificus"
+msgstr "海洋细菌"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulpe245:primary"
+msgid "vulpe245"
+msgstr "vulpe245"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulpecula-v:primary"
+msgid "vulpecula-v"
+msgstr "Vulpecula-V"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:vulpecula_(constellation):primary"
+msgid "vulpecula_(constellation)"
+msgstr "狐狸座"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:vulpecula_(live_a_hero):primary"
+msgid "vulpecula_(live_a_hero)"
+msgstr "小狐（LAH）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:vulpes:primary"
+msgid "vulpes"
+msgstr "狐狸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+#. aliases: 狐狸
+msgctxt "tag:vulpes-ibculta:primary"
+msgid "vulpes-ibculta"
+msgstr "赤狐"
+
+#. alias-of: vulpes-ibculta
+#. source: ai
+msgctxt "tag:vulpes-ibculta:alias:1"
+msgid "vulpes-ibculta"
+msgstr "狐狸"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vulpes_(echoes_of_vision):primary"
+msgid "vulpes_(echoes_of_vision)"
+msgstr "Vulpes"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulpes_(vtuber):primary"
+msgid "vulpes_(vtuber)"
+msgstr "Vulpes"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:vulpes_inculta:primary"
+msgid "vulpes_inculta"
+msgstr "Vulpes Inculta"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulpes_mathisoni:primary"
+msgid "vulpes_mathisoni"
+msgstr "马西森狐"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vulpes_pitti:primary"
+msgid "vulpes_pitti"
+msgstr "vulpes_pitti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:vulpesgentiana:primary"
+msgid "vulpesgentiana"
+msgstr "Vulpesgentiana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulpessentia:primary"
+msgid "vulpessentia"
+msgstr "Vulpessentia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:vulpetrope:primary"
+msgid "vulpetrope"
+msgstr "狐耳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:vulphree:primary"
+msgid "vulphree"
+msgstr "Vulphree"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal_species_specific
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:vulpimancer:primary"
+msgid "vulpimancer"
+msgstr "狐使"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulpinecarl2005:primary"
+msgid "vulpinecarl2005"
+msgstr "VulpineCarl2005"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulpini:primary"
+msgid "vulpini"
+msgstr "狐亚科"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:vulpisfoglia_(ambience_synesthesia_2025)_(arknights):primary"
+msgid "vulpisfoglia_(ambience_synesthesia_2025)_(arknights)"
+msgstr "伏尔福利亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1516
+msgctxt "tag:vulpisfoglia_(arknights):primary"
+msgid "vulpisfoglia_(arknights)"
+msgstr "沃尔皮斯福利亚(明日方舟)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vulpisfoglia_(arknights)_(cosplay):primary"
+msgid "vulpisfoglia_(arknights)_(cosplay)"
+msgstr "Vulpisfoglia（明日方舟）（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 1142
+msgctxt "tag:vulpix:primary"
+msgid "vulpix"
+msgstr "六尾"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:vulpix_(cosplay):primary"
+msgid "vulpix_(cosplay)"
+msgstr "六尾Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 1
+#. aliases: 六尾
+msgctxt "tag:vulpix_(cozy_cape):primary"
+msgid "vulpix_(cozy_cape)"
+msgstr "六尾（暖暖斗篷）"
+
+#. alias-of: vulpix_(cozy_cape)
+#. source: ai
+msgctxt "tag:vulpix_(cozy_cape):alias:1"
+msgid "vulpix_(cozy_cape)"
+msgstr "六尾"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulpix_(picnic):primary"
+msgid "vulpix_(picnic)"
+msgstr "六尾（野餐）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vulpixie_(vtuber):primary"
+msgid "vulpixie_(vtuber)"
+msgstr "Vulpixie（VTuber）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulpixis:primary"
+msgid "vulpixis"
+msgstr "六尾狐"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vulprofox:primary"
+msgid "vulprofox"
+msgstr "Vulprofox"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vulpyalt:primary"
+msgid "vulpyalt"
+msgstr "Vulpyalt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:vuls406:primary"
+msgid "vuls406"
+msgstr "Vuls406"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:vulthoom:primary"
+msgid "vulthoom"
+msgstr "Vulthoom"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulthoom_(hello_hollow_world!!):primary"
+msgid "vulthoom_(hello_hollow_world!!)"
+msgstr "瓦尔图姆"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 108
+#. aliases: 兀鹫
+msgctxt "tag:vulture:primary"
+msgid "vulture"
+msgstr "秃鹫"
+
+#. alias-of: vulture
+#. source: ai
+msgctxt "tag:vulture:alias:1"
+msgid "vulture"
+msgstr "兀鹫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vulture's_mask_(rain_world):primary"
+msgid "vulture's_mask_(rain_world)"
+msgstr "秃鹫面具"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulture-5:primary"
+msgid "vulture-5"
+msgstr "vulture-5"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulture_(battletech):primary"
+msgid "vulture_(battletech)"
+msgstr "秃鹫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vulture_(frame_arms):primary"
+msgid "vulture_(frame_arms)"
+msgstr "秃鹫（Frame Arms）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:vulture_(marvel):primary"
+msgid "vulture_(marvel)"
+msgstr "秃鹫（漫威）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulture_(marvel)_(cosplay):primary"
+msgid "vulture_(marvel)_(cosplay)"
+msgstr "秃鹫（漫威）（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 雨中秃鹫
+msgctxt "tag:vulture_(rain_world):primary"
+msgid "vulture_(rain_world)"
+msgstr "Vulture"
+
+#. alias-of: vulture_(rain_world)
+#. source: ai
+msgctxt "tag:vulture_(rain_world):alias:1"
+msgid "vulture_(rain_world)"
+msgstr "雨中秃鹫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vulture_(shining_nikki):primary"
+msgid "vulture_(shining_nikki)"
+msgstr "秃鹫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulture_(starcraft):primary"
+msgid "vulture_(starcraft)"
+msgstr "秃鹫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+#. aliases: WashizuVulture
+msgctxt "tag:vulture_(washizu0808):primary"
+msgid "vulture_(washizu0808)"
+msgstr "秃鹫（鸭）"
+
+#. alias-of: vulture_(washizu0808)
+#. source: ai
+msgctxt "tag:vulture_(washizu0808):alias:1"
+msgid "vulture_(washizu0808)"
+msgstr "WashizuVulture"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:vulture_crown:primary"
+msgid "vulture_crown"
+msgstr "秃鹫王冠"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:vulture_mk4:primary"
+msgid "vulture_mk4"
+msgstr "秃鹫Mk4"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulture_signal:primary"
+msgid "vulture_signal"
+msgstr "秃鹫信号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vultureen:primary"
+msgid "vultureen"
+msgstr "秃鹫少女"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vultureger_(artist):primary"
+msgid "vultureger_(artist)"
+msgstr "vultureger"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulturemon:primary"
+msgid "vulturemon"
+msgstr "vulturemon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vulturereyy:primary"
+msgid "vulturereyy"
+msgstr "vulturereyy"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vultures_1_(album):primary"
+msgid "vultures_1_(album)"
+msgstr "Vultures 1（专辑）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vulturon_(mega_man):primary"
+msgid "vulturon_(mega_man)"
+msgstr "秃鹫隆"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:vuluhappy:primary"
+msgid "vuluhappy"
+msgstr "Vulu"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: nsfw
+#. post-count: 4
+msgctxt "tag:vulva_(perfume):primary"
+msgid "vulva_(perfume)"
+msgstr "Vulva（香水）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.nsfw.body.explicit_genitalia
+#. safety: nsfw
+#. post-count: 4
+msgctxt "tag:vulva_hold:primary"
+msgid "vulva_hold"
+msgstr "手持阴部"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:vumakuike:primary"
+msgid "vumakuike"
+msgstr "VumaKuike"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vumbbe0gpdd20xc:primary"
+msgid "vumbbe0gpdd20xc"
+msgstr "Vumbbe0gpdd20xc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vumii:primary"
+msgid "vumii"
+msgstr "伏米"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:vumiposu:primary"
+msgid "vumiposu"
+msgstr "Vumiposu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vund13:primary"
+msgid "vund13"
+msgstr "vund13"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:vundo_(gyee):primary"
+msgid "vundo_(gyee)"
+msgstr "Vundo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vundo_(gyee)_(cosplay):primary"
+msgid "vundo_(gyee)_(cosplay)"
+msgstr "Vundo Cosplay（Gyee）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vunyl4:primary"
+msgid "vunyl4"
+msgstr "vunyl4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vuoeou:primary"
+msgid "vuoeou"
+msgstr "Vuoeou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuogle:primary"
+msgid "vuogle"
+msgstr "沃格尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vuong_ngoc69026:primary"
+msgid "vuong_ngoc69026"
+msgstr "vuong_ngoc69026"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuong_nguyen:primary"
+msgid "vuong_nguyen"
+msgstr "Vuong Nguyen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vuongdieu:primary"
+msgid "vuongdieu"
+msgstr "Vuongdieu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vuorinen_(log_horizon):primary"
+msgid "vuorinen_(log_horizon)"
+msgstr "沃里宁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vuqozu:primary"
+msgid "vuqozu"
+msgstr "Vuqozu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuqtb:primary"
+msgid "vuqtb"
+msgstr "vuqtb"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuquynhanh1995:primary"
+msgid "vuquynhanh1995"
+msgstr "vuquynhanh1995"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vur_horston:primary"
+msgid "vur_horston"
+msgstr "Vur Horston"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vurai_(utawarerumono):primary"
+msgid "vurai_(utawarerumono)"
+msgstr "Vurai"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vurk_(afk):primary"
+msgid "vurk_(afk)"
+msgstr "沃尔克"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vurnillust:primary"
+msgid "vurnillust"
+msgstr "vurnillust"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuroi:primary"
+msgid "vuroi"
+msgstr "维罗伊"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vurtiny:primary"
+msgid "vurtiny"
+msgstr "vurtiny"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:vusc:primary"
+msgid "vusc"
+msgstr "Vusc"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vuscav:primary"
+msgid "vuscav"
+msgstr "Vuscav"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vush:primary"
+msgid "vush"
+msgstr "Vush"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vusionary:primary"
+msgid "vusionary"
+msgstr "vusionary"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vusiuz:primary"
+msgid "vusiuz"
+msgstr "vusiuz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vusy5233:primary"
+msgid "vusy5233"
+msgstr "vusy5233"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 70
+msgctxt "tag:vuta:primary"
+msgid "vuta"
+msgstr "Vuta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuthric:primary"
+msgid "vuthric"
+msgstr "Vuthric"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vutina_217:primary"
+msgid "vutina_217"
+msgstr "维蒂娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:vutkar:primary"
+msgid "vutkar"
+msgstr "Vutkar"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vutopia:primary"
+msgid "vutopia"
+msgstr "Vutopia"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuu-kun_(op_na_yarou):primary"
+msgid "vuu-kun_(op_na_yarou)"
+msgstr "vuu-kun（op_na_yarou）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vuuins:primary"
+msgid "vuuins"
+msgstr "Vuuins"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:vuvkhkgi:primary"
+msgid "vuvkhkgi"
+msgstr "vuvkhkgi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuvu_riot:primary"
+msgid "vuvu_riot"
+msgstr "Vuvu暴动"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 81
+msgctxt "tag:vuvuzela:primary"
+msgid "vuvuzela"
+msgstr "呜呜祖拉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:vuvuzuke:primary"
+msgid "vuvuzuke"
+msgstr "Vuvuzuke"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vuwavuwa:primary"
+msgid "vuwavuwa"
+msgstr "Vuwavuwa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vuwvum:primary"
+msgid "vuwvum"
+msgstr "vuwvum"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 79
+msgctxt "tag:vuxer:primary"
+msgid "vuxer"
+msgstr "Vuxer"

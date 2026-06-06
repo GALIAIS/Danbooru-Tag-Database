@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:26+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:26+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:h2:primary"
+msgid "h2"
+msgstr "H2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h20milk:primary"
+msgid "h20milk"
+msgstr "h20milk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h20nrnskoa:primary"
+msgid "h20nrnskoa"
+msgstr "h20nrnskoa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:h225097063:primary"
+msgid "h225097063"
+msgstr "H225097063"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:h22t:primary"
+msgid "h22t"
+msgstr "H22T"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h22yo:primary"
+msgid "h22yo"
+msgstr "H22Yo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h23srpnddnpuwws:primary"
+msgid "h23srpnddnpuwws"
+msgstr "h23srpnddnpuwws"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h24/7:primary"
+msgid "h24/7"
+msgstr "24小时不间断"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2505i321z:primary"
+msgid "h2505i321z"
+msgstr "h2505i321z"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2604176a:primary"
+msgid "h2604176a"
+msgstr "h2604176a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:h26r:primary"
+msgid "h26r"
+msgstr "h26r"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:h28:primary"
+msgid "h28"
+msgstr "H28"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 211
+#. aliases: h2
+msgctxt "tag:h2_(h20000000):primary"
+msgid "h2_(h20000000)"
+msgstr "H2"
+
+#. alias-of: h2_(h20000000)
+#. source: ai
+msgctxt "tag:h2_(h20000000):alias:1"
+msgid "h2_(h20000000)"
+msgstr "h2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:h2_(hydrogenhni):primary"
+msgid "h2_(hydrogenhni)"
+msgstr "H2（hydrogenhni）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:h2_(manga):primary"
+msgid "h2_(manga)"
+msgstr "H2 (漫画)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2_(tegaki):primary"
+msgid "h2_(tegaki)"
+msgstr "H2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+#. aliases: 新居民
+msgctxt "tag:h2_(xinjinjumin979826624648):primary"
+msgid "h2_(xinjinjumin979826624648)"
+msgstr "H2"
+
+#. alias-of: h2_(xinjinjumin979826624648)
+#. source: ai
+msgctxt "tag:h2_(xinjinjumin979826624648):alias:1"
+msgid "h2_(xinjinjumin979826624648)"
+msgstr "新居民"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2_tk:primary"
+msgid "h2_tk"
+msgstr "h2_tk"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:h2a_(spacecraft):primary"
+msgid "h2a_(spacecraft)"
+msgstr "H-IIA火箭"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:h2b_h2b:primary"
+msgid "h2b_h2b"
+msgstr "h2b"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:h2c:primary"
+msgid "h2c"
+msgstr "h2c"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:h2co3:primary"
+msgid "h2co3"
+msgstr "H2CO3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2co3_(820838):primary"
+msgid "h2co3_(820838)"
+msgstr "h2co3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:h2co3_vv:primary"
+msgid "h2co3_vv"
+msgstr "h2co3_vv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:h2il3aaaa:primary"
+msgid "h2il3aaaa"
+msgstr "h2il3aaaa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:h2lim:primary"
+msgid "h2lim"
+msgstr "h2lim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:h2o1107527:primary"
+msgid "h2o1107527"
+msgstr "h2o1107527"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:h2o2:primary"
+msgid "h2o2"
+msgstr "H2O2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:h2o_(@h2osu5):primary"
+msgid "h2o_(@h2osu5)"
+msgstr "H2O"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 373
+#. aliases: h2o_(ddks2923)
+msgctxt "tag:h2o_(ddks2923):primary"
+msgid "h2o_(ddks2923)"
+msgstr "ddks2923"
+
+#. alias-of: h2o_(ddks2923)
+#. source: ai
+msgctxt "tag:h2o_(ddks2923):alias:1"
+msgid "h2o_(ddks2923)"
+msgstr "h2o_(ddks2923)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 125
+msgctxt "tag:h2o_(dfo):primary"
+msgid "h2o_(dfo)"
+msgstr "H2O"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:h2o_(gueguecamp):primary"
+msgid "h2o_(gueguecamp)"
+msgstr "H2O"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: H2O (hidrogen2oxygen)
+msgctxt "tag:h2o_(hidrogen2oxygen):primary"
+msgid "h2o_(hidrogen2oxygen)"
+msgstr "H2O"
+
+#. alias-of: h2o_(hidrogen2oxygen)
+#. source: ai
+msgctxt "tag:h2o_(hidrogen2oxygen):alias:1"
+msgid "h2o_(hidrogen2oxygen)"
+msgstr "H2O (hidrogen2oxygen)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2o_(nhn_playart):primary"
+msgid "h2o_(nhn_playart)"
+msgstr "H2O"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2o_(rz):primary"
+msgid "h2o_(rz)"
+msgstr "H2O"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:h2o_(user_fexn7448):primary"
+msgid "h2o_(user_fexn7448)"
+msgstr "H2O（用户fexn7448）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2o_(zuonimengzhongdejingling):primary"
+msgid "h2o_(zuonimengzhongdejingling)"
+msgstr "H2O"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2o_404:primary"
+msgid "h2o_404"
+msgstr "h2o_404"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2o_banana:primary"
+msgid "h2o_banana"
+msgstr "h2o_banana"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2o_chan_(kumaartsu):primary"
+msgid "h2o_chan_(kumaartsu)"
+msgstr "H2O酱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:h2o_delirious:primary"
+msgid "h2o_delirious"
+msgstr "H2O Delirious"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 143
+#. aliases: H2O
+msgctxt "tag:h2o_footprints_in_the_sand:primary"
+msgid "h2o_footprints_in_the_sand"
+msgstr "H2O沙滩足迹"
+
+#. alias-of: h2o_footprints_in_the_sand
+#. source: ai
+msgctxt "tag:h2o_footprints_in_the_sand:alias:1"
+msgid "h2o_footprints_in_the_sand"
+msgstr "H2O"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:h2o_just_add_water:primary"
+msgid "h2o_just_add_water"
+msgstr "H2O：加水就好"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 237
+#. aliases: 水
+msgctxt "tag:h2o_omizu:primary"
+msgid "h2o_omizu"
+msgstr "H2O 水"
+
+#. alias-of: h2o_omizu
+#. source: ai
+msgctxt "tag:h2o_omizu:alias:1"
+msgid "h2o_omizu"
+msgstr "水"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:h2o_pipe:primary"
+msgid "h2o_pipe"
+msgstr "水管"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:h2o_rutorinde:primary"
+msgid "h2o_rutorinde"
+msgstr "H2O Rutorinde"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:h2o_uw:primary"
+msgid "h2o_uw"
+msgstr "H2O 水下"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:h2o_water:primary"
+msgid "h2o_water"
+msgstr "H2O Water"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:h2omizu_2:primary"
+msgid "h2omizu_2"
+msgstr "H2O水 2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:h2orini:primary"
+msgid "h2orini"
+msgstr "h2orini"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:h2osakana:primary"
+msgid "h2osakana"
+msgstr "H2O鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 451
+#. aliases: H2SO4
+msgctxt "tag:h2so4:primary"
+msgid "h2so4"
+msgstr "硫酸"
+
+#. alias-of: h2so4
+#. source: ai
+msgctxt "tag:h2so4:alias:1"
+msgid "h2so4"
+msgstr "H2SO4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:h2so4-c:primary"
+msgid "h2so4-c"
+msgstr "H2SO4-C"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:h2so4kancel:primary"
+msgid "h2so4kancel"
+msgstr "H2SO4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2t0riiii_030:primary"
+msgid "h2t0riiii_030"
+msgstr "h2t0riiii_030"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:h2yper:primary"
+msgid "h2yper"
+msgstr "H2yper"

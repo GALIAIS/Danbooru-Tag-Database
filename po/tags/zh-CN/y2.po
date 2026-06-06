@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:49+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:49+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 636
+msgctxt "tag:y2:primary"
+msgid "y2"
+msgstr "Y2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:y20x0_o:primary"
+msgid "y20x0_o"
+msgstr "Y20X0_O"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:y22pi11:primary"
+msgid "y22pi11"
+msgstr "y22pi11"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:y235604:primary"
+msgid "y235604"
+msgstr "y235604"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:y25fe:primary"
+msgid "y25fe"
+msgstr "y25fe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:y2e_pa:primary"
+msgid "y2e_pa"
+msgstr "Y2e Pa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:y2jd:primary"
+msgid "y2jd"
+msgstr "Y2JD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:y2k-2sk:primary"
+msgid "y2k-2sk"
+msgstr "y2k-2sk"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:y2k_(flxphlx):primary"
+msgid "y2k_(flxphlx)"
+msgstr "y2k_(flxphlx)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.fashion_or_costume_style
+#. safety: sfw
+#. post-count: 2293
+#. aliases: 千禧时尚
+msgctxt "tag:y2k_fashion:primary"
+msgid "y2k_fashion"
+msgstr "Y2K时尚"
+
+#. alias-of: y2k_fashion
+#. source: ai
+msgctxt "tag:y2k_fashion:alias:1"
+msgid "y2k_fashion"
+msgstr "千禧时尚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:y2swan:primary"
+msgid "y2swan"
+msgstr "y2swan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:y2umboomspicy:primary"
+msgid "y2umboomspicy"
+msgstr "Y2umboomspicy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:y2yes2:primary"
+msgid "y2yes2"
+msgstr "y2yes2"

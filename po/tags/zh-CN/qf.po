@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:39+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:39+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: QF-16
+msgctxt "tag:qf-16_(flight_highschool):primary"
+msgid "qf-16_(flight_highschool)"
+msgstr "QF-16（Flight Highschool）"
+
+#. alias-of: qf-16_(flight_highschool)
+#. source: ai
+msgctxt "tag:qf-16_(flight_highschool):alias:1"
+msgid "qf-16_(flight_highschool)"
+msgstr "QF-16"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:qf-2001:primary"
+msgid "qf-2001"
+msgstr "QF-2001"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:qf-3000e:primary"
+msgid "qf-3000e"
+msgstr "QF-3000E"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qf5279261978480:primary"
+msgid "qf5279261978480"
+msgstr "qf5279261978480"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qf_1pdr_pom-pom:primary"
+msgid "qf_1pdr_pom-pom"
+msgstr "QF 1磅“Pom-Pom”炮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 八联装砰砰炮
+msgctxt "tag:qf_2-pounder_octuple_pom-pom_gun_mount:primary"
+msgid "qf_2-pounder_octuple_pom-pom_gun_mount"
+msgstr "QF 2磅八联装砰砰炮炮架"
+
+#. alias-of: qf_2-pounder_octuple_pom-pom_gun_mount
+#. source: ai
+msgctxt "tag:qf_2-pounder_octuple_pom-pom_gun_mount:alias:1"
+msgid "qf_2-pounder_octuple_pom-pom_gun_mount"
+msgstr "八联装砰砰炮"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:qf_ivi:primary"
+msgid "qf_ivi"
+msgstr "QF"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 2
+#. aliases: 卡米拉
+msgctxt "tag:qfa-44_carmilla:primary"
+msgid "qfa-44_carmilla"
+msgstr "QFA-44 卡米拉"
+
+#. alias-of: qfa-44_carmilla
+#. source: ai
+msgctxt "tag:qfa-44_carmilla:alias:1"
+msgid "qfa-44_carmilla"
+msgstr "卡米拉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qfa0ao:primary"
+msgid "qfa0ao"
+msgstr "qfa0ao"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qfa_x:primary"
+msgid "qfa_x"
+msgstr "QFA_X"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:qfc0311:primary"
+msgid "qfc0311"
+msgstr "QFC0311"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qfcat666:primary"
+msgid "qfcat666"
+msgstr "Qfcat666"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qfffffg:primary"
+msgid "qfffffg"
+msgstr "qfffffg"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:qfil_absolute:primary"
+msgid "qfil_absolute"
+msgstr "QFil 绝对"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:qfv1z:primary"
+msgid "qfv1z"
+msgstr "qfv1z"

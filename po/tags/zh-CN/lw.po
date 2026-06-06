@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:32+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:32+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lw:primary"
+msgid "lw"
+msgstr "LW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lw_(846123285):primary"
+msgid "lw_(846123285)"
+msgstr "lw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lw_88:primary"
+msgid "lw_88"
+msgstr "lw_88"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:lw_goombang:primary"
+msgid "lw_goombang"
+msgstr "Goo漫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lwa:primary"
+msgid "lwa"
+msgstr "LWA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwamizu:primary"
+msgid "lwamizu"
+msgstr "Lwamizu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lwdkmt:primary"
+msgid "lwdkmt"
+msgstr "lwdkmt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwdloot:primary"
+msgid "lwdloot"
+msgstr "LWDloot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:lwen:primary"
+msgid "lwen"
+msgstr "lwen"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwh:primary"
+msgid "lwh"
+msgstr "LWH"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwhalel:primary"
+msgid "lwhalel"
+msgstr "Lwhalel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lwhana:primary"
+msgid "lwhana"
+msgstr "lwhana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwiis64:primary"
+msgid "lwiis64"
+msgstr "lwiis64"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:lwisr:primary"
+msgid "lwisr"
+msgstr "lwisr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:lwj:primary"
+msgid "lwj"
+msgstr "老王"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwl153656:primary"
+msgid "lwl153656"
+msgstr "lwl153656"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:lwlume:primary"
+msgid "lwlume"
+msgstr "lwlume"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 140
+msgctxt "tag:lwmina70119:primary"
+msgid "lwmina70119"
+msgstr "lwmina70119"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:lwmmg_(cozy_root_note)_(girls'_frontline):primary"
+msgid "lwmmg_(cozy_root_note)_(girls'_frontline)"
+msgstr "LWMMG"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 200
+msgctxt "tag:lwmmg_(girls'_frontline):primary"
+msgid "lwmmg_(girls'_frontline)"
+msgstr "LWMMG"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lwmmg_(girls'_frontline)_(cosplay):primary"
+msgid "lwmmg_(girls'_frontline)_(cosplay)"
+msgstr "LWMMG"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:lwmmg_(golden_starthistle)_(girls'_frontline):primary"
+msgid "lwmmg_(golden_starthistle)_(girls'_frontline)"
+msgstr "金雀花 (少前)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+#. aliases: 少女前线
+msgctxt "tag:lwmmg_(knight_and_protector)_(girls'_frontline):primary"
+msgid "lwmmg_(knight_and_protector)_(girls'_frontline)"
+msgstr "LWMMG"
+
+#. alias-of: lwmmg_(knight_and_protector)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:lwmmg_(knight_and_protector)_(girls'_frontline):alias:1"
+msgid "lwmmg_(knight_and_protector)_(girls'_frontline)"
+msgstr "少女前线"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:lwmmg_(mod3)_(girls'_frontline):primary"
+msgid "lwmmg_(mod3)_(girls'_frontline)"
+msgstr "LWMMG(改造3)(少女前线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:lwmmg_(my_lie_in_december)_(girls'_frontline):primary"
+msgid "lwmmg_(my_lie_in_december)_(girls'_frontline)"
+msgstr "少女前线"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:lwmmg_(patchworker's_soliloquy)_(girls'_frontline):primary"
+msgid "lwmmg_(patchworker's_soliloquy)_(girls'_frontline)"
+msgstr "补丁工人的独白"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: LWMMG, 少女前线
+msgctxt "tag:lwmmg_(salary_wizard)_(girls'_frontline):primary"
+msgid "lwmmg_(salary_wizard)_(girls'_frontline)"
+msgstr "LWMMG"
+
+#. alias-of: lwmmg_(salary_wizard)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:lwmmg_(salary_wizard)_(girls'_frontline):alias:1"
+msgid "lwmmg_(salary_wizard)_(girls'_frontline)"
+msgstr "LWMMG"
+
+#. alias-of: lwmmg_(salary_wizard)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:lwmmg_(salary_wizard)_(girls'_frontline):alias:2"
+msgid "lwmmg_(salary_wizard)_(girls'_frontline)"
+msgstr "少女前线"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwnini:primary"
+msgid "lwnini"
+msgstr "lwnini"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwomlily:primary"
+msgid "lwomlily"
+msgstr "lwomlily"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwouyr:primary"
+msgid "lwouyr"
+msgstr "Lwouyr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwr31749708:primary"
+msgid "lwr31749708"
+msgstr "lwr31749708"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:lwrc_m6:primary"
+msgid "lwrc_m6"
+msgstr "LWRC M6"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:lwrc_smg_45:primary"
+msgid "lwrc_smg_45"
+msgstr "LWRC SMG-45"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:lws4cydxt:primary"
+msgid "lws4cydxt"
+msgstr "lws4cydxt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwxza:primary"
+msgid "lwxza"
+msgstr "lwxza"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:lwy:primary"
+msgid "lwy"
+msgstr "lwy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:lwyn:primary"
+msgid "lwyn"
+msgstr "露茵"

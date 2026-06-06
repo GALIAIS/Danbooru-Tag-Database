@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:45+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:45+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:t90s_mk2:primary"
+msgid "t90s_mk2"
+msgstr "T90S MK2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:t91_(girls'_frontline):primary"
+msgid "t91_(girls'_frontline)"
+msgstr "T91"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:t91_(snowy_plum_blossom)_(girls'_frontline):primary"
+msgid "t91_(snowy_plum_blossom)_(girls'_frontline)"
+msgstr "T91 (雪梅)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:t91_(upotte!!):primary"
+msgid "t91_(upotte!!)"
+msgstr "T91"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:t91_assault_rifle:primary"
+msgid "t91_assault_rifle"
+msgstr "T91突击步枪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t95km:primary"
+msgid "t95km"
+msgstr "T95KM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:t9634:primary"
+msgid "t9634"
+msgstr "T9634"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t98_(t-n0218):primary"
+msgid "t98_(t-n0218)"
+msgstr "t98"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t99yuki:primary"
+msgid "t99yuki"
+msgstr "T99yuki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 1573
+msgctxt "tag:t9_(1573):primary"
+msgid "t9_(1573)"
+msgstr "T9"
+
+#. alias-of: t9_(1573)
+#. source: ai
+msgctxt "tag:t9_(1573):alias:1"
+msgid "t9_(1573)"
+msgstr "1573"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t9_(pixiv_55694727):primary"
+msgid "t9_(pixiv_55694727)"
+msgstr "T9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:t9_kanisan:primary"
+msgid "t9_kanisan"
+msgstr "T9加尼桑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:t9gmx4:primary"
+msgid "t9gmx4"
+msgstr "t9gmx4"

@@ -1,0 +1,559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:50+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:50+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yt1988_0121:primary"
+msgid "yt1988_0121"
+msgstr "YT1988_0121"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:yt3:primary"
+msgid "yt3"
+msgstr "YT3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yt828345:primary"
+msgid "yt828345"
+msgstr "YT828345"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 128
+msgctxt "tag:yt9676:primary"
+msgid "yt9676"
+msgstr "yt9676"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yt_(51068627):primary"
+msgid "yt_(51068627)"
+msgstr "yt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:yt_(63641217):primary"
+msgid "yt_(63641217)"
+msgstr "YT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yt_(kaisenpasta):primary"
+msgid "yt_(kaisenpasta)"
+msgstr "YT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:yt_(teradaya-yuji):primary"
+msgid "yt_(teradaya-yuji)"
+msgstr "YT（寺田屋勇次）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 852
+#. aliases: YT, wai-tei
+msgctxt "tag:yt_(wai-tei):primary"
+msgid "yt_(wai-tei)"
+msgstr "外帝"
+
+#. alias-of: yt_(wai-tei)
+#. source: ai
+msgctxt "tag:yt_(wai-tei):alias:1"
+msgid "yt_(wai-tei)"
+msgstr "YT"
+
+#. alias-of: yt_(wai-tei)
+#. source: ai
+msgctxt "tag:yt_(wai-tei):alias:2"
+msgid "yt_(wai-tei)"
+msgstr "wai-tei"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:yt_(yt_ty):primary"
+msgid "yt_(yt_ty)"
+msgstr "YT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yt_(zhangyuchenbin):primary"
+msgid "yt_(zhangyuchenbin)"
+msgstr "YT（张宇晨斌）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ytae_in:primary"
+msgid "ytae_in"
+msgstr "尹叶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ytairui:primary"
+msgid "ytairui"
+msgstr "YTairui"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytalosm2:primary"
+msgid "ytalosm2"
+msgstr "Ytalosm2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ytaoh:primary"
+msgid "ytaoh"
+msgstr "Ytaoh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ytbky_8:primary"
+msgid "ytbky_8"
+msgstr "ytbky_8"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytg8:primary"
+msgid "ytg8"
+msgstr "ytg8"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ythdltmnmhlc10:primary"
+msgid "ythdltmnmhlc10"
+msgstr "ythdltmnmhlc10"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ytheli:primary"
+msgid "ytheli"
+msgstr "Ytheli"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ythgh:primary"
+msgid "ythgh"
+msgstr "Ythgh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytiao_xianyu:primary"
+msgid "ytiao_xianyu"
+msgstr "一条咸鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ytingyui:primary"
+msgid "ytingyui"
+msgstr "Ytingyui"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ytis:primary"
+msgid "ytis"
+msgstr "ytis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ytjl8:primary"
+msgid "ytjl8"
+msgstr "YTJL8"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ytk:primary"
+msgid "ytk"
+msgstr "ytk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ytk087:primary"
+msgid "ytk087"
+msgstr "YTK087"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 96
+#. aliases: ytk, yutta-p
+msgctxt "tag:ytk_(yutta-p):primary"
+msgid "ytk_(yutta-p)"
+msgstr "由他P"
+
+#. alias-of: ytk_(yutta-p)
+#. source: ai
+msgctxt "tag:ytk_(yutta-p):alias:1"
+msgid "ytk_(yutta-p)"
+msgstr "ytk"
+
+#. alias-of: ytk_(yutta-p)
+#. source: ai
+msgctxt "tag:ytk_(yutta-p):alias:2"
+msgid "ytk_(yutta-p)"
+msgstr "yutta-p"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ytk_nina_x:primary"
+msgid "ytk_nina_x"
+msgstr "ytk_nina_x"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytkadraws:primary"
+msgid "ytkadraws"
+msgstr "YTKADraws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ytkcchi:primary"
+msgid "ytkcchi"
+msgstr "ytkcchi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ytki0:primary"
+msgid "ytki0"
+msgstr "ytki0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ytkmrs:primary"
+msgid "ytkmrs"
+msgstr "ytkmrs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ytmg_x:primary"
+msgid "ytmg_x"
+msgstr "ytmg_x"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ytmnd_(site):primary"
+msgid "ytmnd_(site)"
+msgstr "YTMND（网站）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytn_s:primary"
+msgid "ytn_s"
+msgstr "ytn_s"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:yto9:primary"
+msgid "yto9"
+msgstr "yto9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:yto_(tjyj7738):primary"
+msgid "yto_(tjyj7738)"
+msgstr "yto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ytooru:primary"
+msgid "ytooru"
+msgstr "ytooru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ytot_335:primary"
+msgid "ytot_335"
+msgstr "YTOT 335"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 117
+msgctxt "tag:ytoy:primary"
+msgid "ytoy"
+msgstr "ytoy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ytozoty:primary"
+msgid "ytozoty"
+msgstr "ytozoty"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytq_(3815709):primary"
+msgid "ytq_(3815709)"
+msgstr "YTQ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ytr:primary"
+msgid "ytr"
+msgstr "YTR"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytr_records:primary"
+msgid "ytr_records"
+msgstr "YTR Records"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytr_w:primary"
+msgid "ytr_w"
+msgstr "Ytr_w"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 107
+msgctxt "tag:ytrall:primary"
+msgid "ytrall"
+msgstr "ytrall"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytrytr2000:primary"
+msgid "ytrytr2000"
+msgstr "ytrytr2000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 101
+msgctxt "tag:yts_takana:primary"
+msgid "yts_takana"
+msgstr "yts_takana"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ytskai00:primary"
+msgid "ytskai00"
+msgstr "ytskai00"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ytsuken:primary"
+msgid "ytsuken"
+msgstr "Ytsuken"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ytswj:primary"
+msgid "ytswj"
+msgstr "Ytswj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ytt5fr3byk81322_(ichigo_ame):primary"
+msgid "ytt5fr3byk81322_(ichigo_ame)"
+msgstr "ytt5fr3byk81322"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytt_zuk:primary"
+msgid "ytt_zuk"
+msgstr "Ytt-zuk"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: 边缘世界
+msgctxt "tag:yttakin_(rimworld):primary"
+msgid "yttakin_(rimworld)"
+msgstr "yttakin（RimWorld）"
+
+#. alias-of: yttakin_(rimworld)
+#. source: ai
+msgctxt "tag:yttakin_(rimworld):alias:1"
+msgid "yttakin_(rimworld)"
+msgstr "边缘世界"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:yttd_taku:primary"
+msgid "yttd_taku"
+msgstr "YTTD Taku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yttfy:primary"
+msgid "yttfy"
+msgstr "yttfy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yttl:primary"
+msgid "yttl"
+msgstr "YTTL"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yttrium:primary"
+msgid "yttrium"
+msgstr "钇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:yttrium_bunny:primary"
+msgid "yttrium_bunny"
+msgstr "钇兔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:ytuorvi:primary"
+msgid "ytuorvi"
+msgstr "ytuorvi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ytxartz:primary"
+msgid "ytxartz"
+msgstr "YTXARTZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ytyf_(ytyf0171):primary"
+msgid "ytyf_(ytyf0171)"
+msgstr "ytyf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ytyrytyr:primary"
+msgid "ytyrytyr"
+msgstr "ytyrytyr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 57
+msgctxt "tag:ytyutiktv:primary"
+msgid "ytyutiktv"
+msgstr "ytyutiktv"

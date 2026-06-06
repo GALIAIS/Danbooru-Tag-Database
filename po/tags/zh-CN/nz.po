@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:37+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:37+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nz01:primary"
+msgid "nz01"
+msgstr "Nz01"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:nz75_(chrysanthemum)_(girls'_frontline):primary"
+msgid "nz75_(chrysanthemum)_(girls'_frontline)"
+msgstr "NZ75（菊花）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 71
+msgctxt "tag:nz75_(girls'_frontline):primary"
+msgid "nz75_(girls'_frontline)"
+msgstr "NZ75"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: NZ75
+msgctxt "tag:nz75_(girls'_frontline)_(cosplay):primary"
+msgid "nz75_(girls'_frontline)_(cosplay)"
+msgstr "NZ75（少女前线）Cosplay"
+
+#. alias-of: nz75_(girls'_frontline)_(cosplay)
+#. source: ai
+msgctxt "tag:nz75_(girls'_frontline)_(cosplay):alias:1"
+msgid "nz75_(girls'_frontline)_(cosplay)"
+msgstr "NZ75"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: NZ75
+msgctxt "tag:nz75_(nightstalker_beneath_the_crimson_moon)_(girls'_frontline):primary"
+msgid "nz75_(nightstalker_beneath_the_crimson_moon)_(girls'_frontline)"
+msgstr "NZ75（赤月下的夜行者，少女前线）"
+
+#. alias-of: nz75_(nightstalker_beneath_the_crimson_moon)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:nz75_(nightstalker_beneath_the_crimson_moon)_(girls'_frontline):alias:1"
+msgid "nz75_(nightstalker_beneath_the_crimson_moon)_(girls'_frontline)"
+msgstr "NZ75"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:nz75_(thanx!_&_go2hell!)_(girls'_frontline):primary"
+msgid "nz75_(thanx!_&_go2hell!)_(girls'_frontline)"
+msgstr "NZ75（少女前线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:nz75_ge:primary"
+msgid "nz75_ge"
+msgstr "NZ75 GE"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:nz7kawaii:primary"
+msgid "nz7kawaii"
+msgstr "nz7kawaii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:nz99:primary"
+msgid "nz99"
+msgstr "nz99"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nz_(n_enz):primary"
+msgid "nz_(n_enz)"
+msgstr "n_enz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:nz_(nizu):primary"
+msgid "nz_(nizu)"
+msgstr "nizu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nz_(pixiv_42470631):primary"
+msgid "nz_(pixiv_42470631)"
+msgstr "NZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:nz_(smile_yuting):primary"
+msgid "nz_(smile_yuting)"
+msgstr "NZ(微笑宇庭)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nz_(vovo0_o):primary"
+msgid "nz_(vovo0_o)"
+msgstr "nz (vovo0_o)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:nz_liii:primary"
+msgid "nz_liii"
+msgstr "NZ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nz_mlyn:primary"
+msgid "nz_mlyn"
+msgstr "NZ Mlyn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nz_ncnz:primary"
+msgid "nz_ncnz"
+msgstr "ncnz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:nz_nezz:primary"
+msgid "nz_nezz"
+msgstr "nz_nezz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:nz_taku:primary"
+msgid "nz_taku"
+msgstr "NZ宅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:nzack:primary"
+msgid "nzack"
+msgstr "NZack"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:nzakh3ro:primary"
+msgid "nzakh3ro"
+msgstr "nzakh3ro"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:nzambi_(fate):primary"
+msgid "nzambi_(fate)"
+msgstr "恩赞比（Fate）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzawa:primary"
+msgid "nzawa"
+msgstr "nzawa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nzawasaji:primary"
+msgid "nzawasaji"
+msgstr "Nzawasaji"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:nzdd000:primary"
+msgid "nzdd000"
+msgstr "nzdd000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:nzdwarf:primary"
+msgid "nzdwarf"
+msgstr "NZ矮人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:nze7en:primary"
+msgid "nze7en"
+msgstr "Nze7en"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 331
+msgctxt "tag:nzeneee:primary"
+msgid "nzeneee"
+msgstr "nzeneee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:nzenzenzenze:primary"
+msgid "nzenzenzenze"
+msgstr "nzenzenzenze"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:nzer0j:primary"
+msgid "nzer0j"
+msgstr "nzer0j"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzexlkvpsw66426:primary"
+msgid "nzexlkvpsw66426"
+msgstr "nzexlkvpsw66426"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:nzg_09:primary"
+msgid "nzg_09"
+msgstr "nzg_09"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nzh:primary"
+msgid "nzh"
+msgstr "NZH"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzio:primary"
+msgid "nzio"
+msgstr "nzio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:nzk:primary"
+msgid "nzk"
+msgstr "NZK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nzk/hiu:primary"
+msgid "nzk/hiu"
+msgstr "nzk/hiu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:nzkn:primary"
+msgid "nzkn"
+msgstr "nzkn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzm_(user_vfkg8343):primary"
+msgid "nzm_(user_vfkg8343)"
+msgstr "nzm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:nzm_beta:primary"
+msgid "nzm_beta"
+msgstr "nzm_beta"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzm_gm2:primary"
+msgid "nzm_gm2"
+msgstr "NZM_GM2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:nzmnnkk:primary"
+msgid "nzmnnkk"
+msgstr "nzmnnkk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nzmpark:primary"
+msgid "nzmpark"
+msgstr "nzmpark"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:nzmtarou:primary"
+msgid "nzmtarou"
+msgstr "nzmtarou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzmxfff:primary"
+msgid "nzmxfff"
+msgstr "nzmxfff"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:nzmzdxa_qwq:primary"
+msgid "nzmzdxa_qwq"
+msgstr "nzq_qwq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzn:primary"
+msgid "nzn"
+msgstr "nzn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nzn_bkmt:primary"
+msgid "nzn_bkmt"
+msgstr "nzn_bkmt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nznesk:primary"
+msgid "nznesk"
+msgstr "nznesk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:nznzn:primary"
+msgid "nznzn"
+msgstr "nznzn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:nzo_(oishii_pie):primary"
+msgid "nzo_(oishii_pie)"
+msgstr "nzo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzo_zoo:primary"
+msgid "nzo_zoo"
+msgstr "NZO Zoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:nzr_zrzr:primary"
+msgid "nzr_zrzr"
+msgstr "nzr_zrzr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nzsh:primary"
+msgid "nzsh"
+msgstr "nzsh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:nzsssm:primary"
+msgid "nzsssm"
+msgstr "nzsssm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:nzt:primary"
+msgid "nzt"
+msgstr "NZT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:nztfsg:primary"
+msgid "nztfsg"
+msgstr "nztfsg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:nztzf:primary"
+msgid "nztzf"
+msgstr "NZTZF"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:nzuwaiganin:primary"
+msgid "nzuwaiganin"
+msgstr "恩祖瓦伊加宁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzwixbydhknxjlw:primary"
+msgid "nzwixbydhknxjlw"
+msgstr "nzwixbydhknxjlw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:nzwt:primary"
+msgid "nzwt"
+msgstr "nzwt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:nzx78:primary"
+msgid "nzx78"
+msgstr "nzx78"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:nzxd:primary"
+msgid "nzxd"
+msgstr "nzxd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:nzxd1:primary"
+msgid "nzxd1"
+msgstr "nzxd1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:nzxt_cam:primary"
+msgid "nzxt_cam"
+msgstr "NZXT Cam"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 94
+msgctxt "tag:nzz:primary"
+msgid "nzz"
+msgstr "nzz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:nzzcsm:primary"
+msgid "nzzcsm"
+msgstr "nzzcsm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:nzzzzzzz-ji:primary"
+msgid "nzzzzzzz-ji"
+msgstr "nzzzzzzz-ji"

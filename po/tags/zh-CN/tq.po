@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:47+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:47+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:tq5:primary"
+msgid "tq5"
+msgstr "TQ5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:tq_2508:primary"
+msgid "tq_2508"
+msgstr "TQ2508"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:tq_amatouchan:primary"
+msgid "tq_amatouchan"
+msgstr "TQ天音酱"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Halley Labs
+msgctxt "tag:tqbf_(halley_labs):primary"
+msgid "tqbf_(halley_labs)"
+msgstr "TQBF（Halley Labs）"
+
+#. alias-of: tqbf_(halley_labs)
+#. source: ai
+msgctxt "tag:tqbf_(halley_labs):alias:1"
+msgid "tqbf_(halley_labs)"
+msgstr "Halley Labs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:tqcyanciel:primary"
+msgid "tqcyanciel"
+msgstr "tqcyanciel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tqfu4u:primary"
+msgid "tqfu4u"
+msgstr "Tqfu4u"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 105
+msgctxt "tag:tqg_07:primary"
+msgid "tqg_07"
+msgstr "tqg_07"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tqga3wig4q61080:primary"
+msgid "tqga3wig4q61080"
+msgstr "tqga3wig4q61080"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tqilet:primary"
+msgid "tqilet"
+msgstr "tqilet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tqlize:primary"
+msgid "tqlize"
+msgstr "tqlize"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tqm:primary"
+msgid "tqm"
+msgstr "tqm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:tqm6ksa:primary"
+msgid "tqm6ksa"
+msgstr "tqm6ksa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tqm_(190r):primary"
+msgid "tqm_(190r)"
+msgstr "TQM（190r）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tqowody:primary"
+msgid "tqowody"
+msgstr "特科沃迪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tqq_oo00ooqqq:primary"
+msgid "tqq_oo00ooqqq"
+msgstr "tqq_oo00ooqqq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:tqs:primary"
+msgid "tqs"
+msgstr "tqs"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:tqtiki:primary"
+msgid "tqtiki"
+msgstr "tqtiki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:tqtopic:primary"
+msgid "tqtopic"
+msgstr "tqtopic"

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:21+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:21+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.quality.quality_score
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:c8-sfw:primary"
+msgid "c8-sfw"
+msgstr "C8（全年龄）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:c81939178391:primary"
+msgid "c81939178391"
+msgstr "c81939178391"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:c85241:primary"
+msgid "c85241"
+msgstr "c85241"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:c88:primary"
+msgid "c88"
+msgstr "C88"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:c8_3am:primary"
+msgid "c8_3am"
+msgstr "c8_3am"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:c8apa:primary"
+msgid "c8apa"
+msgstr "c8apa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:c8h11no2:primary"
+msgid "c8h11no2"
+msgstr "C8H11NO2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:c8h11o2n:primary"
+msgid "c8h11o2n"
+msgstr "c8h11o2n"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:c8h7n3o2mm:primary"
+msgid "c8h7n3o2mm"
+msgstr "C8H7N3O2MM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:c8hiino2:primary"
+msgid "c8hiino2"
+msgstr "C8Hiino2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 119
+msgctxt "tag:c8oyk:primary"
+msgid "c8oyk"
+msgstr "c8oyk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:c8sny:primary"
+msgid "c8sny"
+msgstr "C8sny"

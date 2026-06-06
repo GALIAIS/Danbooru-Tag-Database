@@ -1,0 +1,665 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:48+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:48+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:vf-0:primary"
+msgid "vf-0"
+msgstr "VF-0"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:vf-0a:primary"
+msgid "vf-0a"
+msgstr "VF-0A"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vf-0b:primary"
+msgid "vf-0b"
+msgstr "VF-0B"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vf-0c:primary"
+msgid "vf-0c"
+msgstr "VF-0C"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:vf-0d:primary"
+msgid "vf-0d"
+msgstr "VF-0D"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:vf-0s:primary"
+msgid "vf-0s"
+msgstr "VF-0S"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vf-0s_armored:primary"
+msgid "vf-0s_armored"
+msgstr "VF-0S 装甲型"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 570
+#. aliases: 变形战机
+msgctxt "tag:vf-1:primary"
+msgid "vf-1"
+msgstr "VF-1"
+
+#. alias-of: vf-1
+#. source: ai
+msgctxt "tag:vf-1:alias:1"
+msgid "vf-1"
+msgstr "变形战机"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:vf-11:primary"
+msgid "vf-11"
+msgstr "VF-11"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:vf-11_maxl:primary"
+msgid "vf-11_maxl"
+msgstr "VF-11 MaxL"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:vf-14:primary"
+msgid "vf-14"
+msgstr "VF-14"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vf-15c:primary"
+msgid "vf-15c"
+msgstr "VF-15C"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:vf-17:primary"
+msgid "vf-17"
+msgstr "VF-17"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:vf-171:primary"
+msgid "vf-171"
+msgstr "VF-171"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vf-171ex:primary"
+msgid "vf-171ex"
+msgstr "VF-171EX"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vf-17d:primary"
+msgid "vf-17d"
+msgstr "VF-17D"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vf-17s:primary"
+msgid "vf-17s"
+msgstr "VF-17S"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:vf-19:primary"
+msgid "vf-19"
+msgstr "VF-19"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vf-19a:primary"
+msgid "vf-19a"
+msgstr "VF-19A"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 65
+msgctxt "tag:vf-1_strike:primary"
+msgid "vf-1_strike"
+msgstr "VF-1 Strike"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 92
+msgctxt "tag:vf-1_super:primary"
+msgid "vf-1_super"
+msgstr "VF-1超级"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 121
+msgctxt "tag:vf-1a:primary"
+msgid "vf-1a"
+msgstr "VF-1A"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:vf-1d:primary"
+msgid "vf-1d"
+msgstr "VF-1D"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vf-1ex:primary"
+msgid "vf-1ex"
+msgstr "VF-1EX"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 166
+#. aliases: VF-1J战斗机
+msgctxt "tag:vf-1j:primary"
+msgid "vf-1j"
+msgstr "VF-1J"
+
+#. alias-of: vf-1j
+#. source: ai
+msgctxt "tag:vf-1j:alias:1"
+msgid "vf-1j"
+msgstr "VF-1J战斗机"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:vf-1j_armored:primary"
+msgid "vf-1j_armored"
+msgstr "VF-1J装甲型"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 162
+#. aliases: 女武神战机
+msgctxt "tag:vf-1s:primary"
+msgid "vf-1s"
+msgstr "VF-1S战斗机"
+
+#. alias-of: vf-1s
+#. source: ai
+msgctxt "tag:vf-1s:alias:1"
+msgid "vf-1s"
+msgstr "女武神战机"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vf-1s_armored:primary"
+msgid "vf-1s_armored"
+msgstr "装甲VF-1S"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vf-1sr:primary"
+msgid "vf-1sr"
+msgstr "VF-1SR"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vf-21:primary"
+msgid "vf-21"
+msgstr "VF-21"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vf-22:primary"
+msgid "vf-22"
+msgstr "VF-22"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 216
+#. aliases: VF-25
+msgctxt "tag:vf-25:primary"
+msgid "vf-25"
+msgstr "女武神25"
+
+#. alias-of: vf-25
+#. source: ai
+msgctxt "tag:vf-25:alias:1"
+msgid "vf-25"
+msgstr "VF-25"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:vf-25_(cosplay):primary"
+msgid "vf-25_(cosplay)"
+msgstr "VF-25 (Cosplay)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vf-25f:primary"
+msgid "vf-25f"
+msgstr "VF-25F"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: 女武神战机
+msgctxt "tag:vf-25g:primary"
+msgid "vf-25g"
+msgstr "VF-25G"
+
+#. alias-of: vf-25g
+#. source: ai
+msgctxt "tag:vf-25g:alias:1"
+msgid "vf-25g"
+msgstr "女武神战机"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vf-25s:primary"
+msgid "vf-25s"
+msgstr "VF-25S"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:vf-27:primary"
+msgid "vf-27"
+msgstr "VF-27"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vf-27_(cosplay):primary"
+msgid "vf-27_(cosplay)"
+msgstr "VF-27（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:vf-2ss:primary"
+msgid "vf-2ss"
+msgstr "VF-2SS"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vf-3000:primary"
+msgid "vf-3000"
+msgstr "VF-3000"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 103
+msgctxt "tag:vf-31:primary"
+msgid "vf-31"
+msgstr "VF-31"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:vf-31a:primary"
+msgid "vf-31a"
+msgstr "VF-31A"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:vf-31ax:primary"
+msgid "vf-31ax"
+msgstr "VF-31AX"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:vf-31c:primary"
+msgid "vf-31c"
+msgstr "VF-31C"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vf-31d:primary"
+msgid "vf-31d"
+msgstr "VF-31D"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:vf-31e:primary"
+msgid "vf-31e"
+msgstr "VF-31E"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:vf-31f:primary"
+msgid "vf-31f"
+msgstr "VF-31F"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:vf-31j:primary"
+msgid "vf-31j"
+msgstr "VF-31J"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vf-31j_(cosplay):primary"
+msgid "vf-31j_(cosplay)"
+msgstr "VF-31J cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:vf-31s:primary"
+msgid "vf-31s"
+msgstr "VF-31S"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vf-32:primary"
+msgid "vf-32"
+msgstr "VF-32"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vf-36:primary"
+msgid "vf-36"
+msgstr "VF-36"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:vf-4:primary"
+msgid "vf-4"
+msgstr "VF-4"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:vf-9:primary"
+msgid "vf-9"
+msgstr "VF-9"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vf-x3:primary"
+msgid "vf-x3"
+msgstr "VF-X3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vf31j:primary"
+msgid "vf31j"
+msgstr "vf31j"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vf77tu:primary"
+msgid "vf77tu"
+msgstr "vf77tu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vf92:primary"
+msgid "vf92"
+msgstr "VF92"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vfa-103:primary"
+msgid "vfa-103"
+msgstr "VFA-103"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vfenrxlxaak6sxt:primary"
+msgid "vfenrxlxaak6sxt"
+msgstr "vfenrxlxaak6sxt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vfhlm:primary"
+msgid "vfhlm"
+msgstr "VFHLM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vfilve_man:primary"
+msgid "vfilve_man"
+msgstr "Vfilve Man"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vfiuueovqqvzykt:primary"
+msgid "vfiuueovqqvzykt"
+msgstr "vfiuueovqqvzykt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vfkf8835:primary"
+msgid "vfkf8835"
+msgstr "vfkf8835"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:vfleet:primary"
+msgid "vfleet"
+msgstr "VFleet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:vflhzx:primary"
+msgid "vflhzx"
+msgstr "vflhzx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:vflovver:primary"
+msgid "vflovver"
+msgstr "vflovver"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vfltbjvexngwvsv:primary"
+msgid "vfltbjvexngwvsv"
+msgstr "vfltbjvexngwvsv"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vforvengeance:primary"
+msgid "vforvengeance"
+msgstr "vforvengeance"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vforvielka:primary"
+msgid "vforvielka"
+msgstr "Vforvielka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vfrog75:primary"
+msgid "vfrog75"
+msgstr "vfrog75"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vft_holo:primary"
+msgid "vft_holo"
+msgstr "VFT荷洛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vftw5224:primary"
+msgid "vftw5224"
+msgstr "vftw5224"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vfulton:primary"
+msgid "vfulton"
+msgstr "VFulton"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:vfwe2535:primary"
+msgid "vfwe2535"
+msgstr "VFWE2535"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vfx-4:primary"
+msgid "vfx-4"
+msgstr "VFX-4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vfyc2324:primary"
+msgid "vfyc2324"
+msgstr "vfyc2324"

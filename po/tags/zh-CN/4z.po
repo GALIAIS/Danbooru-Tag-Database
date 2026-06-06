@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:4z021:primary"
+msgid "4z021"
+msgstr "4z021"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:4zazil:primary"
+msgid "4zazil"
+msgstr "4zazil"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:4zca:primary"
+msgid "4zca"
+msgstr "4zca"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:4ze_meteor:primary"
+msgid "4ze_meteor"
+msgstr "4ze_meteor"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 四只玛力露
+msgctxt "tag:4zumarill:primary"
+msgid "4zumarill"
+msgstr "4玛力露"
+
+#. alias-of: 4zumarill
+#. source: ai
+msgctxt "tag:4zumarill:alias:1"
+msgid "4zumarill"
+msgstr "四只玛力露"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:4zw89qkqagggcf7:primary"
+msgid "4zw89qkqagggcf7"
+msgstr "4zw89qkqagggcf7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:4zz:primary"
+msgid "4zz"
+msgstr "4zz"

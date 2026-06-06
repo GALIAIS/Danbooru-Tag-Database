@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:36:primary"
+msgid "36"
+msgstr "36"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:36.5:primary"
+msgid "36.5"
+msgstr "36.5度"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:3600gt:primary"
+msgid "3600gt"
+msgstr "3600GT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:3601pt04:primary"
+msgid "3601pt04"
+msgstr "3601PT04"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:36092sbr:primary"
+msgid "36092sbr"
+msgstr "36092sbr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 147
+msgctxt "tag:360_(taiyo360):primary"
+msgid "360_(taiyo360)"
+msgstr "360"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:360_cockpit:primary"
+msgid "360_cockpit"
+msgstr "360度驾驶舱"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.perspective.lens_perspective
+#. safety: sfw
+#. post-count: 21
+#. aliases: 全景
+msgctxt "tag:360_panorama:primary"
+msgid "360_panorama"
+msgstr "360度全景"
+
+#. alias-of: 360_panorama
+#. source: ai
+msgctxt "tag:360_panorama:alias:1"
+msgid "360_panorama"
+msgstr "全景"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:360_safeguard:primary"
+msgid "360_safeguard"
+msgstr "360防护"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 361-shi
+msgctxt "tag:361-shi_(2chan):primary"
+msgid "361-shi_(2chan)"
+msgstr "361氏"
+
+#. alias-of: 361-shi_(2chan)
+#. source: ai
+msgctxt "tag:361-shi_(2chan):alias:1"
+msgid "361-shi_(2chan)"
+msgstr "361-shi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3610431440:primary"
+msgid "3610431440"
+msgstr "3610431440"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:3615ekaf:primary"
+msgid "3615ekaf"
+msgstr "3615ekaf"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3619580635:primary"
+msgid "3619580635"
+msgstr "3619580635"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:361_(kyuu_yagami):primary"
+msgid "361_(kyuu_yagami)"
+msgstr "361 (九八神)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:361_yo:primary"
+msgid "361_yo"
+msgstr "361_yo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:362203:primary"
+msgid "362203"
+msgstr "362203"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:363a:primary"
+msgid "363a"
+msgstr "363A"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:364509_(tegaki):primary"
+msgid "364509_(tegaki)"
+msgstr "364509"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:364_holidays:primary"
+msgid "364_holidays"
+msgstr "364天假期"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 89
+msgctxt "tag:364ing:primary"
+msgid "364ing"
+msgstr "364ing"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:364masaryu:primary"
+msgid "364masaryu"
+msgstr "364masaryu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:3656_chan:primary"
+msgid "3656_chan"
+msgstr "3656酱"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 87
+msgctxt "tag:365_days_(love_live!):primary"
+msgid "365_days_(love_live!)"
+msgstr "365天（Love Live!）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:365_days_to_the_wedding:primary"
+msgid "365_days_to_the_wedding"
+msgstr "距离婚礼还有365天"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:365_nichi_no_houkago_date:primary"
+msgid "365_nichi_no_houkago_date"
+msgstr "365天的放学后约会"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:365bunno1:primary"
+msgid "365bunno1"
+msgstr "365文乃1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:365drawing:primary"
+msgid "365drawing"
+msgstr "365绘画"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:365geri:primary"
+msgid "365geri"
+msgstr "365geri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:365o:primary"
+msgid "365o"
+msgstr "365o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:365oniku:primary"
+msgid "365oniku"
+msgstr "365oniku"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:3662037322:primary"
+msgid "3662037322"
+msgstr "3662037322"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:366630erumo:primary"
+msgid "366630erumo"
+msgstr "366630erumo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:36776_x:primary"
+msgid "36776_x"
+msgstr "36776X"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:367_(367_qss0):primary"
+msgid "367_(367_qss0)"
+msgstr "367"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:369:primary"
+msgid "369"
+msgstr "369"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:369-chan:primary"
+msgid "369-chan"
+msgstr "369酱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:3692materia:primary"
+msgid "3692materia"
+msgstr "3692素材"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:369_(3693xyz):primary"
+msgid "369_(3693xyz)"
+msgstr "369"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:369_(369pict):primary"
+msgid "369_(369pict)"
+msgstr "369"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:369_(michirin):primary"
+msgid "369_(michirin)"
+msgstr "369"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:369_(sahara):primary"
+msgid "369_(sahara)"
+msgstr "369(sahara)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:36_(0001296):primary"
+msgid "36_(0001296)"
+msgstr "36"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:36_gou:primary"
+msgid "36_gou"
+msgstr "36号"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:36_se_shuicai_bi:primary"
+msgid "36_se_shuicai_bi"
+msgstr "36色水彩笔"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:36c_u.b.u_(idolmaster):primary"
+msgid "36c_u.b.u_(idolmaster)"
+msgstr "偶像大师"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:36himawari:primary"
+msgid "36himawari"
+msgstr "36向日葵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:36k8n:primary"
+msgid "36k8n"
+msgstr "36k8n"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 高分辨率
+msgctxt "tag:36k_m19:primary"
+msgid "36k_m19"
+msgstr "36k M19"
+
+#. alias-of: 36k_m19
+#. source: ai
+msgctxt "tag:36k_m19:alias:1"
+msgid "36k_m19"
+msgstr "高分辨率"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:36kypop:primary"
+msgid "36kypop"
+msgstr "36kypop"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:36mego:primary"
+msgid "36mego"
+msgstr "36mego"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:36rogi:primary"
+msgid "36rogi"
+msgstr "36rogi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:36sekai:primary"
+msgid "36sekai"
+msgstr "36世界"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:36shiri:primary"
+msgid "36shiri"
+msgstr "36shiri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:36sohgawa:primary"
+msgid "36sohgawa"
+msgstr "36Sohgawa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:36ss_tr:primary"
+msgid "36ss_tr"
+msgstr "36SS_TR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:36x_39:primary"
+msgid "36x_39"
+msgstr "36x_39"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:36xian_xiaohuka:primary"
+msgid "36xian_xiaohuka"
+msgstr "36xian_xiaohuka"

@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:17+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:17+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 12
+#. aliases: 反器材步枪
+msgctxt "tag:6p62:primary"
+msgid "6p62"
+msgstr "6P62"
+
+#. alias-of: 6p62
+#. source: ai
+msgctxt "tag:6p62:alias:1"
+msgid "6p62"
+msgstr "反器材步枪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:6p62_(6p62's_offer)_(girls'_frontline):primary"
+msgid "6p62_(6p62's_offer)_(girls'_frontline)"
+msgstr "6P62"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:6p62_(battle_sailor)_(girls'_frontline):primary"
+msgid "6p62_(battle_sailor)_(girls'_frontline)"
+msgstr "6P62（战斗水手服）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 68
+msgctxt "tag:6p62_(girls'_frontline):primary"
+msgid "6p62_(girls'_frontline)"
+msgstr "6P62"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:6p62_(girls'_frontline)_(cosplay):primary"
+msgid "6p62_(girls'_frontline)_(cosplay)"
+msgstr "6P62（少女前线）（角色扮演）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:6p6a6c:primary"
+msgid "6p6a6c"
+msgstr "6p6a6c"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:6pack_guru:primary"
+msgid "6pack_guru"
+msgstr "6pack_guru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:6pb09:primary"
+msgid "6pb09"
+msgstr "6pb09"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:6pnou2:primary"
+msgid "6pnou2"
+msgstr "6pnou2"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:6pon_matsu:primary"
+msgid "6pon_matsu"
+msgstr "6pon松"

@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:38+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:38+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:p50_(girls'_frontline):primary"
+msgid "p50_(girls'_frontline)"
+msgstr "P50"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p510:primary"
+msgid "p510"
+msgstr "p510"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p51p_mustang:primary"
+msgid "p51p_mustang"
+msgstr "P-51野马"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p5343:primary"
+msgid "p5343"
+msgstr "p5343"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: p53552244
+msgctxt "tag:p53552244:primary"
+msgid "p53552244"
+msgstr "作品ID"
+
+#. alias-of: p53552244
+#. source: ai
+msgctxt "tag:p53552244:alias:1"
+msgid "p53552244"
+msgstr "p53552244"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p55jicxpozyxci3:primary"
+msgid "p55jicxpozyxci3"
+msgstr "p55jicxpozyxci3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:p58gmmwt4:primary"
+msgid "p58gmmwt4"
+msgstr "p58gmmwt4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p5_koumei:primary"
+msgid "p5_koumei"
+msgstr "p5_koumei"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:p5aftu:primary"
+msgid "p5aftu"
+msgstr "p5aftu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:p5naq_pv:primary"
+msgid "p5naq_pv"
+msgstr "P5NAQ PV"

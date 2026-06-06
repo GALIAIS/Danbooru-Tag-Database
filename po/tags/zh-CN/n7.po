@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:35+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:35+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:n700:primary"
+msgid "n700"
+msgstr "N700"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:n700a_advanced_mode:primary"
+msgid "n700a_advanced_mode"
+msgstr "N700A高级模式"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 新干线E5系
+msgctxt "tag:n700a_nozomi_(shinkalion):primary"
+msgid "n700a_nozomi_(shinkalion)"
+msgstr "N700A希望号"
+
+#. alias-of: n700a_nozomi_(shinkalion)
+#. source: ai
+msgctxt "tag:n700a_nozomi_(shinkalion):alias:1"
+msgid "n700a_nozomi_(shinkalion)"
+msgstr "新干线E5系"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:n710tarako_vt:primary"
+msgid "n710tarako_vt"
+msgstr "n710tarako_vt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:n7372755:primary"
+msgid "n7372755"
+msgstr "N7372755"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:n7989n:primary"
+msgid "n7989n"
+msgstr "n7989n"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:n79oqc3yja6jlof:primary"
+msgid "n79oqc3yja6jlof"
+msgstr "n79oqc3yja6jlof"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:n7_9z:primary"
+msgid "n7_9z"
+msgstr "N7-9Z"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.armor_suit
+#. safety: mixed
+#. post-count: 68
+#. aliases: N7甲
+msgctxt "tag:n7_armor:primary"
+msgid "n7_armor"
+msgstr "N7护甲"
+
+#. alias-of: n7_armor
+#. source: ai
+msgctxt "tag:n7_armor:alias:1"
+msgid "n7_armor"
+msgstr "N7甲"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:n7_eagle:primary"
+msgid "n7_eagle"
+msgstr "N7猎鹰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.upper.outerwear
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:n7_hoodie:primary"
+msgid "n7_hoodie"
+msgstr "N7连帽衫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:n7_shadow_infiltrator:primary"
+msgid "n7_shadow_infiltrator"
+msgstr "n7_shadow_infiltrator"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:n7_valiant:primary"
+msgid "n7_valiant"
+msgstr "N7 Valiant"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 99
+#. aliases: n7grey
+msgctxt "tag:n7grey:primary"
+msgid "n7grey"
+msgstr "n7灰"
+
+#. alias-of: n7grey
+#. source: ai
+msgctxt "tag:n7grey:alias:1"
+msgid "n7grey"
+msgstr "n7grey"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:n7jx:primary"
+msgid "n7jx"
+msgstr "n7jx"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:n7ko_art:primary"
+msgid "n7ko_art"
+msgstr "N7KO Art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:n7o_0c:primary"
+msgid "n7o_0c"
+msgstr "n7o_0c"

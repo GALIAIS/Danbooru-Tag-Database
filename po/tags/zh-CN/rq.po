@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:40+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:40+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:rq:primary"
+msgid "rq"
+msgstr "RQ"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rq-170_sentinel:primary"
+msgid "rq-170_sentinel"
+msgstr "RQ-170哨兵无人机"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rq-3_darkstar:primary"
+msgid "rq-3_darkstar"
+msgstr "RQ-3 Darkstar"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: RQ-4
+msgctxt "tag:rq-4_(flight_highschool):primary"
+msgid "rq-4_(flight_highschool)"
+msgstr "RQ-4"
+
+#. alias-of: rq-4_(flight_highschool)
+#. source: ai
+msgctxt "tag:rq-4_(flight_highschool):alias:1"
+msgid "rq-4_(flight_highschool)"
+msgstr "RQ-4"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rq000:primary"
+msgid "rq000"
+msgstr "rq000"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:rq_(35695551):primary"
+msgid "rq_(35695551)"
+msgstr "RQ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rq_rs_01:primary"
+msgid "rq_rs_01"
+msgstr "RQ_RS_01"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rqbiko:primary"
+msgid "rqbiko"
+msgstr "rqbiko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rqbiko_(artist):primary"
+msgid "rqbiko_(artist)"
+msgstr "rqbiko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:rqjxwc:primary"
+msgid "rqjxwc"
+msgstr "rqjxwc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 124
+msgctxt "tag:rqm55:primary"
+msgid "rqm55"
+msgstr "rqm55"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rqmune06_21:primary"
+msgid "rqmune06_21"
+msgstr "rqmune06_21"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rqmunic:primary"
+msgid "rqmunic"
+msgstr "rqmunic"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rqnnsw:primary"
+msgid "rqnnsw"
+msgstr "RqnnsW"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rqqqlecyxd73532:primary"
+msgid "rqqqlecyxd73532"
+msgstr "rqqqlecyxd73532"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rqtart:primary"
+msgid "rqtart"
+msgstr "rqtart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:rqtkrqtk:primary"
+msgid "rqtkrqtk"
+msgstr "rqtkrqtk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rquattroki:primary"
+msgid "rquattroki"
+msgstr "Rquattroki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:rqxmqau0lh2259:primary"
+msgid "rqxmqau0lh2259"
+msgstr "rqxmqau0lh2259"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:rqxui:primary"
+msgid "rqxui"
+msgstr "Rqxui"

@@ -1,0 +1,840 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:25+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:25+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fy-js:primary"
+msgid "fy-js"
+msgstr "FY-JS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fy123:primary"
+msgid "fy123"
+msgstr "Fy123"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fy_(mihuashi_11200):primary"
+msgid "fy_(mihuashi_11200)"
+msgstr "fy_(mihuashi_11200)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fy_(pixiv14719792):primary"
+msgid "fy_(pixiv14719792)"
+msgstr "FY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fy_aya:primary"
+msgid "fy_aya"
+msgstr "FY Aya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:fy_draw:primary"
+msgid "fy_draw"
+msgstr "fy_draw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 108
+msgctxt "tag:fy_fei_xiao_ya:primary"
+msgid "fy_fei_xiao_ya"
+msgstr "飞晓雅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fy_fp7:primary"
+msgid "fy_fp7"
+msgstr "fy_fp7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fy_fu_yu:primary"
+msgid "fy_fu_yu"
+msgstr "弗玉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 9
+msgctxt "tag:fya'm'_(aoppella):primary"
+msgid "fya'm'_(aoppella)"
+msgstr "《Aoppella!》〈Fya'm'〉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyaebcx2jgmtw5h:primary"
+msgid "fyaebcx2jgmtw5h"
+msgstr "fyaebcx2jgmtw5h"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyakel:primary"
+msgid "fyakel"
+msgstr "Fyakel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 119
+msgctxt "tag:fyama:primary"
+msgid "fyama"
+msgstr "fyama"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyama_pengin:primary"
+msgid "fyama_pengin"
+msgstr "fyama_pengin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:fyan_sui:primary"
+msgid "fyan_sui"
+msgstr "Fyan Sui"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyanky:primary"
+msgid "fyanky"
+msgstr "Fyanky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyaramo:primary"
+msgid "fyaramo"
+msgstr "fyaramo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fyarev:primary"
+msgid "fyarev"
+msgstr "fyarev"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fybeeh:primary"
+msgid "fybeeh"
+msgstr "fybeeh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyc:primary"
+msgid "fyc"
+msgstr "供参考"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fychan:primary"
+msgid "fychan"
+msgstr "Fychan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fyda_(tenchi_souzou):primary"
+msgid "fyda_(tenchi_souzou)"
+msgstr "菲达"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyera:primary"
+msgid "fyera"
+msgstr "Fyera"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:fyf_831:primary"
+msgid "fyf_831"
+msgstr "fyf_831"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyfnlbfpzstm6fy:primary"
+msgid "fyfnlbfpzstm6fy"
+msgstr "fyfnlbfpzstm6fy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:fyfyluker:primary"
+msgid "fyfyluker"
+msgstr "FyfyLuker"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 37
+msgctxt "tag:fyirkingdomsis:primary"
+msgid "fyirkingdomsis"
+msgstr "fyirkingdomsis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:fykr:primary"
+msgid "fykr"
+msgstr "Fykr"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fylgja_(tomoshibi_no_otr):primary"
+msgid "fylgja_(tomoshibi_no_otr)"
+msgstr "Fylgja"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:fylinchi5945:primary"
+msgid "fylinchi5945"
+msgstr "Fylinchi5945"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fylkis:primary"
+msgid "fylkis"
+msgstr "菲尔基斯"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:fylo_state:primary"
+msgid "fylo_state"
+msgstr "Fylo State"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 127
+msgctxt "tag:fylus:primary"
+msgid "fylus"
+msgstr "Fylus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:fyly0927:primary"
+msgid "fyly0927"
+msgstr "fyly0927"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fymaxine:primary"
+msgid "fymaxine"
+msgstr "fymaxine"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fymbleart:primary"
+msgid "fymbleart"
+msgstr "FymbleArt"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 280
+msgctxt "tag:fymrie:primary"
+msgid "fymrie"
+msgstr "菲姆瑞"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Dota2角色
+msgctxt "tag:fymryn_(dota):primary"
+msgid "fymryn_(dota)"
+msgstr "菲姆瑞恩"
+
+#. alias-of: fymryn_(dota)
+#. source: ai
+msgctxt "tag:fymryn_(dota):alias:1"
+msgid "fymryn_(dota)"
+msgstr "Dota2角色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyndersk:primary"
+msgid "fyndersk"
+msgstr "fyndersk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fynelepy:primary"
+msgid "fynelepy"
+msgstr "Fynelepy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:fynm3854:primary"
+msgid "fynm3854"
+msgstr "fynm3854"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:fynn2483:primary"
+msgid "fynn2483"
+msgstr "Fynn2483"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fynn_the_penguin_(shellz-art):primary"
+msgid "fynn_the_penguin_(shellz-art)"
+msgstr "Fynn the Penguin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyod_726:primary"
+msgid "fyod_726"
+msgstr "fyod_726"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyodoor:primary"
+msgid "fyodoor"
+msgstr "费奥多尔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyodor_dostoevsky_(bungou_to_alchemist):primary"
+msgid "fyodor_dostoevsky_(bungou_to_alchemist)"
+msgstr "费奥多尔·陀思妥耶夫斯基"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyodor_dostoyevsky:primary"
+msgid "fyodor_dostoyevsky"
+msgstr "费奥多尔·陀思妥耶夫斯基"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 124
+#. aliases: 陀思妥耶夫斯基
+msgctxt "tag:fyodor_dostoyevsky_(bungou_stray_dogs):primary"
+msgid "fyodor_dostoyevsky_(bungou_stray_dogs)"
+msgstr "费奥多尔·陀思妥耶夫斯基"
+
+#. alias-of: fyodor_dostoyevsky_(bungou_stray_dogs)
+#. source: ai
+msgctxt "tag:fyodor_dostoyevsky_(bungou_stray_dogs):alias:1"
+msgid "fyodor_dostoyevsky_(bungou_stray_dogs)"
+msgstr "陀思妥耶夫斯基"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fyodor_dostoyevsky_(bungou_stray_dogs)_(cosplay):primary"
+msgid "fyodor_dostoyevsky_(bungou_stray_dogs)_(cosplay)"
+msgstr "费奥多尔·陀思妥耶夫斯基（文豪野犬）(Cosplay)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fyodor_dostoyevsky_(bungou_to_alchemist):primary"
+msgid "fyodor_dostoyevsky_(bungou_to_alchemist)"
+msgstr "费奥多尔·陀思妥耶夫斯基"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:fyodor_patorichev:primary"
+msgid "fyodor_patorichev"
+msgstr "费奥多尔·帕特里切夫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:fyodor_vladimirovich_(arknights):primary"
+msgid "fyodor_vladimirovich_(arknights)"
+msgstr "费奥多尔(明日方舟)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyoshou:primary"
+msgid "fyoshou"
+msgstr "飞手"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:fypuita:primary"
+msgid "fypuita"
+msgstr "Fypuita"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:fyra:primary"
+msgid "fyra"
+msgstr "菲拉"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Fyre（VTuber）
+msgctxt "tag:fyre_(vtuber):primary"
+msgid "fyre_(vtuber)"
+msgstr "Fyre（VTuber）"
+
+#. alias-of: fyre_(vtuber)
+#. source: ai
+msgctxt "tag:fyre_(vtuber):alias:1"
+msgid "fyre_(vtuber)"
+msgstr "Fyre（VTuber）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyredu:primary"
+msgid "fyredu"
+msgstr "Fyredu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 洛克人角色
+msgctxt "tag:fyrefox_(mega_man):primary"
+msgid "fyrefox_(mega_man)"
+msgstr "fyrefox"
+
+#. alias-of: fyrefox_(mega_man)
+#. source: ai
+msgctxt "tag:fyrefox_(mega_man):alias:1"
+msgid "fyrefox_(mega_man)"
+msgstr "洛克人角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyriae:primary"
+msgid "fyriae"
+msgstr "fyriae"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fyrials:primary"
+msgid "fyrials"
+msgstr "fyrials"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyrielle:primary"
+msgid "fyrielle"
+msgstr "Fyrielle"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyrkr:primary"
+msgid "fyrkr"
+msgstr "Fyrkr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:fyrlia2:primary"
+msgid "fyrlia2"
+msgstr "fyrlia2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:fyrlo:primary"
+msgid "fyrlo"
+msgstr "Fyrlo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyrs_s:primary"
+msgid "fyrs_s"
+msgstr "FyrsS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:fyrthik:primary"
+msgid "fyrthik"
+msgstr "fyrthik"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyrus:primary"
+msgid "fyrus"
+msgstr "Fyrus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:fyrvwyhrdgjlfka:primary"
+msgid "fyrvwyhrdgjlfka"
+msgstr "fyrvwyhrdgjlfka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:fysc:primary"
+msgid "fysc"
+msgstr "fysc"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fysg:primary"
+msgid "fysg"
+msgstr "fysg"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyson_(zelda):primary"
+msgid "fyson_(zelda)"
+msgstr "Fyson（塞尔达传说）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:fysr:primary"
+msgid "fysr"
+msgstr "fysr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:fytnfy:primary"
+msgid "fytnfy"
+msgstr "fytnfy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyu:primary"
+msgid "fyu"
+msgstr "fyu"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 126
+msgctxt "tag:fyu-neru:primary"
+msgid "fyu-neru"
+msgstr "Fyu-Neru"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyuett_(vrchat):primary"
+msgid "fyuett_(vrchat)"
+msgstr "Fyuett（VRChat）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:fyugins_png:primary"
+msgid "fyugins_png"
+msgstr "飞吉恩PNG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyuk:primary"
+msgid "fyuk"
+msgstr "fyuk"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 芙优娜
+msgctxt "tag:fyuna-chan_(captain_zares):primary"
+msgid "fyuna-chan_(captain_zares)"
+msgstr "芙优娜酱"
+
+#. alias-of: fyuna-chan_(captain_zares)
+#. source: ai
+msgctxt "tag:fyuna-chan_(captain_zares):alias:1"
+msgid "fyuna-chan_(captain_zares)"
+msgstr "芙优娜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 391
+#. aliases: 冬天
+msgctxt "tag:fyuo:primary"
+msgid "fyuo"
+msgstr "冬"
+
+#. alias-of: fyuo
+#. source: ai
+msgctxt "tag:fyuo:alias:1"
+msgid "fyuo"
+msgstr "冬天"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:fyuria_(agarest_senki):primary"
+msgid "fyuria_(agarest_senki)"
+msgstr "Fyuria"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyuria_(agarest_senki)_(cosplay):primary"
+msgid "fyuria_(agarest_senki)_(cosplay)"
+msgstr "菲莉亚 (创世纪战史) (Cosplay)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyuria_(fyuriaexistence):primary"
+msgid "fyuria_(fyuriaexistence)"
+msgstr "Fyuria"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:fyurr551:primary"
+msgid "fyurr551"
+msgstr "fyurr551"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:fyuu-ka:primary"
+msgid "fyuu-ka"
+msgstr "Fyuu-ka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:fyuusan-1986:primary"
+msgid "fyuusan-1986"
+msgstr "Fyuusan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyuyoyoo:primary"
+msgid "fyuyoyoo"
+msgstr "fyuyoyoo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fyvccpwdmk8ikvu:primary"
+msgid "fyvccpwdmk8ikvu"
+msgstr "fyvccpwdmk8ikvu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyxe:primary"
+msgid "fyxe"
+msgstr "Fyxe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:fyxfd:primary"
+msgid "fyxfd"
+msgstr "fyxfd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:fyxq:primary"
+msgid "fyxq"
+msgstr "fyxq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 43
+msgctxt "tag:fyy2333:primary"
+msgid "fyy2333"
+msgstr "fyy2333"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:fyy_(fyy8494):primary"
+msgid "fyy_(fyy8494)"
+msgstr "FYY"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyyaa:primary"
+msgid "fyyaa"
+msgstr "Fyyaa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:fyyers:primary"
+msgid "fyyers"
+msgstr "fyyers"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:fyz-p:primary"
+msgid "fyz-p"
+msgstr "FYZ-P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:fyzeillust:primary"
+msgid "fyzeillust"
+msgstr "fyzeillust"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:fyzt_nemu:primary"
+msgid "fyzt_nemu"
+msgstr "fyzt_nemu"

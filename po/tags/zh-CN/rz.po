@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:40+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:40+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 4
+#. aliases: A-wing
+msgctxt "tag:rz-1_a-wing:primary"
+msgid "rz-1_a-wing"
+msgstr "RZ-1 A翼战机"
+
+#. alias-of: rz-1_a-wing
+#. source: ai
+msgctxt "tag:rz-1_a-wing:alias:1"
+msgid "rz-1_a-wing"
+msgstr "A-wing"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rz-2_a-wing:primary"
+msgid "rz-2_a-wing"
+msgstr "RZ-2 A翼战机"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rz122222:primary"
+msgid "rz122222"
+msgstr "Rz122222"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:rz28kp:primary"
+msgid "rz28kp"
+msgstr "rz28kp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rz54444:primary"
+msgid "rz54444"
+msgstr "Rz54444"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rz5on:primary"
+msgid "rz5on"
+msgstr "rz5on"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rz7ralefkcgrcqq:primary"
+msgid "rz7ralefkcgrcqq"
+msgstr "rz7ralefkcgrcqq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: Rz
+msgctxt "tag:rz_(keiichi_78_2):primary"
+msgid "rz_(keiichi_78_2)"
+msgstr "Rz（Keiichi_78_2）"
+
+#. alias-of: rz_(keiichi_78_2)
+#. source: ai
+msgctxt "tag:rz_(keiichi_78_2):alias:1"
+msgid "rz_(keiichi_78_2)"
+msgstr "Rz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rz_(rz45555):primary"
+msgid "rz_(rz45555)"
+msgstr "Rz（rz45555）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:rz_ix:primary"
+msgid "rz_ix"
+msgstr "Rz_IX"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rz_pinecone:primary"
+msgid "rz_pinecone"
+msgstr "RZ Pinecone"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rza_game:primary"
+msgid "rza_game"
+msgstr "rza_game"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rzbi_art:primary"
+msgid "rzbi_art"
+msgstr "rzbi_art"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:rzcxcg:primary"
+msgid "rzcxcg"
+msgstr "rzcxcg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rzero15:primary"
+msgid "rzero15"
+msgstr "RZero15"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rzflbet:primary"
+msgid "rzflbet"
+msgstr "rzflbet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:rzhevskii:primary"
+msgid "rzhevskii"
+msgstr "Rzhevskii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rzk:primary"
+msgid "rzk"
+msgstr "Rzk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:rzk_iii:primary"
+msgid "rzk_iii"
+msgstr "Rzk III"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rzkillust:primary"
+msgid "rzkillust"
+msgstr "rzkillust"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rzklh:primary"
+msgid "rzklh"
+msgstr "rzklh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rzkudan:primary"
+msgid "rzkudan"
+msgstr "rzkudan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:rzm_mmzk:primary"
+msgid "rzm_mmzk"
+msgstr "RZM MMZK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rzorzorz:primary"
+msgid "rzorzorz"
+msgstr "Rzorzorz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:rzps3455:primary"
+msgid "rzps3455"
+msgstr "rzps3455"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:rzr:primary"
+msgid "rzr"
+msgstr "RZR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rzr11:primary"
+msgid "rzr11"
+msgstr "rzr11"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rzry9:primary"
+msgid "rzry9"
+msgstr "Rzry9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rzstudio07:primary"
+msgid "rzstudio07"
+msgstr "RZ Studio 07"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:rzuu:primary"
+msgid "rzuu"
+msgstr "Rzuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:rzv:primary"
+msgid "rzv"
+msgstr "RZV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rzvs1132:primary"
+msgid "rzvs1132"
+msgstr "rzvs1132"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:rzvuvm:primary"
+msgid "rzvuvm"
+msgstr "rzvuvm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rzy_lu:primary"
+msgid "rzy_lu"
+msgstr "rzy_lu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rzywtz:primary"
+msgid "rzywtz"
+msgstr "Rzywtz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:rzyy3243:primary"
+msgid "rzyy3243"
+msgstr "rzyy3243"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:rzzxrzz:primary"
+msgid "rzzxrzz"
+msgstr "rzzxrzz"

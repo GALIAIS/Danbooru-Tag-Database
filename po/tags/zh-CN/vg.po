@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:48+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:48+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vg-33:primary"
+msgid "vg-33"
+msgstr "VG-33"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vg20_96:primary"
+msgid "vg20_96"
+msgstr "VG20-96"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vg3_kp:primary"
+msgid "vg3_kp"
+msgstr "vg3_kp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vg_(mondo):primary"
+msgid "vg_(mondo)"
+msgstr "VG（Mondo）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:vg_(vgen):primary"
+msgid "vg_(vgen)"
+msgstr "VG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vg_animated:primary"
+msgid "vg_animated"
+msgstr "VG animated"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 2
+#. aliases: 视频线
+msgctxt "tag:vga_cable:primary"
+msgid "vga_cable"
+msgstr "VGA线"
+
+#. alias-of: vga_cable
+#. source: ai
+msgctxt "tag:vga_cable:alias:1"
+msgid "vga_cable"
+msgstr "视频线"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vgafanatic:primary"
+msgid "vgafanatic"
+msgstr "vgafanatic"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vgame:primary"
+msgid "vgame"
+msgstr "Vgame"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 71
+msgctxt "tag:vgaming:primary"
+msgid "vgaming"
+msgstr "游戏"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:vgb0568:primary"
+msgid "vgb0568"
+msgstr "vgb0568"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:vgcats:primary"
+msgid "vgcats"
+msgstr "VG Cats"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vgdx8277:primary"
+msgid "vgdx8277"
+msgstr "vgdx8277"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vtuber_agency
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:vgen_(site):primary"
+msgid "vgen_(site)"
+msgstr "VGen（网站）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vgen_01:primary"
+msgid "vgen_01"
+msgstr "vgen_01"
+
+#. danbooru-category: 5
+#. taxonomy-id: 5.meta.process.generation_or_editing
+#. safety: sfw
+#. post-count: 1888
+msgctxt "tag:vgen_commission:primary"
+msgid "vgen_commission"
+msgstr "虚拟约稿"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 44
+#. aliases: VGen Logo
+msgctxt "tag:vgen_logo:primary"
+msgid "vgen_logo"
+msgstr "VGen标志"
+
+#. alias-of: vgen_logo
+#. source: ai
+msgctxt "tag:vgen_logo:alias:1"
+msgid "vgen_logo"
+msgstr "VGen Logo"
+
+#. danbooru-category: 0
+#. taxonomy-id: 5.meta.source.release_or_cover
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:vgen_username:primary"
+msgid "vgen_username"
+msgstr "vgen_username"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:vgenie_(vgen):primary"
+msgid "vgenie_(vgen)"
+msgstr "vgenie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 74
+msgctxt "tag:vgerotica:primary"
+msgid "vgerotica"
+msgstr "Vgerotica"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:vgg:primary"
+msgid "vgg"
+msgstr "VGG"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:vgh3pncsgb22169:primary"
+msgid "vgh3pncsgb22169"
+msgstr "vgh3pncsgb22169"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:vghosties:primary"
+msgid "vghosties"
+msgstr "vghosties"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vghxj2:primary"
+msgid "vghxj2"
+msgstr "Vghxj2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vgkonz0:primary"
+msgid "vgkonz0"
+msgstr "vgkonz0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:vgmondo:primary"
+msgid "vgmondo"
+msgstr "VG蒙多"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:vgmt:primary"
+msgid "vgmt"
+msgstr "VGMT"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:vgs2:primary"
+msgid "vgs2"
+msgstr "VGS2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:vgt13:primary"
+msgid "vgt13"
+msgstr "vgt13"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:vgumiho:primary"
+msgid "vgumiho"
+msgstr "VGumiho"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:vgvgkuwvpwp5ogp:primary"
+msgid "vgvgkuwvpwp5ogp"
+msgstr "vgvgkuwvpwp5ogp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:vgz083:primary"
+msgid "vgz083"
+msgstr "VGZ083"

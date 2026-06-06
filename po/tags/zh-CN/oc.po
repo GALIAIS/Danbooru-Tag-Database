@@ -1,0 +1,7139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:37+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:37+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:oc-9:primary"
+msgid "oc-9"
+msgstr "OC-9"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+#. aliases: OC
+msgctxt "tag:oc-chan_(mitsukichi):primary"
+msgid "oc-chan_(mitsukichi)"
+msgstr "OC酱（Mitsukichi）"
+
+#. alias-of: oc-chan_(mitsukichi)
+#. source: ai
+msgctxt "tag:oc-chan_(mitsukichi):alias:1"
+msgid "oc-chan_(mitsukichi)"
+msgstr "OC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: OCtan
+msgctxt "tag:oc-tan:primary"
+msgid "oc-tan"
+msgstr "OC娘"
+
+#. alias-of: oc-tan
+#. source: ai
+msgctxt "tag:oc-tan:alias:1"
+msgid "oc-tan"
+msgstr "OCtan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oc0miso:primary"
+msgid "oc0miso"
+msgstr "oc0miso"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:oc0oc00occ:primary"
+msgid "oc0oc00occ"
+msgstr "OC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oc2a:primary"
+msgid "oc2a"
+msgstr "OC2A"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oc3_human_(themoonmaster00):primary"
+msgid "oc3_human_(themoonmaster00)"
+msgstr "OC3人类（themoonmaster00）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:oc_(392mondo):primary"
+msgid "oc_(392mondo)"
+msgstr "原创（392mondo）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:oc_(atj7359):primary"
+msgid "oc_(atj7359)"
+msgstr "原创角色(atj7359)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+#. aliases: OC
+msgctxt "tag:oc_(bamashengze):primary"
+msgid "oc_(bamashengze)"
+msgstr "原创角色"
+
+#. alias-of: oc_(bamashengze)
+#. source: ai
+msgctxt "tag:oc_(bamashengze):alias:1"
+msgid "oc_(bamashengze)"
+msgstr "OC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oc_(dogandclover):primary"
+msgid "oc_(dogandclover)"
+msgstr "原创角色（狗与三叶草）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: OC
+msgctxt "tag:oc_(dogephalus):primary"
+msgid "oc_(dogephalus)"
+msgstr "原创角色"
+
+#. alias-of: oc_(dogephalus)
+#. source: ai
+msgctxt "tag:oc_(dogephalus):alias:1"
+msgid "oc_(dogephalus)"
+msgstr "OC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: OC
+msgctxt "tag:oc_(eros-cogito):primary"
+msgid "oc_(eros-cogito)"
+msgstr "原创角色"
+
+#. alias-of: oc_(eros-cogito)
+#. source: ai
+msgctxt "tag:oc_(eros-cogito):alias:1"
+msgid "oc_(eros-cogito)"
+msgstr "OC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: OC
+msgctxt "tag:oc_(felixnosi):primary"
+msgid "oc_(felixnosi)"
+msgstr "原创角色"
+
+#. alias-of: oc_(felixnosi)
+#. source: ai
+msgctxt "tag:oc_(felixnosi):alias:1"
+msgid "oc_(felixnosi)"
+msgstr "OC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:oc_(flowerscur):primary"
+msgid "oc_(flowerscur)"
+msgstr "原创角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+#. aliases: OC, goumangwu
+msgctxt "tag:oc_(goumangwu):primary"
+msgid "oc_(goumangwu)"
+msgstr "OC（Goumangwu）"
+
+#. alias-of: oc_(goumangwu)
+#. source: ai
+msgctxt "tag:oc_(goumangwu):alias:1"
+msgid "oc_(goumangwu)"
+msgstr "OC"
+
+#. alias-of: oc_(goumangwu)
+#. source: ai
+msgctxt "tag:oc_(goumangwu):alias:2"
+msgid "oc_(goumangwu)"
+msgstr "goumangwu"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: OC Cosplay
+msgctxt "tag:oc_(goumangwu)_(cosplay):primary"
+msgid "oc_(goumangwu)_(cosplay)"
+msgstr "原创角色（goumangwu）Cosplay"
+
+#. alias-of: oc_(goumangwu)_(cosplay)
+#. source: ai
+msgctxt "tag:oc_(goumangwu)_(cosplay):alias:1"
+msgid "oc_(goumangwu)_(cosplay)"
+msgstr "OC Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oc_(haishiba_ama):primary"
+msgid "oc_(haishiba_ama)"
+msgstr "原创角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oc_(hotdogdanny):primary"
+msgid "oc_(hotdogdanny)"
+msgstr "原创角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 34
+#. aliases: OC
+msgctxt "tag:oc_(jmgsjh):primary"
+msgid "oc_(jmgsjh)"
+msgstr "原创角色"
+
+#. alias-of: oc_(jmgsjh)
+#. source: ai
+msgctxt "tag:oc_(jmgsjh):alias:1"
+msgid "oc_(jmgsjh)"
+msgstr "OC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+#. aliases: 原创角色(jomhwa)
+msgctxt "tag:oc_(jomhwa):primary"
+msgid "oc_(jomhwa)"
+msgstr "原创角色（Jomhwa）"
+
+#. alias-of: oc_(jomhwa)
+#. source: ai
+msgctxt "tag:oc_(jomhwa):alias:1"
+msgid "oc_(jomhwa)"
+msgstr "原创角色(jomhwa)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+#. aliases: 原创角色
+msgctxt "tag:oc_(kn):primary"
+msgid "oc_(kn)"
+msgstr "OC(克洛诺斯)"
+
+#. alias-of: oc_(kn)
+#. source: ai
+msgctxt "tag:oc_(kn):alias:1"
+msgid "oc_(kn)"
+msgstr "原创角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+#. aliases: OC
+msgctxt "tag:oc_(lirulin3):primary"
+msgid "oc_(lirulin3)"
+msgstr "原创角色"
+
+#. alias-of: oc_(lirulin3)
+#. source: ai
+msgctxt "tag:oc_(lirulin3):alias:1"
+msgid "oc_(lirulin3)"
+msgstr "OC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oc_(luboyaqqz):primary"
+msgid "oc_(luboyaqqz)"
+msgstr "原创角色（luboyaqqz）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:oc_(nnn_nishi):primary"
+msgid "oc_(nnn_nishi)"
+msgstr "原创角色（nnn_nishi）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oc_(nudo):primary"
+msgid "oc_(nudo)"
+msgstr "原创角色（nudo）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oc_(o2h):primary"
+msgid "oc_(o2h)"
+msgstr "O2H原创角色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+#. aliases: 原创角色
+msgctxt "tag:oc_(old-c):primary"
+msgid "oc_(old-c)"
+msgstr "OC（旧C）"
+
+#. alias-of: oc_(old-c)
+#. source: ai
+msgctxt "tag:oc_(old-c):alias:1"
+msgid "oc_(old-c)"
+msgstr "原创角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oc_(omedemidori):primary"
+msgid "oc_(omedemidori)"
+msgstr "原创角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+#. aliases: OC
+msgctxt "tag:oc_(powerlesssong):primary"
+msgid "oc_(powerlesssong)"
+msgstr "原创角色"
+
+#. alias-of: oc_(powerlesssong)
+#. source: ai
+msgctxt "tag:oc_(powerlesssong):alias:1"
+msgid "oc_(powerlesssong)"
+msgstr "OC"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 原创角色
+msgctxt "tag:oc_(rnarccus):primary"
+msgid "oc_(rnarccus)"
+msgstr "原创角色（rnarccus）"
+
+#. alias-of: oc_(rnarccus)
+#. source: ai
+msgctxt "tag:oc_(rnarccus):alias:1"
+msgid "oc_(rnarccus)"
+msgstr "原创角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oc_(seusale):primary"
+msgid "oc_(seusale)"
+msgstr "原创角色（Seusale）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oc_(sharlin):primary"
+msgid "oc_(sharlin)"
+msgstr "原创角色（Sharlin）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:oc_(shunta):primary"
+msgid "oc_(shunta)"
+msgstr "原创角色（Shunta）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oc_(skybruise):primary"
+msgid "oc_(skybruise)"
+msgstr "原创角色（skybruise）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+#. aliases: 五十尔原创角色
+msgctxt "tag:oc_(wushier):primary"
+msgid "oc_(wushier)"
+msgstr "原创角色（Wushier）"
+
+#. alias-of: oc_(wushier)
+#. source: ai
+msgctxt "tag:oc_(wushier):alias:1"
+msgid "oc_(wushier)"
+msgstr "五十尔原创角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oc_(yaoyaore):primary"
+msgid "oc_(yaoyaore)"
+msgstr "原创角色（yaoyaore）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oc_gulang_lilihaizi:primary"
+msgid "oc_gulang_lilihaizi"
+msgstr "原创角色·鼓浪黎里海子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oc_jade:primary"
+msgid "oc_jade"
+msgstr "OC Jade"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: OC猫
+msgctxt "tag:oc_kitten:primary"
+msgid "oc_kitten"
+msgstr "原创小猫"
+
+#. alias-of: oc_kitten
+#. source: ai
+msgctxt "tag:oc_kitten:alias:1"
+msgid "oc_kitten"
+msgstr "OC猫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oc_umigame:primary"
+msgid "oc_umigame"
+msgstr "oc_umigame"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 3167
+#. aliases: OC
+msgctxt "tag:oc_x_canon:primary"
+msgid "oc_x_canon"
+msgstr "原创角色"
+
+#. alias-of: oc_x_canon
+#. source: ai
+msgctxt "tag:oc_x_canon:alias:1"
+msgid "oc_x_canon"
+msgstr "OC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 52
+#. aliases: 黄酸模
+msgctxt "tag:oca:primary"
+msgid "oca"
+msgstr "酸模"
+
+#. alias-of: oca
+#. source: ai
+msgctxt "tag:oca:alias:1"
+msgid "oca"
+msgstr "黄酸模"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:oca-world:primary"
+msgid "oca-world"
+msgstr "OCA世界"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oca_1a:primary"
+msgid "oca_1a"
+msgstr "oca_1a"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:oca_laful:primary"
+msgid "oca_laful"
+msgstr "OCA LAful"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:ocaca_(chocolate-hopper):primary"
+msgid "ocaca_(chocolate-hopper)"
+msgstr "冈卡(巧克力跳豆)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ocado7:primary"
+msgid "ocado7"
+msgstr "ocado7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ocagemono:primary"
+msgid "ocagemono"
+msgstr "ocagemono"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocamoto:primary"
+msgid "ocamoto"
+msgstr "Ocamoto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:ocancan_dancing_school:primary"
+msgid "ocancan_dancing_school"
+msgstr "Ocancan Dancing School"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocara:primary"
+msgid "ocara"
+msgstr "ocara"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ocarianya:primary"
+msgid "ocarianya"
+msgstr "Ocarianya"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 660
+msgctxt "tag:ocarina:primary"
+msgid "ocarina"
+msgstr "陶笛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:ocarina_(capitan_(tsyoujo)):primary"
+msgid "ocarina_(capitan_(tsyoujo))"
+msgstr "陶笛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ocarina_(violinist_of_hameln):primary"
+msgid "ocarina_(violinist_of_hameln)"
+msgstr "竖笛（横笛男）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocarina_aluboisu:primary"
+msgid "ocarina_aluboisu"
+msgstr "陶笛阿尔布瓦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:ocarinaotw:primary"
+msgid "ocarinaotw"
+msgstr "陶笛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocarinia:primary"
+msgid "ocarinia"
+msgstr "陶笛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 62
+msgctxt "tag:ocarino:primary"
+msgid "ocarino"
+msgstr "陶笛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ocaritna:primary"
+msgid "ocaritna"
+msgstr "奥卡里特纳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocarito1:primary"
+msgid "ocarito1"
+msgstr "ocarito1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ocastitan:primary"
+msgid "ocastitan"
+msgstr "Ocastitan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ocatg:primary"
+msgid "ocatg"
+msgstr "ocatg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:occa-key:primary"
+msgid "occa-key"
+msgstr "occa-key"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:occa_berry:primary"
+msgid "occa_berry"
+msgstr "释陀果"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:occacia:primary"
+msgid "occacia"
+msgstr "Occacia"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+#. aliases: 鸟蛇
+msgctxt "tag:occamy:primary"
+msgid "occamy"
+msgstr "嗅嗅"
+
+#. alias-of: occamy
+#. source: ai
+msgctxt "tag:occamy:alias:1"
+msgid "occamy"
+msgstr "鸟蛇"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:occccocccc:primary"
+msgid "occccocccc"
+msgstr "occccocccc"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 30
+msgctxt "tag:occhahoi:primary"
+msgid "occhahoi"
+msgstr "occhahoi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:occhan:primary"
+msgid "occhan"
+msgstr "occhan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 88
+msgctxt "tag:occhan_(11715):primary"
+msgid "occhan_(11715)"
+msgstr "occhan_(11715)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:occhan_(bang_dream!):primary"
+msgid "occhan_(bang_dream!)"
+msgstr "Occhan（BanG Dream!）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:occhan_(flip_flappers):primary"
+msgid "occhan_(flip_flappers)"
+msgstr "小叔叔（Flip Flappers）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:occhan_(gachimuchi):primary"
+msgid "occhan_(gachimuchi)"
+msgstr "欧酱（Gachimuchi）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:occhiali:primary"
+msgid "occhiali"
+msgstr "眼镜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:occhii:primary"
+msgid "occhii"
+msgstr "奥奇"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:occhoko_doji_oneesan:primary"
+msgid "occhoko_doji_oneesan"
+msgstr "笨手笨脚的大姐姐"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:occimy:primary"
+msgid "occimy"
+msgstr "occimy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:occione_lavin:primary"
+msgid "occione_lavin"
+msgstr "奥奇奥内·拉文"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.framing.crop_boundary
+#. safety: sfw
+#. post-count: 75
+msgctxt "tag:occluder:primary"
+msgid "occluder"
+msgstr "遮挡物"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:occonal:primary"
+msgid "occonal"
+msgstr "occonal"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 76
+msgctxt "tag:occoon:primary"
+msgid "occoon"
+msgstr "Occoon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:occudo:primary"
+msgid "occudo"
+msgstr "OCCUDO"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:occul_lab:primary"
+msgid "occul_lab"
+msgstr "occul_lab"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.theme.symbolic_or_abstract_theme
+#. safety: sfw
+#. post-count: 55
+#. aliases: 神秘学
+msgctxt "tag:occult:primary"
+msgid "occult"
+msgstr "超自然"
+
+#. alias-of: occult
+#. source: ai
+msgctxt "tag:occult:alias:1"
+msgid "occult"
+msgstr "神秘学"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 4
+msgctxt "tag:occult_(inazuma_eleven):primary"
+msgid "occult_(inazuma_eleven)"
+msgstr "《闪电十一人》中的“Occult”"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.decorative_object
+#. safety: sfw
+#. post-count: 208
+#. aliases: 魔法球
+msgctxt "tag:occult_ball:primary"
+msgid "occult_ball"
+msgstr "占卜球"
+
+#. alias-of: occult_ball
+#. source: ai
+msgctxt "tag:occult_ball:alias:1"
+msgid "occult_ball"
+msgstr "魔法球"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:occult_club_(k-on!):primary"
+msgid "occult_club_(k-on!)"
+msgstr "超自然研究部"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 怪异店主
+msgctxt "tag:occult_shopkeeper_(world_of_horror):primary"
+msgid "occult_shopkeeper_(world_of_horror)"
+msgstr "神秘商店主（World of Horror）"
+
+#. alias-of: occult_shopkeeper_(world_of_horror)
+#. source: ai
+msgctxt "tag:occult_shopkeeper_(world_of_horror):alias:1"
+msgid "occult_shopkeeper_(world_of_horror)"
+msgstr "怪异店主"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+#. aliases: 奥库特苏打
+msgctxt "tag:occult_soda:primary"
+msgid "occult_soda"
+msgstr "Occult Soda"
+
+#. alias-of: occult_soda
+#. source: ai
+msgctxt "tag:occult_soda:alias:1"
+msgid "occult_soda"
+msgstr "奥库特苏打"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:occult_studies_club_(blue_archive):primary"
+msgid "occult_studies_club_(blue_archive)"
+msgstr "神秘学研究会 (蔚蓝档案)"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:occult_times:primary"
+msgid "occult_times"
+msgstr "神秘学时报"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1087
+msgctxt "tag:occultic;nine:primary"
+msgid "occultic;nine"
+msgstr "神秘"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.archetype_role
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:occultist_(darkest_dungeon):primary"
+msgid "occultist_(darkest_dungeon)"
+msgstr "神秘学者（暗黑地牢）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.role.occupation_role
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:occultist_(path_of_exile):primary"
+msgid "occultist_(path_of_exile)"
+msgstr "秘术师（流放之路）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:occultoctoling:primary"
+msgid "occultoctoling"
+msgstr "occultoctoling"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:occultologic:primary"
+msgid "occultologic"
+msgstr "Occultologic"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:occultonic:primary"
+msgid "occultonic"
+msgstr "Occultonic"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:occultos:primary"
+msgid "occultos"
+msgstr "occultos"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:occultrick:primary"
+msgid "occultrick"
+msgstr "Occultrick"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:occultuun:primary"
+msgid "occultuun"
+msgstr "occultuun"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 4
+msgctxt "tag:occulus_corvinus:primary"
+msgid "occulus_corvinus"
+msgstr "奥库卢斯·科尔维努斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:occumt:primary"
+msgid "occumt"
+msgstr "Occumt"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.relationship
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:occupation_connection:primary"
+msgid "occupation_connection"
+msgstr "职业关系"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:occupational_safety_and_health_administration:primary"
+msgid "occupational_safety_and_health_administration"
+msgstr "职业安全与健康管理局"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:occupied_airfield_princess:primary"
+msgid "occupied_airfield_princess"
+msgstr "占领机场公主"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:occurinmylife:primary"
+msgid "occurinmylife"
+msgstr "发生在我生活中的事"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:occytea:primary"
+msgid "occytea"
+msgstr "occytea"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ocdbpd:primary"
+msgid "ocdbpd"
+msgstr "OCDBPD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocdiamonddazzel:primary"
+msgid "ocdiamonddazzel"
+msgstr "ocdiamonddazzel"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oce:primary"
+msgid "oce"
+msgstr "OCE"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.water_or_sky
+#. safety: sfw
+#. post-count: 131527
+#. aliases: 大海
+msgctxt "tag:ocean:primary"
+msgid "ocean"
+msgstr "海洋"
+
+#. alias-of: ocean
+#. source: ai
+msgctxt "tag:ocean:alias:1"
+msgid "ocean"
+msgstr "大海"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ocean's_11:primary"
+msgid "ocean's_11"
+msgstr "十一罗汉"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean's_13:primary"
+msgid "ocean's_13"
+msgstr "《十三罗汉》"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocean's_8:primary"
+msgid "ocean's_8"
+msgstr "《瞒天过海：美人计》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocean73450133:primary"
+msgid "ocean73450133"
+msgstr "大海73450133"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocean_(2224446):primary"
+msgid "ocean_(2224446)"
+msgstr "海洋"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocean_(crystal_maidens):primary"
+msgid "ocean_(crystal_maidens)"
+msgstr "ocean"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Fortnite海洋
+msgctxt "tag:ocean_(fortnite):primary"
+msgid "ocean_(fortnite)"
+msgstr "Ocean（堡垒之夜）"
+
+#. alias-of: ocean_(fortnite)
+#. source: ai
+msgctxt "tag:ocean_(fortnite):alias:1"
+msgid "ocean_(fortnite)"
+msgstr "Fortnite海洋"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ocean_(moana):primary"
+msgid "ocean_(moana)"
+msgstr "Ocean (Moana)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ocean_(moguyobi):primary"
+msgid "ocean_(moguyobi)"
+msgstr "Ocean（moguyobi）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 84
+msgctxt "tag:ocean_(oveanman):primary"
+msgid "ocean_(oveanman)"
+msgstr "海洋"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_(vocaloid):primary"
+msgid "ocean_(vocaloid)"
+msgstr "OCEAN（VOCALOID）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_(vtuber):primary"
+msgid "ocean_(vtuber)"
+msgstr "Ocean"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ocean_01:primary"
+msgid "ocean_01"
+msgstr "ocean_01"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 深蓝色
+msgctxt "tag:ocean_blue_(7th_stand_user):primary"
+msgid "ocean_blue_(7th_stand_user)"
+msgstr "Ocean Blue"
+
+#. alias-of: ocean_blue_(7th_stand_user)
+#. source: ai
+msgctxt "tag:ocean_blue_(7th_stand_user):alias:1"
+msgid "ocean_blue_(7th_stand_user)"
+msgstr "深蓝色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocean_blue_(jpn)_(2008)_(racehorse):primary"
+msgid "ocean_blue_(jpn)_(2008)_(racehorse)"
+msgstr "Ocean Blue（JPN）（2008）（赛马）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_blue_(racehorse):primary"
+msgid "ocean_blue_(racehorse)"
+msgstr "Ocean Blue"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ocean_breeze_luluca_(epic_seven):primary"
+msgid "ocean_breeze_luluca_(epic_seven)"
+msgstr "海风露露卡"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+#. aliases: 海洋龙领主
+msgctxt "tag:ocean_dragon_lord_-_kairyu-shin:primary"
+msgid "ocean_dragon_lord_-_kairyu-shin"
+msgstr "海龙神"
+
+#. alias-of: ocean_dragon_lord_-_kairyu-shin
+#. source: ai
+msgctxt "tag:ocean_dragon_lord_-_kairyu-shin:alias:1"
+msgid "ocean_dragon_lord_-_kairyu-shin"
+msgstr "海洋龙领主"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_dragon_lord_-_neo-daedalus:primary"
+msgid "ocean_dragon_lord_-_neo-daedalus"
+msgstr "Ocean Dragon Lord - Neo-Daedalus"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ocean_dream_(miracle_nikki):primary"
+msgid "ocean_dream_(miracle_nikki)"
+msgstr "海洋之梦（奇迹暖暖）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_empire_(empires_smp):primary"
+msgid "ocean_empire_(empires_smp)"
+msgstr "海洋帝国（Empires SMP）"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocean_eyes_(billie_eilish):primary"
+msgid "ocean_eyes_(billie_eilish)"
+msgstr "Ocean Eyes（Billie Eilish）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ocean_hairuuu:primary"
+msgid "ocean_hairuuu"
+msgstr "ocean_hairuuu"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:ocean_history_wonder_ride_book:primary"
+msgid "ocean_history_wonder_ride_book"
+msgstr "《海洋历史奇妙之旅》书籍"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_jasper:primary"
+msgid "ocean_jasper"
+msgstr "Ocean Jasper"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ocean_liner:primary"
+msgid "ocean_liner"
+msgstr "远洋邮轮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ocean_maid_(stellar_blade):primary"
+msgid "ocean_maid_(stellar_blade)"
+msgstr "深海女仆"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocean_man:primary"
+msgid "ocean_man"
+msgstr "Ocean Man"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ocean_man_(artist):primary"
+msgid "ocean_man_(artist)"
+msgstr "海人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_nohito:primary"
+msgid "ocean_nohito"
+msgstr "ocean_nohito"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_o7:primary"
+msgid "ocean_o7"
+msgstr "Ocean O7"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocean_of_blue:primary"
+msgid "ocean_of_blue"
+msgstr "蓝色海洋"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 129
+msgctxt "tag:ocean_prince:primary"
+msgid "ocean_prince"
+msgstr "海洋王子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_prince_(cosplay):primary"
+msgid "ocean_prince_(cosplay)"
+msgstr "海洋王子 (Cosplay)"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_side:primary"
+msgid "ocean_side"
+msgstr "海边"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ocean_siro:primary"
+msgid "ocean_siro"
+msgstr "ocean_siro"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ocean_song_ashe:primary"
+msgid "ocean_song_ashe"
+msgstr "海洋之歌艾希"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ocean_song_nidalee:primary"
+msgid "ocean_song_nidalee"
+msgstr "海洋之歌妮蔻"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 8
+#. aliases: 海之歌
+msgctxt "tag:ocean_song_seraphine:primary"
+msgid "ocean_song_seraphine"
+msgstr "海之歌瑟拉芬妮"
+
+#. alias-of: ocean_song_seraphine
+#. source: ai
+msgctxt "tag:ocean_song_seraphine:alias:1"
+msgid "ocean_song_seraphine"
+msgstr "海之歌"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ocean_song_yone:primary"
+msgid "ocean_song_yone"
+msgstr "ocean_song_yone"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ocean_song_zeri:primary"
+msgid "ocean_song_zeri"
+msgstr "海洋之歌 Zeri"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocean_spray_(brand):primary"
+msgid "ocean_spray_(brand)"
+msgstr "Ocean Spray（品牌）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocean_stonecutter_(arknights):primary"
+msgid "ocean_stonecutter_(arknights)"
+msgstr "Ocean Stonecutter（明日方舟）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ocean_strike026:primary"
+msgid "ocean_strike026"
+msgstr "Ocean Strike026"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 228
+msgctxt "tag:ocean_sunfish:primary"
+msgid "ocean_sunfish"
+msgstr "翻车鱼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 91
+msgctxt "tag:oceana_(azur_lane):primary"
+msgid "oceana_(azur_lane)"
+msgstr "碧蓝航线：海伦娜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceana_(azur_lane)_(cosplay):primary"
+msgid "oceana_(azur_lane)_(cosplay)"
+msgstr "奥申娜(碧蓝航线)(Cosplay)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:oceana_(imp_of_the_bathtub)_(azur_lane):primary"
+msgid "oceana_(imp_of_the_bathtub)_(azur_lane)"
+msgstr "奥希亚纳（浴缸小鬼）（碧蓝航线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oceanade:primary"
+msgid "oceanade"
+msgstr "oceanade"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:oceanapril:primary"
+msgid "oceanapril"
+msgstr "OceanApril"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oceanbreakup:primary"
+msgid "oceanbreakup"
+msgstr "oceanbreakup"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oceancat:primary"
+msgid "oceancat"
+msgstr "海猫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oceanchan:primary"
+msgid "oceanchan"
+msgstr "海洋酱"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+#. aliases: 大洋（铁衣）
+msgctxt "tag:oceane_(ironclad):primary"
+msgid "oceane_(ironclad)"
+msgstr "Océane（铁甲舰）"
+
+#. alias-of: oceane_(ironclad)
+#. source: ai
+msgctxt "tag:oceane_(ironclad):alias:1"
+msgid "oceane_(ironclad)"
+msgstr "大洋（铁衣）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:oceane_otoishi:primary"
+msgid "oceane_otoishi"
+msgstr "音石海"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceaneastart:primary"
+msgid "oceaneastart"
+msgstr "oceaneastart"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceania_(oce11758):primary"
+msgid "oceania_(oce11758)"
+msgstr "Oceania"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:oceanic_(grand_theft_auto):primary"
+msgid "oceanic_(grand_theft_auto)"
+msgstr "Oceanic（侠盗猎车手）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 7
+msgctxt "tag:oceanic_operetta_(pokemon):primary"
+msgid "oceanic_operetta_(pokemon)"
+msgstr "《宝可梦》海洋小夜曲"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceanic_reverie_(shining_nikki):primary"
+msgid "oceanic_reverie_(shining_nikki)"
+msgstr "Oceanic Reverie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceanichymns:primary"
+msgid "oceanichymns"
+msgstr "oceanichymns"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceanicpleistocene:primary"
+msgid "oceanicpleistocene"
+msgstr "海洋更新世"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 54
+msgctxt "tag:oceanid_(genshin_impact):primary"
+msgid "oceanid_(genshin_impact)"
+msgstr "纯水精灵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+#. aliases: 海洋仙女（终末之源）
+msgctxt "tag:oceanides_(last_origin):primary"
+msgid "oceanides_(last_origin)"
+msgstr "《Last Origin》中的 Oceanides"
+
+#. alias-of: oceanides_(last_origin)
+#. source: ai
+msgctxt "tag:oceanides_(last_origin):alias:1"
+msgid "oceanides_(last_origin)"
+msgstr "海洋仙女（终末之源）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceaniemid:primary"
+msgid "oceaniemid"
+msgstr "Oceaniemid"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceaniespainting:primary"
+msgid "oceaniespainting"
+msgstr "oceaniespainting"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 70
+msgctxt "tag:oceaninspace:primary"
+msgid "oceaninspace"
+msgstr "海洋与太空"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oceanispainting:primary"
+msgid "oceanispainting"
+msgstr "Oceanispainting"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oceanleaves:primary"
+msgid "oceanleaves"
+msgstr "oceanleaves"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oceanloli:primary"
+msgid "oceanloli"
+msgstr "海洋萝莉"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceanmotor:primary"
+msgid "oceanmotor"
+msgstr "oceanmotor"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oceanneverwet:primary"
+msgid "oceanneverwet"
+msgstr "OceanNeverWet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:oceannuts:primary"
+msgid "oceannuts"
+msgstr "oceannuts"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceanoceanart:primary"
+msgid "oceanoceanart"
+msgstr "海洋艺术"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oceanofyoon:primary"
+msgid "oceanofyoon"
+msgstr "oceanofyoon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oceanographer_(granblue_fantasy):primary"
+msgid "oceanographer_(granblue_fantasy)"
+msgstr "海洋学家（碧蓝幻想）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceanplume:primary"
+msgid "oceanplume"
+msgstr "Oceanplume"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:oceans&empires:primary"
+msgid "oceans&empires"
+msgstr "海洋与帝国"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oceans-art:primary"
+msgid "oceans-art"
+msgstr "oceans-art"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceans_and_currents:primary"
+msgid "oceans_and_currents"
+msgstr "oceans_and_currents"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceansaaand:primary"
+msgid "oceansaaand"
+msgstr "oceansaaand"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceansenjoy:primary"
+msgid "oceansenjoy"
+msgstr "oceansenjoy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oceansfw_art:primary"
+msgid "oceansfw_art"
+msgstr "oceansfw_art"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:oceanunnos_(fate):primary"
+msgid "oceanunnos_(fate)"
+msgstr "OceanUnnos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:oceanus_(aether_gazer):primary"
+msgid "oceanus_(aether_gazer)"
+msgstr "海洋神（深空之眼）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:oceanus_(granblue_fantasy):primary"
+msgid "oceanus_(granblue_fantasy)"
+msgstr "欧西努斯（碧蓝幻想）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:oceanus_shenron:primary"
+msgid "oceanus_shenron"
+msgstr "海洋神龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 海神
+msgctxt "tag:oceanus_shenron_(xeno):primary"
+msgid "oceanus_shenron_(xeno)"
+msgstr "Oceanus Shenron (Xeno)"
+
+#. alias-of: oceanus_shenron_(xeno)
+#. source: ai
+msgctxt "tag:oceanus_shenron_(xeno):alias:1"
+msgid "oceanus_shenron_(xeno)"
+msgstr "海神"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:oceanwrath:primary"
+msgid "oceanwrath"
+msgstr "oceanwrath"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oceiros_the_consumed_king:primary"
+msgid "oceiros_the_consumed_king"
+msgstr "奥西里亚斯，受吞噬之王"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ocel01:primary"
+msgid "ocel01"
+msgstr "ocel01"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocelo_acrmtca:primary"
+msgid "ocelo_acrmtca"
+msgstr "ocelo_acrmtca"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+#. aliases: 豹猫
+msgctxt "tag:ocelomeh_(monster_girl_encyclopedia):primary"
+msgid "ocelomeh_(monster_girl_encyclopedia)"
+msgstr "豹猫娘"
+
+#. alias-of: ocelomeh_(monster_girl_encyclopedia)
+#. source: ai
+msgctxt "tag:ocelomeh_(monster_girl_encyclopedia):alias:1"
+msgid "ocelomeh_(monster_girl_encyclopedia)"
+msgstr "豹猫"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ocelot:primary"
+msgid "ocelot"
+msgstr "山猫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 85
+#. aliases: 虎猫朋友
+msgctxt "tag:ocelot_(kemono_friends):primary"
+msgid "ocelot_(kemono_friends)"
+msgstr "虎猫"
+
+#. alias-of: ocelot_(kemono_friends)
+#. source: ai
+msgctxt "tag:ocelot_(kemono_friends):alias:1"
+msgid "ocelot_(kemono_friends)"
+msgstr "虎猫朋友"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocelot_(minecraft):primary"
+msgid "ocelot_(minecraft)"
+msgstr "豹猫（Minecraft）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocelot_gecko:primary"
+msgid "ocelot_gecko"
+msgstr "虎猫壁虎"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:ocelot_print:primary"
+msgid "ocelot_print"
+msgstr "豹猫纹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocelot_unit:primary"
+msgid "ocelot_unit"
+msgstr "豹猫单位"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocer:primary"
+msgid "ocer"
+msgstr "ocer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocer_(ocerex):primary"
+msgid "ocer_(ocerex)"
+msgstr "ocer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ocerius:primary"
+msgid "ocerius"
+msgstr "Ocerius"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+#. aliases: 黑濑推
+msgctxt "tag:ocesui:primary"
+msgid "ocesui"
+msgstr "黑濑推"
+
+#. alias-of: ocesui
+#. source: ai
+msgctxt "tag:ocesui:alias:1"
+msgid "ocesui"
+msgstr "黑濑推"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:ocetee:primary"
+msgid "ocetee"
+msgstr "ocetee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ocgiufl4whnc6n9:primary"
+msgid "ocgiufl4whnc6n9"
+msgstr "ocgiufl4whnc6n9"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:och-kan_(genshin_impact):primary"
+msgid "och-kan_(genshin_impact)"
+msgstr "绮良良（原神）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+#. aliases: 神姬计划
+msgctxt "tag:och_(kamihime_project):primary"
+msgid "och_(kamihime_project)"
+msgstr "OCH（神姬PROJECT）"
+
+#. alias-of: och_(kamihime_project)
+#. source: ai
+msgctxt "tag:och_(kamihime_project):alias:1"
+msgid "och_(kamihime_project)"
+msgstr "神姬计划"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:och_miller:primary"
+msgid "och_miller"
+msgstr "奥赫·米勒"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocha0w0:primary"
+msgid "ocha0w0"
+msgstr "Ocha0w0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ocha1124321:primary"
+msgid "ocha1124321"
+msgstr "Ocha1124321"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:ocha2_22:primary"
+msgid "ocha2_22"
+msgstr "茶2_22"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocha_(1510388):primary"
+msgid "ocha_(1510388)"
+msgstr "おちゃ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ocha_(artea):primary"
+msgid "ocha_(artea)"
+msgstr "Ocha（artea）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocha_(cha-suke):primary"
+msgid "ocha_(cha-suke)"
+msgstr "ocha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocha_(ebitiri62):primary"
+msgid "ocha_(ebitiri62)"
+msgstr "茶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+#. aliases: 御茶
+msgctxt "tag:ocha_(gogonuko):primary"
+msgid "ocha_(gogonuko)"
+msgstr "茶"
+
+#. alias-of: ocha_(gogonuko)
+#. source: ai
+msgctxt "tag:ocha_(gogonuko):alias:1"
+msgid "ocha_(gogonuko)"
+msgstr "御茶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocha_(green-tealeaf):primary"
+msgid "ocha_(green-tealeaf)"
+msgstr "ocha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ocha_(greentea-time):primary"
+msgid "ocha_(greentea-time)"
+msgstr "ocha（greentea-time）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 58
+msgctxt "tag:ocha_(hutuumikan):primary"
+msgid "ocha_(hutuumikan)"
+msgstr "茶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 50
+msgctxt "tag:ocha_(kinnkonnsousai):primary"
+msgid "ocha_(kinnkonnsousai)"
+msgstr "金婚祭"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ocha_(mgmg_ok):primary"
+msgid "ocha_(mgmg_ok)"
+msgstr "ocha_(mgmg_ok)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocha_(milkytiddyboy):primary"
+msgid "ocha_(milkytiddyboy)"
+msgstr "OCHA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocha_(o^16):primary"
+msgid "ocha_(o^16)"
+msgstr "ocha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+#. aliases: 茶
+msgctxt "tag:ocha_(ocha_illust):primary"
+msgid "ocha_(ocha_illust)"
+msgstr "茶（ocha_illust）"
+
+#. alias-of: ocha_(ocha_illust)
+#. source: ai
+msgctxt "tag:ocha_(ocha_illust):alias:1"
+msgid "ocha_(ocha_illust)"
+msgstr "茶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 155
+msgctxt "tag:ocha_(ochappie):primary"
+msgid "ocha_(ochappie)"
+msgstr "ocha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 64
+msgctxt "tag:ocha_(oteaaa):primary"
+msgid "ocha_(oteaaa)"
+msgstr "茶茶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocha_(otya_yade):primary"
+msgid "ocha_(otya_yade)"
+msgstr "Ocha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ocha_(pixiv78064921):primary"
+msgid "ocha_(pixiv78064921)"
+msgstr "Ocha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 307
+msgctxt "tag:ocha_(popopogg):primary"
+msgid "ocha_(popopogg)"
+msgstr "茶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ocha_(ran):primary"
+msgid "ocha_(ran)"
+msgstr "ocha（ran）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ocha_(wnyf3738):primary"
+msgid "ocha_(wnyf3738)"
+msgstr "Ocha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocha_(ymmyocha):primary"
+msgid "ocha_(ymmyocha)"
+msgstr "ymmyocha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocha_0529:primary"
+msgid "ocha_0529"
+msgstr "ocha_0529"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocha_bako:primary"
+msgid "ocha_bako"
+msgstr "ocha_bako"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocha_chuuni_neko:primary"
+msgid "ocha_chuuni_neko"
+msgstr "ocha_chuuni_neko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocha_dango_(saijou_rekka):primary"
+msgid "ocha_dango_(saijou_rekka)"
+msgstr "茶团子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ocha_dukemaru:primary"
+msgid "ocha_dukemaru"
+msgstr "ocha_dukemaru"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ocha_koboshi_shokunin:primary"
+msgid "ocha_koboshi_shokunin"
+msgstr "ocha_koboshi_shokunin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ocha_kumi:primary"
+msgid "ocha_kumi"
+msgstr "ocha_kumi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocha_mement:primary"
+msgid "ocha_mement"
+msgstr "ocha_mement"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocha_nigosu.:primary"
+msgid "ocha_nigosu."
+msgstr "《茶二酸》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:ocha_no:primary"
+msgid "ocha_no"
+msgstr "茶の"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ocha_no_degarashi:primary"
+msgid "ocha_no_degarashi"
+msgstr "ocha_no_degarashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ocha_no_ha:primary"
+msgid "ocha_no_ha"
+msgstr "ocha_no_ha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ocha_no_mae:primary"
+msgid "ocha_no_mae"
+msgstr "茶之前"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocha_no_mizukami:primary"
+msgid "ocha_no_mizukami"
+msgstr "《茶之水上》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocha_no_suke:primary"
+msgid "ocha_no_suke"
+msgstr "御茶之助"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocha_nyago:primary"
+msgid "ocha_nyago"
+msgstr "ocha_nyago"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocha_otome:primary"
+msgid "ocha_otome"
+msgstr "ocha_otome"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ocha_uma:primary"
+msgid "ocha_uma"
+msgstr "ocha_uma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocha_under:primary"
+msgid "ocha_under"
+msgstr "ocha_under"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ochabashira:primary"
+msgid "ochabashira"
+msgstr "茶柱"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochabashirq:primary"
+msgid "ochabashirq"
+msgstr "ochabashirq"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochabatake:primary"
+msgid "ochabatake"
+msgstr "ochabatake"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: ochabe
+msgctxt "tag:ochabechan:primary"
+msgid "ochabechan"
+msgstr "ochabechan"
+
+#. alias-of: ochabechan
+#. source: ai
+msgctxt "tag:ochabechan:alias:1"
+msgid "ochabechan"
+msgstr "ochabe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ochacha239:primary"
+msgid "ochacha239"
+msgstr "ochacha239"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochacha_mochi:primary"
+msgid "ochacha_mochi"
+msgstr "ochacha_mochi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochache-pi:primary"
+msgid "ochache-pi"
+msgstr "ochache-pi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ochaco:primary"
+msgid "ochaco"
+msgstr "丽日御茶子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ochaco_face_card_redraw:primary"
+msgid "ochaco_face_card_redraw"
+msgstr "ochaco_face_card_redraw"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ochacolle:primary"
+msgid "ochacolle"
+msgstr "Ochacolle"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochacon24:primary"
+msgid "ochacon24"
+msgstr "ochacon24"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochadukeee:primary"
+msgid "ochadukeee"
+msgstr "ochadukeee"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochagohan:primary"
+msgid "ochagohan"
+msgstr "ochagohan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochaiit:primary"
+msgid "ochaiit"
+msgstr "ochaiit"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochaippainomu:primary"
+msgid "ochaippainomu"
+msgstr "ochaippainomu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:ochairo:primary"
+msgid "ochairo"
+msgstr "Ochairo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochakai73:primary"
+msgid "ochakai73"
+msgstr "ochakai73"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 120
+msgctxt "tag:ochakai_shin'ya:primary"
+msgid "ochakai_shin'ya"
+msgstr "お茶会真夜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:ochakan:primary"
+msgid "ochakan"
+msgstr "ochakan"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ochaken:primary"
+msgid "ochaken"
+msgstr "小茶犬"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochako999:primary"
+msgid "ochako999"
+msgstr "ochako999"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ochako_(kemomimiochanu):primary"
+msgid "ochako_(kemomimiochanu)"
+msgstr "茶子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochalll:primary"
+msgid "ochalll"
+msgstr "Ochalll"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 胖丁
+msgctxt "tag:ochama_pochama:primary"
+msgid "ochama_pochama"
+msgstr "ochama_pochama"
+
+#. alias-of: ochama_pochama
+#. source: ai
+msgctxt "tag:ochama_pochama:alias:1"
+msgid "ochama_pochama"
+msgstr "胖丁"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochamarron:primary"
+msgid "ochamarron"
+msgstr "ochamarron"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ochamaru:primary"
+msgid "ochamaru"
+msgstr "小丸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ochamaru0103:primary"
+msgid "ochamaru0103"
+msgstr "ochamaru0103"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ochamaru_(hjkt8883):primary"
+msgid "ochamaru_(hjkt8883)"
+msgstr "小丸子（hjkt8883）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ochame:primary"
+msgid "ochame"
+msgstr "ochame"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochame_(daltanious):primary"
+msgid "ochame_(daltanious)"
+msgstr "Ochame (Daltanious)"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 925
+#. aliases: 调皮妻日常
+msgctxt "tag:ochame_na_okusan_to_no_nichijou_chabangoto:primary"
+msgid "ochame_na_okusan_to_no_nichijou_chabangoto"
+msgstr "调皮妻子的日常"
+
+#. alias-of: ochame_na_okusan_to_no_nichijou_chabangoto
+#. source: ai
+msgctxt "tag:ochame_na_okusan_to_no_nichijou_chabangoto:alias:1"
+msgid "ochame_na_okusan_to_no_nichijou_chabangoto"
+msgstr "调皮妻日常"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ochamegami_monogatari_korokoro_pollon:primary"
+msgid "ochamegami_monogatari_korokoro_pollon"
+msgstr "恶作剧女神传说：波隆"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochamekan_(seranji_poji):primary"
+msgid "ochamekan_(seranji_poji)"
+msgstr "Ochamekan（seranji poji）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochamp:primary"
+msgid "ochamp"
+msgstr "ochamp"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochamusic:primary"
+msgid "ochamusic"
+msgstr "Ochamusic"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 131
+msgctxt "tag:ochano:primary"
+msgid "ochano"
+msgstr "ochano"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochano5:primary"
+msgid "ochano5"
+msgstr "ochano5"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ochanoda:primary"
+msgid "ochanoda"
+msgstr "ochanoda"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochanoha:primary"
+msgid "ochanoha"
+msgstr "ochanoha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ochanohadesu:primary"
+msgid "ochanohadesu"
+msgstr "Ochanohadesu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 86
+msgctxt "tag:ochanoko_(get9-sac):primary"
+msgid "ochanoko_(get9-sac)"
+msgstr "茶之子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochanoko_(tu_bailo):primary"
+msgid "ochanoko_(tu_bailo)"
+msgstr "tu_bailo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:ochanomizu_doggu:primary"
+msgid "ochanomizu_doggu"
+msgstr "御茶水狗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 79
+msgctxt "tag:ochanomizu_hiroshi:primary"
+msgid "ochanomizu_hiroshi"
+msgstr "内水广志"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:ochanomizu_mirie:primary"
+msgid "ochanomizu_mirie"
+msgstr "Ochanomizu Mirie"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:ochanomizu_ran:primary"
+msgid "ochanomizu_ran"
+msgstr "御茶水兰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:ochanomuu:primary"
+msgid "ochanomuu"
+msgstr "ochanomuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochanoyu1226:primary"
+msgid "ochanoyu1226"
+msgstr "おちゃのゆ1226"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ochao_(icetealive):primary"
+msgid "ochao_(icetealive)"
+msgstr "冰茶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochaocha:primary"
+msgid "ochaocha"
+msgstr "ochaocha"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ochaocha815:primary"
+msgid "ochaocha815"
+msgstr "ochaocha815"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 51
+msgctxt "tag:ochappa:primary"
+msgid "ochappa"
+msgstr "小茶壶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochappa_(arujijou):primary"
+msgid "ochappa_(arujijou)"
+msgstr "おちゃっぽ（アルジジョウ）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochappa_(sayumi33):primary"
+msgid "ochappa_(sayumi33)"
+msgstr "Ochappa（sayumi33）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:ocharicorico:primary"
+msgid "ocharicorico"
+msgstr "ocharicorico"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocharisandesu:primary"
+msgid "ocharisandesu"
+msgstr "ocharisandesu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocharuu:primary"
+msgid "ocharuu"
+msgstr "ocharuu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:ochasuke_(corono):primary"
+msgid "ochasuke_(corono)"
+msgstr "ochasuke (corono)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 茶天酱
+msgctxt "tag:ochatenchan:primary"
+msgid "ochatenchan"
+msgstr "ochatenchan"
+
+#. alias-of: ochatenchan
+#. source: ai
+msgctxt "tag:ochatenchan:alias:1"
+msgid "ochatenchan"
+msgstr "茶天酱"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ochatomizu_high_school_uniform:primary"
+msgid "ochatomizu_high_school_uniform"
+msgstr "御茶水高中制服"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ochatsube_philharmonic_orchestra:primary"
+msgid "ochatsube_philharmonic_orchestra"
+msgstr "御茶壶爱乐乐团"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:ochau:primary"
+msgid "ochau"
+msgstr "ochau"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ochawan:primary"
+msgid "ochawan"
+msgstr "ochawan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochawan_(o-tyawan):primary"
+msgid "ochawan_(o-tyawan)"
+msgstr "ochawan（o-tyawan）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochawan_(sanokusu):primary"
+msgid "ochawan_(sanokusu)"
+msgstr "ochawan（sanokusu）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ochaya:primary"
+msgid "ochaya"
+msgstr "ochaya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochayasan:primary"
+msgid "ochayasan"
+msgstr "ochayasan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochazu:primary"
+msgid "ochazu"
+msgstr "ochazu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 137
+msgctxt "tag:ochazuke:primary"
+msgid "ochazuke"
+msgstr "茶泡饭"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ochazuke_(artist):primary"
+msgid "ochazuke_(artist)"
+msgstr "ochazuke（画师）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 50
+#. aliases: 茶渍饭
+msgctxt "tag:ochazuke_(food):primary"
+msgid "ochazuke_(food)"
+msgstr "茶泡饭"
+
+#. alias-of: ochazuke_(food)
+#. source: ai
+msgctxt "tag:ochazuke_(food):alias:1"
+msgid "ochazuke_(food)"
+msgstr "茶渍饭"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochazuke_17:primary"
+msgid "ochazuke_17"
+msgstr "ochazuke_17"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 茶渍饭
+msgctxt "tag:ochazuke_gohan:primary"
+msgid "ochazuke_gohan"
+msgstr "ochazuke_gohan"
+
+#. alias-of: ochazuke_gohan
+#. source: ai
+msgctxt "tag:ochazuke_gohan:alias:1"
+msgid "ochazuke_gohan"
+msgstr "茶渍饭"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochazuke_seijin_(bobobo-bo_bo-bobo):primary"
+msgid "ochazuke_seijin_(bobobo-bo_bo-bobo)"
+msgstr "茶泡饭星人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ochazukeakino:primary"
+msgid "ochazukeakino"
+msgstr "ochazukeakino"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ochazukefinch:primary"
+msgid "ochazukefinch"
+msgstr "Ochazukefinch"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocheeva:primary"
+msgid "ocheeva"
+msgstr "Ocheeva"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ocher_od:primary"
+msgid "ocher_od"
+msgstr "ocher_od"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 99
+#. aliases: 八方旅人奥切特
+msgctxt "tag:ochette_(octopath_traveler):primary"
+msgid "ochette_(octopath_traveler)"
+msgstr "奥切特"
+
+#. alias-of: ochette_(octopath_traveler)
+#. source: ai
+msgctxt "tag:ochette_(octopath_traveler):alias:1"
+msgid "ochette_(octopath_traveler)"
+msgstr "八方旅人奥切特"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: 奥切特cos
+msgctxt "tag:ochette_(octopath_traveler)_(cosplay):primary"
+msgid "ochette_(octopath_traveler)_(cosplay)"
+msgstr "奥切特（八方旅人）cosplay"
+
+#. alias-of: ochette_(octopath_traveler)_(cosplay)
+#. source: ai
+msgctxt "tag:ochette_(octopath_traveler)_(cosplay):alias:1"
+msgid "ochette_(octopath_traveler)_(cosplay)"
+msgstr "奥切特cos"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochetus:primary"
+msgid "ochetus"
+msgstr "Ochetus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocheu_(only_tsukinaga):primary"
+msgid "ocheu_(only_tsukinaga)"
+msgstr "Ocheu（only_tsukinaga）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ochi:primary"
+msgid "ochi"
+msgstr "落"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochi12_ta:primary"
+msgid "ochi12_ta"
+msgstr "Ochi12"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: .hack//角色
+msgctxt "tag:ochi_(.hack//):primary"
+msgid "ochi_(.hack//)"
+msgstr "Ochi"
+
+#. alias-of: ochi_(.hack//)
+#. source: ai
+msgctxt "tag:ochi_(.hack//):alias:1"
+msgid "ochi_(.hack//)"
+msgstr ".hack//角色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochi_(7dr_rd7):primary"
+msgid "ochi_(7dr_rd7)"
+msgstr "Ochi（7dr_rd7）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:ochi_(lokun):primary"
+msgid "ochi_(lokun)"
+msgstr "阿智"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:ochi_(ochi1094):primary"
+msgid "ochi_(ochi1094)"
+msgstr "Ochi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ochi_(ochi_oeeeee):primary"
+msgid "ochi_(ochi_oeeeee)"
+msgstr "ochi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ochi_(oti_moti):primary"
+msgid "ochi_(oti_moti)"
+msgstr "Ochi (Oti Moti)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochi_anton:primary"
+msgid "ochi_anton"
+msgstr "ochi_anton"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochi_hiroyuki:primary"
+msgid "ochi_hiroyuki"
+msgstr "越智广行"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochi_kazuhiro:primary"
+msgid "ochi_kazuhiro"
+msgstr "越一弘"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochi_kousuke:primary"
+msgid "ochi_kousuke"
+msgstr "落光介"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 76
+msgctxt "tag:ochi_marco:primary"
+msgid "ochi_marco"
+msgstr "落マコ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:ochi_r:primary"
+msgid "ochi_r"
+msgstr "落R"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ochi_ripca:primary"
+msgid "ochi_ripca"
+msgstr "ochi_ripca"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ochi_shinji:primary"
+msgid "ochi_shinji"
+msgstr "越智真治"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:ochi_takeshi:primary"
+msgid "ochi_takeshi"
+msgstr "越智武"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochi_the_duck:primary"
+msgid "ochi_the_duck"
+msgstr "落鸭"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 落雁
+msgctxt "tag:ochi_the_duck_(myumon):primary"
+msgid "ochi_the_duck_(myumon)"
+msgstr "Ochi the Duck"
+
+#. alias-of: ochi_the_duck_(myumon)
+#. source: ai
+msgctxt "tag:ochi_the_duck_(myumon):alias:1"
+msgid "ochi_the_duck_(myumon)"
+msgstr "落雁"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 1
+msgctxt "tag:ochi_tomo_~soukan~:primary"
+msgid "ochi_tomo_~soukan~"
+msgstr "Ochi Tomo ～总刊～"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ochi_yoshihiko:primary"
+msgid "ochi_yoshihiko"
+msgstr "越智义彦"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Ochi Yoshihiko
+msgctxt "tag:ochi_yoshihiko_(grisaia):primary"
+msgid "ochi_yoshihiko_(grisaia)"
+msgstr "Ochi Yoshihiko"
+
+#. alias-of: ochi_yoshihiko_(grisaia)
+#. source: ai
+msgctxt "tag:ochi_yoshihiko_(grisaia):alias:1"
+msgid "ochi_yoshihiko_(grisaia)"
+msgstr "Ochi Yoshihiko"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 96
+msgctxt "tag:ochiai_(kinjo_no_hito_no_nakimushi):primary"
+msgid "ochiai_(kinjo_no_hito_no_nakimushi)"
+msgstr "落合"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochiai_(ocai):primary"
+msgid "ochiai_(ocai)"
+msgstr "ochiai（ocai）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiai_(sidonia_no_kishi):primary"
+msgid "ochiai_(sidonia_no_kishi)"
+msgstr "Ochiai"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiai_(weiqule):primary"
+msgid "ochiai_(weiqule)"
+msgstr "落合"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochiai_chouji:primary"
+msgid "ochiai_chouji"
+msgstr "落合忠治"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochiai_hiromitsu:primary"
+msgid "ochiai_hiromitsu"
+msgstr "落合廣光"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ochiai_hitomi:primary"
+msgid "ochiai_hitomi"
+msgstr "落合瞳"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:ochiai_maharu:primary"
+msgid "ochiai_maharu"
+msgstr "落合真春"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiai_masato:primary"
+msgid "ochiai_masato"
+msgstr "落合政人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochiai_mayumi:primary"
+msgid "ochiai_mayumi"
+msgstr "落合真弓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 159
+msgctxt "tag:ochiai_miyabi:primary"
+msgid "ochiai_miyabi"
+msgstr "落合雅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiai_miyoshi:primary"
+msgid "ochiai_miyoshi"
+msgstr "Ochiai Miyoshi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochiai_momoka_(mankai_kaika):primary"
+msgid "ochiai_momoka_(mankai_kaika)"
+msgstr "落合桃香"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochiai_mutsumi:primary"
+msgid "ochiai_mutsumi"
+msgstr "落合睦"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiai_nao:primary"
+msgid "ochiai_nao"
+msgstr "落合奈绪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochiai_ryosuke:primary"
+msgid "ochiai_ryosuke"
+msgstr "落合亮介"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ochiai_tatsuya:primary"
+msgid "ochiai_tatsuya"
+msgstr "落合达也"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochiai_tomomi:primary"
+msgid "ochiai_tomomi"
+msgstr "ochiai_tomomi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochiai_tomoyori:primary"
+msgid "ochiai_tomoyori"
+msgstr "落合智夜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ochiai_torako:primary"
+msgid "ochiai_torako"
+msgstr "落合虎子"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiai_yayoi:primary"
+msgid "ochiai_yayoi"
+msgstr "Ochiai Yayoi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiai_yurika:primary"
+msgid "ochiai_yurika"
+msgstr "Ochiai Yurika"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiai_yuriko:primary"
+msgid "ochiai_yuriko"
+msgstr "落合由理子"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 127
+msgctxt "tag:ochiaki:primary"
+msgid "ochiaki"
+msgstr "ochiaki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiba:primary"
+msgid "ochiba"
+msgstr "落羽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiba03:primary"
+msgid "ochiba03"
+msgstr "ochiba03"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ochiba16:primary"
+msgid "ochiba16"
+msgstr "ochiba16"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ochiba_(sakusaku_ochiba):primary"
+msgid "ochiba_(sakusaku_ochiba)"
+msgstr "落叶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ochiba_34:primary"
+msgid "ochiba_34"
+msgstr "落葉34"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiba_chandas:primary"
+msgid "ochiba_chandas"
+msgstr "落叶檀陀"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ochiba_no_mau_koro:primary"
+msgid "ochiba_no_mau_koro"
+msgstr "落叶飞舞之时"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochiba_tori:primary"
+msgid "ochiba_tori"
+msgstr "《落叶鸟》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochibai:primary"
+msgid "ochibai"
+msgstr "ochibai"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:ochibana_ame:primary"
+msgid "ochibana_ame"
+msgstr "落花·雨"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochibana_hikaru:primary"
+msgid "ochibana_hikaru"
+msgstr "落花光"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochibataki:primary"
+msgid "ochibataki"
+msgstr "散落"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochibauma:primary"
+msgid "ochibauma"
+msgstr "ochibauma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ochibi_amamitsu:primary"
+msgid "ochibi_amamitsu"
+msgstr "ochibi_amamitsu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ochibrochi:primary"
+msgid "ochibrochi"
+msgstr "落花"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochibure_zeus_to_dourei_no_ko:primary"
+msgid "ochibure_zeus_to_dourei_no_ko"
+msgstr "Ochibure Zeus to Dourei no Ko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:ochie:primary"
+msgid "ochie"
+msgstr "Ochie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 张学友表情包
+msgctxt "tag:ochie_(cheung_o):primary"
+msgid "ochie_(cheung_o)"
+msgstr "cheung_o"
+
+#. alias-of: ochie_(cheung_o)
+#. source: ai
+msgctxt "tag:ochie_(cheung_o):alias:1"
+msgid "ochie_(cheung_o)"
+msgstr "张学友表情包"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochihana:primary"
+msgid "ochihana"
+msgstr "落花"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:ochii1:primary"
+msgid "ochii1"
+msgstr "Ochii1"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiirkajirimushi:primary"
+msgid "ochiirkajirimushi"
+msgstr "坠落雾足虫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochiiru_wa_turquoise_no_mimi:primary"
+msgid "ochiiru_wa_turquoise_no_mimi"
+msgstr "掉落的是绿松石色的耳朵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: 由良茂
+msgctxt "tag:ochika_yorumo:primary"
+msgid "ochika_yorumo"
+msgstr "ochika yorumo"
+
+#. alias-of: ochika_yorumo
+#. source: ai
+msgctxt "tag:ochika_yorumo:alias:1"
+msgid "ochika_yorumo"
+msgstr "由良茂"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochikake_shizuku:primary"
+msgid "ochikake_shizuku"
+msgstr "垂れ雫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 62
+msgctxt "tag:ochikata_kage:primary"
+msgid "ochikata_kage"
+msgstr "影"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 162
+msgctxt "tag:ochikazuki_ni_naritai_miyazen-san:primary"
+msgid "ochikazuki_ni_naritai_miyazen-san"
+msgstr "想要亲近的宫善小姐"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+#. aliases: 小雏
+msgctxt "tag:ochiko:primary"
+msgid "ochiko"
+msgstr "ochiko"
+
+#. alias-of: ochiko
+#. source: ai
+msgctxt "tag:ochiko:alias:1"
+msgid "ochiko"
+msgstr "小雏"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochikobore_datta_ani_ga_jitsuha_saikyou:primary"
+msgid "ochikobore_datta_ani_ga_jitsuha_saikyou"
+msgstr "废柴哥哥其实最强"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 311
+#. aliases: ochikobore_fruit_tart
+msgctxt "tag:ochikobore_fruit_tart:primary"
+msgid "ochikobore_fruit_tart"
+msgstr "落败水果挞"
+
+#. alias-of: ochikobore_fruit_tart
+#. source: ai
+msgctxt "tag:ochikobore_fruit_tart:alias:1"
+msgid "ochikobore_fruit_tart"
+msgstr "ochikobore_fruit_tart"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochikobore_no_ryuugoroshi:primary"
+msgid "ochikobore_no_ryuugoroshi"
+msgstr "落魄者的龙杀"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochikobore_ryuukishi_bahamut_ni_hitomebore_sareru:primary"
+msgid "ochikobore_ryuukishi_bahamut_ni_hitomebore_sareru"
+msgstr "《落魄龙骑士被巴哈姆特一见钟情》"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochikobore_taimashi_wa_isekai_kaeri_de_saikyou_tonaru:primary"
+msgid "ochikobore_taimashi_wa_isekai_kaeri_de_saikyou_tonaru"
+msgstr "废柴退魔师在异世界归来后成为最强"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochikobore_yuusha_to_rikka_no_majo:primary"
+msgid "ochikobore_yuusha_to_rikka_no_majo"
+msgstr "落第勇者与霜之魔女"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochikondapotato:primary"
+msgid "ochikondapotato"
+msgstr "ochikondapotato"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochime_no_kizoku_ni_tensei_shitanode_hakushaku_reijou_to_yari_makutte_harem_fukkou:primary"
+msgid "ochime_no_kizoku_ni_tensei_shitanode_hakushaku_reijou_to_yari_makutte_harem_fukkou"
+msgstr "重生为微小贵族"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+#. aliases: 潮见香奈
+msgctxt "tag:ochimi_kanata:primary"
+msgid "ochimi_kanata"
+msgstr "潮见香奈"
+
+#. alias-of: ochimi_kanata
+#. source: ai
+msgctxt "tag:ochimi_kanata:alias:1"
+msgid "ochimi_kanata"
+msgstr "潮见香奈"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochimo_da:primary"
+msgid "ochimo_da"
+msgstr "ochimo_da"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochimoto21:primary"
+msgid "ochimoto21"
+msgstr "ochimoto21"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:ochimusha:primary"
+msgid "ochimusha"
+msgstr "落武者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochimusha_(grimms_notes):primary"
+msgid "ochimusha_(grimms_notes)"
+msgstr "落武者"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ochimusha_(monster_girl_encyclopedia):primary"
+msgid "ochimusha_(monster_girl_encyclopedia)"
+msgstr "落武者（魔物娘图鉴）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochimusya324:primary"
+msgid "ochimusya324"
+msgstr "ochimusya324"
+
+#. danbooru-category: 1
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 8
+msgctxt "tag:ochin:primary"
+msgid "ochin"
+msgstr "ochin"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochinai_inaho:primary"
+msgid "ochinai_inaho"
+msgstr "织奈稻穗"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochinai_yogore_wo_boku_wa_nanto_yobeba_yokatta_noka:primary"
+msgid "ochinai_yogore_wo_boku_wa_nanto_yobeba_yokatta_noka"
+msgstr "Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta Noka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochinashi:primary"
+msgid "ochinashi"
+msgstr "ochinashi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochinchin_(user_njww5827):primary"
+msgid "ochinchin_(user_njww5827)"
+msgstr "ochinchin"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: nsfw
+#. post-count: 17
+msgctxt "tag:ochinchin_land_(meme):primary"
+msgid "ochinchin_land_(meme)"
+msgstr "小黄鸡之地"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:ochindori:primary"
+msgid "ochindori"
+msgstr "ochindori"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochinjin:primary"
+msgid "ochinjin"
+msgstr "ochinjin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochinkasu:primary"
+msgid "ochinkasu"
+msgstr "OCHINKASU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochinmilk:primary"
+msgid "ochinmilk"
+msgstr "おちんミルク"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 织希诺(VTuber)
+msgctxt "tag:ochino_(vtuber):primary"
+msgid "ochino_(vtuber)"
+msgstr "Ochino"
+
+#. alias-of: ochino_(vtuber)
+#. source: ai
+msgctxt "tag:ochino_(vtuber):alias:1"
+msgid "ochino_(vtuber)"
+msgstr "织希诺(VTuber)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochinpo_tatsurou:primary"
+msgid "ochinpo_tatsurou"
+msgstr "Ochinpo Tatsurou"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: nsfw
+#. post-count: 392
+#. aliases: 鸡鸡
+msgctxt "tag:ochinsama:primary"
+msgid "ochinsama"
+msgstr "肉棒"
+
+#. alias-of: ochinsama
+#. source: ai
+msgctxt "tag:ochinsama:alias:1"
+msgid "ochinsama"
+msgstr "鸡鸡"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochinu_(wpkf2378):primary"
+msgid "ochinu_(wpkf2378)"
+msgstr "ochinu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:ochio:primary"
+msgid "ochio"
+msgstr "ochio"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochiody:primary"
+msgid "ochiody"
+msgstr "ochiody"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochionewawon:primary"
+msgid "ochionewawon"
+msgstr "ochionewawon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochiri:primary"
+msgid "ochiri"
+msgstr "ochiri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochiribako:primary"
+msgid "ochiribako"
+msgstr "ochiribako"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochiru:primary"
+msgid "ochiru"
+msgstr "ochiru"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochiru_hitozuma:primary"
+msgid "ochiru_hitozuma"
+msgstr "《坠落人妻》"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiru_tenshi:primary"
+msgid "ochiru_tenshi"
+msgstr "堕天使"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochisam357:primary"
+msgid "ochisam357"
+msgstr "ochisam357"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ochishima:primary"
+msgid "ochishima"
+msgstr "Ochishima"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ochisoyaaa_(speedylateness):primary"
+msgid "ochisoyaaa_(speedylateness)"
+msgstr "ochisoyaaa_(speedylateness)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochistrikitu:primary"
+msgid "ochistrikitu"
+msgstr "ochistrikitu"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochita_yakata_to_ojou-sama:primary"
+msgid "ochita_yakata_to_ojou-sama"
+msgstr "堕落的宅邸与大小姐"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 落ちたアイス
+msgctxt "tag:ochitaaisu:primary"
+msgid "ochitaaisu"
+msgstr "Ochita Aisu"
+
+#. alias-of: ochitaaisu
+#. source: ai
+msgctxt "tag:ochitaaisu:alias:1"
+msgid "ochitaaisu"
+msgstr "落ちたアイス"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:ochite_iku_niizuma:primary"
+msgid "ochite_iku_niizuma"
+msgstr "坠落新娘"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 289
+msgctxt "tag:ochite_iku_seisenshi_lunatic_angels:primary"
+msgid "ochite_iku_seisenshi_lunatic_angels"
+msgstr "狂气天使"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ochite_miro:primary"
+msgid "ochite_miro"
+msgstr "Ochite Miro"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ochitekita_naga_to_horobiyuku_majo_no_kuni:primary"
+msgid "ochitekita_naga_to_horobiyuku_majo_no_kuni"
+msgstr "《坠落的龙与毁灭的魔女之国》"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochito:primary"
+msgid "ochito"
+msgstr "ochito"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:ochitsuke:primary"
+msgid "ochitsuke"
+msgstr "镇定"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochitsuki_(stdr):primary"
+msgid "ochitsuki_(stdr)"
+msgstr "ochitsuki（stdr）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:ochitsukutsuku:primary"
+msgid "ochitsukutsuku"
+msgstr "音月"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiu_torie:primary"
+msgid "ochiu_torie"
+msgstr "ochiu_torie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiya:primary"
+msgid "ochiya"
+msgstr "Ochiya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ochiya_(nkg_oz):primary"
+msgid "ochiya_(nkg_oz)"
+msgstr "ochiya（nkg_oz）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiyo:primary"
+msgid "ochiyo"
+msgstr "Ochiyo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:ochiyo_(ho_ro103):primary"
+msgid "ochiyo_(ho_ro103)"
+msgstr "ochiyo_(ho_ro103)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochiyuki:primary"
+msgid "ochiyuki"
+msgstr "ochiyuki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ochkis:primary"
+msgid "ochkis"
+msgstr "ochkis"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+#. aliases: 奥克莉丝
+msgctxt "tag:ochlys_(unicorn_overlord):primary"
+msgid "ochlys_(unicorn_overlord)"
+msgstr "奥克利丝"
+
+#. alias-of: ochlys_(unicorn_overlord)
+#. source: ai
+msgctxt "tag:ochlys_(unicorn_overlord):alias:1"
+msgid "ochlys_(unicorn_overlord)"
+msgstr "奥克莉丝"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocho0303:primary"
+msgid "ocho0303"
+msgstr "ocho0303"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ocho61814315:primary"
+msgid "ocho61814315"
+msgstr "ocho61814315"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocho_(mother_3):primary"
+msgid "ocho_(mother_3)"
+msgstr "Ocho"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocho_(tawog):primary"
+msgid "ocho_(tawog)"
+msgstr "Ocho"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocho_ochobo:primary"
+msgid "ocho_ochobo"
+msgstr "ocho_ochobo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocho_tootmorsel:primary"
+msgid "ocho_tootmorsel"
+msgstr "Ocho Tootmorsel"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochoa_dale:primary"
+msgid "ochoa_dale"
+msgstr "戴尔·奥乔亚"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochochentoso:primary"
+msgid "ochochentoso"
+msgstr "Ochochentoso"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 85
+msgctxt "tag:ochocho2828:primary"
+msgid "ochocho2828"
+msgstr "ochocho2828"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochofaces:primary"
+msgid "ochofaces"
+msgstr "ochofaces"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochokoguchi:primary"
+msgid "ochokoguchi"
+msgstr "Ochokoguchi"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochoku_(one_piece):primary"
+msgid "ochoku_(one_piece)"
+msgstr "奥乔库（One Piece）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:ochon:primary"
+msgid "ochon"
+msgstr "ochon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: 欧姐
+msgctxt "tag:ochonan-san:primary"
+msgid "ochonan-san"
+msgstr "ochonan-san"
+
+#. alias-of: ochonan-san
+#. source: ai
+msgctxt "tag:ochonan-san:alias:1"
+msgid "ochonan-san"
+msgstr "欧姐"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ochopante:primary"
+msgid "ochopante"
+msgstr "Ochopante"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 小蝶
+msgctxt "tag:ochori:primary"
+msgid "ochori"
+msgstr "小乌"
+
+#. alias-of: ochori
+#. source: ai
+msgctxt "tag:ochori:alias:1"
+msgid "ochori"
+msgstr "小蝶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochotonart:primary"
+msgid "ochotonart"
+msgstr "ochotonart"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:ochou:primary"
+msgid "ochou"
+msgstr "蝶"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ochou_(star_wars):primary"
+msgid "ochou_(star_wars)"
+msgstr "Ochou（星球大战）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:ochra:primary"
+msgid "ochra"
+msgstr "ochra"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ochre_tantyun:primary"
+msgid "ochre_tantyun"
+msgstr "ochre_tantyun"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:ochrejelly:primary"
+msgid "ochrejelly"
+msgstr "OchreJelly"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ochu:primary"
+msgid "ochu"
+msgstr "Ochu"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 9
+msgctxt "tag:ochuusha_shimasho_~saimin_maid_to_pettona_ojou-sama~:primary"
+msgid "ochuusha_shimasho_~saimin_maid_to_pettona_ojou-sama~"
+msgstr "去做催眠侍奉吧～催眠女仆与宠物大小姐～"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ochy:primary"
+msgid "ochy"
+msgstr "Ochy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:ochya:primary"
+msgid "ochya"
+msgstr "Ochya"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:ochya868945:primary"
+msgid "ochya868945"
+msgstr "ochya868945"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: おちゃあ
+msgctxt "tag:ochyaa_(oucha):primary"
+msgid "ochyaa_(oucha)"
+msgstr "Ochyaa"
+
+#. alias-of: ochyaa_(oucha)
+#. source: ai
+msgctxt "tag:ochyaa_(oucha):alias:1"
+msgid "ochyaa_(oucha)"
+msgstr "おちゃあ"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oci0o:primary"
+msgid "oci0o"
+msgstr "oci0o"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocilisk:primary"
+msgid "ocilisk"
+msgstr "ocilisk"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ociml:primary"
+msgid "ociml"
+msgstr "Ociml"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ockham_(sid_story):primary"
+msgid "ockham_(sid_story)"
+msgstr "奥卡姆（Sid Story）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ockitten:primary"
+msgid "ockitten"
+msgstr "Ockitten"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oclear0:primary"
+msgid "oclear0"
+msgstr "oclear0"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:oclet:primary"
+msgid "oclet"
+msgstr "oclet"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oclette:primary"
+msgid "oclette"
+msgstr "oclette"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oclock0969main:primary"
+msgid "oclock0969main"
+msgstr "oclock0969main"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocman:primary"
+msgid "ocman"
+msgstr "Ocman"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ocmari21140:primary"
+msgid "ocmari21140"
+msgstr "ocmari21140"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oco_joe2:primary"
+msgid "oco_joe2"
+msgstr "oco_joe2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocococcocc:primary"
+msgid "ocococcocc"
+msgstr "ocococcocc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 27
+msgctxt "tag:ocohc:primary"
+msgid "ocohc"
+msgstr "ocohc"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocoho_(radiant):primary"
+msgid "ocoho_(radiant)"
+msgstr "Ocoho"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 56
+msgctxt "tag:ocolayapap:primary"
+msgid "ocolayapap"
+msgstr "Ocolayapap"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocome_box:primary"
+msgid "ocome_box"
+msgstr "Ocome Box"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:ocome_sumesh:primary"
+msgid "ocome_sumesh"
+msgstr "Ocome Sumesh"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocomehasukikai:primary"
+msgid "ocomehasukikai"
+msgstr "おこめはすきかい"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocomesweetdeath:primary"
+msgid "ocomesweetdeath"
+msgstr "ocomesweetdeath"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocometi:primary"
+msgid "ocometi"
+msgstr "ocometi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocometogohan:primary"
+msgid "ocometogohan"
+msgstr "ocometogohan"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:ocometto:primary"
+msgid "ocometto"
+msgstr "Ocometto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ocomo:primary"
+msgid "ocomo"
+msgstr "ocomo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ocomor3:primary"
+msgid "ocomor3"
+msgstr "ocomor3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 29
+msgctxt "tag:ocooco:primary"
+msgid "ocooco"
+msgstr "ocooco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ocorvo_r:primary"
+msgid "ocorvo_r"
+msgstr "ocorvo_r"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ocosato:primary"
+msgid "ocosato"
+msgstr "Ocosato"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocoto:primary"
+msgid "ocoto"
+msgstr "Ocoto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocowa_0025:primary"
+msgid "ocowa_0025"
+msgstr "ocowa_0025"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.meme_or_internet
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ocp:primary"
+msgid "ocp"
+msgstr "OCP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocqdc452:primary"
+msgid "ocqdc452"
+msgstr "ocqdc452"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocqodd:primary"
+msgid "ocqodd"
+msgstr "ocqodd"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocretheowl:primary"
+msgid "ocretheowl"
+msgstr "猫头鹰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocriterionz:primary"
+msgid "ocriterionz"
+msgstr "Ocriterionz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocrossbeams:primary"
+msgid "ocrossbeams"
+msgstr "ocrossbeams"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocrystal:primary"
+msgid "ocrystal"
+msgstr "奥克里斯托尔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:ocs3533:primary"
+msgid "ocs3533"
+msgstr "ocs3533"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:ocsnacker:primary"
+msgid "ocsnacker"
+msgstr "ocsnacker"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:oct:primary"
+msgid "oct"
+msgstr "Oct"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oct._(706842781):primary"
+msgid "oct._(706842781)"
+msgstr "oct."
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oct.opus:primary"
+msgid "oct.opus"
+msgstr "Oct.Opus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oct1011:primary"
+msgid "oct1011"
+msgstr "oct1011"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:oct18kin:primary"
+msgid "oct18kin"
+msgstr "oct18kin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:oct30:primary"
+msgid "oct30"
+msgstr "oct30"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oct777sep:primary"
+msgid "oct777sep"
+msgstr "oct777sep"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oct_(animindustry):primary"
+msgid "oct_(animindustry)"
+msgstr "Oct（Animindustry）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 八爪鱼
+msgctxt "tag:oct_(isiisi):primary"
+msgid "oct_(isiisi)"
+msgstr "章鱼"
+
+#. alias-of: oct_(isiisi)
+#. source: ai
+msgctxt "tag:oct_(isiisi):alias:1"
+msgid "oct_(isiisi)"
+msgstr "八爪鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oct_(sanosuke_szbh):primary"
+msgid "oct_(sanosuke_szbh)"
+msgstr "oct（sanosuke_szbh）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:oct_61396020:primary"
+msgid "oct_61396020"
+msgstr "oct_61396020"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oct_autumn:primary"
+msgid "oct_autumn"
+msgstr "oct_autumn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:oct_ten3:primary"
+msgid "oct_ten3"
+msgstr "oct_ten3"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octa_(drag-on_dragoon):primary"
+msgid "octa_(drag-on_dragoon)"
+msgstr "Octa"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octacats:primary"
+msgid "octacats"
+msgstr "octacats"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octacon:primary"
+msgid "octacon"
+msgstr "Octacon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octafish:primary"
+msgid "octafish"
+msgstr "章鱼鱼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 88
+msgctxt "tag:octagon:primary"
+msgid "octagon"
+msgstr "八边形"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octagon_08:primary"
+msgid "octagon_08"
+msgstr "octagon_08"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.eyewear
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:octagonal_eyewear:primary"
+msgid "octagonal_eyewear"
+msgstr "八角眼镜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 15
+msgctxt "tag:octagonal_ring:primary"
+msgid "octagonal_ring"
+msgstr "八角环"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octagone:primary"
+msgid "octagone"
+msgstr "八边形"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 438
+msgctxt "tag:octagram:primary"
+msgid "octagram"
+msgstr "八芒星"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octagram_hair_ornament:primary"
+msgid "octagram_hair_ornament"
+msgstr "八芒星发饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.shape_or_mechanical_part
+#. safety: sfw
+#. post-count: 31
+msgctxt "tag:octahedron:primary"
+msgid "octahedron"
+msgstr "八面体"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 134
+msgctxt "tag:octahooves:primary"
+msgid "octahooves"
+msgstr "octahooves"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octal_(moyori):primary"
+msgid "octal_(moyori)"
+msgstr "Octal（Moyori）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 752
+msgctxt "tag:octane_(apex_legends):primary"
+msgid "octane_(apex_legends)"
+msgstr "奥克坦"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:octane_(apex_legends)_(cosplay):primary"
+msgid "octane_(apex_legends)_(cosplay)"
+msgstr "动力小子（Apex英雄）Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octane_(transformers):primary"
+msgid "octane_(transformers)"
+msgstr "Octane"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octant:primary"
+msgid "octant"
+msgstr "八分仪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 227
+#. aliases: 鱿鱼敌人
+msgctxt "tag:octarian_(enemy):primary"
+msgid "octarian_(enemy)"
+msgstr "章鱼敌人"
+
+#. alias-of: octarian_(enemy)
+#. source: ai
+msgctxt "tag:octarian_(enemy):alias:1"
+msgid "octarian_(enemy)"
+msgstr "鱿鱼敌人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octave18:primary"
+msgid "octave18"
+msgstr "octave18"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:octave_(interstella_5555):primary"
+msgid "octave_(interstella_5555)"
+msgstr "奥克塔夫"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vtuber_agency
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octave_(vtuber):primary"
+msgid "octave_(vtuber)"
+msgstr "Octave"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octavia_(garo:honoo_no_kokuin):primary"
+msgid "octavia_(garo:honoo_no_kokuin)"
+msgstr "Octavia"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: Octavia
+msgctxt "tag:octavia_(genshin_impact):primary"
+msgid "octavia_(genshin_impact)"
+msgstr "奥克塔维亚（原神）"
+
+#. alias-of: octavia_(genshin_impact)
+#. source: ai
+msgctxt "tag:octavia_(genshin_impact):alias:1"
+msgid "octavia_(genshin_impact)"
+msgstr "Octavia"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:octavia_(granblue_fantasy):primary"
+msgid "octavia_(granblue_fantasy)"
+msgstr "奥克塔维亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 63
+#. aliases: 奥克塔维亚 (地狱客栈)
+msgctxt "tag:octavia_(helluva_boss):primary"
+msgid "octavia_(helluva_boss)"
+msgstr "奥克塔维亚"
+
+#. alias-of: octavia_(helluva_boss)
+#. source: ai
+msgctxt "tag:octavia_(helluva_boss):alias:1"
+msgid "octavia_(helluva_boss)"
+msgstr "奥克塔维亚 (地狱客栈)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 奥克塔维娅
+msgctxt "tag:octavia_(himegari_dungeon_meister):primary"
+msgid "octavia_(himegari_dungeon_meister)"
+msgstr "Octavia"
+
+#. alias-of: octavia_(himegari_dungeon_meister)
+#. source: ai
+msgctxt "tag:octavia_(himegari_dungeon_meister):alias:1"
+msgid "octavia_(himegari_dungeon_meister)"
+msgstr "奥克塔维娅"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octavia_(honkai_impact):primary"
+msgid "octavia_(honkai_impact)"
+msgstr "octavia"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octavia_(milky_touch):primary"
+msgid "octavia_(milky_touch)"
+msgstr "奥克塔维亚（Milky Touch）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:octavia_(omega_strikers):primary"
+msgid "octavia_(omega_strikers)"
+msgstr "奥克塔维亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Octavia
+msgctxt "tag:octavia_(pathfinder):primary"
+msgid "octavia_(pathfinder)"
+msgstr "奥克塔维亚（Pathfinder）"
+
+#. alias-of: octavia_(pathfinder)
+#. source: ai
+msgctxt "tag:octavia_(pathfinder):alias:1"
+msgid "octavia_(pathfinder)"
+msgstr "Octavia"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octavia_(pawapro):primary"
+msgid "octavia_(pawapro)"
+msgstr "奥克塔维亚（Pawapro）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octavia_(phloxberry):primary"
+msgid "octavia_(phloxberry)"
+msgstr "奥克塔维亚（Phloxberry）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:octavia_(reverse:1999):primary"
+msgid "octavia_(reverse:1999)"
+msgstr "奥克塔维亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octavia_(revived_witch):primary"
+msgid "octavia_(revived_witch)"
+msgstr "Octavia"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octavia_(road_to_dragons):primary"
+msgid "octavia_(road_to_dragons)"
+msgstr "奥克塔维亚（龙之路）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:octavia_(tears_to_tiara):primary"
+msgid "octavia_(tears_to_tiara)"
+msgstr "Octavia"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octavia_(tigersharks):primary"
+msgid "octavia_(tigersharks)"
+msgstr "奥克塔维亚（虎鲨）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: 战争框架奥克塔维亚
+msgctxt "tag:octavia_(warframe):primary"
+msgid "octavia_(warframe)"
+msgstr "奥克塔维亚（Warframe）"
+
+#. alias-of: octavia_(warframe)
+#. source: ai
+msgctxt "tag:octavia_(warframe):alias:1"
+msgid "octavia_(warframe)"
+msgstr "战争框架奥克塔维亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octavia_(yura856):primary"
+msgid "octavia_(yura856)"
+msgstr "奥克塔维亚（yura856）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octavia_astra:primary"
+msgid "octavia_astra"
+msgstr "Octavia Astra"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octavia_blake:primary"
+msgid "octavia_blake"
+msgstr "奥克塔维亚·布莱克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octavia_ember:primary"
+msgid "octavia_ember"
+msgstr "Octavia Ember"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 奥克塔维亚
+msgctxt "tag:octavia_geissler:primary"
+msgid "octavia_geissler"
+msgstr "奥克塔维亚·盖斯勒"
+
+#. alias-of: octavia_geissler
+#. source: ai
+msgctxt "tag:octavia_geissler:alias:1"
+msgid "octavia_geissler"
+msgstr "奥克塔维亚"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 48
+msgctxt "tag:octavia_melody:primary"
+msgid "octavia_melody"
+msgstr "奥克塔维亚·旋律"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octavia_melody_(equestria_girls):primary"
+msgid "octavia_melody_(equestria_girls)"
+msgstr "奥克塔维亚·旋律（小马国女孩）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octavian_(animal_crossing):primary"
+msgid "octavian_(animal_crossing)"
+msgstr "章丸丸"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octavian_pirate:primary"
+msgid "octavian_pirate"
+msgstr "奥克塔维安海盗"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octavian_sentry:primary"
+msgid "octavian_sentry"
+msgstr "奥克塔维安哨兵"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.indoor_private
+#. safety: sfw
+#. post-count: 253
+#. aliases: 奥克塔维尔
+msgctxt "tag:octavinelle_dorm:primary"
+msgid "octavinelle_dorm"
+msgstr "奥克塔维尔宿舍"
+
+#. alias-of: octavinelle_dorm
+#. source: ai
+msgctxt "tag:octavinelle_dorm:alias:1"
+msgid "octavinelle_dorm"
+msgstr "奥克塔维尔"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.onepiece.uniform
+#. safety: sfw
+#. post-count: 420
+msgctxt "tag:octavinelle_dorm_uniform:primary"
+msgid "octavinelle_dorm_uniform"
+msgstr "奥克塔维内尔宿舍制服"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 220
+#. aliases: Octavio
+msgctxt "tag:octavio:primary"
+msgid "octavio"
+msgstr "奥克塔维奥"
+
+#. alias-of: octavio
+#. source: ai
+msgctxt "tag:octavio:alias:1"
+msgid "octavio"
+msgstr "Octavio"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:octavio_(1st_costume):primary"
+msgid "octavio_(1st_costume)"
+msgstr "奥克塔维奥（第一套服装）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:octavio_(2nd_costume):primary"
+msgid "octavio_(2nd_costume)"
+msgstr "Octavio(第二套服装)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octavio_(cosplay):primary"
+msgid "octavio_(cosplay)"
+msgstr "Octavio Cosplay"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 133
+msgctxt "tag:octavius_(octavius_dp):primary"
+msgid "octavius_(octavius_dp)"
+msgstr "奥克塔维斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octavo:primary"
+msgid "octavo"
+msgstr "八开本"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octbr:primary"
+msgid "octbr"
+msgstr "octbr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octco:primary"
+msgid "octco"
+msgstr "octco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octeopus:primary"
+msgid "octeopus"
+msgstr "octeopus"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:octi:primary"
+msgid "octi"
+msgstr "章鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octi_lfc:primary"
+msgid "octi_lfc"
+msgstr "octi_lfc"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 267
+#. aliases: 章鱼
+msgctxt "tag:octillery:primary"
+msgid "octillery"
+msgstr "章鱼桶"
+
+#. alias-of: octillery
+#. source: ai
+msgctxt "tag:octillery:alias:1"
+msgid "octillery"
+msgstr "章鱼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+#. aliases: 章鱼桶Cosplay
+msgctxt "tag:octillery_(cosplay):primary"
+msgid "octillery_(cosplay)"
+msgstr "章鱼桶Cosplay"
+
+#. alias-of: octillery_(cosplay)
+#. source: ai
+msgctxt "tag:octillery_(cosplay):alias:1"
+msgid "octillery_(cosplay)"
+msgstr "章鱼桶Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+#. aliases: 原型章鱼桶
+msgctxt "tag:octillery_(prototype):primary"
+msgid "octillery_(prototype)"
+msgstr "章鱼桶（原型）"
+
+#. alias-of: octillery_(prototype)
+#. source: ai
+msgctxt "tag:octillery_(prototype):alias:1"
+msgid "octillery_(prototype)"
+msgstr "原型章鱼桶"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octinalu:primary"
+msgid "octinalu"
+msgstr "章鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octis:primary"
+msgid "octis"
+msgstr "octis"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:octmanx:primary"
+msgid "octmanx"
+msgstr "octmanx"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octmon:primary"
+msgid "octmon"
+msgstr "Octmon"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octo-girl:primary"
+msgid "octo-girl"
+msgstr "章鱼女孩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:octo-l95:primary"
+msgid "octo-l95"
+msgstr "Octo L95"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:octo33:primary"
+msgid "octo33"
+msgstr "Octo33"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octo_(goonya_monster):primary"
+msgid "octo_(goonya_monster)"
+msgstr "Octo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 章鱼哥
+msgctxt "tag:octo_(mario):primary"
+msgid "octo_(mario)"
+msgstr "Octo（马里奥）"
+
+#. alias-of: octo_(mario)
+#. source: ai
+msgctxt "tag:octo_(mario):alias:1"
+msgid "octo_(mario)"
+msgstr "章鱼哥"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:octo_(monster_musume):primary"
+msgid "octo_(monster_musume)"
+msgstr "章鱼妹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octo_(op_na_yarou):primary"
+msgid "octo_(op_na_yarou)"
+msgstr "_octo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:octo_(sumidanagi):primary"
+msgid "octo_(sumidanagi)"
+msgstr "Octo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octo_2405:primary"
+msgid "octo_2405"
+msgstr "octo_2405"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octo_eight:primary"
+msgid "octo_eight"
+msgstr "octo_eight"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octo_jo:primary"
+msgid "octo_jo"
+msgstr "octo_jo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:octo_poosi:primary"
+msgid "octo_poosi"
+msgstr "octo_poosi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octo_sail:primary"
+msgid "octo_sail"
+msgstr "octo_sail"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+#. aliases: 章鱼武士角色
+msgctxt "tag:octo_samurai:primary"
+msgid "octo_samurai"
+msgstr "章鱼武士"
+
+#. alias-of: octo_samurai
+#. source: ai
+msgctxt "tag:octo_samurai:alias:1"
+msgid "octo_samurai"
+msgstr "章鱼武士角色"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 205
+#. aliases: 章鱼枪
+msgctxt "tag:octo_shot_(splatoon):primary"
+msgid "octo_shot_(splatoon)"
+msgstr "章鱼射击"
+
+#. alias-of: octo_shot_(splatoon)
+#. source: ai
+msgctxt "tag:octo_shot_(splatoon):alias:1"
+msgid "octo_shot_(splatoon)"
+msgstr "章鱼枪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octobaguette:primary"
+msgid "octobaguette"
+msgstr "octobaguette"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:octoball:primary"
+msgid "octoball"
+msgstr "章鱼球"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoballoon:primary"
+msgid "octoballoon"
+msgstr "章鱼气球"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.sequence.temporal_context
+#. safety: sfw
+#. post-count: 274
+#. aliases: 10月
+msgctxt "tag:october:primary"
+msgid "october"
+msgstr "十月"
+
+#. alias-of: october
+#. source: ai
+msgctxt "tag:october:alias:1"
+msgid "october"
+msgstr "10月"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:october88053:primary"
+msgid "october88053"
+msgstr "october88053"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:october_(herz3858):primary"
+msgid "october_(herz3858)"
+msgstr "october"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:october_mir:primary"
+msgid "october_mir"
+msgstr "十月奇迹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:october_saran:primary"
+msgid "october_saran"
+msgstr "十月萨兰"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoberfest-ikitai:primary"
+msgid "octoberfest-ikitai"
+msgstr "想去十月节"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octobola:primary"
+msgid "octobola"
+msgstr "Octobola"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:octobomber:primary"
+msgid "octobomber"
+msgstr "章鱼炸弹"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+#. aliases: 八爪怪
+msgctxt "tag:octoboo:primary"
+msgid "octoboo"
+msgstr "章鱼怪"
+
+#. alias-of: octoboo
+#. source: ai
+msgctxt "tag:octoboo:alias:1"
+msgid "octoboo"
+msgstr "八爪怪"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octoboo_(mario):primary"
+msgid "octoboo_(mario)"
+msgstr "章鱼怪"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.tool
+#. safety: sfw
+#. post-count: 151
+#. aliases: 八爪刷
+msgctxt "tag:octobrush_(splatoon):primary"
+msgid "octobrush_(splatoon)"
+msgstr "章鱼刷"
+
+#. alias-of: octobrush_(splatoon)
+#. source: ai
+msgctxt "tag:octobrush_(splatoon):alias:1"
+msgid "octobrush_(splatoon)"
+msgstr "八爪刷"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+#. aliases: 章鱼刷武士
+msgctxt "tag:octobrushido:primary"
+msgid "octobrushido"
+msgstr "墨刷武士"
+
+#. alias-of: octobrushido
+#. source: ai
+msgctxt "tag:octobrushido:alias:1"
+msgid "octobrushido"
+msgstr "章鱼刷武士"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:octocat:primary"
+msgid "octocat"
+msgstr "章鱼猫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octocm:primary"
+msgid "octocm"
+msgstr "octocm"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:octocopter:primary"
+msgid "octocopter"
+msgstr "八旋翼飞行器"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octocorn:primary"
+msgid "octocorn"
+msgstr "八爪角"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octodad:primary"
+msgid "octodad"
+msgstr "章鱼爸爸"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octodad_(series):primary"
+msgid "octodad_(series)"
+msgstr "章鱼老爸（系列）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 154
+msgctxt "tag:octodeco:primary"
+msgid "octodeco"
+msgstr "octodeco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octoerotic:primary"
+msgid "octoerotic"
+msgstr "octoerotic"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoes_mp4:primary"
+msgid "octoes_mp4"
+msgstr "octoes"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octofusrodah:primary"
+msgid "octofusrodah"
+msgstr "octofusrodah"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octogear:primary"
+msgid "octogear"
+msgstr "八角齿轮"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octogen_(neural_cloud):primary"
+msgid "octogen_(neural_cloud)"
+msgstr "Octogen（神经云）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octoglasses-chan_(splatoon):primary"
+msgid "octoglasses-chan_(splatoon)"
+msgstr "八爪眼镜酱（斯普拉遁）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.personal_accessory
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:octoglasses_(splatoon):primary"
+msgid "octoglasses_(splatoon)"
+msgstr "八爪眼镜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:octogummie:primary"
+msgid "octogummie"
+msgstr "octogummie"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoguy:primary"
+msgid "octoguy"
+msgstr "章鱼男"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octohurler:primary"
+msgid "octohurler"
+msgstr "octohurler"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoia_reistrom:primary"
+msgid "octoia_reistrom"
+msgstr "Octoia Reistrom"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 3
+#. aliases: 乌贼王口罩
+msgctxt "tag:octoking_facemask_(splatoon):primary"
+msgid "octoking_facemask_(splatoon)"
+msgstr "乌贼王面罩"
+
+#. alias-of: octoking_facemask_(splatoon)
+#. source: ai
+msgctxt "tag:octoking_facemask_(splatoon):alias:1"
+msgid "octoking_facemask_(splatoon)"
+msgstr "乌贼王口罩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.eyewear
+#. safety: sfw
+#. post-count: 46
+msgctxt "tag:octoleet_goggles_(splatoon):primary"
+msgid "octoleet_goggles_(splatoon)"
+msgstr "八达通护目镜"
+
+#. danbooru-category: 0
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 10055
+#. aliases: 章鱼人
+msgctxt "tag:octoling:primary"
+msgid "octoling"
+msgstr "章鱼族"
+
+#. alias-of: octoling
+#. source: ai
+msgctxt "tag:octoling:alias:1"
+msgid "octoling"
+msgstr "章鱼人"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.transformation_or_hybrid_state
+#. safety: mixed
+#. post-count: 109
+msgctxt "tag:octoling_(swim_form):primary"
+msgid "octoling_(swim_form)"
+msgstr "章鱼娘 (游泳形态)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 1178
+#. aliases: 章鱼族男孩
+msgctxt "tag:octoling_boy:primary"
+msgid "octoling_boy"
+msgstr "章鱼男孩"
+
+#. alias-of: octoling_boy
+#. source: ai
+msgctxt "tag:octoling_boy:alias:1"
+msgid "octoling_boy"
+msgstr "章鱼族男孩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 3718
+#. aliases: 章鱼妹
+msgctxt "tag:octoling_girl:primary"
+msgid "octoling_girl"
+msgstr "章鱼娘"
+
+#. alias-of: octoling_girl
+#. source: ai
+msgctxt "tag:octoling_girl:alias:1"
+msgid "octoling_girl"
+msgstr "章鱼妹"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 5175
+#. aliases: 章鱼族
+msgctxt "tag:octoling_player_character:primary"
+msgid "octoling_player_character"
+msgstr "章鱼玩家角色"
+
+#. alias-of: octoling_player_character
+#. source: ai
+msgctxt "tag:octoling_player_character:alias:1"
+msgid "octoling_player_character"
+msgstr "章鱼族"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 2
+#. aliases: 章鱼娘变鱿鱼娘
+msgctxt "tag:octoling_to_inkling:primary"
+msgid "octoling_to_inkling"
+msgstr "章鱼娘转为鱿鱼娘"
+
+#. alias-of: octoling_to_inkling
+#. source: ai
+msgctxt "tag:octoling_to_inkling:alias:1"
+msgid "octoling_to_inkling"
+msgstr "章鱼娘变鱿鱼娘"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octolingrndzvs:primary"
+msgid "octolingrndzvs"
+msgstr "章鱼族"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octolynno:primary"
+msgid "octolynno"
+msgstr "octolynno"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:octoma:primary"
+msgid "octoma"
+msgstr "octoma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:octomage:primary"
+msgid "octomage"
+msgstr "八爪法师"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octomammoth:primary"
+msgid "octomammoth"
+msgstr "八爪猛犸"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:octoman:primary"
+msgid "octoman"
+msgstr "章鱼人"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoman_(f-zero):primary"
+msgid "octoman_(f-zero)"
+msgstr "章鱼人(F-Zero)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octomaw:primary"
+msgid "octomaw"
+msgstr "八爪鱼嘴"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octomissile:primary"
+msgid "octomissile"
+msgstr "octomissile"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octomon:primary"
+msgid "octomon"
+msgstr "Octomon"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octomush:primary"
+msgid "octomush"
+msgstr "octomush"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octonozzle:primary"
+msgid "octonozzle"
+msgstr "Octonozzle"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+#. aliases: Octoomba
+msgctxt "tag:octoomba:primary"
+msgid "octoomba"
+msgstr "章鱼炸弹"
+
+#. alias-of: octoomba
+#. source: ai
+msgctxt "tag:octoomba:alias:1"
+msgid "octoomba"
+msgstr "Octoomba"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 40
+msgctxt "tag:octopachi:primary"
+msgid "octopachi"
+msgstr "八角团子"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1392
+#. aliases: 八方旅人
+msgctxt "tag:octopath_traveler:primary"
+msgid "octopath_traveler"
+msgstr "歧路旅人"
+
+#. alias-of: octopath_traveler
+#. source: ai
+msgctxt "tag:octopath_traveler:alias:1"
+msgid "octopath_traveler"
+msgstr "八方旅人"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.mobile_gacha
+#. safety: sfw
+#. post-count: 93
+msgctxt "tag:octopath_traveler:_champions_of_the_continent:primary"
+msgid "octopath_traveler:_champions_of_the_continent"
+msgstr "歧路旅人：大陆的霸者"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 39
+msgctxt "tag:octopath_traveler_0:primary"
+msgid "octopath_traveler_0"
+msgstr "歧路旅人0"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 835
+#. aliases: 八方旅人
+msgctxt "tag:octopath_traveler_i:primary"
+msgid "octopath_traveler_i"
+msgstr "歧路旅人"
+
+#. alias-of: octopath_traveler_i
+#. source: ai
+msgctxt "tag:octopath_traveler_i:alias:1"
+msgid "octopath_traveler_i"
+msgstr "八方旅人"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 482
+msgctxt "tag:octopath_traveler_ii:primary"
+msgid "octopath_traveler_ii"
+msgstr "八方旅人II"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octopee_(monster_farm):primary"
+msgid "octopee_(monster_farm)"
+msgstr "Octopee(怪物农场)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:octopod:primary"
+msgid "octopod"
+msgstr "章鱼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:octopuff_traveler_(octopath_traveler):primary"
+msgid "octopuff_traveler_(octopath_traveler)"
+msgstr "八方旅人"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 6691
+#. aliases: 八爪鱼
+msgctxt "tag:octopus:primary"
+msgid "octopus"
+msgstr "章鱼"
+
+#. alias-of: octopus
+#. source: ai
+msgctxt "tag:octopus:alias:1"
+msgid "octopus"
+msgstr "八爪鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octopus6999:primary"
+msgid "octopus6999"
+msgstr "octopus6999"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 68
+#. aliases: 煮章鱼
+msgctxt "tag:octopus_(food):primary"
+msgid "octopus_(food)"
+msgstr "章鱼"
+
+#. alias-of: octopus_(food)
+#. source: ai
+msgctxt "tag:octopus_(food):alias:1"
+msgid "octopus_(food)"
+msgstr "煮章鱼"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octopus_(game_&_watch):primary"
+msgid "octopus_(game_&_watch)"
+msgstr "Octopus（Game & Watch）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octopus_(hunter_x_hunter):primary"
+msgid "octopus_(hunter_x_hunter)"
+msgstr "章鱼（猎人×猎人）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: octopus
+msgctxt "tag:octopus_(maplestory):primary"
+msgid "octopus_(maplestory)"
+msgstr "章鱼（冒险岛）"
+
+#. alias-of: octopus_(maplestory)
+#. source: ai
+msgctxt "tag:octopus_(maplestory):alias:1"
+msgid "octopus_(maplestory)"
+msgstr "octopus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+#. aliases: 鱿鱼
+msgctxt "tag:octopus_(octopuscr):primary"
+msgid "octopus_(octopuscr)"
+msgstr "章鱼"
+
+#. alias-of: octopus_(octopuscr)
+#. source: ai
+msgctxt "tag:octopus_(octopuscr):alias:1"
+msgid "octopus_(octopuscr)"
+msgstr "鱿鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octopus_(the-sun_aleister):primary"
+msgid "octopus_(the-sun_aleister)"
+msgstr "octopus_(the-sun_aleister)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: 章鱼
+msgctxt "tag:octopus_(yacht):primary"
+msgid "octopus_(yacht)"
+msgstr "Octopus号（游艇）"
+
+#. alias-of: octopus_(yacht)
+#. source: ai
+msgctxt "tag:octopus_(yacht):alias:1"
+msgid "octopus_(yacht)"
+msgstr "章鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octopus_19:primary"
+msgid "octopus_19"
+msgstr "octopus_19"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.subject.identity.age_stage
+#. safety: sfw
+#. post-count: 458
+msgctxt "tag:octopus_boy:primary"
+msgid "octopus_boy"
+msgstr "章鱼男孩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.nature.animal
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octopus_cat:primary"
+msgid "octopus_cat"
+msgstr "章鱼猫"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:octopus_chan_(ekrea_jan):primary"
+msgid "octopus_chan_(ekrea_jan)"
+msgstr "章鱼酱"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.fashion_or_costume_style
+#. safety: sfw
+#. post-count: 26
+msgctxt "tag:octopus_costume:primary"
+msgid "octopus_costume"
+msgstr "章鱼装"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 146
+#. aliases: 章鱼魔
+msgctxt "tag:octopus_devil_(chainsaw_man):primary"
+msgid "octopus_devil_(chainsaw_man)"
+msgstr "章鱼恶魔"
+
+#. alias-of: octopus_devil_(chainsaw_man)
+#. source: ai
+msgctxt "tag:octopus_devil_(chainsaw_man):alias:1"
+msgid "octopus_devil_(chainsaw_man)"
+msgstr "章鱼魔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octopus_dol:primary"
+msgid "octopus_dol"
+msgstr "octopus_dol"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:octopus_earrings:primary"
+msgid "octopus_earrings"
+msgstr "章鱼耳环"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.nonhuman.horns_wings_scales
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:octopus_ears:primary"
+msgid "octopus_ears"
+msgstr "章鱼耳"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.brand_or_merchandise_item
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octopus_fullbottle:primary"
+msgid "octopus_fullbottle"
+msgstr "章鱼满装瓶"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:octopus_gardener_(idolmaster):primary"
+msgid "octopus_gardener_(idolmaster)"
+msgstr "《偶像大师》中的 Octopus Gardener"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.accessory.hair_accessory
+#. safety: sfw
+#. post-count: 275
+#. aliases: 章鱼发卡
+msgctxt "tag:octopus_hair_ornament:primary"
+msgid "octopus_hair_ornament"
+msgstr "章鱼发饰"
+
+#. alias-of: octopus_hair_ornament
+#. source: ai
+msgctxt "tag:octopus_hair_ornament:alias:1"
+msgid "octopus_hair_ornament"
+msgstr "章鱼发卡"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 10
+#. aliases: 章鱼帽子
+msgctxt "tag:octopus_hat:primary"
+msgid "octopus_hat"
+msgstr "章鱼帽"
+
+#. alias-of: octopus_hat
+#. source: ai
+msgctxt "tag:octopus_hat:alias:1"
+msgid "octopus_hat"
+msgstr "章鱼帽子"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.interaction.physical_interaction
+#. safety: mixed
+#. post-count: 39
+#. aliases: 章鱼抓握
+msgctxt "tag:octopus_hold:primary"
+msgid "octopus_hold"
+msgstr "章鱼抱"
+
+#. alias-of: octopus_hold
+#. source: ai
+msgctxt "tag:octopus_hold:alias:1"
+msgid "octopus_hold"
+msgstr "章鱼抓握"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.headwear
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octopus_hood:primary"
+msgid "octopus_hood"
+msgstr "章鱼帽兜"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octopus_king_(slayers):primary"
+msgid "octopus_king_(slayers)"
+msgstr "章鱼王"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 章鱼领主莫利佩斯
+msgctxt "tag:octopus_lord_mollipes_octipes:primary"
+msgid "octopus_lord_mollipes_octipes"
+msgstr "章鱼领主莫利佩斯·奥西佩斯"
+
+#. alias-of: octopus_lord_mollipes_octipes
+#. source: ai
+msgctxt "tag:octopus_lord_mollipes_octipes:alias:1"
+msgid "octopus_lord_mollipes_octipes"
+msgstr "章鱼领主莫利佩斯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.decor.ornament_or_decoration
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:octopus_ornament:primary"
+msgid "octopus_ornament"
+msgstr "章鱼装饰"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.decorative_object
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octopus_plushie:primary"
+msgid "octopus_plushie"
+msgstr "章鱼玩偶"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.container
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octopus_pot:primary"
+msgid "octopus_pot"
+msgstr "章鱼锅"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.pattern.print_or_pattern
+#. safety: sfw
+#. post-count: 78
+msgctxt "tag:octopus_print:primary"
+msgid "octopus_print"
+msgstr "章鱼印花"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.food.solid_food
+#. safety: sfw
+#. post-count: 38
+msgctxt "tag:octopus_sashimi:primary"
+msgid "octopus_sashimi"
+msgstr "章鱼刺身"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.jewelry
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:octopus_sausage_earrings:primary"
+msgid "octopus_sausage_earrings"
+msgstr "章鱼香肠耳环"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octopus_shan:primary"
+msgid "octopus_shan"
+msgstr "octopus_shan"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.skin.skin_marking
+#. safety: sfw
+#. post-count: 71
+msgctxt "tag:octopus_tattoo:primary"
+msgid "octopus_tattoo"
+msgstr "章鱼纹身"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octopusdraws:primary"
+msgid "octopusdraws"
+msgstr "octopusdraws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:octopusfish:primary"
+msgid "octopusfish"
+msgstr "章鱼鱼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octopusgod:primary"
+msgid "octopusgod"
+msgstr "Octopusgod"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:octopushead:primary"
+msgid "octopushead"
+msgstr "octopushead"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octopuskun2:primary"
+msgid "octopuskun2"
+msgstr "octopuskun2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octopuss:primary"
+msgid "octopuss"
+msgstr "Octopuss"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octopussy_(movie):primary"
+msgid "octopussy_(movie)"
+msgstr "《八爪女》（电影）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoputian:primary"
+msgid "octoputian"
+msgstr "octoputian"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octorizotto:primary"
+msgid "octorizotto"
+msgstr "octorizotto"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octorockbane:primary"
+msgid "octorockbane"
+msgstr "Octorockbane"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.species.nonhuman_character
+#. safety: sfw
+#. post-count: 62
+msgctxt "tag:octorok:primary"
+msgid "octorok"
+msgstr "八爪怪"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:octorypo:primary"
+msgid "octorypo"
+msgstr "章鱼波"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octos:primary"
+msgid "octos"
+msgstr "章鱼斯"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octos_(kid_icarus):primary"
+msgid "octos_(kid_icarus)"
+msgstr "奥克托斯（光神话）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoseeker:primary"
+msgid "octoseeker"
+msgstr "octoseeker"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octosimpin:primary"
+msgid "octosimpin"
+msgstr "octosimpin"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octosniper:primary"
+msgid "octosniper"
+msgstr "octosniper"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 144
+#. aliases: 章鱼汤
+msgctxt "tag:octosoup:primary"
+msgid "octosoup"
+msgstr "octosoup"
+
+#. alias-of: octosoup
+#. source: ai
+msgctxt "tag:octosoup:alias:1"
+msgid "octosoup"
+msgstr "章鱼汤"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octostamp:primary"
+msgid "octostamp"
+msgstr "Octostamp"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:octostomp:primary"
+msgid "octostomp"
+msgstr "章鱼踩踏机"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:octotaco:primary"
+msgid "octotaco"
+msgstr "Octotaco"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoteatcher_(isekai:_slow_life):primary"
+msgid "octoteatcher_(isekai:_slow_life)"
+msgstr "Octoteatcher（异世界悠闲农家）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:octotron2000:primary"
+msgid "octotron2000"
+msgstr "octotron2000"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 187
+#. aliases: 章鱼兵
+msgctxt "tag:octotrooper:primary"
+msgid "octotrooper"
+msgstr "八爪士兵"
+
+#. alias-of: octotrooper
+#. source: ai
+msgctxt "tag:octotrooper:alias:1"
+msgid "octotrooper"
+msgstr "章鱼兵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:octovius_(brown_dust):primary"
+msgid "octovius_(brown_dust)"
+msgstr "八腕"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octowhirl:primary"
+msgid "octowhirl"
+msgstr "Octowhirl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octowillow:primary"
+msgid "octowillow"
+msgstr "octowillow"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octoxbutter:primary"
+msgid "octoxbutter"
+msgstr "OctoXBuTTer"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octpaco:primary"
+msgid "octpaco"
+msgstr "Octpaco"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:octpus:primary"
+msgid "octpus"
+msgstr "章鱼"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:octrice_(shadowverse):primary"
+msgid "octrice_(shadowverse)"
+msgstr "奥克特莉丝（影之诗）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octtotv:primary"
+msgid "octtotv"
+msgstr "八达通TV"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octumii:primary"
+msgid "octumii"
+msgstr "octumii"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:octus_(sym-bionic_titan):primary"
+msgid "octus_(sym-bionic_titan)"
+msgstr "Octus"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octwos:primary"
+msgid "octwos"
+msgstr "octwos"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:octy_(guilty_gear):primary"
+msgid "octy_(guilty_gear)"
+msgstr "奥蒂（罪恶装备）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:octylish:primary"
+msgid "octylish"
+msgstr "octylish"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:ocu83:primary"
+msgid "ocu83"
+msgstr "OCU83"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocubeam:primary"
+msgid "ocubeam"
+msgstr "八咫镜光束"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocula:primary"
+msgid "ocula"
+msgstr "Ocula"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.eyes.color.eye_color
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:ocular_albinism:primary"
+msgid "ocular_albinism"
+msgstr "眼部白化"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.eyewear
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocular_lens:primary"
+msgid "ocular_lens"
+msgstr "隐形眼镜"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:oculosduvidoso:primary"
+msgid "oculosduvidoso"
+msgstr "oculosduvidoso"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: Death Parade
+msgctxt "tag:oculus_(death_parade):primary"
+msgid "oculus_(death_parade)"
+msgstr "奥库鲁斯（死亡游行）"
+
+#. alias-of: oculus_(death_parade)
+#. source: ai
+msgctxt "tag:oculus_(death_parade):alias:1"
+msgid "oculus_(death_parade)"
+msgstr "Death Parade"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:oculus_(dragon_village):primary"
+msgid "oculus_(dragon_village)"
+msgstr "奥库鲁斯（Dragon Village）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 45
+msgctxt "tag:oculus_(genshin_impact):primary"
+msgid "oculus_(genshin_impact)"
+msgstr "神之眼"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:oculus_(movie):primary"
+msgid "oculus_(movie)"
+msgstr "《鬼遮眼》"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:oculus_dei_(azur_lane):primary"
+msgid "oculus_dei_(azur_lane)"
+msgstr "《碧蓝航线》中的 Oculus Dei"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 44
+msgctxt "tag:oculus_headset:primary"
+msgid "oculus_headset"
+msgstr "Oculus头显"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:ocvilla_(clover_theater):primary"
+msgid "ocvilla_(clover_theater)"
+msgstr "ocvilla"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocvk15:primary"
+msgid "ocvk15"
+msgstr "ocvk15"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:ocx121212:primary"
+msgid "ocx121212"
+msgstr "OCX121212"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocxozbvuyxij5ma:primary"
+msgid "ocxozbvuyxij5ma"
+msgstr "ocxozbvuyxij5ma"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+#. aliases: 原创角色
+msgctxt "tag:ocyaco:primary"
+msgid "ocyaco"
+msgstr "OC"
+
+#. alias-of: ocyaco
+#. source: ai
+msgctxt "tag:ocyaco:alias:1"
+msgid "ocyaco"
+msgstr "原创角色"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocyi:primary"
+msgid "ocyi"
+msgstr "ocyi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocyo35:primary"
+msgid "ocyo35"
+msgstr "Ocyo35"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:ocypete_(megami_tensei):primary"
+msgid "ocypete_(megami_tensei)"
+msgstr "奥西佩特"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 254
+msgctxt "tag:ocza:primary"
+msgid "ocza"
+msgstr "眼睛"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 262
+#. aliases: 眼
+msgctxt "tag:oczy:primary"
+msgid "oczy"
+msgstr "眼睛"
+
+#. alias-of: oczy
+#. source: ai
+msgctxt "tag:oczy:alias:1"
+msgid "oczy"
+msgstr "眼"

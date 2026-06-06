@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:22+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:22+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:cv-3_(dejiajia):primary"
+msgid "cv-3_(dejiajia)"
+msgstr "CV-3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cv01ri:primary"
+msgid "cv01ri"
+msgstr "cv01ri"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:cv1115:primary"
+msgid "cv1115"
+msgstr "cv1115"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cv33_cc_(ash_arms):primary"
+msgid "cv33_cc_(ash_arms)"
+msgstr "CV33 CC（灰烬战线）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:cv90:primary"
+msgid "cv90"
+msgstr "CV90步兵战车"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cv9030_fin:primary"
+msgid "cv9030_fin"
+msgstr "CV9030 FIN"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.alternate_identity
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cv90_(personification):primary"
+msgid "cv90_(personification)"
+msgstr "CV90拟人"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cv9390022:primary"
+msgid "cv9390022"
+msgstr "CV9390022"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+#. aliases: 若本规夫
+msgctxt "tag:cv_wakamoto:primary"
+msgid "cv_wakamoto"
+msgstr "CV：若本规夫"
+
+#. alias-of: cv_wakamoto
+#. source: ai
+msgctxt "tag:cv_wakamoto:alias:1"
+msgid "cv_wakamoto"
+msgstr "若本规夫"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cv_yuxuan:primary"
+msgid "cv_yuxuan"
+msgstr "CV玉玄"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cvc_deino:primary"
+msgid "cvc_deino"
+msgstr "cvc_deino"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cvegr:primary"
+msgid "cvegr"
+msgstr "CvEGr"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:cvel_1014:primary"
+msgid "cvel_1014"
+msgstr "Cvel1014"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cvgdgk8sj8uvnti:primary"
+msgid "cvgdgk8sj8uvnti"
+msgstr "cvgdgk8sj8uvnti"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:cvj_arcane:primary"
+msgid "cvj_arcane"
+msgstr "arcane"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cvlsoldier:primary"
+msgid "cvlsoldier"
+msgstr "cvlsoldier"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cvlvuse:primary"
+msgid "cvlvuse"
+msgstr "cvlvuse"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:cvmfishe:primary"
+msgid "cvmfishe"
+msgstr "cvmfishe"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cvmiyuki:primary"
+msgid "cvmiyuki"
+msgstr "cvmiyuki"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cvnka:primary"
+msgid "cvnka"
+msgstr "cvnka"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cvol_d:primary"
+msgid "cvol_d"
+msgstr "cvol_d"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cvpiddroses:primary"
+msgid "cvpiddroses"
+msgstr "cvpiddroses"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:cvrelease:primary"
+msgid "cvrelease"
+msgstr "CVRelease"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:cvs:primary"
+msgid "cvs"
+msgstr "CVS"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 33
+msgctxt "tag:cvtm:primary"
+msgid "cvtm"
+msgstr "CVTM"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:cvtsly:primary"
+msgid "cvtsly"
+msgstr "cvtsly"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:cvvisalizard:primary"
+msgid "cvvisalizard"
+msgstr "cvvisalizard"

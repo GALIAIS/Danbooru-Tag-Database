@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:23+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:23+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dp-12_(dangerous_mission)_(girls'_frontline):primary"
+msgid "dp-12_(dangerous_mission)_(girls'_frontline)"
+msgstr "DP-12（Dangerous Mission）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:dp-12_(echeveria_lantern)_(girls'_frontline):primary"
+msgid "dp-12_(echeveria_lantern)_(girls'_frontline)"
+msgstr "DP-12"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 468
+msgctxt "tag:dp-12_(girls'_frontline):primary"
+msgid "dp-12_(girls'_frontline)"
+msgstr "DP-12"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 7
+#. aliases: DP-12（少前）（Cosplay）
+msgctxt "tag:dp-12_(girls'_frontline)_(cosplay):primary"
+msgid "dp-12_(girls'_frontline)_(cosplay)"
+msgstr "DP-12（少女前线）（Cosplay）"
+
+#. alias-of: dp-12_(girls'_frontline)_(cosplay)
+#. source: ai
+msgctxt "tag:dp-12_(girls'_frontline)_(cosplay):alias:1"
+msgid "dp-12_(girls'_frontline)_(cosplay)"
+msgstr "DP-12（少前）（Cosplay）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: 三途河看守
+msgctxt "tag:dp-12_(keeper_of_the_sanzu_river)_(girls'_frontline):primary"
+msgid "dp-12_(keeper_of_the_sanzu_river)_(girls'_frontline)"
+msgstr "DP-12"
+
+#. alias-of: dp-12_(keeper_of_the_sanzu_river)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:dp-12_(keeper_of_the_sanzu_river)_(girls'_frontline):alias:1"
+msgid "dp-12_(keeper_of_the_sanzu_river)_(girls'_frontline)"
+msgstr "三途河看守"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 20
+msgctxt "tag:dp-12_(misty_cross)_(girls'_frontline):primary"
+msgid "dp-12_(misty_cross)_(girls'_frontline)"
+msgstr "DP-12"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 11
+#. aliases: DP-12改
+msgctxt "tag:dp-12_(mod3)_(girls'_frontline):primary"
+msgid "dp-12_(mod3)_(girls'_frontline)"
+msgstr "DP-12（改III）（少女前线）"
+
+#. alias-of: dp-12_(mod3)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:dp-12_(mod3)_(girls'_frontline):alias:1"
+msgid "dp-12_(mod3)_(girls'_frontline)"
+msgstr "DP-12改"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+#. aliases: 晨间寓言
+msgctxt "tag:dp-12_(morning_fable)_(girls'_frontline):primary"
+msgid "dp-12_(morning_fable)_(girls'_frontline)"
+msgstr "DP-12"
+
+#. alias-of: dp-12_(morning_fable)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:dp-12_(morning_fable)_(girls'_frontline):alias:1"
+msgid "dp-12_(morning_fable)_(girls'_frontline)"
+msgstr "晨间寓言"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 95
+#. aliases: DP27
+msgctxt "tag:dp-27:primary"
+msgid "dp-27"
+msgstr "DP-27"
+
+#. alias-of: dp-27
+#. source: ai
+msgctxt "tag:dp-27:alias:1"
+msgid "dp-27"
+msgstr "DP27"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dp1044:primary"
+msgid "dp1044"
+msgstr "DP1044"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+#. aliases: 缠绕牵牛花
+msgctxt "tag:dp28_(coiling_morning_glory)_(girls'_frontline):primary"
+msgid "dp28_(coiling_morning_glory)_(girls'_frontline)"
+msgstr "DP-28（牵牛花卷曲）（少女前线）"
+
+#. alias-of: dp28_(coiling_morning_glory)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:dp28_(coiling_morning_glory)_(girls'_frontline):alias:1"
+msgid "dp28_(coiling_morning_glory)_(girls'_frontline)"
+msgstr "缠绕牵牛花"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 83
+msgctxt "tag:dp28_(girls'_frontline):primary"
+msgid "dp28_(girls'_frontline)"
+msgstr "DP28"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dp2en2:primary"
+msgid "dp2en2"
+msgstr "dp2en2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dp6523:primary"
+msgid "dp6523"
+msgstr "dp6523"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dp_(dapang106):primary"
+msgid "dp_(dapang106)"
+msgstr "dp（dapang106）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dp_(ddch_k):primary"
+msgid "dp_(ddch_k)"
+msgstr "DP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dp_(kaiseionushi):primary"
+msgid "dp_(kaiseionushi)"
+msgstr "DP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dp_(user_fmff7352):primary"
+msgid "dp_(user_fmff7352)"
+msgstr "DP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:dp_nobi:primary"
+msgid "dp_nobi"
+msgstr "dp_nobi"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dp_tkmn:primary"
+msgid "dp_tkmn"
+msgstr "dp_tkmn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dp_tweets_stuff:primary"
+msgid "dp_tweets_stuff"
+msgstr "DP推文内容"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dp_velvet:primary"
+msgid "dp_velvet"
+msgstr "DP Velvet"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.ambiguous_name
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:dpa:primary"
+msgid "dpa"
+msgstr "DPA"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dpakira:primary"
+msgid "dpakira"
+msgstr "dpakira"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dpang0816:primary"
+msgid "dpang0816"
+msgstr "dpang0816"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:dpaws:primary"
+msgid "dpaws"
+msgstr "dpaws"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dpc_art:primary"
+msgid "dpc_art"
+msgstr "DPC"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dpdatd:primary"
+msgid "dpdatd"
+msgstr "DPDATD"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dpdlfpocjhcqby9:primary"
+msgid "dpdlfpocjhcqby9"
+msgstr "dpdlfpocjhcqby9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dpdms1534:primary"
+msgid "dpdms1534"
+msgstr "dpdms1534"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dpdxj:primary"
+msgid "dpdxj"
+msgstr "dpdxj"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 73
+msgctxt "tag:dpea9:primary"
+msgid "dpea9"
+msgstr "dpea9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dpev2284:primary"
+msgid "dpev2284"
+msgstr "dpev2284"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dpik:primary"
+msgid "dpik"
+msgstr "dpik"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 49
+msgctxt "tag:dpin_(user_adhr8855):primary"
+msgid "dpin_(user_adhr8855)"
+msgstr "Dpin"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dpinkycandy:primary"
+msgid "dpinkycandy"
+msgstr "dpinkycandy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dplaoag:primary"
+msgid "dplaoag"
+msgstr "dplaoag"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dpmgwvmgn:primary"
+msgid "dpmgwvmgn"
+msgstr "dpmgwvmgn"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dpnh7287:primary"
+msgid "dpnh7287"
+msgstr "dpnh7287"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dpodiv:primary"
+msgid "dpodiv"
+msgstr "Dpodiv"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dpp_(tkotu):primary"
+msgid "dpp_(tkotu)"
+msgstr "dpp（tkotu）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dppy_py:primary"
+msgid "dppy_py"
+msgstr "dppy_py"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dppy_tmg:primary"
+msgid "dppy_tmg"
+msgstr "dppy_tmg"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dpqm:primary"
+msgid "dpqm"
+msgstr "dpqm"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dprideday:primary"
+msgid "dprideday"
+msgstr "dprideday"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dprkives:primary"
+msgid "dprkives"
+msgstr "dprkives"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:dpspcat:primary"
+msgid "dpspcat"
+msgstr "DPSPCat"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dpt411:primary"
+msgid "dpt411"
+msgstr "DPT411"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dptdwn:primary"
+msgid "dptdwn"
+msgstr "DPTDWN"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:dpuc2484:primary"
+msgid "dpuc2484"
+msgstr "dpuc2484"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:dpuuuuuuuuuuuu:primary"
+msgid "dpuuuuuuuuuuuu"
+msgstr "DPUUUUUUUUUUU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:dpw6p39pwizgzdz:primary"
+msgid "dpw6p39pwizgzdz"
+msgstr "dpw6p39pwizgzdz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:dpwlsgns12:primary"
+msgid "dpwlsgns12"
+msgstr "dpwlsgns12"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:dpyrns:primary"
+msgid "dpyrns"
+msgstr "dpyrns"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:dpzkzl:primary"
+msgid "dpzkzl"
+msgstr "dpzkzl"

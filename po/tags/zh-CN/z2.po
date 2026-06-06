@@ -1,0 +1,581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:50+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:50+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z2021whhz:primary"
+msgid "z2021whhz"
+msgstr "z2021whhz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:z20240601:primary"
+msgid "z20240601"
+msgstr "Z20240601"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:z2048:primary"
+msgid "z2048"
+msgstr "z2048"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:z20_karl_galster_(azur_lane):primary"
+msgid "z20_karl_galster_(azur_lane)"
+msgstr "Z20 卡尔·加尔斯特 (碧蓝航线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:z21_(azur_lane):primary"
+msgid "z21_(azur_lane)"
+msgstr "Z21"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:z21_wilhelm_heidkamp_(mod)_(warship_girls_r):primary"
+msgid "z21_wilhelm_heidkamp_(mod)_(warship_girls_r)"
+msgstr "Z21 威廉·海德坎普（改）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+#. aliases: 威廉·海德坎普（舰装R）
+msgctxt "tag:z21_wilhelm_heidkamp_(warship_girls_r):primary"
+msgid "z21_wilhelm_heidkamp_(warship_girls_r)"
+msgstr "Z21"
+
+#. alias-of: z21_wilhelm_heidkamp_(warship_girls_r)
+#. source: ai
+msgctxt "tag:z21_wilhelm_heidkamp_(warship_girls_r):alias:1"
+msgid "z21_wilhelm_heidkamp_(warship_girls_r)"
+msgstr "威廉·海德坎普（舰装R）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:z2201199:primary"
+msgid "z2201199"
+msgstr "z2201199"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z226_(tama72114):primary"
+msgid "z226_(tama72114)"
+msgstr "z226"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:z22_anton_schmitt_(warship_girls_r):primary"
+msgid "z22_anton_schmitt_(warship_girls_r)"
+msgstr "Z22 安东·施密特（战舰少女R）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1937
+#. aliases: 碧蓝航线Z23
+msgctxt "tag:z23_(azur_lane):primary"
+msgid "z23_(azur_lane)"
+msgstr "Z23"
+
+#. alias-of: z23_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(azur_lane):alias:1"
+msgid "z23_(azur_lane)"
+msgstr "碧蓝航线Z23"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 11
+#. aliases: Z23Cosplay
+msgctxt "tag:z23_(azur_lane)_(cosplay):primary"
+msgid "z23_(azur_lane)_(cosplay)"
+msgstr "Z23 (碧蓝航线Cosplay)"
+
+#. alias-of: z23_(azur_lane)_(cosplay)
+#. source: ai
+msgctxt "tag:z23_(azur_lane)_(cosplay):alias:1"
+msgid "z23_(azur_lane)_(cosplay)"
+msgstr "Z23Cosplay"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:z23_(blue_oath):primary"
+msgid "z23_(blue_oath)"
+msgstr "Z23"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 48
+#. aliases: Z23(夏日双打)
+msgctxt "tag:z23_(breezy_doubles)_(azur_lane):primary"
+msgid "z23_(breezy_doubles)_(azur_lane)"
+msgstr "Z23"
+
+#. alias-of: z23_(breezy_doubles)_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(breezy_doubles)_(azur_lane):alias:1"
+msgid "z23_(breezy_doubles)_(azur_lane)"
+msgstr "Z23(夏日双打)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:z23_(cafe_trainee_@new_base)_(azur_lane):primary"
+msgid "z23_(cafe_trainee_@new_base)_(azur_lane)"
+msgstr "Z23（咖啡店实习生@新基地）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:z23_(destroyer):primary"
+msgid "z23_(destroyer)"
+msgstr "Z23（驱逐舰）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: Z23（薯条与微笑！）
+msgctxt "tag:z23_(fries_and_smiles!)_(azur_lane):primary"
+msgid "z23_(fries_and_smiles!)_(azur_lane)"
+msgstr "Z23"
+
+#. alias-of: z23_(fries_and_smiles!)_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(fries_and_smiles!)_(azur_lane):alias:1"
+msgid "z23_(fries_and_smiles!)_(azur_lane)"
+msgstr "Z23（薯条与微笑！）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:z23_(inky_antics)_(azur_lane):primary"
+msgid "z23_(inky_antics)_(azur_lane)"
+msgstr "Z23"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:z23_(keeper_of_the_comf-fort)_(azur_lane):primary"
+msgid "z23_(keeper_of_the_comf-fort)_(azur_lane)"
+msgstr "Z23（温馨港湾）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:z23_(perfect_smile?)_(azur_lane):primary"
+msgid "z23_(perfect_smile?)_(azur_lane)"
+msgstr "Z23 (碧蓝航线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 66
+msgctxt "tag:z23_(philosophy_sensei)_(azur_lane):primary"
+msgid "z23_(philosophy_sensei)_(azur_lane)"
+msgstr "Z23"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:z23_(retrofit)_(azur_lane):primary"
+msgid "z23_(retrofit)_(azur_lane)"
+msgstr "Z23（改造）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.outfit_variant
+#. safety: sfw
+#. post-count: 61
+#. aliases: Z23(黑婚纱), Z23(碧蓝航线)
+msgctxt "tag:z23_(schwarze_hochzeit)_(azur_lane):primary"
+msgid "z23_(schwarze_hochzeit)_(azur_lane)"
+msgstr "Z23"
+
+#. alias-of: z23_(schwarze_hochzeit)_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(schwarze_hochzeit)_(azur_lane):alias:1"
+msgid "z23_(schwarze_hochzeit)_(azur_lane)"
+msgstr "Z23(黑婚纱)"
+
+#. alias-of: z23_(schwarze_hochzeit)_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(schwarze_hochzeit)_(azur_lane):alias:2"
+msgid "z23_(schwarze_hochzeit)_(azur_lane)"
+msgstr "Z23(碧蓝航线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 37
+#. aliases: 妮米
+msgctxt "tag:z23_(serious_idol_@acting_manager?!)_(azur_lane):primary"
+msgid "z23_(serious_idol_@acting_manager?!)_(azur_lane)"
+msgstr "Z23"
+
+#. alias-of: z23_(serious_idol_@acting_manager?!)_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(serious_idol_@acting_manager?!)_(azur_lane):alias:1"
+msgid "z23_(serious_idol_@acting_manager?!)_(azur_lane)"
+msgstr "妮米"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:z23_(tanz_der_blumen)_(azur_lane):primary"
+msgid "z23_(tanz_der_blumen)_(azur_lane)"
+msgstr "Z23"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 34
+#. aliases: 宴会的优等生
+msgctxt "tag:z23_(the_banquet's_honor_student)_(azur_lane):primary"
+msgid "z23_(the_banquet's_honor_student)_(azur_lane)"
+msgstr "Z23"
+
+#. alias-of: z23_(the_banquet's_honor_student)_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(the_banquet's_honor_student)_(azur_lane):alias:1"
+msgid "z23_(the_banquet's_honor_student)_(azur_lane)"
+msgstr "宴会的优等生"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 38
+#. aliases: Z23
+msgctxt "tag:z23_(the_eyecatch_in_the_rye?)_(azur_lane):primary"
+msgid "z23_(the_eyecatch_in_the_rye?)_(azur_lane)"
+msgstr "Z23（黑麦地里的眼中钉？）"
+
+#. alias-of: z23_(the_eyecatch_in_the_rye?)_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(the_eyecatch_in_the_rye?)_(azur_lane):alias:1"
+msgid "z23_(the_eyecatch_in_the_rye?)_(azur_lane)"
+msgstr "Z23"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: Z23 (碧蓝航线)
+msgctxt "tag:z23_(u-treasure)_(azur_lane):primary"
+msgid "z23_(u-treasure)_(azur_lane)"
+msgstr "Z23"
+
+#. alias-of: z23_(u-treasure)_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(u-treasure)_(azur_lane):alias:1"
+msgid "z23_(u-treasure)_(azur_lane)"
+msgstr "Z23 (碧蓝航线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 88
+#. aliases: Z23
+msgctxt "tag:z23_(upgrade_failure?!)_(azur_lane):primary"
+msgid "z23_(upgrade_failure?!)_(azur_lane)"
+msgstr "Z23"
+
+#. alias-of: z23_(upgrade_failure?!)_(azur_lane)
+#. source: ai
+msgctxt "tag:z23_(upgrade_failure?!)_(azur_lane):alias:1"
+msgid "z23_(upgrade_failure?!)_(azur_lane)"
+msgstr "Z23"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:z24394344:primary"
+msgid "z24394344"
+msgstr "z24394344"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 50
+#. aliases: Z24(碧蓝航线)
+msgctxt "tag:z24_(azur_lane):primary"
+msgid "z24_(azur_lane)"
+msgstr "Z24"
+
+#. alias-of: z24_(azur_lane)
+#. source: ai
+msgctxt "tag:z24_(azur_lane):alias:1"
+msgid "z24_(azur_lane)"
+msgstr "Z24(碧蓝航线)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:z24_(blood-red_dance_beneath_the_moon)_(azur_lane):primary"
+msgid "z24_(blood-red_dance_beneath_the_moon)_(azur_lane)"
+msgstr "Z24"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+#. aliases: Z24 节日恶魔
+msgctxt "tag:z24_(festival-going_fiend)_(azur_lane):primary"
+msgid "z24_(festival-going_fiend)_(azur_lane)"
+msgstr "Z24"
+
+#. alias-of: z24_(festival-going_fiend)_(azur_lane)
+#. source: ai
+msgctxt "tag:z24_(festival-going_fiend)_(azur_lane):alias:1"
+msgid "z24_(festival-going_fiend)_(azur_lane)"
+msgstr "Z24 节日恶魔"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:z24_(the_devil_on_the_court)_(azur_lane):primary"
+msgid "z24_(the_devil_on_the_court)_(azur_lane)"
+msgstr "Z24（球场上的恶魔）（碧蓝航线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:z24_(warship_girls_r):primary"
+msgid "z24_(warship_girls_r)"
+msgstr "Z24"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:z25_(azur_lane):primary"
+msgid "z25_(azur_lane)"
+msgstr "Z25（碧蓝航线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:z25_(hot_summer's_cool_breeze)_(azur_lane):primary"
+msgid "z25_(hot_summer's_cool_breeze)_(azur_lane)"
+msgstr "Z25（炎夏清风）（碧蓝航线）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z26261780:primary"
+msgid "z26261780"
+msgstr "Z26261780"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z268615706:primary"
+msgid "z268615706"
+msgstr "z268615706"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:z26_(azur_lane):primary"
+msgid "z26_(azur_lane)"
+msgstr "Z26"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:z26_(sharing_is_caring)_(azur_lane):primary"
+msgid "z26_(sharing_is_caring)_(azur_lane)"
+msgstr "Z26"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 395
+msgctxt "tag:z282g:primary"
+msgid "z282g"
+msgstr "z282g"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:z28_(azur_lane):primary"
+msgid "z28_(azur_lane)"
+msgstr "Z28"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:z28_(new_year_smorgasbord!)_(azur_lane):primary"
+msgid "z28_(new_year_smorgasbord!)_(azur_lane)"
+msgstr "Z28（新年盛宴）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:z28_(sylvan_celebration)_(azur_lane):primary"
+msgid "z28_(sylvan_celebration)_(azur_lane)"
+msgstr "Z28（Sylvan Celebration）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:z28_(warship_girls_r):primary"
+msgid "z28_(warship_girls_r)"
+msgstr "Z28 (战舰少女R)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:z28atarime:primary"
+msgid "z28atarime"
+msgstr "z28atarime"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:z2921uo:primary"
+msgid "z2921uo"
+msgstr "z2921uo"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 55
+#. aliases: Z2
+msgctxt "tag:z2_georg_thiele_(azur_lane):primary"
+msgid "z2_georg_thiele_(azur_lane)"
+msgstr "乔治·蒂勒"
+
+#. alias-of: z2_georg_thiele_(azur_lane)
+#. source: ai
+msgctxt "tag:z2_georg_thiele_(azur_lane):alias:1"
+msgid "z2_georg_thiele_(azur_lane)"
+msgstr "Z2"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:z2_georg_thiele_(destroyer):primary"
+msgid "z2_georg_thiele_(destroyer)"
+msgstr "格奥尔格·蒂勒号驱逐舰"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.crossover_or_costume_variant
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:z2_georg_thiele_(high-rise_high-style)_(azur_lane):primary"
+msgid "z2_georg_thiele_(high-rise_high-style)_(azur_lane)"
+msgstr "Z2格奥尔格·蒂勒（摩天都市）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.variant.event_or_seasonal_variant
+#. safety: sfw
+#. post-count: 6
+#. aliases: Georg Thiele
+msgctxt "tag:z2_georg_thiele_(of_koi_and_evening_hues)_(azur_lane):primary"
+msgid "z2_georg_thiele_(of_koi_and_evening_hues)_(azur_lane)"
+msgstr "Z2 Georg Thiele（Of Koi and Evening Hues）"
+
+#. alias-of: z2_georg_thiele_(of_koi_and_evening_hues)_(azur_lane)
+#. source: ai
+msgctxt "tag:z2_georg_thiele_(of_koi_and_evening_hues)_(azur_lane):alias:1"
+msgid "z2_georg_thiele_(of_koi_and_evening_hues)_(azur_lane)"
+msgstr "Georg Thiele"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:z2byytla:primary"
+msgid "z2byytla"
+msgstr "z2byytla"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z2dp:primary"
+msgid "z2dp"
+msgstr "Z2DP"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:z2moe:primary"
+msgid "z2moe"
+msgstr "Z2萌"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:z2tdrcyvvjjk0gl:primary"
+msgid "z2tdrcyvvjjk0gl"
+msgstr "z2tdrcyvvjjk0gl"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:z2zyyy:primary"
+msgid "z2zyyy"
+msgstr "z2zyyy"

@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:18+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:18+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 142
+msgctxt "tag:9a-91:primary"
+msgid "9a-91"
+msgstr "9A-91"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 15
+#. aliases: 9A-91
+msgctxt "tag:9a-91_(a_loyal_friend's_company)_(girls'_frontline):primary"
+msgid "9a-91_(a_loyal_friend's_company)_(girls'_frontline)"
+msgstr "9A-91（忠实伙伴的陪伴）"
+
+#. alias-of: 9a-91_(a_loyal_friend's_company)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:9a-91_(a_loyal_friend's_company)_(girls'_frontline):alias:1"
+msgid "9a-91_(a_loyal_friend's_company)_(girls'_frontline)"
+msgstr "9A-91"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:9a-91_(an_empty_seat_a_hint_of_champagne)_(girls'_frontline):primary"
+msgid "9a-91_(an_empty_seat_a_hint_of_champagne)_(girls'_frontline)"
+msgstr "9A-91（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 64
+#. aliases: 9a91
+msgctxt "tag:9a-91_(bullets_cafe)_(girls'_frontline):primary"
+msgid "9a-91_(bullets_cafe)_(girls'_frontline)"
+msgstr "9A-91（弹丸咖啡）（少女前线）"
+
+#. alias-of: 9a-91_(bullets_cafe)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:9a-91_(bullets_cafe)_(girls'_frontline):alias:1"
+msgid "9a-91_(bullets_cafe)_(girls'_frontline)"
+msgstr "9a91"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 769
+msgctxt "tag:9a-91_(girls'_frontline):primary"
+msgid "9a-91_(girls'_frontline)"
+msgstr "9a-91 (少女前线)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:9a-91_(girls'_frontline)_(cosplay):primary"
+msgid "9a-91_(girls'_frontline)_(cosplay)"
+msgstr "9A-91"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:9a-91_(hidden_secret)_(girls'_frontline):primary"
+msgid "9a-91_(hidden_secret)_(girls'_frontline)"
+msgstr "9A-91（Hidden Secret）（少女前线）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+#. aliases: 少女前线角色
+msgctxt "tag:9a-91_(lingering_gaze)_(girls'_frontline):primary"
+msgid "9a-91_(lingering_gaze)_(girls'_frontline)"
+msgstr "9A-91（原初缠绕/少女前线）"
+
+#. alias-of: 9a-91_(lingering_gaze)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:9a-91_(lingering_gaze)_(girls'_frontline):alias:1"
+msgid "9a-91_(lingering_gaze)_(girls'_frontline)"
+msgstr "少女前线角色"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:9a-91_(purifying_arrow_flowers_and_dreams)_(girls'_frontline):primary"
+msgid "9a-91_(purifying_arrow_flowers_and_dreams)_(girls'_frontline)"
+msgstr "9A-91（净化箭花与梦）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:9a_(tyotyorogi966):primary"
+msgid "9a_(tyotyorogi966)"
+msgstr "9a（tyotyorogi966）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 72
+msgctxt "tag:9aaaalt29:primary"
+msgid "9aaaalt29"
+msgstr "9AAAALT29"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:9ae9urim:primary"
+msgid "9ae9urim"
+msgstr "9ae9urim"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:9aeede_664f8c:primary"
+msgid "9aeede_664f8c"
+msgstr "9aeede_664f8c"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:9aigkc:primary"
+msgid "9aigkc"
+msgstr "9aigkc"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 101
+msgctxt "tag:9aki:primary"
+msgid "9aki"
+msgstr "9aki"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:9akozc6wjaxnye2:primary"
+msgid "9akozc6wjaxnye2"
+msgstr "9akozc6wjaxnye2"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 32
+msgctxt "tag:9am9am9am:primary"
+msgid "9am9am9am"
+msgstr "9am9am9am"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.rendering.render_style
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:9am9am9am_(style):primary"
+msgid "9am9am9am_(style)"
+msgstr "9am9am9am风格"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:9am_104:primary"
+msgid "9am_104"
+msgstr "9am_104"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:9are:primary"
+msgid "9are"
+msgstr "9are"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:9atgkiiixubngk3:primary"
+msgid "9atgkiiixubngk3"
+msgstr "9atgkiiixubngk3"

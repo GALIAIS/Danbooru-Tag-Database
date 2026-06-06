@@ -1,0 +1,2022 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GALIAIS Danbooru tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06T15:52:47+00:00\n"
+"PO-Revision-Date: 2026-06-06T15:52:47+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: GALIAIS Danbooru textdb\n"
+
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.hand_gesture
+#. safety: sfw
+#. post-count: 217755
+#. aliases: 胜利手势
+msgctxt "tag:v:primary"
+msgid "v"
+msgstr "V手势"
+
+#. alias-of: v
+#. source: ai
+msgctxt "tag:v:alias:1"
+msgid "v"
+msgstr "胜利手势"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.organization.faction_or_group
+#. safety: sfw
+#. post-count: 228
+msgctxt "tag:v&u_entertainment:primary"
+msgid "v&u_entertainment"
+msgstr "V&U娱乐"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 267
+msgctxt "tag:v'ehxness:primary"
+msgid "v'ehxness"
+msgstr "v'ehxness"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:v'kebbe:primary"
+msgid "v'kebbe"
+msgstr "V'kebbe"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:v'lone_(yiiande):primary"
+msgid "v'lone_(yiiande)"
+msgstr "V'lone"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-107:primary"
+msgid "v-107"
+msgstr "V-107"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-1_(kamen_rider_agito):primary"
+msgid "v-1_(kamen_rider_agito)"
+msgstr "V-1（假面骑士Agito）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-1_flying_bomb:primary"
+msgid "v-1_flying_bomb"
+msgstr "V-1飞行炸弹"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 68
+#. aliases: 倾转旋翼机
+msgctxt "tag:v-22_osprey:primary"
+msgid "v-22_osprey"
+msgstr "V-22鱼鹰"
+
+#. alias-of: v-22_osprey
+#. source: ai
+msgctxt "tag:v-22_osprey:alias:1"
+msgid "v-22_osprey"
+msgstr "倾转旋翼机"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-22_osprey_(personification):primary"
+msgid "v-22_osprey_(personification)"
+msgstr "V-22鱼鹰拟人"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:v-2_rocket:primary"
+msgid "v-2_rocket"
+msgstr "V-2火箭"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-3_supergun:primary"
+msgid "v-3_supergun"
+msgstr "V-3超级炮"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.vehicle
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v-47_flatline:primary"
+msgid "v-47_flatline"
+msgstr "V-47 Flatline"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v-9:primary"
+msgid "v-9"
+msgstr "V-9"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-_(vuoru):primary"
+msgid "v-_(vuoru)"
+msgstr "V-（Vuoru）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:v-any:primary"
+msgid "v-any"
+msgstr "V-any"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v-artisserie:primary"
+msgid "v-artisserie"
+msgstr "V-artisserie"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:v-azazel:primary"
+msgid "v-azazel"
+msgstr "V-Azazel"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.hair.style.bangs_and_parting
+#. safety: sfw
+#. post-count: 806
+msgctxt "tag:v-bangs:primary"
+msgid "v-bangs"
+msgstr "V刘海"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+#. aliases: V-chan
+msgctxt "tag:v-chan:primary"
+msgid "v-chan"
+msgstr "V酱"
+
+#. alias-of: v-chan
+#. source: ai
+msgctxt "tag:v-chan:alias:1"
+msgid "v-chan"
+msgstr "V-chan"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: v-chan, 小恋, 小恋酱
+msgctxt "tag:v-chan_(koyoinacho):primary"
+msgid "v-chan_(koyoinacho)"
+msgstr "V酱"
+
+#. alias-of: v-chan_(koyoinacho)
+#. source: ai
+msgctxt "tag:v-chan_(koyoinacho):alias:1"
+msgid "v-chan_(koyoinacho)"
+msgstr "v-chan"
+
+#. alias-of: v-chan_(koyoinacho)
+#. source: ai
+msgctxt "tag:v-chan_(koyoinacho):alias:2"
+msgid "v-chan_(koyoinacho)"
+msgstr "小恋"
+
+#. alias-of: v-chan_(koyoinacho)
+#. source: ai
+msgctxt "tag:v-chan_(koyoinacho):alias:3"
+msgid "v-chan_(koyoinacho)"
+msgstr "小恋酱"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v-create_(pokemon):primary"
+msgid "v-create_(pokemon)"
+msgstr "V热焰（宝可梦）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:v-darn:primary"
+msgid "v-darn"
+msgstr "V-Darn"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 197
+#. aliases: 暴力娇
+msgctxt "tag:v-dere:primary"
+msgid "v-dere"
+msgstr "V傲娇"
+
+#. alias-of: v-dere
+#. source: ai
+msgctxt "tag:v-dere:alias:1"
+msgid "v-dere"
+msgstr "暴力娇"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-draken:primary"
+msgid "v-draken"
+msgstr "V龙"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 30
+msgctxt "tag:v-dramon:primary"
+msgid "v-dramon"
+msgstr "V龙兽"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v-dramon_(cosplay):primary"
+msgid "v-dramon_(cosplay)"
+msgstr "V龙兽Cosplay"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 14
+#. aliases: V-Drive
+msgctxt "tag:v-drive!:primary"
+msgid "v-drive!"
+msgstr "V驱动!"
+
+#. alias-of: v-drive!
+#. source: ai
+msgctxt "tag:v-drive!:alias:1"
+msgid "v-drive!"
+msgstr "V-Drive"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.instrument
+#. safety: sfw
+#. post-count: 1
+#. aliases: 电子架子鼓
+msgctxt "tag:v-drums:primary"
+msgid "v-drums"
+msgstr "电子鼓"
+
+#. alias-of: v-drums
+#. source: ai
+msgctxt "tag:v-drums:alias:1"
+msgid "v-drums"
+msgstr "电子架子鼓"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:v-en-v:primary"
+msgid "v-en-v"
+msgstr "v-en-v"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.shape_or_mechanical_part
+#. safety: sfw
+#. post-count: 8931
+#. aliases: V形天线
+msgctxt "tag:v-fin:primary"
+msgid "v-fin"
+msgstr "V型天线"
+
+#. alias-of: v-fin
+#. source: ai
+msgctxt "tag:v-fin:alias:1"
+msgid "v-fin"
+msgstr "V形天线"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:v-furry:primary"
+msgid "v-furry"
+msgstr "v-furry"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.device
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:v-gauge:primary"
+msgid "v-gauge"
+msgstr "V型仪表"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vtuber_agency
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:v-hana:primary"
+msgid "v-hana"
+msgstr "V-Hana"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:v-iii:primary"
+msgid "v-iii"
+msgstr "V-III"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-ivi:primary"
+msgid "v-ivi"
+msgstr "v-ivi"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 11
+#. aliases: 胜利之吻
+msgctxt "tag:v-j_day_in_times_square:primary"
+msgid "v-j_day_in_times_square"
+msgstr "时代广场胜利日"
+
+#. alias-of: v-j_day_in_times_square
+#. source: ai
+msgctxt "tag:v-j_day_in_times_square:alias:1"
+msgid "v-j_day_in_times_square"
+msgstr "胜利之吻"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.anime_manga
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:v-kei_band_no_ouji-sama_ga_jitsu_wa_gakuen_ichi_no_bishoujo_ojousama_nano_wa_himitsu_shitekure:primary"
+msgid "v-kei_band_no_ouji-sama_ga_jitsu_wa_gakuen_ichi_no_bishoujo_ojousama_nano_wa_himitsu_shitekure"
+msgstr "V系乐队的王子殿下其实是学园第一美少女大小姐这件事请帮我保密"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:v-ko_(vickywa):primary"
+msgid "v-ko_(vickywa)"
+msgstr "V子(Vickywa)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 10
+msgctxt "tag:v-lab:primary"
+msgid "v-lab"
+msgstr "V-Lab"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.original_work
+#. safety: sfw
+#. post-count: 16
+msgctxt "tag:v-llage:primary"
+msgid "v-llage"
+msgstr "村庄"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vtuber_agency
+#. safety: sfw
+#. post-count: 106
+msgctxt "tag:v-lup:primary"
+msgid "v-lup"
+msgstr "v-lup"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 657
+#. aliases: 视频杂志
+msgctxt "tag:v-mag:primary"
+msgid "v-mag"
+msgstr "V杂志"
+
+#. alias-of: v-mag
+#. source: ai
+msgctxt "tag:v-mag:alias:1"
+msgid "v-mag"
+msgstr "视频杂志"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-may:primary"
+msgid "v-may"
+msgstr "v-may"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.location.real_world_or_brand_reference
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:v-moda:primary"
+msgid "v-moda"
+msgstr "V-MODA"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 285
+msgctxt "tag:v-mon:primary"
+msgid "v-mon"
+msgstr "V-mon"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 3
+#. aliases: V仔兽
+msgctxt "tag:v-mon_(cosplay):primary"
+msgid "v-mon_(cosplay)"
+msgstr "V仔兽（Cosplay）"
+
+#. alias-of: v-mon_(cosplay)
+#. source: ai
+msgctxt "tag:v-mon_(cosplay):alias:1"
+msgid "v-mon_(cosplay)"
+msgstr "V仔兽"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+#. aliases: V莫迪凯
+msgctxt "tag:v-mordecai:primary"
+msgid "v-mordecai"
+msgstr "莫迪凯"
+
+#. alias-of: v-mordecai
+#. source: ai
+msgctxt "tag:v-mordecai:alias:1"
+msgid "v-mordecai"
+msgstr "V莫迪凯"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.detail.decorative_detail
+#. safety: sfw
+#. post-count: 16533
+#. aliases: V形领
+msgctxt "tag:v-neck:primary"
+msgid "v-neck"
+msgstr "V领"
+
+#. alias-of: v-neck
+#. source: ai
+msgctxt "tag:v-neck:alias:1"
+msgid "v-neck"
+msgstr "V形领"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-nix:primary"
+msgid "v-nix"
+msgstr "V-Nix"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v-nyaren:primary"
+msgid "v-nyaren"
+msgstr "V-Nyaren"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:v-pm5_(feathers_in_first_dream)_(girls'_frontline):primary"
+msgid "v-pm5_(feathers_in_first_dream)_(girls'_frontline)"
+msgstr "V-PM5"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:v-pm5_(girls'_frontline):primary"
+msgid "v-pm5_(girls'_frontline)"
+msgstr "PM5"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+#. aliases: VPM5
+msgctxt "tag:v-pm5_(soaring_starfish)_(girls'_frontline):primary"
+msgid "v-pm5_(soaring_starfish)_(girls'_frontline)"
+msgstr "V-PM5"
+
+#. alias-of: v-pm5_(soaring_starfish)_(girls'_frontline)
+#. source: ai
+msgctxt "tag:v-pm5_(soaring_starfish)_(girls'_frontline):alias:1"
+msgid "v-pm5_(soaring_starfish)_(girls'_frontline)"
+msgstr "VPM5"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-proleague:primary"
+msgid "v-proleague"
+msgstr "V职业联赛"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:v-raider:primary"
+msgid "v-raider"
+msgstr "V-Raider"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v-raptor:primary"
+msgid "v-raptor"
+msgstr "V-Raptor"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v-rex:primary"
+msgid "v-rex"
+msgstr "V-雷克斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 52
+msgctxt "tag:v-room:primary"
+msgid "v-room"
+msgstr "V房间"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 3
+#. aliases: V型发根
+msgctxt "tag:v-roots:primary"
+msgid "v-roots"
+msgstr "V-roots"
+
+#. alias-of: v-roots
+#. source: ai
+msgctxt "tag:v-roots:alias:1"
+msgid "v-roots"
+msgstr "V型发根"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:v-san_(xhhh3553):primary"
+msgid "v-san_(xhhh3553)"
+msgstr "V桑"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-sarg:primary"
+msgid "v-sarg"
+msgstr "v-sarg"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.face.feature.face_feature
+#. safety: sfw
+#. post-count: 245810
+#. aliases: V字眉
+msgctxt "tag:v-shaped_eyebrows:primary"
+msgid "v-shaped_eyebrows"
+msgstr "V形眉"
+
+#. alias-of: v-shaped_eyebrows
+#. source: ai
+msgctxt "tag:v-shaped_eyebrows:alias:1"
+msgid "v-shaped_eyebrows"
+msgstr "V字眉"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.eyes.shape.eye_shape
+#. safety: sfw
+#. post-count: 3310
+#. aliases: V字眼
+msgctxt "tag:v-shaped_eyes:primary"
+msgid "v-shaped_eyes"
+msgstr "V形眼"
+
+#. alias-of: v-shaped_eyes
+#. source: ai
+msgctxt "tag:v-shaped_eyes:alias:1"
+msgid "v-shaped_eyes"
+msgstr "V字眼"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:v-sil:primary"
+msgid "v-sil"
+msgstr "v-sil"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:v-sion:primary"
+msgid "v-sion"
+msgstr "V-Sion"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v-sk:primary"
+msgid "v-sk"
+msgstr "V-SK"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-sword:primary"
+msgid "v-sword"
+msgstr "V剑"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v-sync:primary"
+msgid "v-sync"
+msgstr "垂直同步"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v-tan:primary"
+msgid "v-tan"
+msgstr "V酱"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.appearance.body.build.body_build
+#. safety: sfw
+#. post-count: 1024
+#. aliases: V型身材
+msgctxt "tag:v-taper:primary"
+msgid "v-taper"
+msgstr "倒三角体型"
+
+#. alias-of: v-taper
+#. source: ai
+msgctxt "tag:v-taper:alias:1"
+msgid "v-taper"
+msgstr "V型身材"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 63
+msgctxt "tag:v-von:primary"
+msgid "v-von"
+msgstr "V·冯"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.music_project
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:v-wave_project:primary"
+msgid "v-wave_project"
+msgstr "V-Wave Project"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v-zen:primary"
+msgid "v-zen"
+msgstr "V-禅"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 81
+msgctxt "tag:v.a._(vanilla):primary"
+msgid "v.a._(vanilla)"
+msgstr "V.A.（香草）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:v.a.t.s._(fallout):primary"
+msgid "v.a.t.s._(fallout)"
+msgstr "V.A.T.S.（辐射）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:v.dghtr_(soevgdr):primary"
+msgid "v.dghtr_(soevgdr)"
+msgstr "V.Dghtr"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v.g._2:primary"
+msgid "v.g._2"
+msgstr "V.G. 2"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.game_console_pc
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:v.g._neo:primary"
+msgid "v.g._neo"
+msgstr "V.G. Neo"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.visual_novel
+#. safety: mixed
+#. post-count: 9
+msgctxt "tag:v.g._re-birth:primary"
+msgid "v.g._re-birth"
+msgstr "V.G.Re-Birth"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v.ghost:primary"
+msgid "v.ghost"
+msgstr "V.ghost"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v.i._lenin_proclaims_soviet_power:primary"
+msgid "v.i._lenin_proclaims_soviet_power"
+msgstr "V.I.《列宁宣布苏维埃政权》"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.meme_or_internet
+#. safety: sfw
+#. post-count: 7
+#. aliases: mmd视频
+msgctxt "tag:v.i.p._(mikumikudance_video):primary"
+msgid "v.i.p._(mikumikudance_video)"
+msgstr "V.I.P.（MikuMikuDance 视频）"
+
+#. alias-of: v.i.p._(mikumikudance_video)
+#. source: ai
+msgctxt "tag:v.i.p._(mikumikudance_video):alias:1"
+msgid "v.i.p._(mikumikudance_video)"
+msgstr "mmd视频"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:v.i_freud:primary"
+msgid "v.i_freud"
+msgstr "V.I. Freud"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:v.ia:primary"
+msgid "v.ia"
+msgstr "V.IA"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 21
+msgctxt "tag:v.ii_snail:primary"
+msgid "v.ii_snail"
+msgstr "v.ii_snail"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:v.iii_o'keeffe:primary"
+msgid "v.iii_o'keeffe"
+msgstr "V.III O'Keeffe"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 108
+msgctxt "tag:v.iv_rusty:primary"
+msgid "v.iv_rusty"
+msgstr "V.IV锈蚀"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 25
+msgctxt "tag:v.t.c._priestess_(nikke):primary"
+msgid "v.t.c._priestess_(nikke)"
+msgstr "V.T.C. 祭司（妮姬）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: NIKKE神职人员, VTC神职人员
+msgctxt "tag:v.t.c._priestess_(nikke)_(cosplay):primary"
+msgid "v.t.c._priestess_(nikke)_(cosplay)"
+msgstr "V.T.C.祭司（NIKKE，Cosplay）"
+
+#. alias-of: v.t.c._priestess_(nikke)_(cosplay)
+#. source: ai
+msgctxt "tag:v.t.c._priestess_(nikke)_(cosplay):alias:1"
+msgid "v.t.c._priestess_(nikke)_(cosplay)"
+msgstr "NIKKE神职人员"
+
+#. alias-of: v.t.c._priestess_(nikke)_(cosplay)
+#. source: ai
+msgctxt "tag:v.t.c._priestess_(nikke)_(cosplay):alias:2"
+msgid "v.t.c._priestess_(nikke)_(cosplay)"
+msgstr "VTC神职人员"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v.u.v.:primary"
+msgid "v.u.v."
+msgstr "V.U.V."
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 59
+msgctxt "tag:v.v.:primary"
+msgid "v.v."
+msgstr "V.V."
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:v.v_hawkins:primary"
+msgid "v.v_hawkins"
+msgstr "V.V.霍金斯"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v.v_panda:primary"
+msgid "v.v_panda"
+msgstr "V.V Panda"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 12
+msgctxt "tag:v.vi_maeterlinck:primary"
+msgid "v.vi_maeterlinck"
+msgstr "VI·梅特林克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:v.vii_swinburne:primary"
+msgid "v.vii_swinburne"
+msgstr "VII.斯温伯恩"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:v.viii_pater:primary"
+msgid "v.viii_pater"
+msgstr "VIII.佩特"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.reference.crossover_or_canon
+#. safety: sfw
+#. post-count: 87
+msgctxt "tag:v.w.p_(kamitsubaki_studio):primary"
+msgid "v.w.p_(kamitsubaki_studio)"
+msgstr "V.W.P"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 34
+msgctxt "tag:v.x.:primary"
+msgid "v.x."
+msgstr "V.X."
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 60
+msgctxt "tag:v/v:primary"
+msgid "v/v"
+msgstr "V/V"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v:bloom:primary"
+msgid "v:bloom"
+msgstr "v:bloom"
+
+#. danbooru-category: 3
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:v:ertex:primary"
+msgid "v:ertex"
+msgstr "V:ertex"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_(1164546218):primary"
+msgid "v_(1164546218)"
+msgstr "v"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_(623210842):primary"
+msgid "v_(623210842)"
+msgstr "v"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 36
+#. aliases: 田柾国
+msgctxt "tag:v_(bts):primary"
+msgid "v_(bts)"
+msgstr "V (防弹少年团)"
+
+#. alias-of: v_(bts)
+#. source: ai
+msgctxt "tag:v_(bts):alias:1"
+msgid "v_(bts)"
+msgstr "田柾国"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_(bui):primary"
+msgid "v_(bui)"
+msgstr "v_(bui)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_(crusader_quest):primary"
+msgid "v_(crusader_quest)"
+msgstr "V（十字军任务）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 171
+msgctxt "tag:v_(cyberpunk):primary"
+msgid "v_(cyberpunk)"
+msgstr "赛博朋克"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 214
+msgctxt "tag:v_(devil_may_cry):primary"
+msgid "v_(devil_may_cry)"
+msgstr "V (鬼泣)"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 11
+#. aliases: V（鬼泣）
+msgctxt "tag:v_(devil_may_cry)_(cosplay):primary"
+msgid "v_(devil_may_cry)_(cosplay)"
+msgstr "V（鬼泣）Cosplay"
+
+#. alias-of: v_(devil_may_cry)_(cosplay)
+#. source: ai
+msgctxt "tag:v_(devil_may_cry)_(cosplay):alias:1"
+msgid "v_(devil_may_cry)_(cosplay)"
+msgstr "V（鬼泣）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 77
+msgctxt "tag:v_(govvvvw):primary"
+msgid "v_(govvvvw)"
+msgstr "V"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:v_(katana_zero):primary"
+msgid "v_(katana_zero)"
+msgstr "V（武士刀零）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:v_(killer_chat):primary"
+msgid "v_(killer_chat)"
+msgstr "V"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.design.decorative_or_graphic_design
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_(letter):primary"
+msgid "v_(letter)"
+msgstr "字母V"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 111
+#. aliases: V (杀人无人机)
+msgctxt "tag:v_(murder_drones):primary"
+msgid "v_(murder_drones)"
+msgstr "V"
+
+#. alias-of: v_(murder_drones)
+#. source: ai
+msgctxt "tag:v_(murder_drones):alias:1"
+msgid "v_(murder_drones)"
+msgstr "V (杀人无人机)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:v_(pixiv_fantasia):primary"
+msgid "v_(pixiv_fantasia)"
+msgstr "V（Pixiv Fantasia）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_(russian_symbol):primary"
+msgid "v_(russian_symbol)"
+msgstr "V字母（俄文符号）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_(spider.blade):primary"
+msgid "v_(spider.blade)"
+msgstr "V（spider.blade）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_(spindle_(aidenr0)):primary"
+msgid "v_(spindle_(aidenr0))"
+msgstr "V（spindle_(aidenr0)）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:v_(susanghan_messenger):primary"
+msgid "v_(susanghan_messenger)"
+msgstr "V（Susanghan Messenger）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:v_(thinker473):primary"
+msgid "v_(thinker473)"
+msgstr "V (Thinker473)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 35
+msgctxt "tag:v_(tit_mzmz):primary"
+msgid "v_(tit_mzmz)"
+msgstr "v (tit_mzmz)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:v_(v726244417):primary"
+msgid "v_(v726244417)"
+msgstr "V"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:v_(v_for_vendetta):primary"
+msgid "v_(v_for_vendetta)"
+msgstr "V（V字仇杀队）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.meta.reference.cosplay
+#. safety: sfw
+#. post-count: 1
+#. aliases: V仇杀队
+msgctxt "tag:v_(v_for_vendetta)_(cosplay):primary"
+msgid "v_(v_for_vendetta)_(cosplay)"
+msgstr "V（《V字仇杀队》Cosplay）"
+
+#. alias-of: v_(v_for_vendetta)_(cosplay)
+#. source: ai
+msgctxt "tag:v_(v_for_vendetta)_(cosplay):alias:1"
+msgid "v_(v_for_vendetta)_(cosplay)"
+msgstr "V仇杀队"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_(vhanyanyo):primary"
+msgid "v_(vhanyanyo)"
+msgstr "V (Vhanyanyo)"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+#. aliases: V (VitB12)
+msgctxt "tag:v_(vitb12):primary"
+msgid "v_(vitb12)"
+msgstr "V"
+
+#. alias-of: v_(vitb12)
+#. source: ai
+msgctxt "tag:v_(vitb12):alias:1"
+msgid "v_(vitb12)"
+msgstr "V (VitB12)"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_(voidsenight):primary"
+msgid "v_(voidsenight)"
+msgstr "V（Void's Night）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_(vulpixsi):primary"
+msgid "v_(vulpixsi)"
+msgstr "V（Vulpixsi）"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 24
+msgctxt "tag:v_(yu-gi-oh!):primary"
+msgid "v_(yu-gi-oh!)"
+msgstr "V"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_100:primary"
+msgid "v_100"
+msgstr "v_100"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_1a00:primary"
+msgid "v_1a00"
+msgstr "v_1a00"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 42
+msgctxt "tag:v_a_i_r:primary"
+msgid "v_a_i_r"
+msgstr "VAIR"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_alter:primary"
+msgid "v_alter"
+msgstr "VAlter"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_anilla_lattee:primary"
+msgid "v_anilla_lattee"
+msgstr "V. Anilla Lattee"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.style.medium.art_medium
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:v_ap_art:primary"
+msgid "v_ap_art"
+msgstr "V_AP art"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.arm_position
+#. safety: sfw
+#. post-count: 31638
+#. aliases: 手臂V形
+msgctxt "tag:v_arms:primary"
+msgid "v_arms"
+msgstr "V形手臂"
+
+#. alias-of: v_arms
+#. source: ai
+msgctxt "tag:v_arms:alias:1"
+msgid "v_arms"
+msgstr "手臂V形"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_atama:primary"
+msgid "v_atama"
+msgstr "V头"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.accessory.waist_belt_sash
+#. safety: sfw
+#. post-count: 171
+#. aliases: V形扣
+msgctxt "tag:v_buckle:primary"
+msgid "v_buckle"
+msgstr "V型扣"
+
+#. alias-of: v_buckle
+#. source: ai
+msgctxt "tag:v_buckle:alias:1"
+msgid "v_buckle"
+msgstr "V形扣"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 47
+msgctxt "tag:v_burger103:primary"
+msgid "v_burger103"
+msgstr "v_burger103"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_cahue:primary"
+msgid "v_cahue"
+msgstr "v_cahue"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_carloot:primary"
+msgid "v_carloot"
+msgstr "v_carloot"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 23
+msgctxt "tag:v_cho3:primary"
+msgid "v_cho3"
+msgstr "V Cho3"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_code:primary"
+msgid "v_code"
+msgstr "v_code"
+
+#. danbooru-category: 0
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 2
+msgctxt "tag:v_commander:primary"
+msgid "v_commander"
+msgstr "V指挥官"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_d:primary"
+msgid "v_d"
+msgstr "V_D"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_dash_gundam:primary"
+msgid "v_dash_gundam"
+msgstr "V高达"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:v_dash_gundam_hexa:primary"
+msgid "v_dash_gundam_hexa"
+msgstr "V-Dash高达Hexa"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_dokuringo_(fruits_fulcute!):primary"
+msgid "v_dokuringo_(fruits_fulcute!)"
+msgstr "V毒苹果（Fruits Fulcute!）"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_doodo:primary"
+msgid "v_doodo"
+msgstr "v_doodo"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:v_e_g_a:primary"
+msgid "v_e_g_a"
+msgstr "维加"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.western_media
+#. safety: sfw
+#. post-count: 28
+msgctxt "tag:v_for_vendetta:primary"
+msgid "v_for_vendetta"
+msgstr "V字仇杀队"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.composition.layout.subject_placement
+#. safety: sfw
+#. post-count: 67
+msgctxt "tag:v_formation:primary"
+msgid "v_formation"
+msgstr "V字队形"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_gene:primary"
+msgid "v_gene"
+msgstr "V Gene"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 116
+msgctxt "tag:v_gundam:primary"
+msgid "v_gundam"
+msgstr "V高达"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_hasegawa:primary"
+msgid "v_hasegawa"
+msgstr "V长谷川"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 14
+msgctxt "tag:v_hobby:primary"
+msgid "v_hobby"
+msgstr "V Hobby"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_home_design:primary"
+msgid "v_home_design"
+msgstr "V Home Design"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 36
+msgctxt "tag:v_hoshi:primary"
+msgid "v_hoshi"
+msgstr "V星"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_icky:primary"
+msgid "v_icky"
+msgstr "Vicky"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_joy:primary"
+msgid "v_joy"
+msgstr "VJoy"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 22
+msgctxt "tag:v_juri_f:primary"
+msgid "v_juri_f"
+msgstr "V Juri F"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 4
+msgctxt "tag:v_k:primary"
+msgid "v_k"
+msgstr "VK"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_kamokawa117_v:primary"
+msgid "v_kamokawa117_v"
+msgstr "v_kamokawa117_v"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_kan444:primary"
+msgid "v_kan444"
+msgstr "v_kan444"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_kiri_ko:primary"
+msgid "v_kiri_ko"
+msgstr "v_kiri_ko"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 9
+msgctxt "tag:v_komet:primary"
+msgid "v_komet"
+msgstr "V_Komet"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_kwii:primary"
+msgid "v_kwii"
+msgstr "v_kwii"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 13
+msgctxt "tag:v_kyyi:primary"
+msgid "v_kyyi"
+msgstr "V.KYYI"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_l_l_since_i_w_b:primary"
+msgid "v_l_l_since_i_w_b"
+msgstr "v_l_l_since_i_w_b"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_lee_z:primary"
+msgid "v_lee_z"
+msgstr "V·李Z"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.leg_position
+#. safety: mixed
+#. post-count: 685
+#. aliases: V形腿
+msgctxt "tag:v_legs:primary"
+msgid "v_legs"
+msgstr "V腿"
+
+#. alias-of: v_legs
+#. source: ai
+msgctxt "tag:v_legs:alias:1"
+msgid "v_legs"
+msgstr "V形腿"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 8
+msgctxt "tag:v_lian_miao:primary"
+msgid "v_lian_miao"
+msgstr "V连喵"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 41
+msgctxt "tag:v_lila_f:primary"
+msgid "v_lila_f"
+msgstr "V Lila F"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_lup_official:primary"
+msgid "v_lup_official"
+msgstr "v_lup_official"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:v_maison:primary"
+msgid "v_maison"
+msgstr "v_maison"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:v_mgmg:primary"
+msgid "v_mgmg"
+msgstr "v_mgmg"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_mia:primary"
+msgid "v_mia"
+msgstr "Mia"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_milkshake:primary"
+msgid "v_milkshake"
+msgstr "V奶昔"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_mishy:primary"
+msgid "v_mishy"
+msgstr "v_mishy"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:v_momo030:primary"
+msgid "v_momo030"
+msgstr "v_momo030"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_moonstar:primary"
+msgid "v_moonstar"
+msgstr "V Moonstar"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_n_s:primary"
+msgid "v_n_s"
+msgstr "v_n_s"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_nilla:primary"
+msgid "v_nilla"
+msgstr "V Nilla"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:v_nnhr:primary"
+msgid "v_nnhr"
+msgstr "V_nnhr"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_no_gawa_no_uragawa:primary"
+msgid "v_no_gawa_no_uragawa"
+msgstr "Vの側の裏側"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_no_name_(vtuber):primary"
+msgid "v_no_name_(vtuber)"
+msgstr "V无名"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+#. aliases: 末日V
+msgctxt "tag:v_of_doom:primary"
+msgid "v_of_doom"
+msgstr "厄运V"
+
+#. alias-of: v_of_doom
+#. source: ai
+msgctxt "tag:v_of_doom:alias:1"
+msgid "v_of_doom"
+msgstr "末日V"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.string_or_fastener
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_of_string:primary"
+msgid "v_of_string"
+msgstr "V of String"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 7
+msgctxt "tag:v_ounenne:primary"
+msgid "v_ounenne"
+msgstr "v_ounenne"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.arm_position
+#. safety: sfw
+#. post-count: 17
+msgctxt "tag:v_over_armpit:primary"
+msgid "v_over_armpit"
+msgstr "腋下V"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.leg_position
+#. safety: mixed
+#. post-count: 11
+msgctxt "tag:v_over_ass:primary"
+msgid "v_over_ass"
+msgstr "V字臀"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.fit_and_opening
+#. safety: mixed
+#. post-count: 32
+msgctxt "tag:v_over_breast:primary"
+msgid "v_over_breast"
+msgstr "V形上衣"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.action.covering_or_hiding
+#. safety: mixed
+#. post-count: 32
+msgctxt "tag:v_over_crotch:primary"
+msgid "v_over_crotch"
+msgstr "V字裆部"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.hand_gesture
+#. safety: sfw
+#. post-count: 9308
+msgctxt "tag:v_over_eye:primary"
+msgid "v_over_eye"
+msgstr "面纱遮眼"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.hand_gesture
+#. safety: sfw
+#. post-count: 18
+msgctxt "tag:v_over_face:primary"
+msgid "v_over_face"
+msgstr "V形遮脸"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.hand_gesture
+#. safety: sfw
+#. post-count: 909
+msgctxt "tag:v_over_head:primary"
+msgid "v_over_head"
+msgstr "举手过头"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.pose.gesture.hand_gesture
+#. safety: sfw
+#. post-count: 2576
+#. aliases: 比V遮嘴
+msgctxt "tag:v_over_mouth:primary"
+msgid "v_over_mouth"
+msgstr "V手势遮嘴"
+
+#. alias-of: v_over_mouth
+#. source: ai
+msgctxt "tag:v_over_mouth:alias:1"
+msgid "v_over_mouth"
+msgstr "比V遮嘴"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.clothing.state.fit_and_opening
+#. safety: mixed
+#. post-count: 5
+#. aliases: 露脐, 露胃装
+msgctxt "tag:v_over_navel:primary"
+msgid "v_over_navel"
+msgstr "V字露脐"
+
+#. alias-of: v_over_navel
+#. source: ai
+msgctxt "tag:v_over_navel:alias:1"
+msgid "v_over_navel"
+msgstr "露脐"
+
+#. alias-of: v_over_navel
+#. source: ai
+msgctxt "tag:v_over_navel:alias:2"
+msgid "v_over_navel"
+msgstr "露胃装"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 11
+msgctxt "tag:v_prsk:primary"
+msgid "v_prsk"
+msgstr "鲜艳的色彩"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_ratelier:primary"
+msgid "v_ratelier"
+msgstr "V.Ratelier"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_salamander:primary"
+msgid "v_salamander"
+msgstr "V沙拉曼达"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.unknown_or_other_work
+#. safety: sfw
+#. post-count: 6
+msgctxt "tag:v_series:primary"
+msgid "v_series"
+msgstr "V系列"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_silvermoon_(voice_actor):primary"
+msgid "v_silvermoon_(voice_actor)"
+msgstr "V银月（声优）"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.narrative.relationship.family_or_romance
+#. safety: mixed
+#. post-count: 585
+msgctxt "tag:v_sisters:primary"
+msgid "v_sisters"
+msgstr "V姐妹"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.object.prop.weapon
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_slasher:primary"
+msgid "v_slasher"
+msgstr "V字斩"
+
+#. danbooru-category: 0
+#. taxonomy-id: 0.scene.symbol.symbol_or_emblem
+#. safety: sfw
+#. post-count: 5
+msgctxt "tag:v_star:primary"
+msgid "v_star"
+msgstr "V星"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.circle_or_studio
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_studio_(vnewmancomics):primary"
+msgid "v_studio_(vnewmancomics)"
+msgstr "V工作室"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 3
+msgctxt "tag:v_su_tofu:primary"
+msgid "v_su_tofu"
+msgstr "V_su_tofu"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_sunflower:primary"
+msgid "v_sunflower"
+msgstr "V向日葵"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 19
+msgctxt "tag:v_uo0zzz:primary"
+msgid "v_uo0zzz"
+msgstr "v_uo0zzz"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_uou_vu:primary"
+msgid "v_uou_vu"
+msgstr "V-UOU-VU"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_v0021:primary"
+msgid "v_v0021"
+msgstr "V_V0021"
+
+#. danbooru-category: 3
+#. taxonomy-id: 9.uncertain.review.insufficient_context
+#. safety: unknown
+#. post-count: 1
+msgctxt "tag:v_version:primary"
+msgid "v_version"
+msgstr "V版本"
+
+#. danbooru-category: 4
+#. taxonomy-id: 4.character.identity.named_character
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_vuitton:primary"
+msgid "v_vuitton"
+msgstr "V·Vuitton"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_xiaoyang_zi_v:primary"
+msgid "v_xiaoyang_zi_v"
+msgstr "V小杨子V"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_yuri:primary"
+msgid "v_yuri"
+msgstr "V Yuri"
+
+#. danbooru-category: 3
+#. taxonomy-id: 3.copyright.medium.vocal_synth
+#. safety: sfw
+#. post-count: 125
+#. aliases: 勇者过分嚣张
+msgctxt "tag:v_yuusha_no_kuse_ni_namaiki_da_r:primary"
+msgid "v_yuusha_no_kuse_ni_namaiki_da_r"
+msgstr "勇者明明很弱却过分嚣张R"
+
+#. alias-of: v_yuusha_no_kuse_ni_namaiki_da_r
+#. source: ai
+msgctxt "tag:v_yuusha_no_kuse_ni_namaiki_da_r:alias:1"
+msgid "v_yuusha_no_kuse_ni_namaiki_da_r"
+msgstr "勇者过分嚣张"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 2
+msgctxt "tag:v_z40m:primary"
+msgid "v_z40m"
+msgstr "v_z40m"
+
+#. danbooru-category: 1
+#. taxonomy-id: 1.artist.identity.person_artist
+#. safety: sfw
+#. post-count: 1
+msgctxt "tag:v_zhou:primary"
+msgid "v_zhou"
+msgstr "v_zhou"
