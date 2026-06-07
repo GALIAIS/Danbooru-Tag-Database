@@ -272,11 +272,20 @@ def wait_for_component(base_url: str, token: str, project_slug: str, component_s
             "result": result,
             "languages": languages,
         }
-        if result:
+        failed = False
+        if task:
+            status = str(task.get("status") or "").lower()
+            failed = status in {"failed", "failure", "error"} or bool(task.get("error"))
+        if isinstance(result, str) and result.strip():
+            failed = True
+        if failed:
             last["status"] = "failed"
             return last
         if has_units and (not task_url or (task and task.get("completed"))):
             last["status"] = "imported"
+            return last
+        if has_units:
+            last["status"] = "importing"
             return last
         time.sleep(interval)
     last["status"] = "timeout"
