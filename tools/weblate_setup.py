@@ -104,7 +104,7 @@ def ensure_project(base_url: str, token: str, *, project_slug: str, project_name
             raise exc
 
 
-def component_payload(name: str, slug: str, filemask: str, *, repo: str, priority: int, new_lang: str) -> dict[str, Any]:
+def component_payload(name: str, slug: str, filemask: str, *, repo: str, priority: int, new_lang: str, new_base: str = "") -> dict[str, Any]:
     payload: dict[str, Any] = {
         "name": name,
         "slug": slug,
@@ -113,6 +113,7 @@ def component_payload(name: str, slug: str, filemask: str, *, repo: str, priorit
         "filemask": filemask,
         "file_format": "po",
         "new_lang": new_lang,
+        "new_base": new_base,
         "language_code_style": "bcp",
         "merge_style": "rebase",
         "push_on_commit": False,
@@ -205,6 +206,7 @@ def build_components(project_slug: str, groups: list[str] | None = None, *, incl
                 repo=REPOSITORY_URL,
                 priority=60,
                 new_lang=new_lang,
+                new_base="po/taxonomy/en.po" if new_lang == "add" else "",
             )
         )
     linked_repo = f"weblate://{project_slug}/taxonomy"
@@ -218,6 +220,7 @@ def build_components(project_slug: str, groups: list[str] | None = None, *, incl
                 repo=linked_repo,
                 priority=100,
                 new_lang=new_lang,
+                new_base=f"po/tags/{group}/en.po" if new_lang == "add" else "",
             )
         )
     return components
