@@ -104,7 +104,7 @@ def ensure_project(base_url: str, token: str, *, project_slug: str, project_name
             raise exc
 
 
-def component_payload(name: str, slug: str, filemask: str, *, repo: str, priority: int) -> dict[str, Any]:
+def component_payload(name: str, slug: str, filemask: str, *, repo: str, priority: int, new_lang: str) -> dict[str, Any]:
     payload: dict[str, Any] = {
         "name": name,
         "slug": slug,
@@ -112,7 +112,7 @@ def component_payload(name: str, slug: str, filemask: str, *, repo: str, priorit
         "repo": repo,
         "filemask": filemask,
         "file_format": "po",
-        "new_lang": "none",
+        "new_lang": new_lang,
         "language_code_style": "bcp",
         "merge_style": "rebase",
         "push_on_commit": False,
@@ -194,7 +194,7 @@ def range_groups(value: str) -> list[str]:
     return TAG_GROUPS[start_index : end_index + 1]
 
 
-def build_components(project_slug: str, groups: list[str] | None = None, *, include_taxonomy: bool = True) -> list[dict[str, Any]]:
+def build_components(project_slug: str, groups: list[str] | None = None, *, include_taxonomy: bool = True, new_lang: str = "none") -> list[dict[str, Any]]:
     components = []
     if include_taxonomy:
         components.append(
@@ -204,6 +204,7 @@ def build_components(project_slug: str, groups: list[str] | None = None, *, incl
                 "po/taxonomy/*.po",
                 repo=REPOSITORY_URL,
                 priority=60,
+                new_lang=new_lang,
             )
         )
     linked_repo = f"weblate://{project_slug}/taxonomy"
@@ -216,6 +217,7 @@ def build_components(project_slug: str, groups: list[str] | None = None, *, incl
                 f"po/tags/{group}/*.po",
                 repo=linked_repo,
                 priority=100,
+                new_lang=new_lang,
             )
         )
     return components
@@ -273,6 +275,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--groups", default="", help="Comma-separated tag groups to create, for example symbols,0,1,a,b")
     parser.add_argument("--group-range", default="", help="Tag group range to create, for example 0-9 or a-f")
     parser.add_argument("--skip-taxonomy", action="store_true", help="Do not create or update the taxonomy component")
+    parser.add_argument("--new-lang", choices=["none", "add", "contact", "url"], default="none", help="Weblate setting for adding new translations")
     parser.add_argument("--pull", action="store_true", help="Pull latest Git changes into the shared Weblate repository")
     parser.add_argument("--scan", action="store_true", help="Trigger Weblate file scan after component setup")
     parser.add_argument("--wait", action="store_true", help="Wait for created components to import before exiting")
@@ -289,7 +292,7 @@ def main(argv: list[str] | None = None) -> int:
     selected_groups = groups if groups else None
     created = []
     wait_slugs = []
-    for payload in build_components(args.project_slug, selected_groups, include_taxonomy=not args.skip_taxonomy):
+    for payload in build_components(args.project_slug, selected_groups, include_taxonomy=not args.skip_taxonomy, new_lang=args.new_lang):
         component = ensure_component(args.url, token, args.project_slug, payload)
         if args.scan:
             repository_operation(args.url, token, args.project_slug, component["slug"], "file-scan")
