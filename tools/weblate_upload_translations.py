@@ -8,15 +8,13 @@ import json
 import mimetypes
 import http.client
 import os
+import re
 import time
 import uuid
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError
 from urllib.request import Request, urlopen
-
-
-TAG_GROUPS = ["_symbols", *list("0123456789"), *list("abcdefghijklmnopqrstuvwxyz")]
 
 
 def read_token(args: argparse.Namespace) -> str:
@@ -101,23 +99,31 @@ def api_multipart(base_url: str, token: str, path: str, file_path: Path, fields:
     raise RuntimeError("multipart upload retry loop exited unexpectedly")
 
 
-def parse_groups(value: str) -> list[str]:
+def discover_tag_groups(repo: Path) -> list[str]:
+    tags_dir = repo / "po" / "tags"
+    if not tags_dir.exists():
+        return []
+    return sorted(path.name for path in tags_dir.iterdir() if path.is_dir() and (path / "zh-CN.po").exists())
+
+
+def parse_groups(value: str, available: list[str]) -> list[str]:
     if not value.strip():
-        return TAG_GROUPS
+        return available
     aliases = {"symbols": "_symbols", "_": "_symbols"}
     result = []
     for raw in value.split(","):
         item = aliases.get(raw.strip(), raw.strip())
         if item:
             result.append(item)
-    invalid = [item for item in result if item not in TAG_GROUPS]
+    invalid = [item for item in result if item not in available]
     if invalid:
         raise SystemExit(f"invalid groups: {', '.join(invalid)}")
     return result
 
 
 def tag_slug(group: str) -> str:
-    return "tags-symbols" if group == "_symbols" else f"tags-{group}"
+    suffix = "symbols" if group == "_symbols" else re.sub(r"[^a-z0-9-]+", "-", group.lower()).strip("-")
+    return f"tags-{suffix}"
 
 
 def upload_component(base_url: str, token: str, project: str, slug: str, file_path: Path, *, timeout: int, retries: int) -> dict[str, Any]:
@@ -162,7 +168,7 @@ def main(argv: list[str] | None = None) -> int:
     uploads = []
     if args.include_taxonomy:
         uploads.append(("taxonomy", args.repo / "po" / "taxonomy" / "zh-CN.po"))
-    for group in parse_groups(args.groups):
+    for group in parse_groups(args.groups, discover_tag_groups(args.repo)):
         uploads.append((tag_slug(group), args.repo / "po" / "tags" / group / "zh-CN.po"))
 
     results = []

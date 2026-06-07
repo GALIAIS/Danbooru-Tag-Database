@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import io
 import json
 import re
 import shutil
@@ -19,6 +20,7 @@ NOW = lambda: datetime.now(timezone.utc).isoformat(timespec="seconds")
 HEADER_RE = re.compile(r'^(msgctxt|msgid|msgstr)\s+"(.*)"$')
 SAFE_SHARD_RE = re.compile(r"[^a-z0-9_]+")
 TAG_PO_GROUPS = ["_symbols", *list("0123456789"), *list("abcdefghijklmnopqrstuvwxyz")]
+DEFAULT_TAG_PO_MAX_BYTES = 700_000
 
 
 def normalize_label(value: str) -> str:
@@ -88,6 +90,10 @@ def tag_po_group_key(name: str) -> str:
         return "_symbols"
     first = normalized[0]
     return first if re.match(r"^[a-z0-9]$", first) else "_symbols"
+
+
+def tag_po_chunk_key(index: int) -> str:
+    return f"chunk_{index:04d}"
 
 
 def clear_dir(path: Path) -> None:
@@ -281,7 +287,7 @@ def localization_map(conn: sqlite3.Connection, locale: str, limit: int = 0) -> d
     return output
 
 
-def write_po_header(handle, *, project: str, language: str) -> None:
+def po_header_text(*, project: str, language: str) -> str:
     now = NOW()
     header_lines = [
         'msgid ""',
@@ -299,8 +305,11 @@ def write_po_header(handle, *, project: str, language: str) -> None:
         '"Generated-By: GALIAIS Danbooru textdb\\n"',
         "",
     ]
-    handle.write("\n".join(header_lines))
-    handle.write("\n")
+    return "\n".join(header_lines) + "\n"
+
+
+def write_po_header(handle, *, project: str, language: str) -> None:
+    handle.write(po_header_text(project=project, language=language))
 
 
 def write_po_entry(handle, *, context: str, msgid: str, msgstr: str, comments: list[str] | None = None) -> None:
@@ -359,9 +368,26 @@ def write_tag_po_record(
     return count
 
 
-def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, source_locale: str = "en", limit: int = 0) -> int:
-    remove_tag_po_locale(repo, locale)
-    remove_tag_po_source(repo, source_locale)
+def render_tag_po_record(
+    *,
+    tag: dict,
+    primaries: list[dict],
+    aliases: list[dict],
+    translated: bool,
+) -> tuple[str, int]:
+    handle = io.StringIO()
+    count = write_tag_po_record(handle, tag=tag, primaries=primaries, aliases=aliases, translated=translated)
+    return handle.getvalue(), count
+
+
+def export_tag_po(
+    conn: sqlite3.Connection,
+    repo: Path,
+    locale: str,
+    source_locale: str = "en",
+    limit: int = 0,
+    max_bytes: int = DEFAULT_TAG_PO_MAX_BYTES,
+) -> int:
     locs = localization_map(conn, locale, limit=limit)
     tag_sql = """
         select name, normalized_name, category, post_count, taxonomy_id, is_nsfw, safety_scope
@@ -373,34 +399,63 @@ def export_tag_po(conn: sqlite3.Connection, repo: Path, locale: str, source_loca
         tag_sql += " limit ?"
         params = (limit,)
 
-    handles = {}
-    source_handles = {}
+    max_bytes = max(64_000, int(max_bytes or DEFAULT_TAG_PO_MAX_BYTES))
+    chunk_index = 0
+    handle = None
+    source_handle = None
+    target_bytes = 0
+    source_bytes = 0
+    entries_in_chunk = 0
     count = 0
+
+    def close_chunk() -> None:
+        nonlocal handle, source_handle
+        if handle:
+            handle.close()
+            handle = None
+        if source_handle:
+            source_handle.close()
+            source_handle = None
+
+    def open_chunk() -> None:
+        nonlocal chunk_index, handle, source_handle, target_bytes, source_bytes, entries_in_chunk
+        chunk_index += 1
+        key = tag_po_chunk_key(chunk_index)
+        path = repo / "po" / "tags" / key / f"{locale}.po"
+        source_path = repo / "po" / "tags" / key / f"{source_locale}.po"
+        ensure_dir(path.parent)
+        target_header = po_header_text(project=f"GALIAIS Danbooru tags {key}", language=locale)
+        source_header = po_header_text(project=f"GALIAIS Danbooru tags {key}", language=source_locale)
+        handle = path.open("w", encoding="utf-8", newline="\n")
+        source_handle = source_path.open("w", encoding="utf-8", newline="\n")
+        handle.write(target_header)
+        source_handle.write(source_header)
+        target_bytes = len(target_header.encode("utf-8"))
+        source_bytes = len(source_header.encode("utf-8"))
+        entries_in_chunk = 0
+
     try:
+        open_chunk()
         for tag in rows(conn, tag_sql, params):
-            key = tag_po_group_key(tag["name"])
-            path = repo / "po" / "tags" / key / f"{locale}.po"
-            source_path = repo / "po" / "tags" / key / f"{source_locale}.po"
-            if key not in handles:
-                ensure_dir(path.parent)
-                handle = path.open("w", encoding="utf-8", newline="\n")
-                write_po_header(handle, project=f"GALIAIS Danbooru tags {key}", language=locale)
-                handles[key] = handle
-                source_handle = source_path.open("w", encoding="utf-8", newline="\n")
-                write_po_header(source_handle, project=f"GALIAIS Danbooru tags {key}", language=source_locale)
-                source_handles[key] = source_handle
-            handle = handles[key]
-            source_handle = source_handles[key]
             tag_locs = locs.get(tag["name"], [])
             primaries = [loc for loc in tag_locs if loc.get("kind") == "primary"]
             aliases = [loc for loc in tag_locs if loc.get("kind") == "alias"]
-            count += write_tag_po_record(handle, tag=tag, primaries=primaries, aliases=aliases, translated=True)
-            write_tag_po_record(source_handle, tag=tag, primaries=primaries, aliases=aliases, translated=False)
+            target_text, entry_count = render_tag_po_record(tag=tag, primaries=primaries, aliases=aliases, translated=True)
+            source_text, _ = render_tag_po_record(tag=tag, primaries=primaries, aliases=aliases, translated=False)
+            target_len = len(target_text.encode("utf-8"))
+            source_len = len(source_text.encode("utf-8"))
+            if entries_in_chunk and max(target_bytes + target_len, source_bytes + source_len) > max_bytes:
+                close_chunk()
+                open_chunk()
+            assert handle is not None and source_handle is not None
+            handle.write(target_text)
+            source_handle.write(source_text)
+            target_bytes += target_len
+            source_bytes += source_len
+            entries_in_chunk += entry_count
+            count += entry_count
     finally:
-        for handle in handles.values():
-            handle.close()
-        for handle in source_handles.values():
-            handle.close()
+        close_chunk()
     return count
 
 
@@ -494,17 +549,19 @@ def collect_tag_translations(repo: Path) -> dict[tuple[str, str], list[tuple[str
         return result
 
     # Current layout: po/tags/<group>/<locale>.po for Weblate components.
+    current_dirs: set[Path] = set()
     for group_dir in sorted(tags_dir.glob("*")):
-        if not group_dir.is_dir():
+        if not group_dir.is_dir() or not (group_dir / "en.po").exists():
             continue
+        current_dirs.add(group_dir.resolve())
         for path in sorted(group_dir.glob("*.po")):
-            if path.stem in TAG_PO_GROUPS or path.stem == "en":
+            if path.stem == "en":
                 continue
             collect_tag_po_file(result, path, path.stem)
 
     # Legacy layout: po/tags/<locale>/<shard>.po, kept readable for old exports.
     for locale_dir in sorted(tags_dir.glob("*")):
-        if not locale_dir.is_dir() or locale_dir.name in TAG_PO_GROUPS:
+        if not locale_dir.is_dir() or locale_dir.resolve() in current_dirs:
             continue
         for path in sorted(locale_dir.glob("*.po")):
             collect_tag_po_file(result, path, locale_dir.name)
@@ -782,9 +839,10 @@ def import_repo(repo: Path, output: Path) -> dict:
     return {"tags": tag_count, "taxonomy": taxonomy_count, "localizations": localization_count, "output": str(output)}
 
 
-def export_repo(db: Path, repo: Path, locales: list[str], limit: int = 0) -> dict:
+def export_repo(db: Path, repo: Path, locales: list[str], limit: int = 0, tag_po_max_bytes: int = DEFAULT_TAG_PO_MAX_BYTES) -> dict:
     conn = connect_ro(db)
     require_tables(conn, ["danbooru_tags", "danbooru_tag_localizations"])
+    clear_dir(repo / "po" / "tags")
     summary = {
         "tags": export_tags(conn, repo, limit=limit),
         "metadata": export_metadata(conn, repo),
@@ -793,7 +851,7 @@ def export_repo(db: Path, repo: Path, locales: list[str], limit: int = 0) -> dic
         "taxonomy_po_entries": {},
     }
     for locale in locales:
-        summary["tag_po_entries"][locale] = export_tag_po(conn, repo, locale, limit=limit)
+        summary["tag_po_entries"][locale] = export_tag_po(conn, repo, locale, limit=limit, max_bytes=tag_po_max_bytes)
         summary["taxonomy_po_entries"][locale] = export_taxonomy_po(conn, repo, locale)
     conn.close()
     return summary
@@ -849,6 +907,7 @@ def main(argv: list[str] | None = None) -> int:
     p_export.add_argument("--repo", required=True, type=Path)
     p_export.add_argument("--locales", nargs="+", default=["zh-CN"])
     p_export.add_argument("--limit", type=int, default=0, help="sample limit for fast tests")
+    p_export.add_argument("--tag-po-max-bytes", type=int, default=DEFAULT_TAG_PO_MAX_BYTES, help="maximum target size per tag PO component")
 
     p_import = sub.add_parser("import", help="build SQLite database from text repository")
     p_import.add_argument("--repo", required=True, type=Path)
@@ -859,7 +918,7 @@ def main(argv: list[str] | None = None) -> int:
 
     args = parser.parse_args(argv)
     if args.command == "export":
-        result = export_repo(args.db, args.repo, args.locales, limit=args.limit)
+        result = export_repo(args.db, args.repo, args.locales, limit=args.limit, tag_po_max_bytes=args.tag_po_max_bytes)
     elif args.command == "import":
         result = import_repo(args.repo, args.output)
     elif args.command == "validate":

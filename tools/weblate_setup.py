@@ -7,6 +7,7 @@ import argparse
 import http.client
 import json
 import os
+import re
 import sys
 import time
 from dataclasses import dataclass
@@ -21,7 +22,6 @@ DEFAULT_PROJECT_NAME = "GALIAIS Danbooru Tag Database"
 REPOSITORY_URL = "https://github.com/GALIAIS/Danbooru-Tag-Database.git"
 REPOSITORY_WEB = "https://github.com/GALIAIS/Danbooru-Tag-Database"
 REPOWEB = "https://github.com/GALIAIS/Danbooru-Tag-Database/blob/{{branch}}/{{filename}}#L{{line}}"
-TAG_GROUPS = ["_symbols", *list("0123456789"), *list("abcdefghijklmnopqrstuvwxyz")]
 
 
 @dataclass(frozen=True)
@@ -159,10 +159,18 @@ def repository_operation(base_url: str, token: str, project_slug: str, component
 
 
 def component_slug_for_group(group: str) -> str:
-    return "tags-symbols" if group == "_symbols" else f"tags-{group}"
+    suffix = "symbols" if group == "_symbols" else re.sub(r"[^a-z0-9-]+", "-", group.lower()).strip("-")
+    return f"tags-{suffix}"
 
 
-def parse_groups(value: str) -> list[str]:
+def discover_tag_groups(repo: Path) -> list[str]:
+    tags_dir = repo / "po" / "tags"
+    if not tags_dir.exists():
+        return []
+    return sorted(path.name for path in tags_dir.iterdir() if path.is_dir() and (path / "en.po").exists())
+
+
+def parse_groups(value: str, available: list[str]) -> list[str]:
     if not value.strip():
         return []
     aliases = {"symbols": "_symbols", "_": "_symbols"}
@@ -171,31 +179,38 @@ def parse_groups(value: str) -> list[str]:
         item = aliases.get(raw.strip(), raw.strip())
         if item:
             result.append(item)
-    invalid = [item for item in result if item not in TAG_GROUPS]
+    invalid = [item for item in result if item not in available]
     if invalid:
         raise SystemExit(f"invalid groups: {', '.join(invalid)}")
     return result
 
 
-def range_groups(value: str) -> list[str]:
+def range_groups(value: str, available: list[str]) -> list[str]:
     if not value.strip():
         return []
     start, _, end = value.partition("-")
     if not end:
-        return parse_groups(value)
+        return parse_groups(value, available)
     aliases = {"symbols": "_symbols", "_": "_symbols"}
     start = aliases.get(start.strip(), start.strip())
     end = aliases.get(end.strip(), end.strip())
-    if start not in TAG_GROUPS or end not in TAG_GROUPS:
+    if start not in available or end not in available:
         raise SystemExit(f"invalid group range: {value}")
-    start_index = TAG_GROUPS.index(start)
-    end_index = TAG_GROUPS.index(end)
+    start_index = available.index(start)
+    end_index = available.index(end)
     if start_index > end_index:
         raise SystemExit(f"invalid descending group range: {value}")
-    return TAG_GROUPS[start_index : end_index + 1]
+    return available[start_index : end_index + 1]
 
 
-def build_components(project_slug: str, groups: list[str] | None = None, *, include_taxonomy: bool = True, new_lang: str = "none") -> list[dict[str, Any]]:
+def build_components(
+    project_slug: str,
+    groups: list[str] | None = None,
+    *,
+    include_taxonomy: bool = True,
+    new_lang: str = "none",
+    repo_path: Path = Path("."),
+) -> list[dict[str, Any]]:
     components = []
     if include_taxonomy:
         components.append(
@@ -210,12 +225,12 @@ def build_components(project_slug: str, groups: list[str] | None = None, *, incl
             )
         )
     linked_repo = f"weblate://{project_slug}/taxonomy"
-    for group in groups if groups is not None else TAG_GROUPS:
-        suffix = "symbols" if group == "_symbols" else group
+    tag_groups = groups if groups is not None else discover_tag_groups(repo_path)
+    for group in tag_groups:
         components.append(
             component_payload(
                 f"Tags {group}",
-                f"tags-{suffix}",
+                component_slug_for_group(group),
                 f"po/tags/{group}/*.po",
                 repo=linked_repo,
                 priority=100,
@@ -275,6 +290,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--token", help="Weblate API token")
     parser.add_argument("--project-slug", default=DEFAULT_PROJECT_SLUG, help="Weblate project slug")
     parser.add_argument("--project-name", default=DEFAULT_PROJECT_NAME, help="Weblate project display name")
+    parser.add_argument("--repo", type=Path, default=Path("."), help="Local repository path used to discover tag PO groups")
     parser.add_argument("--groups", default="", help="Comma-separated tag groups to create, for example symbols,0,1,a,b")
     parser.add_argument("--group-range", default="", help="Tag group range to create, for example 0-9 or a-f")
     parser.add_argument("--skip-taxonomy", action="store_true", help="Do not create or update the taxonomy component")
@@ -290,12 +306,19 @@ def main(argv: list[str] | None = None) -> int:
     project = ensure_project(args.url, token, project_slug=args.project_slug, project_name=args.project_name)
     if args.pull:
         repository_operation(args.url, token, args.project_slug, "taxonomy", "pull")
-    groups = parse_groups(args.groups)
-    groups.extend(group for group in range_groups(args.group_range) if group not in groups)
+    available_groups = discover_tag_groups(args.repo)
+    groups = parse_groups(args.groups, available_groups)
+    groups.extend(group for group in range_groups(args.group_range, available_groups) if group not in groups)
     selected_groups = groups if groups else None
     created = []
     wait_slugs = []
-    for payload in build_components(args.project_slug, selected_groups, include_taxonomy=not args.skip_taxonomy, new_lang=args.new_lang):
+    for payload in build_components(
+        args.project_slug,
+        selected_groups,
+        include_taxonomy=not args.skip_taxonomy,
+        new_lang=args.new_lang,
+        repo_path=args.repo,
+    ):
         component = ensure_component(args.url, token, args.project_slug, payload)
         if args.scan:
             repository_operation(args.url, token, args.project_slug, component["slug"], "file-scan")

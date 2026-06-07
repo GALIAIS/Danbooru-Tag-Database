@@ -8,7 +8,7 @@ plain text files:
 - `data/tags/*.jsonl`: tag metadata, taxonomy assignment, safety flags, counts.
 - `data/taxonomy/taxonomy.jsonl`: taxonomy nodes and prompt selection metadata.
 - `po/**/en.po`: Weblate source-language PO files.
-- `po/tags/<group>/<locale>.po`: Weblate-managed tag translations.
+- `po/tags/chunk_####/<locale>.po`: Weblate-managed tag translations, split into small PO components for stable upload.
 - `po/taxonomy/<locale>.po`: Weblate-managed taxonomy labels and descriptions.
 
 Use `tools/danbooru_textdb.py` to export from SQLite, validate the text tree,
@@ -30,7 +30,8 @@ Full export:
 python tools/danbooru_textdb.py export `
   --db E:\WorkSpace\ComfyUI-Tools\danbooru-dictionary.next.db `
   --repo . `
-  --locales zh-CN
+  --locales zh-CN `
+  --tag-po-max-bytes 700000
 ```
 
 Rebuild SQLite:
