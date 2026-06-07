@@ -157,18 +157,57 @@ def repository_operation(base_url: str, token: str, project_slug: str, component
     )
 
 
-def build_components(project_slug: str) -> list[dict[str, Any]]:
-    components = [
-        component_payload(
-            "Taxonomy",
-            "taxonomy",
-            "po/taxonomy/*.po",
-            repo=REPOSITORY_URL,
-            priority=60,
-        ),
-    ]
+def component_slug_for_group(group: str) -> str:
+    return "tags-symbols" if group == "_symbols" else f"tags-{group}"
+
+
+def parse_groups(value: str) -> list[str]:
+    if not value.strip():
+        return []
+    aliases = {"symbols": "_symbols", "_": "_symbols"}
+    result = []
+    for raw in value.split(","):
+        item = aliases.get(raw.strip(), raw.strip())
+        if item:
+            result.append(item)
+    invalid = [item for item in result if item not in TAG_GROUPS]
+    if invalid:
+        raise SystemExit(f"invalid groups: {', '.join(invalid)}")
+    return result
+
+
+def range_groups(value: str) -> list[str]:
+    if not value.strip():
+        return []
+    start, _, end = value.partition("-")
+    if not end:
+        return parse_groups(value)
+    aliases = {"symbols": "_symbols", "_": "_symbols"}
+    start = aliases.get(start.strip(), start.strip())
+    end = aliases.get(end.strip(), end.strip())
+    if start not in TAG_GROUPS or end not in TAG_GROUPS:
+        raise SystemExit(f"invalid group range: {value}")
+    start_index = TAG_GROUPS.index(start)
+    end_index = TAG_GROUPS.index(end)
+    if start_index > end_index:
+        raise SystemExit(f"invalid descending group range: {value}")
+    return TAG_GROUPS[start_index : end_index + 1]
+
+
+def build_components(project_slug: str, groups: list[str] | None = None, *, include_taxonomy: bool = True) -> list[dict[str, Any]]:
+    components = []
+    if include_taxonomy:
+        components.append(
+            component_payload(
+                "Taxonomy",
+                "taxonomy",
+                "po/taxonomy/*.po",
+                repo=REPOSITORY_URL,
+                priority=60,
+            )
+        )
     linked_repo = f"weblate://{project_slug}/taxonomy"
-    for group in TAG_GROUPS:
+    for group in groups if groups is not None else TAG_GROUPS:
         suffix = "symbols" if group == "_symbols" else group
         components.append(
             component_payload(
@@ -182,6 +221,48 @@ def build_components(project_slug: str) -> list[dict[str, Any]]:
     return components
 
 
+def task_state(base_url: str, token: str, task_url: str) -> dict[str, Any]:
+    marker = "/api/tasks/"
+    index = task_url.find(marker)
+    path = task_url[index:] if index >= 0 else task_url
+    return api_request(base_url, token, "GET", path, retries=1)
+
+
+def component_translations(base_url: str, token: str, project_slug: str, component_slug: str) -> list[dict[str, Any]]:
+    data = api_request(base_url, token, "GET", f"/api/components/{project_slug}/{component_slug}/translations/?page_size=20", retries=1)
+    return list(data.get("results") or [])
+
+
+def wait_for_component(base_url: str, token: str, project_slug: str, component_slug: str, *, max_wait: int, interval: int) -> dict[str, Any]:
+    deadline = time.monotonic() + max_wait
+    last: dict[str, Any] = {"slug": component_slug, "status": "pending"}
+    while time.monotonic() < deadline:
+        component = api_request(base_url, token, "GET", f"/api/components/{project_slug}/{component_slug}/", retries=1)
+        task_url = component.get("task_url")
+        task = task_state(base_url, token, task_url) if task_url else None
+        translations = component_translations(base_url, token, project_slug, component_slug)
+        languages = {item.get("language_code"): int(item.get("total") or 0) for item in translations}
+        result = task.get("result") if task else None
+        has_units = any(total > 0 for total in languages.values())
+        last = {
+            "slug": component_slug,
+            "task": bool(task_url),
+            "completed": task.get("completed") if task else None,
+            "progress": task.get("progress") if task else None,
+            "result": result,
+            "languages": languages,
+        }
+        if result:
+            last["status"] = "failed"
+            return last
+        if has_units and (not task_url or (task and task.get("completed"))):
+            last["status"] = "imported"
+            return last
+        time.sleep(interval)
+    last["status"] = "timeout"
+    return last
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--url", required=True, help="Weblate base URL, for example https://l10n.galiais.org")
@@ -189,16 +270,26 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--token", help="Weblate API token")
     parser.add_argument("--project-slug", default=DEFAULT_PROJECT_SLUG, help="Weblate project slug")
     parser.add_argument("--project-name", default=DEFAULT_PROJECT_NAME, help="Weblate project display name")
+    parser.add_argument("--groups", default="", help="Comma-separated tag groups to create, for example symbols,0,1,a,b")
+    parser.add_argument("--group-range", default="", help="Tag group range to create, for example 0-9 or a-f")
+    parser.add_argument("--skip-taxonomy", action="store_true", help="Do not create or update the taxonomy component")
     parser.add_argument("--pull", action="store_true", help="Pull latest Git changes into the shared Weblate repository")
     parser.add_argument("--scan", action="store_true", help="Trigger Weblate file scan after component setup")
+    parser.add_argument("--wait", action="store_true", help="Wait for created components to import before exiting")
+    parser.add_argument("--max-wait", type=int, default=900, help="Maximum seconds to wait per component")
+    parser.add_argument("--wait-interval", type=int, default=20, help="Polling interval in seconds")
     args = parser.parse_args(argv)
 
     token = read_token(args)
     project = ensure_project(args.url, token, project_slug=args.project_slug, project_name=args.project_name)
     if args.pull:
         repository_operation(args.url, token, args.project_slug, "taxonomy", "pull")
+    groups = parse_groups(args.groups)
+    groups.extend(group for group in range_groups(args.group_range) if group not in groups)
+    selected_groups = groups if groups else None
     created = []
-    for payload in build_components(args.project_slug):
+    wait_slugs = []
+    for payload in build_components(args.project_slug, selected_groups, include_taxonomy=not args.skip_taxonomy):
         component = ensure_component(args.url, token, args.project_slug, payload)
         if args.scan:
             repository_operation(args.url, token, args.project_slug, component["slug"], "file-scan")
@@ -210,8 +301,23 @@ def main(argv: list[str] | None = None) -> int:
             }
         )
         print(json.dumps(created[-1], ensure_ascii=False), flush=True)
+        wait_slugs.append(component["slug"])
 
-    print(json.dumps({"project": project["slug"], "components": len(created)}, ensure_ascii=False, indent=2))
+    wait_results = []
+    if args.wait:
+        for slug in wait_slugs:
+            result = wait_for_component(
+                args.url,
+                token,
+                args.project_slug,
+                slug,
+                max_wait=args.max_wait,
+                interval=args.wait_interval,
+            )
+            wait_results.append(result)
+            print(json.dumps(result, ensure_ascii=False), flush=True)
+
+    print(json.dumps({"project": project["slug"], "components": len(created), "wait": wait_results}, ensure_ascii=False, indent=2))
     return 0
 
 
